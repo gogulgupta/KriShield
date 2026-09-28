@@ -1,0 +1,36 @@
+{
+  "classes": [
+    "Arhar",
+    "Bajra",
+    "Cotton",
+    "Cucumber",
+    "Fodder",
+    "Maize",
+    "Masoor",
+    "Matar",
+    "Moongfali",
+    "Potato",
+    "Rice",
+    "Soybean",
+    "Urad",
+    "Watermelon",
+    "Wheat"
+  ],
+  "class_to_idx": {
+    "Arhar": 0,
+    "Bajra": 1,
+    "Cotton": 2,
+    "Cucumber": 3,
+    "Fodder": 4,
+    "Maize": 5,
+    "Masoor": 6,
+    "Matar": 7,
+    "Moongfali": 8,
+    "Potato": 9,
+    "Rice": 10,
+    "Soybean": 11,
+    "Urad": 12,
+    "Watermelon": 13,
+    "Wheat": 14
+  }
+}

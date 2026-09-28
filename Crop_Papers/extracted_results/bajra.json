@@ -1,0 +1,746 @@
+{
+  "crop": "Pearl millet (Bajra)",
+  "paper_information": {
+    "title": "Pearl millet (Bajra): Common diseases",
+    "authors": [
+      "Ramji Singh",
+      "Ajay Tomer",
+      "Sonam Singh Chandel",
+      "Moraj Dhwaj",
+      "Singh Chauhan"
+    ],
+    "year": "2021",
+    "journal_or_source": "Diseases of Nationally Important Field Crops (2021): 189-200",
+    "doi_or_identifier": "",
+    "abstract_summary": "This chapter discusses the etiology, epidemiology, and management practices of important pearl millet diseases such as smut, rust, leaf spot, bacterial, and viral diseases to disseminate knowledge for proper understanding and management.",
+    "research_objective": "To discuss the etiology, epidemiology, and management practices of important pearl millet diseases such as smut, rust, leaf spot, bacterial, and viral diseases.",
+    "study_area": "India",
+    "important_findings": [
+      "Smut and green ear diseases are more damaging due to direct effects on grain yields and forage quality.",
+      "Smut disease is caused by Tolyposporium penicillariae and causes 5-30% yield loss in the field.",
+      "Host-plant resistance provides the most economic and environment-friendly method of managing millet diseases."
+    ]
+  },
+  "diseases": [
+    {
+      "disease_name": "Smut",
+      "alternative_names": [
+        "Pearl millet smut"
+      ],
+      "disease_type": "Fungal disease",
+      "causal_agent": "Tolyposporium penicillariae (=Moesziomyces penicillariae) Brefon",
+      "pathogen_type": "Fungus",
+      "affected_plant_parts": [
+        "flower parts",
+        "ovaries",
+        "inflorescence"
+      ],
+      "symptoms": {
+        "general": [
+          "Ovaries in the inflorescence get converted into black powdery mass (sori) in diseased flowers.",
+          "Sori found in common grain position protruding outside between the glumes.",
+          "Seed gets replaced with fine grained black spores.",
+          "Sori are covered by a thin slimy layer which get ruptured to deliver spores at maturity."
+        ],
+        "early_symptoms": [
+          "In the initial stages sori appears to be shiny green in colour that slowly converted into brown to black at ripening."
+        ],
+        "advanced_symptoms": [
+          "Sori generally bigger in size (3-4 mm lengthy and 2-3 mm wide) than the seed (1-2mm)."
+        ],
+        "visual_field_symptoms": [
+          "Black powdery mass replacing grains in panicles."
+        ]
+      },
+      "identification": {
+        "field_identification": [
+          "Ovaries converted into black powdery mass (sori) protruding between the glumes."
+        ],
+        "diagnostic_methods": [],
+        "differential_diagnosis": []
+      },
+      "causes_and_risk_factors": [
+        "Use of severely infected grains for sowing",
+        "Presence of teleutospores in soil"
+      ],
+      "favorable_conditions": {
+        "temperature": "30 °C is favourable for germination of teleutospore",
+        "humidity": "",
+        "rainfall": "",
+        "soil_conditions": "",
+        "other_conditions": []
+      },
+      "disease_development_and_spread": [
+        "Pathogen survives as teleutospore along with infected seeds or in soil.",
+        "Primary infection takes place when severely infected grains are used for sowing and air-borne sporidia cause infection.",
+        "Infection of floral part takes place during flowering.",
+        "It takes 14 days to produce spore after inoculation and sori get ripened within 21 to 28 days."
+      ],
+      "epidemiology": [],
+      "severity_and_yield_loss": [
+        "Responsible for 5-30% yield loss in the field.",
+        "Severe outbreak causing heavy losses in grain yield/production noticed when commercial F1 hybrids were used."
+      ],
+      "management": {
+        "cultural_management": [
+          "Deep summer ploughing to incorporate spores deep into the soil.",
+          "Inter-cropping with mung bean.",
+          "Removal of crop residues and deep summer ploughing or crop rotation with non-host plants to reduce soil-borne inoculum."
+        ],
+        "biological_management": [
+          "Use Trichoderma virens (6g/kg seeds) and raw cow milk or raw goat milk (about 18h 50% dilution with water) as seed treatment and treat soil with T. virens (10g/m2)."
+        ],
+        "chemical_management": [
+          {
+            "active_ingredient_or_product": "Sulphur",
+            "dose": "4g/kg seed",
+            "concentration": "",
+            "application_method": "Seed dressing",
+            "timing": "",
+            "number_of_applications": "",
+            "result_reported_in_paper": ""
+          },
+          {
+            "active_ingredient_or_product": "Zineb, Captatol and Heptaene",
+            "dose": "",
+            "concentration": "",
+            "application_method": "",
+            "timing": "",
+            "number_of_applications": "four-time application",
+            "result_reported_in_paper": "Successfully controlled smut"
+          }
+        ],
+        "integrated_management": []
+      },
+      "resistant_or_tolerant_varieties": [],
+      "susceptible_varieties": [],
+      "prevention": [
+        "Practice clean cultivation like collecting smutted heads in cloth bags and dipping in boiling water."
+      ],
+      "farmer_action_points": [
+        "Collect smutted heads in cloth bags and dip in boiling water to kill the pathogen and reduce inoculum."
+      ],
+      "warnings_and_limitations": [],
+      "research_findings": [
+        "Thiram resulted in good inhibition of the fungus in vitro.",
+        "Vitavax and Plantvax effectively suppressed smut."
+      ],
+      "source_pages": [
+        "190",
+        "191",
+        "192",
+        "198",
+        "199"
+      ]
+    },
+    {
+      "disease_name": "Rust",
+      "alternative_names": [
+        "Pearl millet rust"
+      ],
+      "disease_type": "Fungal disease",
+      "causal_agent": "Puccinia penniseti Zimm. (P. substriata var. indica)",
+      "pathogen_type": "Fungus",
+      "affected_plant_parts": [
+        "leaves",
+        "stem",
+        "other plant parts"
+      ],
+      "symptoms": {
+        "general": [
+          "Round to elliptical reddish-orange pustule on the leaf.",
+          "Distal half of the leaf is infected first and then pustules spread over both the surfaces.",
+          "Mature pustules rupture and release rusty spores.",
+          "Severely rusted plants look reddish-brown."
+        ],
+        "early_symptoms": [
+          "Initial symptoms appear as uredinia pustules with circular and reddish-brown to reddish orange coloured uredospores."
+        ],
+        "advanced_symptoms": [
+          "At the later stages, telia replaces uredinia which is black, ovoid, and subepidermal.",
+          "Leaves get wilted from top to bottom.",
+          "More rust pustules can appear on stems and plants will fall down if disease incidence is higher."
+        ],
+        "visual_field_symptoms": [
+          "Reddish-brown to reddish-orange pustules on leaves, severe plants looking reddish-brown."
+        ]
+      },
+      "identification": {
+        "field_identification": [
+          "Round to elliptical reddish-orange pustules on leaves releasing rusty spores."
+        ],
+        "diagnostic_methods": [],
+        "differential_diagnosis": []
+      },
+      "causes_and_risk_factors": [
+        "Alternate host (brinjal, grasses)",
+        "Air-borne spores"
+      ],
+      "favorable_conditions": {
+        "temperature": "Low temperature of 10 to 12 °C required for teliospore germination",
+        "humidity": "",
+        "rainfall": "Spell of rainy weather is very favourable for occurrence of disease",
+        "soil_conditions": "",
+        "other_conditions": []
+      },
+      "disease_development_and_spread": [
+        "Pathogen survives on alternate host (brinjal, grasses).",
+        "Secondary spread takes place by air-borne spores."
+      ],
+      "epidemiology": [],
+      "severity_and_yield_loss": [
+        "Appears in later stage of crop growth, usually at seed developing stage after grain-filling, thus causing little loss in grain yield."
+      ],
+      "management": {
+        "cultural_management": [],
+        "biological_management": [
+          "Biocontrol agents, Aspergillus globosum, Chaetomium globosum and Trichoderma koningii can be used for biological control via seed bio priming, soil application, or foliar spray."
+        ],
+        "chemical_management": [
+          {
+            "active_ingredient_or_product": "Mancozeb",
+            "dose": "",
+            "concentration": "0.2%",
+            "application_method": "Foliar spray",
+            "timing": "",
+            "number_of_applications": "",
+            "result_reported_in_paper": "Effectively controls the rust"
+          },
+          {
+            "active_ingredient_or_product": "Hexaconazole",
+            "dose": "",
+            "concentration": "0.1%",
+            "application_method": "",
+            "timing": "",
+            "number_of_applications": "",
+            "result_reported_in_paper": "Found most effective among tested fungicides"
+          }
+        ],
+        "integrated_management": []
+      },
+      "resistant_or_tolerant_varieties": [
+        "ICML 11 (land race from Chad, identified as rust resistant)"
+      ],
+      "susceptible_varieties": [],
+      "prevention": [
+        "Timely removal of alternate hosts (brinjal, grasses)."
+      ],
+      "farmer_action_points": [],
+      "warnings_and_limitations": [],
+      "research_findings": [
+        "Triadimefon, Hexaconazole and Propiconazole tested for management; Hexaconazole @ 0.1% found most effective.",
+        "Trichoderma spp. found very effective in controlling the disease."
+      ],
+      "source_pages": [
+        "192",
+        "193",
+        "199"
+      ]
+    },
+    {
+      "disease_name": "Helminthosporium leaf spot",
+      "alternative_names": [
+        "Bipolaris leaf spot of pearl millet"
+      ],
+      "disease_type": "Fungal disease",
+      "causal_agent": "Bipolaris setariae",
+      "pathogen_type": "Fungus",
+      "affected_plant_parts": [
+        "leaves",
+        "seedlings"
+      ],
+      "symptoms": {
+        "general": [
+          "Small, brown flecks or oval to oblong or rectangular spots on leaves.",
+          "Lesions may expand and coalesce.",
+          "Lesions usually are tan or greyish brown with a more or less distinct dark brown border."
+        ],
+        "early_symptoms": [
+          "Early infection may cause seedling blight."
+        ],
+        "advanced_symptoms": [],
+        "visual_field_symptoms": [
+          "Tan or greyish brown lesions with dark brown borders on leaves."
+        ]
+      },
+      "identification": {
+        "field_identification": [
+          "Oval, oblong or rectangular spots with tan or greyish brown centres and dark brown borders on leaves."
+        ],
+        "diagnostic_methods": [],
+        "differential_diagnosis": []
+      },
+      "causes_and_risk_factors": [
+        "Pathogen survives on crop residues, stray crops, collateral hosts and seed-borne."
+      ],
+      "favorable_conditions": {
+        "temperature": "",
+        "humidity": "",
+        "rainfall": "",
+        "soil_conditions": "",
+        "other_conditions": []
+      },
+      "disease_development_and_spread": [
+        "Pathogen survives on crop residues, stray crops, collateral hosts and a few may be seed-borne.",
+        "Secondary spread takes place with the help of air-borne conidia."
+      ],
+      "epidemiology": [],
+      "severity_and_yield_loss": [
+        "Generally appears in the later stage of the crop when grain filling is almost over, thus of lesser economic importance, though severe loss may occur at early stage."
+      ],
+      "management": {
+        "cultural_management": [],
+        "biological_management": [],
+        "chemical_management": [],
+        "integrated_management": []
+      },
+      "resistant_or_tolerant_varieties": [],
+      "susceptible_varieties": [],
+      "prevention": [],
+      "farmer_action_points": [],
+      "warnings_and_limitations": [],
+      "research_findings": [],
+      "source_pages": [
+        "193",
+        "194"
+      ]
+    },
+    {
+      "disease_name": "Cercospora leaf spot",
+      "alternative_names": [],
+      "disease_type": "Fungal disease",
+      "causal_agent": "Cercospora penniseti",
+      "pathogen_type": "Fungus",
+      "affected_plant_parts": [
+        "leaves",
+        "stems"
+      ],
+      "symptoms": {
+        "general": [
+          "Oval lesion with dark brown margins and pale tan to grey or white centres, dotted with rows of black conidiophores.",
+          "Lesions can be formed on stems also."
+        ],
+        "early_symptoms": [],
+        "advanced_symptoms": [],
+        "visual_field_symptoms": [
+          "Oval lesions with dark brown margins and pale grey/white centres with black dots on leaves and stems."
+        ]
+      },
+      "identification": {
+        "field_identification": [
+          "Oval lesions with dark margins and pale centres containing rows of black conidiophores."
+        ],
+        "diagnostic_methods": [],
+        "differential_diagnosis": []
+      },
+      "causes_and_risk_factors": [
+        "Pathogen survives on crop residues, stray crops, collateral hosts and seed."
+      ],
+      "favorable_conditions": {
+        "temperature": "",
+        "humidity": "",
+        "rainfall": "",
+        "soil_conditions": "",
+        "other_conditions": []
+      },
+      "disease_development_and_spread": [
+        "Pathogen survives on crop residues, stray crops, collateral hosts and seed.",
+        "Secondary spread takes place by air-borne spore."
+      ],
+      "epidemiology": [],
+      "severity_and_yield_loss": [
+        "Appears in the later stage of the crop when grain filling is almost over, thus of lesser economic importance."
+      ],
+      "management": {
+        "cultural_management": [],
+        "biological_management": [],
+        "chemical_management": [],
+        "integrated_management": []
+      },
+      "resistant_or_tolerant_varieties": [],
+      "susceptible_varieties": [],
+      "prevention": [],
+      "farmer_action_points": [],
+      "warnings_and_limitations": [],
+      "research_findings": [],
+      "source_pages": [
+        "194",
+        "195"
+      ]
+    },
+    {
+      "disease_name": "Bacterial leaf spot",
+      "alternative_names": [],
+      "disease_type": "Bacterial disease",
+      "causal_agent": "Pseudomonas syringae",
+      "pathogen_type": "Bacterium",
+      "affected_plant_parts": [
+        "leaves",
+        "peduncle"
+      ],
+      "symptoms": {
+        "general": [
+          "Small, elliptical or irregular shaped spots with straw colour centre and dark margin.",
+          "Spots coalesce to form large bands.",
+          "In advanced stage, the leaf splits along the streak giving a shredded appearance.",
+          "Characteristic streaks may be found on the peduncle."
+        ],
+        "early_symptoms": [
+          "In the beginning, spots are light yellowish brown, but soon become dark brown."
+        ],
+        "advanced_symptoms": [
+          "Leaf splits along the streak giving a shredded appearance."
+        ],
+        "visual_field_symptoms": [
+          "Elliptical/irregular spots with straw-coloured centres and dark margins, leaf shredding in advanced stages."
+        ]
+      },
+      "identification": {
+        "field_identification": [
+          "Spots with straw-coloured centres and dark margins, coalescing into bands and causing leaf shredding."
+        ],
+        "diagnostic_methods": [],
+        "differential_diagnosis": []
+      },
+      "causes_and_risk_factors": [
+        "Pathogen survives on crop residues in soil."
+      ],
+      "favorable_conditions": {
+        "temperature": "Temperature range around 12 - 25 °C is most optimum",
+        "humidity": "Wet condition",
+        "rainfall": "",
+        "soil_conditions": "",
+        "other_conditions": [
+          "Cool conditions"
+        ]
+      },
+      "disease_development_and_spread": [
+        "Pathogen survives on crop residues in soil.",
+        "Secondary spread takes place through rain-splash."
+      ],
+      "epidemiology": [],
+      "severity_and_yield_loss": [],
+      "management": {
+        "cultural_management": [],
+        "biological_management": [],
+        "chemical_management": [],
+        "integrated_management": []
+      },
+      "resistant_or_tolerant_varieties": [],
+      "susceptible_varieties": [],
+      "prevention": [],
+      "farmer_action_points": [],
+      "warnings_and_limitations": [],
+      "research_findings": [],
+      "source_pages": [
+        "195",
+        "196"
+      ]
+    },
+    {
+      "disease_name": "Bacterial leaf stripe",
+      "alternative_names": [],
+      "disease_type": "Bacterial disease",
+      "causal_agent": "Pseudomonas avenae",
+      "pathogen_type": "Bacterium",
+      "affected_plant_parts": [
+        "leaves",
+        "lamina",
+        "midrib",
+        "culms",
+        "leaf sheath"
+      ],
+      "symptoms": {
+        "general": [
+          "Typical water-soaked, reddish-brown stripes development on seedling leaves.",
+          "Affected portion of lamina involves midrib and appears straw coloured.",
+          "Infected culms show a light brown discoloration along one side (mostly 5-7 cm above base extending to leaf sheath)."
+        ],
+        "early_symptoms": [],
+        "advanced_symptoms": [
+          "Symptom spreads to about three-fourths the lamina and then abruptly stops or reaches leaf tip."
+        ],
+        "visual_field_symptoms": [
+          "Water-soaked, reddish-brown stripes on leaves and light brown discoloration on culms."
+        ]
+      },
+      "identification": {
+        "field_identification": [
+          "Water-soaked, reddish-brown stripes on leaves involving the midrib."
+        ],
+        "diagnostic_methods": [],
+        "differential_diagnosis": []
+      },
+      "causes_and_risk_factors": [
+        "Pathogen survives on crop residues in soil."
+      ],
+      "favorable_conditions": {
+        "temperature": "",
+        "humidity": "",
+        "rainfall": "",
+        "soil_conditions": "",
+        "other_conditions": []
+      },
+      "disease_development_and_spread": [
+        "Pathogen survives on crop residues in soil.",
+        "Secondary spread of disease may take place through rain-splash."
+      ],
+      "epidemiology": [],
+      "severity_and_yield_loss": [],
+      "management": {
+        "cultural_management": [],
+        "biological_management": [],
+        "chemical_management": [],
+        "integrated_management": []
+      },
+      "resistant_or_tolerant_varieties": [],
+      "susceptible_varieties": [],
+      "prevention": [],
+      "farmer_action_points": [],
+      "warnings_and_limitations": [],
+      "research_findings": [],
+      "source_pages": [
+        "196"
+      ]
+    },
+    {
+      "disease_name": "Bacterial leaf streak",
+      "alternative_names": [],
+      "disease_type": "Bacterial disease",
+      "causal_agent": "Xanthomonas axonopodis pv. pennamericanu",
+      "pathogen_type": "Bacterium",
+      "affected_plant_parts": [
+        "leaves",
+        "leaf blade",
+        "seedling"
+      ],
+      "symptoms": {
+        "general": [
+          "Narrow, water-soaked, transparent leaf streaks (2-3 mm wide, 2-15 mm long) appearing as early as second leaf stage.",
+          "Abundant bacterial exudates produced as light-yellow droplets, drying to thin white or cream scales."
+        ],
+        "early_symptoms": [
+          "First symptoms are narrow, water-soaked, transparent leaf streaks."
+        ],
+        "advanced_symptoms": [
+          "Lesions soon turn red, become opaque, and broaden into irregularly shaped oval spots with tan centres and narrow red margins.",
+          "Lesions coalesce to form long irregular streaks and blotches extending across leaf blade with dead tissue bordered by narrow dark margins."
+        ],
+        "visual_field_symptoms": [
+          "Water-soaked transparent streaks turning red/opaque, coalescing into blotches with light-yellow bacterial exudates."
+        ]
+      },
+      "identification": {
+        "field_identification": [
+          "Water-soaked streaks turning red/opaque with tan centres and light-yellow bacterial exudates."
+        ],
+        "diagnostic_methods": [],
+        "differential_diagnosis": []
+      },
+      "causes_and_risk_factors": [
+        "Pathogen survives on crop residues in soil."
+      ],
+      "favorable_conditions": {
+        "temperature": "Temperature between 26 and 30 °C is most favourable",
+        "humidity": "Warm weather conditions during spring time",
+        "rainfall": "",
+        "soil_conditions": "",
+        "other_conditions": []
+      },
+      "disease_development_and_spread": [
+        "Pathogen survives on crop residues in soil.",
+        "Secondary spread through rain-splash."
+      ],
+      "epidemiology": [
+        "Becomes more severe during spring time under warm weather conditions and less serious during hot and dry summer months."
+      ],
+      "severity_and_yield_loss": [],
+      "management": {
+        "cultural_management": [],
+        "biological_management": [],
+        "chemical_management": [],
+        "integrated_management": []
+      },
+      "resistant_or_tolerant_varieties": [],
+      "susceptible_varieties": [],
+      "prevention": [],
+      "farmer_action_points": [],
+      "warnings_and_limitations": [],
+      "research_findings": [],
+      "source_pages": [
+        "196"
+      ]
+    },
+    {
+      "disease_name": "Maize streak virus",
+      "alternative_names": [
+        "Maize streak disease of pearl millet"
+      ],
+      "disease_type": "Viral disease",
+      "causal_agent": "Maize streak virus",
+      "pathogen_type": "Virus",
+      "affected_plant_parts": [
+        "leaves",
+        "ear head"
+      ],
+      "symptoms": {
+        "general": [
+          "Stunting of the plant.",
+          "Early infected plants die sooner or later without emergence of the ear head.",
+          "Plants infected at later stages may develop ear head with or without grain."
+        ],
+        "early_symptoms": [
+          "Fine, discontinuous, chlorotic streaks between the leaf veins."
+        ],
+        "advanced_symptoms": [
+          "Lesions become necrotic as the disease progresses."
+        ],
+        "visual_field_symptoms": [
+          "Fine discontinuous chlorotic streaks between leaf veins and plant stunting."
+        ]
+      },
+      "identification": {
+        "field_identification": [
+          "Fine chlorotic streaks between leaf veins and plant stunting."
+        ],
+        "diagnostic_methods": [],
+        "differential_diagnosis": [
+          "In case of infection of multiple viruses, symptoms may vary and create confusion for identification at field level."
+        ]
+      },
+      "causes_and_risk_factors": [
+        "Transmitted through plant hoppers, Peregrinus maidis"
+      ],
+      "favorable_conditions": {
+        "temperature": "",
+        "humidity": "",
+        "rainfall": "",
+        "soil_conditions": "",
+        "other_conditions": []
+      },
+      "disease_development_and_spread": [
+        "Transmitted through plant hoppers, Peregrinus maidis."
+      ],
+      "epidemiology": [],
+      "severity_and_yield_loss": [
+        "Early infected plants die sooner or later without ear head emergence."
+      ],
+      "management": {
+        "cultural_management": [],
+        "biological_management": [],
+        "chemical_management": [
+          {
+            "active_ingredient_or_product": "Imidacloprid",
+            "dose": "1.5 ml/L",
+            "concentration": "",
+            "application_method": "Spraying",
+            "timing": "",
+            "number_of_applications": "",
+            "result_reported_in_paper": "Effectively reduce population of leaf hoppers and decrease incidence of viral disease"
+          },
+          {
+            "active_ingredient_or_product": "Methyl demeton 25 EC",
+            "dose": "500 ml/ha",
+            "concentration": "",
+            "application_method": "Spraying",
+            "timing": "On noticing symptoms",
+            "number_of_applications": "Repeat twice if necessary",
+            "result_reported_in_paper": "Control of insect vectors"
+          }
+        ],
+        "integrated_management": []
+      },
+      "resistant_or_tolerant_varieties": [],
+      "susceptible_varieties": [],
+      "prevention": [],
+      "farmer_action_points": [
+        "Manage insect vectors as insects act as vectors for viruses."
+      ],
+      "warnings_and_limitations": [],
+      "research_findings": [],
+      "source_pages": [
+        "196",
+        "197"
+      ]
+    },
+    {
+      "disease_name": "Maize dwarf mosaic virus",
+      "alternative_names": [
+        "Maize dwarf mosaic disease of pearl millet"
+      ],
+      "disease_type": "Viral disease",
+      "causal_agent": "Maize dwarf mosaic virus",
+      "pathogen_type": "Virus",
+      "affected_plant_parts": [
+        "young leaves",
+        "nodal secondary roots",
+        "ears"
+      ],
+      "symptoms": {
+        "general": [
+          "Infected plants remain stunted.",
+          "Develop nodal secondary roots and malformed ears (pale yellow or brownish-white, producing few small seeds).",
+          "Affected crop appears yellow from a distance."
+        ],
+        "early_symptoms": [
+          "Mosaic symptoms on young leaves."
+        ],
+        "advanced_symptoms": [],
+        "visual_field_symptoms": [
+          "Mosaic symptoms on young leaves, stunted growth, yellow appearance from a distance."
+        ]
+      },
+      "identification": {
+        "field_identification": [
+          "Mosaic symptoms on young leaves and plant stunting."
+        ],
+        "diagnostic_methods": [],
+        "differential_diagnosis": []
+      },
+      "causes_and_risk_factors": [
+        "Transmitted with the help of aphid, Longiunguis sacchari"
+      ],
+      "favorable_conditions": {
+        "temperature": "",
+        "humidity": "",
+        "rainfall": "",
+        "soil_conditions": "",
+        "other_conditions": []
+      },
+      "disease_development_and_spread": [
+        "Transmitted by aphid, Longiunguis sacchari."
+      ],
+      "epidemiology": [
+        "Disease severity decreases with age."
+      ],
+      "severity_and_yield_loss": [
+        "Ears become malformed and produce few small seeds."
+      ],
+      "management": {
+        "cultural_management": [],
+        "biological_management": [],
+        "chemical_management": [],
+        "integrated_management": []
+      },
+      "resistant_or_tolerant_varieties": [],
+      "susceptible_varieties": [],
+      "prevention": [],
+      "farmer_action_points": [],
+      "warnings_and_limitations": [],
+      "research_findings": [],
+      "source_pages": [
+        "197"
+      ]
+    }
+  ],
+  "paper_level_notes": [
+    "General cultural practices for disease management include deep summer ploughing, cleaning field bunds, removal of crop residues, uprooting and burning diseased plants, regulating irrigation water, timely removal of collateral/alternate hosts, and maintaining optimum plant spacing and fertilizer amounts.",
+    "Chemical control recommendations mentioned in summary tables include: Carbendazim (@ 0.1% a.i.) or Tricyclazole (@ 0.05% a.i.) or Mancozeb 63% + Carbendazim 12% for blast; Mancozeb @ 0.2% for rust."
+  ],
+  "_processing_metadata": {
+    "source_pdf": "bajra.pdf",
+    "crop_detected_from_filename": "Bajra",
+    "model_used": "gemini-3.5-flash-lite",
+    "extracted_at": "2026-09-23 22:37:51"
+  }
+}

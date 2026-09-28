@@ -1,0 +1,358 @@
+{
+  "crop": "Field Pea (Pisum sativum)",
+  "paper_information": {
+    "title": "Field Pea (Pisum sativum) Diseases of Major Importance and Their Management in Ethiopia, a Review",
+    "authors": [
+      "Zenebe Wubshet Hordofa",
+      "Zelalem Tamiru"
+    ],
+    "year": "2023",
+    "journal_or_source": "Agriculture, Forestry and Fisheries",
+    "doi_or_identifier": "10.11648/j.aff.20231205.11",
+    "abstract_summary": "The paper provides insight into the economic significance, distribution, and current management strategies for major field pea diseases in Ethiopia, highlighting fungal diseases like Ascochyta blight, powdery mildew, downy mildew, Fusarium wilt, and rust.",
+    "research_objective": "To provide insight into the economic significance, distribution, and current management strategies for significant field pea diseases as well as to establish future approaches.",
+    "study_area": "Ethiopia",
+    "important_findings": [
+      "Ascochyta blight and powdery mildew are the most severe fungal diseases affecting field pea production in Ethiopia.",
+      "Ascochyta blight can cause yield losses ranging from 30% to 75% under normal conditions and up to 100% under favorable conditions.",
+      "Powdery mildew causes yield losses ranging from 50% to 86% globally and 21% to 37% in Ethiopia.",
+      "Management strategies must focus on cultural practices, host resistance, biological control, and targeted chemical applications integrated into IDM strategies."
+    ]
+  },
+  "diseases": [
+    {
+      "disease_name": "Ascochyta Blight",
+      "alternative_names": [
+        "Black spot"
+      ],
+      "disease_type": "Fungal disease",
+      "causal_agent": "Ascochyta pisi, Phoma medicaginis var. pinodella (A. pinodella), and Mycosphaerella pinodes (A. pinodes)",
+      "pathogen_type": "Fungus",
+      "affected_plant_parts": [
+        "Leaves",
+        "Stems",
+        "Tendrils",
+        "Pods",
+        "Seeds"
+      ],
+      "symptoms": {
+        "general": [
+          "Purple necrotic lesions on stems, tendrils, leaves, and pods",
+          "Dark spore-producing structures",
+          "Discoloration on seeds"
+        ],
+        "early_symptoms": [
+          "Small purple to black spots that expand when moist",
+          "Purple-brown irregular flecks on lower leaves, stems, and tendrils under humid conditions"
+        ],
+        "advanced_symptoms": [
+          "Enlarged lesions that are round to oval in shape containing brown concentric rings",
+          "Blue-black appearance at lower stem areas",
+          "Stem girdling close to the soil line",
+          "Blight and leaf fall",
+          "Lesions on pods causing early pod senescence"
+        ],
+        "visual_field_symptoms": [
+          "Dark spore producing structures",
+          "Purple necrotic lesions on stems, tendrils, leaves, and pods",
+          "Necrotic leaf spots and stem lesions with blackening"
+        ]
+      },
+      "identification": {
+        "field_identification": [
+          "Small purplish-black spots on leaves enlarging to round or oval lesions with brown concentric rings",
+          "Blue-black appearance at the lower stem areas",
+          "Purple-brown irregular flecks leading to blight and leaf fall"
+        ],
+        "diagnostic_methods": [
+          "Observation of morphological characteristics and spore mass color on oat meal agar (OA) medium",
+          "Presence of pseudothecia for Didymella pinodes"
+        ],
+        "differential_diagnosis": [
+          "Didymella pinodes produces pseudothecia and light buff spore mass on OA medium",
+          "Phoma medicaginis causes more severe damage on leaves and pods and foot rot, with conidia smaller than D. pinodes and A. pisi",
+          "Ascochyta pisi has sunken, tan to light brown leaf lesions surrounded by darker brown, does not cause foot rot, has smaller black pycnidia, and produces carrot-red spore masses on OA"
+        ]
+      },
+      "causes_and_risk_factors": [
+        "Infected seed acting as primary source of inoculum",
+        "Infected crop residue and soil",
+        "Lack of affordable fungicides and low host resistance"
+      ],
+      "favorable_conditions": {
+        "temperature": "Low temperature",
+        "humidity": "Moderate to high moisture/humidity",
+        "rainfall": "",
+        "soil_conditions": "Soil-borne survival structures persisting for more than 5 years",
+        "other_conditions": [
+          "Extended damp conditions",
+          "Lodged crops"
+        ]
+      },
+      "disease_development_and_spread": [
+        "Pathogens can infect all above-ground parts and overwinter in seed, crop residue, and soil.",
+        "Seed transmission efficiency up to 86%.",
+        "M. pinodes undergoes both sexual (ascospores via pseudothecia) and asexual (conidia via pycnidia) reproduction, while producing chlamydospores surviving in soil for at least 5 years."
+      ],
+      "epidemiology": [
+        "Initial infection results in small purple to black spots that expand with moisture.",
+        "Under low temperature and moderate moisture, old pycnidia mature, new pycnidia and perithecia develop, releasing spores."
+      ],
+      "severity_and_yield_loss": [
+        "Yield losses range from 30% to 75% normally, and up to 100% under favorable environmental conditions.",
+        "Average field loss in Ethiopia reported at 20-30% or up to 53%."
+      ],
+      "management": {
+        "cultural_management": [
+          "Crop rotation up to 3 to 4 years to reduce A. pisi and P. medicaginis",
+          "Mixed cropping (sowing field pea together with faba bean) reduces infection from 100% to 32%",
+          "Use of clean, pathogen-free seeds",
+          "Holding severely infected seeds for at least one year before sowing if no seed treatment is used",
+          "Residual burial to eliminate soil-borne and residue-borne inoculum"
+        ],
+        "biological_management": [],
+        "chemical_management": [
+          {
+            "active_ingredient_or_product": "Othello",
+            "dose": "",
+            "concentration": "",
+            "application_method": "",
+            "timing": "",
+            "number_of_applications": "",
+            "result_reported_in_paper": "Successfully lessens the effects of Ascochyta blight when combined with tolerant cultivars."
+          },
+          {
+            "active_ingredient_or_product": "matico",
+            "dose": "",
+            "concentration": "",
+            "application_method": "",
+            "timing": "",
+            "number_of_applications": "",
+            "result_reported_in_paper": "Successfully lessens the effects of Ascochyta blight when combined with tolerant cultivars."
+          },
+          {
+            "active_ingredient_or_product": "carbochlor",
+            "dose": "",
+            "concentration": "",
+            "application_method": "",
+            "timing": "",
+            "number_of_applications": "",
+            "result_reported_in_paper": "Successfully lessens the effects of Ascochyta blight when combined with tolerant cultivars."
+          }
+        ],
+        "integrated_management": [
+          "Combination of tolerant cultivars with chemical treatments"
+        ]
+      },
+      "resistant_or_tolerant_varieties": [
+        "GPHA-03",
+        "GPHA-019",
+        "GPHA-06",
+        "GPHA-01",
+        "GPHA-018",
+        "P-313-010",
+        "P-313-045",
+        "P-313-086",
+        "P-313-082",
+        "P-313-071",
+        "PDFPTBEK",
+        "P-313-065",
+        "P-313-098",
+        "P-313-061",
+        "P-313-068",
+        "P-313-067",
+        "EH 012022-1",
+        "EH 012020-7"
+      ],
+      "susceptible_varieties": [],
+      "prevention": [
+        "Use of pathogen-free seeds",
+        "Crop rotation",
+        "Residual burial"
+      ],
+      "farmer_action_points": [
+        "Select resistant or moderately resistant varieties",
+        "Practice crop rotation and mixed cropping with faba bean",
+        "Use clean seeds and avoid planting infected residues near new crops"
+      ],
+      "warnings_and_limitations": [
+        "Chemical pesticides are often unaffordable for small-scale farmers in impoverished nations.",
+        "Foliar fungicide application is challenging after canopy closure as lower leaves and stems become inaccessible."
+      ],
+      "research_findings": [
+        "Most field pea genotypes showed susceptible reactions while some showed moderate resistance to Ascochyta blight.",
+        "Tolerant lines develop the same high level of disease as susceptible lines but suffer less yield loss due to stronger stems."
+      ],
+      "source_pages": [
+        "2",
+        "3",
+        "4",
+        "5"
+      ]
+    },
+    {
+      "disease_name": "Powdery Mildew",
+      "alternative_names": [],
+      "disease_type": "Fungal disease",
+      "causal_agent": "Erysiphe pisi (also referred to as Erysiphe polygoni)",
+      "pathogen_type": "Fungus",
+      "affected_plant_parts": [
+        "Leaves",
+        "Stipules",
+        "Petioles",
+        "Stems",
+        "Pods"
+      ],
+      "symptoms": {
+        "general": [
+          "White powdery dust-like layer on the surface of leaves, petioles, stems, and pods",
+          "Yellowed, dwarfed, and deformed leaves"
+        ],
+        "early_symptoms": [
+          "Small, diffuse spots on leaflets and stipules, usually first appearing on the lowest part of the plant as white powdery spots"
+        ],
+        "advanced_symptoms": [
+          "Lesions grow and become white to pale gray powdery areas that coalesce and completely cover plant surfaces",
+          "Seed discoloration and downgraded seed quality"
+        ],
+        "visual_field_symptoms": [
+          "White powdery dust-like fungal growth covering leaves, stems, and pods",
+          "Yellowing and dwarfing of plant foliage"
+        ]
+      },
+      "identification": {
+        "field_identification": [
+          "White powdery patches on lower leaves spreading to cover the entire plant surface"
+        ],
+        "diagnostic_methods": [
+          "Internal transcribed spacer (ITS) sequences from rDNA differentiation",
+          "Analysis of morphological traits such as mycelioid appendages in E. pisi"
+        ],
+        "differential_diagnosis": [
+          "Distinguished from E. trifolii and E. baeumleri by having normally mycelioid appendages instead of dichotomously branched ones."
+        ]
+      },
+      "causes_and_risk_factors": [
+        "Airborne or seed-borne obligate fungus overwinters on infected pea trash",
+        "High soil nitrogen availability",
+        "Lush pea stands",
+        "Late-sown and off-season fields"
+      ],
+      "favorable_conditions": {
+        "temperature": "15–25°C",
+        "humidity": "Over 70 percent RH",
+        "rainfall": "Low rainfall (spores are washed away by rain)",
+        "soil_conditions": "High soil nitrogen",
+        "other_conditions": [
+          "Warm and dry days with dew formation",
+          "Shade and mild temperatures"
+        ]
+      },
+      "disease_development_and_spread": [
+        "Spores are blown by wind into new crops on warm, dry days with dew formation.",
+        "Can completely colonize a plant in 5 to 6 days under favorable conditions.",
+        "Conidia from superficial conidiophores or ascospores act as main dispersal propagules."
+      ],
+      "epidemiology": [
+        "Rapidly spreads to adjacent areas once a few plants become infected.",
+        "More severe in dry heat and late-sown or off-season fields."
+      ],
+      "severity_and_yield_loss": [
+        "Causes up to 50–86% loss in field pea growth globally.",
+        "Reduces yield by 20–30% at mid-altitude locations.",
+        "Average yield losses of 25 to 50% globally and 21–37% in Ethiopia."
+      ],
+      "management": {
+        "cultural_management": [
+          "Plant early in the growing season or use early-maturing cultivars",
+          "Avoid excess fertilizing or use slow-release fertilizers",
+          "Locate plants in sunny areas with good ventilation",
+          "Overhead sprinkling to wash away spores"
+        ],
+        "biological_management": [
+          "Use of biological antagonists such as Trichoderma spp., Bacillus subtilis, and Pseudomonas sp."
+        ],
+        "chemical_management": [
+          {
+            "active_ingredient_or_product": "Tebuconazole",
+            "dose": "",
+            "concentration": "",
+            "application_method": "",
+            "timing": "",
+            "number_of_applications": "",
+            "result_reported_in_paper": "81% disease reduction"
+          },
+          {
+            "active_ingredient_or_product": "Propiconazole",
+            "dose": "",
+            "concentration": "",
+            "application_method": "",
+            "timing": "",
+            "number_of_applications": "",
+            "result_reported_in_paper": "78% disease reduction"
+          },
+          {
+            "active_ingredient_or_product": "Triadimefon",
+            "dose": "",
+            "concentration": "",
+            "application_method": "",
+            "timing": "Single application at early flowering",
+            "number_of_applications": "Single application (or followed by additional sprays at 14-day intervals)",
+            "result_reported_in_paper": "68% disease reduction; prevents mildew infection of pods, increases yield, and evens out maturity"
+          }
+        ],
+        "integrated_management": [
+          "Combination of genetic resistance, cultural adjustments, and judicious fungicide applications"
+        ]
+      },
+      "resistant_or_tolerant_varieties": [
+        "GPHA-12",
+        "GPHA-9",
+        "GPHA-22",
+        "GPHA-44",
+        "GPHA-19",
+        "GPHA-68",
+        "GPHA-58",
+        "GPHA-28",
+        "GPHA-59",
+        "GPHA-46",
+        "GPHA-24"
+      ],
+      "susceptible_varieties": [],
+      "prevention": [
+        "Early planting",
+        "Using early-maturing cultivars",
+        "Avoiding excessive nitrogen fertilization"
+      ],
+      "farmer_action_points": [
+        "Plant early-maturing varieties at the start of the season",
+        "Monitor fields regularly and apply fungicides at early flowering if infection occurs",
+        "Ensure proper plant spacing and sunlight exposure"
+      ],
+      "warnings_and_limitations": [
+        "Repeated protective fungicide applications can be costly and economically unjustified.",
+        "Spores can cause breathing and allergy issues for machinery operators."
+      ],
+      "research_findings": [
+        "Genetics of powdery mildew resistance involve major loci: Er1, Er2, and Er3.",
+        "Gene Er1 is frequently employed in breeding programs for resistance."
+      ],
+      "source_pages": [
+        "5",
+        "6",
+        "7",
+        "8"
+      ]
+    }
+  ],
+  "paper_level_notes": [
+    "Field pea is the second most important legume crop in Ethiopia after faba bean.",
+    "Biotic factors like Ascochyta blight and powdery mildew are the primary constraints causing significant yield reductions."
+  ],
+  "_processing_metadata": {
+    "source_pdf": "Matar.pdf",
+    "crop_detected_from_filename": "Matar",
+    "model_used": "gemini-3.5-flash-lite",
+    "extracted_at": "2026-09-23 23:08:45"
+  }
+}

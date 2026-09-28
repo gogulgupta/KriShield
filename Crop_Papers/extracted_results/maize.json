@@ -1,0 +1,847 @@
+{
+  "crop": "Maize",
+  "paper_information": {
+    "title": "Maize Diseases and Their Sustainable Management in India: Current Status and Future Perspectives",
+    "authors": [
+      "M. K. Khokhar",
+      "K. S. Hooda",
+      "P. N. Meena",
+      "R. Gogoi",
+      "S. S. Sharma",
+      "Rekha Balodi",
+      "M. S. Gurjar"
+    ],
+    "year": "2019",
+    "journal_or_source": "Innovative Approaches in Diagnosis and Management of Crop Diseases, Vol 2",
+    "doi_or_identifier": "",
+    "abstract_summary": "Information embodied in this review pertains to the common diseases affecting maize production in India. The major diseases in the country are three downy mildews, four foliar, leaf, and sheath blight and two pre-flowering, three post-flowering stalk rots. Loss estimates in India have been put at around 13.2%, but actual losses can be as high as 80% in natural and artificial created epiphytotic conditions.",
+    "research_objective": "To assess the present status of diseases and researchable area to alleviate losses which would further necessitate the development of bio-rational and climate-resilient integrated disease management (IDM) schedule.",
+    "study_area": "India",
+    "important_findings": [
+      "Maize in India is affected by about 35 diseases predominantly of fungal and bacterial origin.",
+      "Estimated annual yield loss in India is 13.2%, but actual losses can reach up to 80% under epiphytotic conditions.",
+      "Turcicum leaf blight, maydis leaf blight, post-flowering stalk rots, ear and cob rot, and banded leaf and sheath blight are prevalent throughout the country."
+    ]
+  },
+  "diseases": [
+    {
+      "disease_name": "Turcicum leaf blight",
+      "alternative_names": [
+        "Northern Corn Leaf Blight",
+        "White blight",
+        "Leaf stripe",
+        "Urijinke"
+      ],
+      "disease_type": "Foliar disease",
+      "causal_agent": "Setosphaeria turcica",
+      "pathogen_type": "Fungus",
+      "affected_plant_parts": [
+        "Lamina",
+        "Sheath",
+        "Bract"
+      ],
+      "symptoms": {
+        "general": [
+          "Severe defoliation especially during the grain-filling period",
+          "Starts as long, elliptical, gray-green lesions measuring 3-15 cm in length"
+        ],
+        "early_symptoms": [
+          "Infection occurs from the lower lamina, gradually extending to the upsides"
+        ],
+        "advanced_symptoms": [
+          "Lesions mature to tan color with targeted, darkish zones of fungal sporulation",
+          "Lesions may coalesce forming enormous blighted areas, and entire leaves may emerge as blighted"
+        ],
+        "visual_field_symptoms": [
+          "Extensive defoliation during the grain filling period"
+        ]
+      },
+      "identification": {
+        "field_identification": [
+          "Long, elliptical, gray-green to tan lesions with darkish zones of fungal sporulation"
+        ],
+        "diagnostic_methods": [],
+        "differential_diagnosis": []
+      },
+      "causes_and_risk_factors": [
+        "High humidity coupled with low temperature and cloudy weather",
+        "Growing sorghum and maize together"
+      ],
+      "favorable_conditions": {
+        "temperature": "20–28°C",
+        "humidity": "90 to 100%",
+        "rainfall": "",
+        "soil_conditions": "",
+        "other_conditions": [
+          "Low luminosity"
+        ]
+      },
+      "disease_development_and_spread": [
+        "Infection occurs from seedling to harvesting, with maximum severity seen from tasseling and six to eight weeks after on silking."
+      ],
+      "epidemiology": [],
+      "severity_and_yield_loss": [
+        "Grain yield losses up to 50% or more",
+        "Yield losses under artificial epiphytotics estimated up to 66% in susceptible variety Basi and 56.0% in CM 202",
+        "Maize yield decreases up to 0.6 t ha-1 when severity reaches more than 75%"
+      ],
+      "management": {
+        "cultural_management": [
+          "Crop rotation of one to two years",
+          "Deep burying of infested maize residues before planting maize hybrids",
+          "Timely removal of overwintering infected crop residue",
+          "Application of adequate potassium in the form of potassium chloride"
+        ],
+        "biological_management": [],
+        "chemical_management": [
+          {
+            "active_ingredient_or_product": "Propiconazole",
+            "dose": "",
+            "concentration": "",
+            "application_method": "",
+            "timing": "",
+            "number_of_applications": "",
+            "result_reported_in_paper": "Efficacy in controlling TLB both in vitro and in field conditions"
+          },
+          {
+            "active_ingredient_or_product": "Carboxin + thiram",
+            "dose": "2 g/kg (for carboxin in seed treatment)",
+            "concentration": "",
+            "application_method": "Seed treatment",
+            "timing": "Seed treatment",
+            "number_of_applications": "1",
+            "result_reported_in_paper": "Improved seed emergence and seedling vigor and reduced initial inoculum"
+          },
+          {
+            "active_ingredient_or_product": "Benomyl + thiram",
+            "dose": "",
+            "concentration": "",
+            "application_method": "Seed treatment",
+            "timing": "Seed treatment",
+            "number_of_applications": "1",
+            "result_reported_in_paper": "Improved seed emergence and seedling vigor and reduced initial inoculum"
+          },
+          {
+            "active_ingredient_or_product": "Mancozeb",
+            "dose": "",
+            "concentration": "0.25%",
+            "application_method": "Foliar application",
+            "timing": "Thrice at 10 days interval",
+            "number_of_applications": "3",
+            "result_reported_in_paper": "Reduced initial inoculum and disease severity"
+          }
+        ],
+        "integrated_management": [
+          "Seed treatment with carboxin + thiram or benomyl + thiram followed by foliar application of mancozeb (0.25%) thrice at 10 days interval",
+          "Seed treatment with carboxin (2 g/kg) and Trichoderma harzianum (6 g/kg) followed by three sprays of mancozeb (0.25%)/propiconazole (0.1%) at 30, 40, and 50 days after sowing"
+        ]
+      },
+      "resistant_or_tolerant_varieties": [],
+      "susceptible_varieties": [
+        "Basi",
+        "CM 202"
+      ],
+      "prevention": [],
+      "farmer_action_points": [],
+      "warnings_and_limitations": [],
+      "research_findings": [],
+      "source_pages": [
+        "182",
+        "183",
+        "184",
+        "185",
+        "186"
+      ]
+    },
+    {
+      "disease_name": "Maydis leaf blight",
+      "alternative_names": [
+        "MLB"
+      ],
+      "disease_type": "Foliar disease",
+      "causal_agent": "Bipolaris maydis",
+      "pathogen_type": "Fungus",
+      "affected_plant_parts": [
+        "Leaves"
+      ],
+      "symptoms": {
+        "general": [
+          "Numerous lesions with size up to 2.5 cm long present mostly on the leaves"
+        ],
+        "early_symptoms": [
+          "Initially elliptical"
+        ],
+        "advanced_symptoms": [
+          "Later elongate, further becoming rectangular-shaped by restriction of the veins",
+          "Color is cinnamon-buff with a reddish-brown margin and occasionally zonate coalescing and becoming grayish with conidia"
+        ],
+        "visual_field_symptoms": []
+      },
+      "identification": {
+        "field_identification": [
+          "Rectangular-shaped spots with cinnamon-buff color and reddish-brown margins"
+        ],
+        "diagnostic_methods": [],
+        "differential_diagnosis": []
+      },
+      "causes_and_risk_factors": [
+        "Warm (20-30°C) and humid climate",
+        "Advance generation hybrids and unmaintained composites"
+      ],
+      "favorable_conditions": {
+        "temperature": "20–32°C",
+        "humidity": "70–100% (optimum 90–100%)",
+        "rainfall": "",
+        "soil_conditions": "",
+        "other_conditions": []
+      },
+      "disease_development_and_spread": [],
+      "epidemiology": [],
+      "severity_and_yield_loss": [
+        "Potential to cause grain yield losses of more than 40%",
+        "Accounts for 20% or sometimes even more yield losses to maize crop in Pakistan"
+      ],
+      "management": {
+        "cultural_management": [
+          "Early planting in May or June, or late planting in August reduces disease incidence",
+          "Manage plant density (minimum incidence at 40,000 ha-1)",
+          "Balanced application of phosphorus and potassium reduces disease incidence"
+        ],
+        "biological_management": [
+          "Inoculation of non-pathogens (Drechslera oryzae and Helminthosporium sativum) on sterilized soil followed by pathogen inoculation"
+        ],
+        "chemical_management": [
+          {
+            "active_ingredient_or_product": "Kavach",
+            "dose": "",
+            "concentration": "60 microgram/ml",
+            "application_method": "",
+            "timing": "",
+            "number_of_applications": "",
+            "result_reported_in_paper": "Completely inhibited growth and conidial germination"
+          },
+          {
+            "active_ingredient_or_product": "Mancozeb + thiophanate-methyl",
+            "dose": "",
+            "concentration": "100 microgram/ml",
+            "application_method": "",
+            "timing": "",
+            "number_of_applications": "",
+            "result_reported_in_paper": "Completely inhibited growth and conidial germination"
+          },
+          {
+            "active_ingredient_or_product": "Captan",
+            "dose": "",
+            "concentration": "",
+            "application_method": "",
+            "timing": "",
+            "number_of_applications": "",
+            "result_reported_in_paper": "Resulted in the lowest disease index in field experiments"
+          },
+          {
+            "active_ingredient_or_product": "Ridomyl gold (MZ 68% WP)",
+            "dose": "",
+            "concentration": "",
+            "application_method": "",
+            "timing": "",
+            "number_of_applications": "",
+            "result_reported_in_paper": "Effective against seed-borne mycoflora"
+          },
+          {
+            "active_ingredient_or_product": "Aliette",
+            "dose": "",
+            "concentration": "80% w/w",
+            "application_method": "",
+            "timing": "",
+            "number_of_applications": "",
+            "result_reported_in_paper": "Effective against seed-borne mycoflora"
+          },
+          {
+            "active_ingredient_or_product": "Mancozeb or zineb",
+            "dose": "",
+            "concentration": "0.2%",
+            "application_method": "Spray",
+            "timing": "First appearance of disease followed by 2 applications at 10 days interval",
+            "number_of_applications": "3",
+            "result_reported_in_paper": "Effective in controlling the disease"
+          }
+        ],
+        "integrated_management": []
+      },
+      "resistant_or_tolerant_varieties": [],
+      "susceptible_varieties": [
+        "Advance generation hybrids",
+        "Unmaintained composites"
+      ],
+      "prevention": [],
+      "farmer_action_points": [],
+      "warnings_and_limitations": [],
+      "research_findings": [],
+      "source_pages": [
+        "187",
+        "188",
+        "189",
+        "190"
+      ]
+    },
+    {
+      "disease_name": "Banded leaf and sheath blight",
+      "alternative_names": [
+        "BLSB",
+        "Banded sheath rot",
+        "Banded sclerotial disease",
+        "Summer sheath blight"
+      ],
+      "disease_type": "Sheath and leaf blight",
+      "causal_agent": "Rhizoctonia solani f. sp. sasakii",
+      "pathogen_type": "Fungus",
+      "affected_plant_parts": [
+        "Leaves",
+        "Sheaths",
+        "Stalk",
+        "Ear"
+      ],
+      "symptoms": {
+        "general": [
+          "Appears at a pre-flowering stage in 40-50 days old plants",
+          "Starts from the leaf sheath or on leaves in contact with soil and travels up to the ear"
+        ],
+        "early_symptoms": [
+          "Initially water-soaked and narrow purple-brown bands oriented perpendicular to long axis of leaves or leaf sheath"
+        ],
+        "advanced_symptoms": [
+          "Alternate bleached area or zones"
+        ],
+        "visual_field_symptoms": [
+          "Infected cobs bearing sclerotia"
+        ]
+      },
+      "identification": {
+        "field_identification": [
+          "Alternate bleached zones with narrow purple-brown bands perpendicular to the long axis"
+        ],
+        "diagnostic_methods": [],
+        "differential_diagnosis": []
+      },
+      "causes_and_risk_factors": [
+        "Soil-borne nature",
+        "Rice-maize cropping pattern",
+        "High crop densities"
+      ],
+      "favorable_conditions": {
+        "temperature": "25°C to 30°C (optimum 28°C)",
+        "humidity": "90–100%",
+        "rainfall": "Rainfall over 100 mm in the first two weeks of infection",
+        "soil_conditions": "",
+        "other_conditions": [
+          "High crop densities"
+        ]
+      },
+      "disease_development_and_spread": [
+        "Secondary spread is due to contact of healthy plants with infected leaves/sheaths."
+      ],
+      "epidemiology": [],
+      "severity_and_yield_loss": [
+        "Grain yield reduction up to 31.9% to 90%",
+        "Magnitude of grain loss may reach as high as 100% if the ear rot phase predominates"
+      ],
+      "management": {
+        "cultural_management": [
+          "Selection of a well-drained field and planting on raised beds",
+          "Composting of hardwood on infested soil",
+          "Stripping of the second and third leaf-sheath from the ground level at the age of 35-40 days old crop"
+        ],
+        "biological_management": [
+          "Trichoderma spp., Gliocladium virens, and Pseudomonas fluorescens"
+        ],
+        "chemical_management": [
+          {
+            "active_ingredient_or_product": "Validamycin (Jinggangmycin)",
+            "dose": "",
+            "concentration": "0.25%",
+            "application_method": "Foliar spray",
+            "timing": "",
+            "number_of_applications": "",
+            "result_reported_in_paper": "Good control against banded leaf and sheath blight pathogen"
+          },
+          {
+            "active_ingredient_or_product": "Bavistin",
+            "dose": "",
+            "concentration": "0.1%",
+            "application_method": "Seed dressing / Spray",
+            "timing": "",
+            "number_of_applications": "",
+            "result_reported_in_paper": "Highly effective seed dressing fungicide with 48.7% disease control and highest yield of 64.7 q/ha over control"
+          },
+          {
+            "active_ingredient_or_product": "Hexaconazole",
+            "dose": "",
+            "concentration": "",
+            "application_method": "",
+            "timing": "",
+            "number_of_applications": "",
+            "result_reported_in_paper": "Very effective against R. solani and potent to give high level of disease control"
+          }
+        ],
+        "integrated_management": [
+          "Foliar application of carbendazim followed by Trichoderma sprays in sawdust and FYM amended field",
+          "Validamycin (0.25%) and T. viride as foliar spray"
+        ]
+      },
+      "resistant_or_tolerant_varieties": [],
+      "susceptible_varieties": [],
+      "prevention": [],
+      "farmer_action_points": [],
+      "warnings_and_limitations": [],
+      "research_findings": [
+        "Identified 11 QTLs for resistance to BLSB on chromosomes 1, 2, 3, 4, 5, 6, and 10."
+      ],
+      "source_pages": [
+        "13",
+        "14",
+        "15",
+        "16",
+        "17",
+        "18"
+      ]
+    },
+    {
+      "disease_name": "Curvularia leaf spot",
+      "alternative_names": [
+        "CLS"
+      ],
+      "disease_type": "Foliar disease",
+      "causal_agent": "Curvularia lunata var. aeria",
+      "pathogen_type": "Fungus",
+      "affected_plant_parts": [
+        "Leaves",
+        "Seeds"
+      ],
+      "symptoms": {
+        "general": [
+          "Small light brownish circular or ovoid spots not more than 4 mm in diameter, surrounded by brown ring"
+        ],
+        "early_symptoms": [],
+        "advanced_symptoms": [],
+        "visual_field_symptoms": []
+      },
+      "identification": {
+        "field_identification": [
+          "Small light brownish circular or ovoid spots (<4 mm diameter) with a brown ring"
+        ],
+        "diagnostic_methods": [],
+        "differential_diagnosis": []
+      },
+      "causes_and_risk_factors": [
+        "Seed-borne inocula and secondary spread through airborne inocula"
+      ],
+      "favorable_conditions": {
+        "temperature": "28–32°C",
+        "humidity": "Humid",
+        "rainfall": "",
+        "soil_conditions": "",
+        "other_conditions": []
+      },
+      "disease_development_and_spread": [],
+      "epidemiology": [],
+      "severity_and_yield_loss": [
+        "Yield loss in maize to the tune of 21-23% in India, and 20-60% in China"
+      ],
+      "management": {
+        "cultural_management": [],
+        "biological_management": [],
+        "chemical_management": [
+          {
+            "active_ingredient_or_product": "Copper oxychloride",
+            "dose": "",
+            "concentration": "",
+            "application_method": "",
+            "timing": "",
+            "number_of_applications": "",
+            "result_reported_in_paper": "Effective in inhibiting pathogen"
+          },
+          {
+            "active_ingredient_or_product": "Difoltan",
+            "dose": "",
+            "concentration": "0.5%",
+            "application_method": "",
+            "timing": "Two applications (1st as preventive, 2nd just after appearance of disease)",
+            "number_of_applications": "2",
+            "result_reported_in_paper": "Control achieved"
+          }
+        ],
+        "integrated_management": []
+      },
+      "resistant_or_tolerant_varieties": [
+        "CM 300",
+        "CM 111",
+        "Guidan 22",
+        "Guidan 23",
+        "Jingzao"
+      ],
+      "susceptible_varieties": [],
+      "prevention": [],
+      "farmer_action_points": [],
+      "warnings_and_limitations": [],
+      "research_findings": [
+        "Resistance to CLS was inherited quantitatively and associated with additive and dominant genetic effects accounting for 70% of total phenotypic variation."
+      ],
+      "source_pages": [
+        "18",
+        "19",
+        "20"
+      ]
+    },
+    {
+      "disease_name": "Common rust",
+      "alternative_names": [],
+      "disease_type": "Rust disease",
+      "causal_agent": "Puccinia sorghi",
+      "pathogen_type": "Fungus",
+      "affected_plant_parts": [
+        "Leaves",
+        "Husk",
+        "Floral parts"
+      ],
+      "symptoms": {
+        "general": [
+          "Minute, round to elongated uredia occurring on both leaf surfaces, husk, and other floral parts"
+        ],
+        "early_symptoms": [
+          "Pustules are yellowish in the early stage"
+        ],
+        "advanced_symptoms": [
+          "Pustules become brown and surrounded by chlorotic haloes"
+        ],
+        "visual_field_symptoms": [
+          "Yellowish to brown pustules on leaves and husk"
+        ]
+      },
+      "identification": {
+        "field_identification": [
+          "Minute, round to elongated yellowish to brown pustules with chlorotic haloes"
+        ],
+        "diagnostic_methods": [],
+        "differential_diagnosis": []
+      },
+      "causes_and_risk_factors": [],
+      "favorable_conditions": {
+        "temperature": "16–25°C",
+        "humidity": "At least 98%",
+        "rainfall": "",
+        "soil_conditions": "",
+        "other_conditions": [
+          "Subtropical, temperate, and highland environments"
+        ]
+      },
+      "disease_development_and_spread": [],
+      "epidemiology": [],
+      "severity_and_yield_loss": [
+        "Losses in grain yields ranging from 6.0 to 36%"
+      ],
+      "management": {
+        "cultural_management": [],
+        "biological_management": [],
+        "chemical_management": [],
+        "integrated_management": []
+      },
+      "resistant_or_tolerant_varieties": [],
+      "susceptible_varieties": [],
+      "prevention": [],
+      "farmer_action_points": [],
+      "warnings_and_limitations": [],
+      "research_findings": [],
+      "source_pages": [
+        "20"
+      ]
+    },
+    {
+      "disease_name": "Rajasthan downy mildew",
+      "alternative_names": [],
+      "disease_type": "Downy mildew",
+      "causal_agent": "Peronosclerospora heteropogoni",
+      "pathogen_type": "Fungus",
+      "affected_plant_parts": [
+        "Leaves"
+      ],
+      "symptoms": {
+        "general": [
+          "Chlorotic stunted and yellow to whitish striped leaves giving a 'half disease leaf' appearance",
+          "Plants are more erect and slender under congenial conditions"
+        ],
+        "early_symptoms": [],
+        "advanced_symptoms": [],
+        "visual_field_symptoms": [
+          "Yellow to whitish striped leaves with half disease leaf appearance"
+        ]
+      },
+      "identification": {
+        "field_identification": [
+          "Chlorotic, stunted plants with yellow to whitish striped leaves ('half disease leaf')"
+        ],
+        "diagnostic_methods": [],
+        "differential_diagnosis": []
+      },
+      "causes_and_risk_factors": [],
+      "favorable_conditions": {
+        "temperature": "",
+        "humidity": "",
+        "rainfall": "",
+        "soil_conditions": "",
+        "other_conditions": []
+      },
+      "disease_development_and_spread": [],
+      "epidemiology": [],
+      "severity_and_yield_loss": [
+        "81.5% reduction in grain of maize under conditions favoring infection"
+      ],
+      "management": {
+        "cultural_management": [
+          "Sowing with the onset of monsoon or pre-monsoon rains"
+        ],
+        "biological_management": [],
+        "chemical_management": [
+          {
+            "active_ingredient_or_product": "Apron 35 WS",
+            "dose": "2 g per kg of seed",
+            "concentration": "",
+            "application_method": "Seed treatment",
+            "timing": "Before planting",
+            "number_of_applications": "1",
+            "result_reported_in_paper": "Complete protection against Rajasthan downy mildew"
+          }
+        ],
+        "integrated_management": []
+      },
+      "resistant_or_tolerant_varieties": [],
+      "susceptible_varieties": [],
+      "prevention": [],
+      "farmer_action_points": [],
+      "warnings_and_limitations": [],
+      "research_findings": [],
+      "source_pages": [
+        "20",
+        "21",
+        "22",
+        "24",
+        "25"
+      ]
+    },
+    {
+      "disease_name": "Sorghum downy mildew",
+      "alternative_names": [],
+      "disease_type": "Downy mildew",
+      "causal_agent": "Peronosclerospora sorghi",
+      "pathogen_type": "Fungus",
+      "affected_plant_parts": [
+        "Leaves",
+        "Tassels",
+        "Seeds"
+      ],
+      "symptoms": {
+        "general": [
+          "Infected plants are chlorotic with chlorotic area including the base of the blade with transverse margin",
+          "Leaves tend to be narrower and more erect than healthy plants",
+          "A white downy mildew growth may appear on lower surfaces of infected leaves",
+          "Tassels may exhibit phyllody with no seed set"
+        ],
+        "early_symptoms": [],
+        "advanced_symptoms": [],
+        "visual_field_symptoms": [
+          "Chlorotic leaves with transverse margins, white downy growth underneath, and tassel phyllody"
+        ]
+      },
+      "identification": {
+        "field_identification": [
+          "Chlorotic leaves with defined transverse margins and white downy fungal growth on lower surfaces"
+        ],
+        "diagnostic_methods": [],
+        "differential_diagnosis": []
+      },
+      "causes_and_risk_factors": [
+        "Plants less than one-month-old are highly susceptible"
+      ],
+      "favorable_conditions": {
+        "temperature": "20–25°C",
+        "humidity": "",
+        "rainfall": "",
+        "soil_conditions": "",
+        "other_conditions": [
+          "Presence of free water"
+        ]
+      },
+      "disease_development_and_spread": [
+        "Polycyclic disease cycle capable of causing secondary infections throughout the growing season. Oospores overwinter in soil and plant debris."
+      ],
+      "epidemiology": [],
+      "severity_and_yield_loss": [
+        "Severe losses worldwide (in tune of $25 billion)"
+      ],
+      "management": {
+        "cultural_management": [
+          "Avoidance of monoculture",
+          "Removal, destruction, and burning of infected plant debris along with weeds",
+          "Rouging of infected plants in early stages"
+        ],
+        "biological_management": [
+          "Chytrid fungus (Gaeumannomyces spp.) added to soil to parasitize oospores (reduced systemic infection up to 58%)"
+        ],
+        "chemical_management": [
+          {
+            "active_ingredient_or_product": "Metalaxyl",
+            "dose": "0.32–2.0 g.a.i. per kg seed",
+            "concentration": "",
+            "application_method": "Seed treatment",
+            "timing": "",
+            "number_of_applications": "1",
+            "result_reported_in_paper": "Controlled downy mildew"
+          }
+        ],
+        "integrated_management": []
+      },
+      "resistant_or_tolerant_varieties": [
+        "AH-742",
+        "AH-772",
+        "AH-776",
+        "ICI-701",
+        "PMZ-707"
+      ],
+      "susceptible_varieties": [],
+      "prevention": [],
+      "farmer_action_points": [],
+      "warnings_and_limitations": [],
+      "research_findings": [
+        "More than 5000 germplasm lines evaluated for host plant resistance."
+      ],
+      "source_pages": [
+        "20",
+        "22",
+        "24",
+        "25"
+      ]
+    },
+    {
+      "disease_name": "Fusarium stalk rot",
+      "alternative_names": [
+        "Post-flowering stalk rot",
+        "PFSR"
+      ],
+      "disease_type": "Stalk rot",
+      "causal_agent": "Fusarium verticillioides (= Fusarium moniliforme)",
+      "pathogen_type": "Fungus",
+      "affected_plant_parts": [
+        "Roots",
+        "Stalk",
+        "Ears",
+        "Kernels"
+      ],
+      "symptoms": {
+        "general": [
+          "Occurs after flowering stage and prior to physiological maturity",
+          "Internal decay and discoloration of stalk tissues",
+          "Rotting extends from infected roots to the stalk causing premature drying, stalk breakage, and ear dropping"
+        ],
+        "early_symptoms": [],
+        "advanced_symptoms": [
+          "Affected plants die prematurely producing lightweight ears with poorly filled kernels",
+          "Plants easily lodge"
+        ],
+        "visual_field_symptoms": [
+          "Premature drying, lodging, stalk breakage, and dropped ears"
+        ]
+      },
+      "identification": {
+        "field_identification": [
+          "Stalk internal decay/discoloration, premature drying, and lodging during grain filling"
+        ],
+        "diagnostic_methods": [],
+        "differential_diagnosis": []
+      },
+      "causes_and_risk_factors": [
+        "Water stress after flowering / high soil temperature",
+        "Sandy soils",
+        "Excess nitrogen fertilizers compared to potash"
+      ],
+      "favorable_conditions": {
+        "temperature": "Hot growing conditions",
+        "humidity": "",
+        "rainfall": "",
+        "soil_conditions": "Sandy soil, moisture stress after flowering",
+        "other_conditions": [
+          "High soil temperature",
+          "Excess nitrogen fertility"
+        ]
+      },
+      "disease_development_and_spread": [
+        "Soil-borne infection pathway; fungus survives on crop residue in soil or on soil surface."
+      ],
+      "epidemiology": [],
+      "severity_and_yield_loss": [
+        "Incidence varying from 5 to 40% at different parts of the country"
+      ],
+      "management": {
+        "cultural_management": [
+          "Application of farmyard manure and neem cake"
+        ],
+        "biological_management": [
+          "Trichoderma pseudokoningii",
+          "Trichoderma harzianum",
+          "Seed treatment with T. harzianum (4 g/kg seed) along with soil application of castor or neem cake (250 kg/ha) 15 days prior to sowing"
+        ],
+        "chemical_management": [
+          {
+            "active_ingredient_or_product": "Tebuconazole",
+            "dose": "",
+            "concentration": "5% aqueous solution",
+            "application_method": "",
+            "timing": "",
+            "number_of_applications": "",
+            "result_reported_in_paper": "Effectively reduced ear rot disease and fumonisins accumulation"
+          }
+        ],
+        "integrated_management": [
+          "Application of farmyard manure and neem cake along with Trichoderma harzianum 15–20 days before sowing with two additional irrigation at tasseling and silking stage",
+          "Integration of T. viride (drenching) with bavistin seed treatment"
+        ]
+      },
+      "resistant_or_tolerant_varieties": [
+        "CM 103",
+        "CM 119",
+        "CM 125",
+        "CI 21 E",
+        "CML 31",
+        "CML 77",
+        "CML 79",
+        "CML 85",
+        "CML 90",
+        "CML 381"
+      ],
+      "susceptible_varieties": [],
+      "prevention": [],
+      "farmer_action_points": [],
+      "warnings_and_limitations": [
+        "Fungicidal control of Fusarium stalk rot is not effective due to its soil-borne infection pathway."
+      ],
+      "research_findings": [
+        "Identified QTLs and major genes for resistance on chromosomes 1, 3, 4, 5, 6, 7, and 10."
+      ],
+      "source_pages": [
+        "26",
+        "27",
+        "28",
+        "29",
+        "30",
+        "31"
+      ]
+    }
+  ],
+  "paper_level_notes": [
+    "The review provides a comprehensive checklist and distribution of maize diseases in India, including tabular summaries of yield losses, distribution, inoculation techniques, and rating scales."
+  ],
+  "_processing_metadata": {
+    "source_pdf": "Maize.pdf",
+    "crop_detected_from_filename": "Maize",
+    "model_used": "gemini-3.5-flash-lite",
+    "extracted_at": "2026-09-23 22:49:32"
+  }
+}

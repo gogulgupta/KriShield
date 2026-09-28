@@ -1,0 +1,11 @@
+              precision    recall  f1-score   support
+
+   BrownRust     1.0000    1.0000    1.0000        74
+     Healthy     1.0000    1.0000    1.0000        74
+      Mildew     1.0000    1.0000    1.0000        74
+    Septoria     0.9863    0.9730    0.9796        74
+  YellowRust     0.9733    0.9865    0.9799        74
+
+    accuracy                         0.9919       370
+   macro avg     0.9919    0.9919    0.9919       370
+weighted avg     0.9919    0.9919    0.9919       370

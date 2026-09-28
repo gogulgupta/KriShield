@@ -1,0 +1,4 @@
+0: Ascochyta_blight
+1: Lentil_Rust
+2: Normal
+3: Powdery_Mildew

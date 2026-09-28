@@ -1,0 +1,250 @@
+Arhar DISEASE MODEL REPORT
+==============================================================================
+{
+  "crop": "Arhar",
+  "model": "EfficientNetV2-S",
+  "task": "crop-specific disease classification",
+  "device": "cuda",
+  "epochs": 20,
+  "batch_size": 16,
+  "image_size": 224,
+  "learning_rate": 0.0001,
+  "pretrained": "ImageNet",
+  "backbone_frozen": true,
+  "classes": [
+    "Healthy",
+    "Leaf_Spot",
+    "Leaf_webber",
+    "Sterilic_mosaic"
+  ],
+  "class_to_idx": {
+    "Healthy": 0,
+    "Leaf_Spot": 1,
+    "Leaf_webber": 2,
+    "Sterilic_mosaic": 3
+  },
+  "train_images": 2368,
+  "val_images": 296,
+  "test_images": 296,
+  "best_epoch": 17,
+  "best_val_macro_f1": 0.8679253354073497,
+  "test_loss": 0.5101415796859844,
+  "test_accuracy": 0.8277027027027027,
+  "test_macro_f1": 0.8271077892963387,
+  "best_model": "G:\\Crop_Classifier_740\\disease_models\\Arhar\\models\\arhar_disease_model.pth",
+  "last_model": "G:\\Crop_Classifier_740\\disease_models\\Arhar\\models\\arhar_disease_last.pth",
+  "history": [
+    {
+      "epoch": 1,
+      "train_loss": 1.257009744644165,
+      "train_accuracy": 0.4953547297297297,
+      "train_macro_f1": 0.4904338342058577,
+      "val_loss": 1.1377695444467906,
+      "val_accuracy": 0.7094594594594594,
+      "val_macro_f1": 0.710480478133894,
+      "time_minutes": 1.928337021668752
+    },
+    {
+      "epoch": 2,
+      "train_loss": 1.0290135302253671,
+      "train_accuracy": 0.7339527027027027,
+      "train_macro_f1": 0.7316900107682482,
+      "val_loss": 0.9780755977372866,
+      "val_accuracy": 0.7804054054054054,
+      "val_macro_f1": 0.7807322035565947,
+      "time_minutes": 1.28310493628184
+    },
+    {
+      "epoch": 3,
+      "train_loss": 0.8863381985071543,
+      "train_accuracy": 0.7850506756756757,
+      "train_macro_f1": 0.7820153373552841,
+      "val_loss": 0.8649126259056298,
+      "val_accuracy": 0.8175675675675675,
+      "val_macro_f1": 0.8169028778873074,
+      "time_minutes": 1.262477978070577
+    },
+    {
+      "epoch": 4,
+      "train_loss": 0.7927082829378747,
+      "train_accuracy": 0.7892736486486487,
+      "train_macro_f1": 0.7863397112306809,
+      "val_loss": 0.7964106411547274,
+      "val_accuracy": 0.8108108108108109,
+      "val_macro_f1": 0.8107663866628261,
+      "time_minutes": 1.0154318888982137
+    },
+    {
+      "epoch": 5,
+      "train_loss": 0.7281304146792438,
+      "train_accuracy": 0.8103885135135135,
+      "train_macro_f1": 0.8077836178968003,
+      "val_loss": 0.7309875198312707,
+      "val_accuracy": 0.8277027027027027,
+      "val_macro_f1": 0.8269972293553183,
+      "time_minutes": 0.794005294640859
+    },
+    {
+      "epoch": 6,
+      "train_loss": 0.6843870000259297,
+      "train_accuracy": 0.8141891891891891,
+      "train_macro_f1": 0.8118283273605608,
+      "val_loss": 0.6865456200934745,
+      "val_accuracy": 0.8277027027027027,
+      "val_macro_f1": 0.8266468638527725,
+      "time_minutes": 0.7909304579099019
+    },
+    {
+      "epoch": 7,
+      "train_loss": 0.6396941917168127,
+      "train_accuracy": 0.8120777027027027,
+      "train_macro_f1": 0.8089719390371624,
+      "val_loss": 0.6462743604505384,
+      "val_accuracy": 0.8277027027027027,
+      "val_macro_f1": 0.8264752804593178,
+      "time_minutes": 0.7915260076522828
+    },
+    {
+      "epoch": 8,
+      "train_loss": 0.6059009634159707,
+      "train_accuracy": 0.8222128378378378,
+      "train_macro_f1": 0.81908505796954,
+      "val_loss": 0.625381266748583,
+      "val_accuracy": 0.831081081081081,
+      "val_macro_f1": 0.8316218362327145,
+      "time_minutes": 0.8113890250523885
+    },
+    {
+      "epoch": 9,
+      "train_loss": 0.5811828624557804,
+      "train_accuracy": 0.8289695945945946,
+      "train_macro_f1": 0.8269668016122473,
+      "val_loss": 0.5865988199775284,
+      "val_accuracy": 0.8445945945945946,
+      "val_macro_f1": 0.8451160073612332,
+      "time_minutes": 0.7964723149935404
+    },
+    {
+      "epoch": 10,
+      "train_loss": 0.5616655297376014,
+      "train_accuracy": 0.8243243243243243,
+      "train_macro_f1": 0.8226740137791825,
+      "val_loss": 0.5643304425316888,
+      "val_accuracy": 0.8412162162162162,
+      "val_macro_f1": 0.8397390469850874,
+      "time_minutes": 0.7656368692715962
+    },
+    {
+      "epoch": 11,
+      "train_loss": 0.5312898157013429,
+      "train_accuracy": 0.832347972972973,
+      "train_macro_f1": 0.8300175041653705,
+      "val_loss": 0.5584785744950578,
+      "val_accuracy": 0.831081081081081,
+      "val_macro_f1": 0.8301701725917879,
+      "time_minutes": 0.7831727703412373
+    },
+    {
+      "epoch": 12,
+      "train_loss": 0.5276263650204684,
+      "train_accuracy": 0.8327702702702703,
+      "train_macro_f1": 0.8309384075545754,
+      "val_loss": 0.5364910815213177,
+      "val_accuracy": 0.8513513513513513,
+      "val_macro_f1": 0.8506630713856947,
+      "time_minutes": 0.7747284134229024
+    },
+    {
+      "epoch": 13,
+      "train_loss": 0.5121395026107092,
+      "train_accuracy": 0.831081081081081,
+      "train_macro_f1": 0.8293809469823005,
+      "val_loss": 0.5283384508377796,
+      "val_accuracy": 0.8412162162162162,
+      "val_macro_f1": 0.8403519370352912,
+      "time_minutes": 0.7856666962305705
+    },
+    {
+      "epoch": 14,
+      "train_loss": 0.5235080561927847,
+      "train_accuracy": 0.8217905405405406,
+      "train_macro_f1": 0.819375279291975,
+      "val_loss": 0.5070542379005535,
+      "val_accuracy": 0.8513513513513513,
+      "val_macro_f1": 0.8502244757552143,
+      "time_minutes": 0.7983992536862691
+    },
+    {
+      "epoch": 15,
+      "train_loss": 0.5016053903948616,
+      "train_accuracy": 0.8382601351351351,
+      "train_macro_f1": 0.8362557636297179,
+      "val_loss": 0.5144152568804251,
+      "val_accuracy": 0.8412162162162162,
+      "val_macro_f1": 0.8410228943608149,
+      "time_minutes": 0.781809679667155
+    },
+    {
+      "epoch": 16,
+      "train_loss": 0.4949994078157721,
+      "train_accuracy": 0.8315033783783784,
+      "train_macro_f1": 0.8299034941441764,
+      "val_loss": 0.5133108738306407,
+      "val_accuracy": 0.847972972972973,
+      "val_macro_f1": 0.8458695903795179,
+      "time_minutes": 0.7782198667526246
+    },
+    {
+      "epoch": 17,
+      "train_loss": 0.48283732350210884,
+      "train_accuracy": 0.832347972972973,
+      "train_macro_f1": 0.8310903455063962,
+      "val_loss": 0.469857758766896,
+      "val_accuracy": 0.8682432432432432,
+      "val_macro_f1": 0.8679253354073497,
+      "time_minutes": 0.7752113183339436
+    },
+    {
+      "epoch": 18,
+      "train_loss": 0.46798044684770945,
+      "train_accuracy": 0.847972972972973,
+      "train_macro_f1": 0.8467766650364454,
+      "val_loss": 0.47557333675590724,
+      "val_accuracy": 0.8547297297297297,
+      "val_macro_f1": 0.8539756371543898,
+      "time_minutes": 0.7789014379183451
+    },
+    {
+      "epoch": 19,
+      "train_loss": 0.4748571258340333,
+      "train_accuracy": 0.8353040540540541,
+      "train_macro_f1": 0.8339908881696849,
+      "val_loss": 0.4646412375810984,
+      "val_accuracy": 0.847972972972973,
+      "val_macro_f1": 0.8481744421906694,
+      "time_minutes": 0.7818269928296407
+    },
+    {
+      "epoch": 20,
+      "train_loss": 0.45503460666215095,
+      "train_accuracy": 0.840793918918919,
+      "train_macro_f1": 0.8389122092268091,
+      "val_loss": 0.47051489514273565,
+      "val_accuracy": 0.8614864864864865,
+      "val_macro_f1": 0.8609160501641808,
+      "time_minutes": 0.7809286872545879
+    }
+  ]
+}
+
+CLASSIFICATION REPORT
+                 precision    recall  f1-score   support
+
+        Healthy     0.8987    0.9595    0.9281        74
+      Leaf_Spot     0.7143    0.8108    0.7595        74
+    Leaf_webber     0.9412    0.8649    0.9014        74
+Sterilic_mosaic     0.7692    0.6757    0.7194        74
+
+       accuracy                         0.8277       296
+      macro avg     0.8309    0.8277    0.8271       296
+   weighted avg     0.8309    0.8277    0.8271       296

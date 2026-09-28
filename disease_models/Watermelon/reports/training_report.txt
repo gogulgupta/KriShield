@@ -1,0 +1,250 @@
+Watermelon DISEASE MODEL REPORT
+==============================================================================
+{
+  "crop": "Watermelon",
+  "model": "EfficientNetV2-S",
+  "task": "crop-specific disease classification",
+  "device": "cuda",
+  "epochs": 20,
+  "batch_size": 16,
+  "image_size": 224,
+  "learning_rate": 0.0001,
+  "pretrained": "ImageNet",
+  "backbone_frozen": true,
+  "classes": [
+    "anthracnose",
+    "downy_mildew",
+    "healthy",
+    "mosaic_virus"
+  ],
+  "class_to_idx": {
+    "anthracnose": 0,
+    "downy_mildew": 1,
+    "healthy": 2,
+    "mosaic_virus": 3
+  },
+  "train_images": 2368,
+  "val_images": 296,
+  "test_images": 296,
+  "best_epoch": 20,
+  "best_val_macro_f1": 0.9932430890005195,
+  "test_loss": 0.10312898185204815,
+  "test_accuracy": 0.9831081081081081,
+  "test_macro_f1": 0.9829585205081894,
+  "best_model": "G:\\Crop_Classifier_740\\disease_models\\Watermelon\\models\\watermelon_disease_model.pth",
+  "last_model": "G:\\Crop_Classifier_740\\disease_models\\Watermelon\\models\\watermelon_disease_last.pth",
+  "history": [
+    {
+      "epoch": 1,
+      "train_loss": 1.0963266548272725,
+      "train_accuracy": 0.6997466216216216,
+      "train_macro_f1": 0.6926335560278936,
+      "val_loss": 0.875690841996992,
+      "val_accuracy": 0.9121621621621622,
+      "val_macro_f1": 0.9122619857649054,
+      "time_minutes": 2.3333951195081073
+    },
+    {
+      "epoch": 2,
+      "train_loss": 0.744133435391091,
+      "train_accuracy": 0.8956925675675675,
+      "train_macro_f1": 0.8942372566723957,
+      "val_loss": 0.6358300640776351,
+      "val_accuracy": 0.9425675675675675,
+      "val_macro_f1": 0.9425369083803734,
+      "time_minutes": 1.8765011310577393
+    },
+    {
+      "epoch": 3,
+      "train_loss": 0.5676205720047693,
+      "train_accuracy": 0.921875,
+      "train_macro_f1": 0.9207349665995792,
+      "val_loss": 0.4947732171496829,
+      "val_accuracy": 0.9695945945945946,
+      "val_macro_f1": 0.9696714271294103,
+      "time_minutes": 1.863807233174642
+    },
+    {
+      "epoch": 4,
+      "train_loss": 0.464212645952766,
+      "train_accuracy": 0.9349662162162162,
+      "train_macro_f1": 0.9345435187221385,
+      "val_loss": 0.39757687014502446,
+      "val_accuracy": 0.9594594594594594,
+      "val_macro_f1": 0.9595660048056781,
+      "time_minutes": 1.8770668029785156
+    },
+    {
+      "epoch": 5,
+      "train_loss": 0.3923010423376754,
+      "train_accuracy": 0.9421452702702703,
+      "train_macro_f1": 0.941939096758019,
+      "val_loss": 0.34723164543912216,
+      "val_accuracy": 0.9695945945945946,
+      "val_macro_f1": 0.969645780284878,
+      "time_minutes": 1.8724279761314393
+    },
+    {
+      "epoch": 6,
+      "train_loss": 0.35480144207139275,
+      "train_accuracy": 0.9451013513513513,
+      "train_macro_f1": 0.9450436651381964,
+      "val_loss": 0.2986081460037747,
+      "val_accuracy": 0.9864864864864865,
+      "val_macro_f1": 0.9864852523756633,
+      "time_minutes": 1.8700849930445353
+    },
+    {
+      "epoch": 7,
+      "train_loss": 0.3200696177176527,
+      "train_accuracy": 0.9480574324324325,
+      "train_macro_f1": 0.9479379317964899,
+      "val_loss": 0.26761520633826386,
+      "val_accuracy": 0.9763513513513513,
+      "val_macro_f1": 0.976343701695384,
+      "time_minutes": 1.8775821208953858
+    },
+    {
+      "epoch": 8,
+      "train_loss": 0.2869397383183241,
+      "train_accuracy": 0.9510135135135135,
+      "train_macro_f1": 0.9508701221064882,
+      "val_loss": 0.23444906722854925,
+      "val_accuracy": 0.9763513513513513,
+      "val_macro_f1": 0.9764150520746162,
+      "time_minutes": 1.865031862258911
+    },
+    {
+      "epoch": 9,
+      "train_loss": 0.2593636356696889,
+      "train_accuracy": 0.9556587837837838,
+      "train_macro_f1": 0.9555662150471878,
+      "val_loss": 0.20879927680299087,
+      "val_accuracy": 0.9831081081081081,
+      "val_macro_f1": 0.9831049911285967,
+      "time_minutes": 1.8708667755126953
+    },
+    {
+      "epoch": 10,
+      "train_loss": 0.23610041501957016,
+      "train_accuracy": 0.9518581081081081,
+      "train_macro_f1": 0.9517409180408817,
+      "val_loss": 0.1972231411853352,
+      "val_accuracy": 0.9831081081081081,
+      "val_macro_f1": 0.9831049911285967,
+      "time_minutes": 1.8761852304140727
+    },
+    {
+      "epoch": 11,
+      "train_loss": 0.2229084595534447,
+      "train_accuracy": 0.9598817567567568,
+      "train_macro_f1": 0.9598504420759898,
+      "val_loss": 0.1812118994625839,
+      "val_accuracy": 0.9831081081081081,
+      "val_macro_f1": 0.9831520671153448,
+      "time_minutes": 1.9865512331326802
+    },
+    {
+      "epoch": 12,
+      "train_loss": 0.20929101874699463,
+      "train_accuracy": 0.9624155405405406,
+      "train_macro_f1": 0.962352007366742,
+      "val_loss": 0.16855057671263413,
+      "val_accuracy": 0.9797297297297297,
+      "val_macro_f1": 0.9797935726014544,
+      "time_minutes": 1.8845467925071717
+    },
+    {
+      "epoch": 13,
+      "train_loss": 0.19403009046171163,
+      "train_accuracy": 0.965793918918919,
+      "train_macro_f1": 0.965730805786806,
+      "val_loss": 0.15230711791160945,
+      "val_accuracy": 0.9831081081081081,
+      "val_macro_f1": 0.9831283506780195,
+      "time_minutes": 1.8810559034347534
+    },
+    {
+      "epoch": 14,
+      "train_loss": 0.19938601019817428,
+      "train_accuracy": 0.9641047297297297,
+      "train_macro_f1": 0.964008549595317,
+      "val_loss": 0.14291093941475894,
+      "val_accuracy": 0.9864864864864865,
+      "val_macro_f1": 0.9865085493656922,
+      "time_minutes": 1.89274400472641
+    },
+    {
+      "epoch": 15,
+      "train_loss": 0.18600368864733624,
+      "train_accuracy": 0.9615709459459459,
+      "train_macro_f1": 0.9615447577211386,
+      "val_loss": 0.14433318074490573,
+      "val_accuracy": 0.9797297297297297,
+      "val_macro_f1": 0.9797935726014544,
+      "time_minutes": 1.8740243117014568
+    },
+    {
+      "epoch": 16,
+      "train_loss": 0.18666149612918898,
+      "train_accuracy": 0.953125,
+      "train_macro_f1": 0.9531202414434072,
+      "val_loss": 0.1320178247988224,
+      "val_accuracy": 0.9831081081081081,
+      "val_macro_f1": 0.9831283506780195,
+      "time_minutes": 1.8822683056195577
+    },
+    {
+      "epoch": 17,
+      "train_loss": 0.17266266606748104,
+      "train_accuracy": 0.9632601351351351,
+      "train_macro_f1": 0.9632075448610828,
+      "val_loss": 0.12403551972395666,
+      "val_accuracy": 0.9831081081081081,
+      "val_macro_f1": 0.983099557511198,
+      "time_minutes": 1.878778298695882
+    },
+    {
+      "epoch": 18,
+      "train_loss": 0.15754219615278212,
+      "train_accuracy": 0.9700168918918919,
+      "train_macro_f1": 0.9699982695812571,
+      "val_loss": 0.12051816923996887,
+      "val_accuracy": 0.9831081081081081,
+      "val_macro_f1": 0.9831520671153448,
+      "time_minutes": 1.8787117878595987
+    },
+    {
+      "epoch": 19,
+      "train_loss": 0.16058489101359974,
+      "train_accuracy": 0.9619932432432432,
+      "train_macro_f1": 0.9619806534475811,
+      "val_loss": 0.11544291121331421,
+      "val_accuracy": 0.9831081081081081,
+      "val_macro_f1": 0.9830842066556353,
+      "time_minutes": 1.8788774331410727
+    },
+    {
+      "epoch": 20,
+      "train_loss": 0.15845507275111773,
+      "train_accuracy": 0.9649493243243243,
+      "train_macro_f1": 0.9648888813590941,
+      "val_loss": 0.10571196426108882,
+      "val_accuracy": 0.9932432432432432,
+      "val_macro_f1": 0.9932430890005195,
+      "time_minutes": 1.921628193060557
+    }
+  ]
+}
+
+CLASSIFICATION REPORT
+              precision    recall  f1-score   support
+
+ anthracnose     1.0000    1.0000    1.0000        74
+downy_mildew     0.9610    1.0000    0.9801        74
+     healthy     0.9737    1.0000    0.9867        74
+mosaic_virus     1.0000    0.9324    0.9650        74
+
+    accuracy                         0.9831       296
+   macro avg     0.9837    0.9831    0.9830       296
+weighted avg     0.9837    0.9831    0.9830       296

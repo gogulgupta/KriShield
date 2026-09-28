@@ -1,0 +1,1209 @@
+{
+  "crop": "Watermelon",
+  "paper_information": {
+    "title": "A perspective on Integrated Disease Management Strategies in Minor Tropical Fruit Crops of India",
+    "authors": [
+      "Sudeepta Pattanayak",
+      "Siddhartha Das"
+    ],
+    "year": "2020",
+    "journal_or_source": "Advanced Agriculture, New Delhi Publishers",
+    "doi_or_identifier": "10.30954/NDP-advagr.2020.8",
+    "abstract_summary": "This chapter describes the diseases, symptoms, and Integrated Disease Management (IDM) approaches for minor tropical fruit crops including watermelon, cucumber, sapota, and jamun. It emphasizes combining physical, cultural, biological, and chemical control measures to manage multiple diseases simultaneously while reducing environmental hazards and chemical resistance.",
+    "research_objective": "To review and describe the diseases, symptoms, and Integrated Disease Management (IDM) strategies for minor tropical fruit crops such as cucumber, watermelon, sapota, and jamun in India.",
+    "study_area": "India",
+    "important_findings": [
+      "Integrated disease management combines cultural, physical, biological, and chemical methods to control multiple pathogens simultaneously.",
+      "Watermelon cultivation is affected by several major fungal, bacterial, and viral diseases.",
+      "Chemical methods must be used judiciously to avoid pathogen resistance and environmental pollution."
+    ]
+  },
+  "diseases": [
+    {
+      "disease_name": "Angular leaf spot",
+      "alternative_names": [],
+      "disease_type": "Bacterial disease",
+      "causal_agent": "Pseudomonas syringae pv. Lachrymans",
+      "pathogen_type": "Bacteria",
+      "affected_plant_parts": [
+        "Leaves",
+        "Stem",
+        "Petioles"
+      ],
+      "symptoms": {
+        "general": [
+          "Angular to irregular shiny leaf spots with yellowish halo",
+          "Lesions turn brown and dry",
+          "Spots on upper surface turn whitish grey to brown and die, lower surface lesions are gummy and shiny"
+        ],
+        "early_symptoms": [],
+        "advanced_symptoms": [],
+        "visual_field_symptoms": [
+          "Angular to irregular shiny leaf spots with yellowish halo",
+          "Spots restricted by veins giving an angular appearance"
+        ]
+      },
+      "identification": {
+        "field_identification": [
+          "Angular to irregular shiny leaf spots with yellowish halo",
+          "Upper surface spots turn whitish grey to brown and die",
+          "Lower surface lesions are gummy and shiny"
+        ],
+        "diagnostic_methods": [],
+        "differential_diagnosis": []
+      },
+      "causes_and_risk_factors": [
+        "Chain irrigation and overhead irrigation",
+        "Excessive nitrogen fertilization"
+      ],
+      "favorable_conditions": {
+        "temperature": "",
+        "humidity": "",
+        "rainfall": "",
+        "soil_conditions": "",
+        "other_conditions": []
+      },
+      "disease_development_and_spread": [],
+      "epidemiology": [],
+      "severity_and_yield_loss": [],
+      "management": {
+        "cultural_management": [
+          "Seed treatment for 20 minutes with water at 50 degrees C with organic chemicals to reduce bacteria",
+          "Rotation with other vegetables, flowers, or small fruits at least for 3 years",
+          "Avoid chain irrigation and overhead irrigation",
+          "Avoid excessive nitrogen fertilization"
+        ],
+        "biological_management": [],
+        "chemical_management": [
+          {
+            "active_ingredient_or_product": "Streptomycin sulphate + tetracycline hydrochloride",
+            "dose": "6g/10 litre",
+            "concentration": "",
+            "application_method": "",
+            "timing": "Should be used on younger stage of the crop growth, do not use during fruiting stage",
+            "number_of_applications": "",
+            "result_reported_in_paper": ""
+          },
+          {
+            "active_ingredient_or_product": "Copper oxychloride",
+            "dose": "3g/ liter",
+            "concentration": "",
+            "application_method": "Used as soil drenching at the root zone of the plant",
+            "timing": "",
+            "number_of_applications": "",
+            "result_reported_in_paper": ""
+          },
+          {
+            "active_ingredient_or_product": "Copper hydroxide",
+            "dose": "2g/ liter",
+            "concentration": "",
+            "application_method": "",
+            "timing": "7-10 day interval application",
+            "number_of_applications": "",
+            "result_reported_in_paper": ""
+          },
+          {
+            "active_ingredient_or_product": "Cuprous oxide",
+            "dose": "2g/ liter",
+            "concentration": "",
+            "application_method": "",
+            "timing": "7-10 day interval",
+            "number_of_applications": "",
+            "result_reported_in_paper": ""
+          },
+          {
+            "active_ingredient_or_product": "Copper sulphate",
+            "dose": "2g/ liter",
+            "concentration": "",
+            "application_method": "",
+            "timing": "5-10 day interval",
+            "number_of_applications": "",
+            "result_reported_in_paper": "a tank mix with mancozeb will give added control"
+          }
+        ],
+        "integrated_management": []
+      },
+      "resistant_or_tolerant_varieties": [],
+      "susceptible_varieties": [],
+      "prevention": [],
+      "farmer_action_points": [],
+      "warnings_and_limitations": [],
+      "research_findings": [],
+      "source_pages": [
+        "11",
+        "12"
+      ]
+    },
+    {
+      "disease_name": "Alternaria leaf blight",
+      "alternative_names": [],
+      "disease_type": "Fungal disease",
+      "causal_agent": "Alternaria cucumerina",
+      "pathogen_type": "Fungus",
+      "affected_plant_parts": [
+        "Leaves"
+      ],
+      "symptoms": {
+        "general": [
+          "Small, circular, water soaked, transparent lesions appear initially in older leaves",
+          "Lesions turn light brown, dark brown, or black on watermelon when mature",
+          "Concentric ring like spots are characteristic symptoms",
+          "Spots coalesce giving a blighting large area of the leaf",
+          "Lesions covered with dark olive green to black mold (mycelium and spores)"
+        ],
+        "early_symptoms": [
+          "Small, circular, water soaked, transparent lesions in older leaves"
+        ],
+        "advanced_symptoms": [
+          "Enlarged lesions turning light brown, dark brown or black",
+          "Concentric ring spots coalescing into blighted areas"
+        ],
+        "visual_field_symptoms": [
+          "Concentric ring spots on leaves",
+          "Dark olive green to black mold on lesions"
+        ]
+      },
+      "identification": {
+        "field_identification": [
+          "Concentric ring like spots",
+          "Dark olive green to black mold covering lesions"
+        ],
+        "diagnostic_methods": [],
+        "differential_diagnosis": []
+      },
+      "causes_and_risk_factors": [
+        "Warm and humid conditions"
+      ],
+      "favorable_conditions": {
+        "temperature": "Warm",
+        "humidity": "Humid",
+        "rainfall": "",
+        "soil_conditions": "",
+        "other_conditions": []
+      },
+      "disease_development_and_spread": [
+        "Spreads from older leaves to younger leaves in warm and humid conditions"
+      ],
+      "epidemiology": [],
+      "severity_and_yield_loss": [],
+      "management": {
+        "cultural_management": [
+          "Rotation with other vegetables, flowers, or small fruits at least for 3 years",
+          "Cleanly plough under or remove and burn crop debris after harvest",
+          "Control weeds"
+        ],
+        "biological_management": [],
+        "chemical_management": [
+          {
+            "active_ingredient_or_product": "Mancozeb",
+            "dose": "2g/liter",
+            "concentration": "",
+            "application_method": "Used as a protective application",
+            "timing": "5-7 days interval",
+            "number_of_applications": "",
+            "result_reported_in_paper": ""
+          },
+          {
+            "active_ingredient_or_product": "Chlorothalonil",
+            "dose": "2g/liter",
+            "concentration": "",
+            "application_method": "Can be used as a protective application",
+            "timing": "5-7 days interval",
+            "number_of_applications": "",
+            "result_reported_in_paper": ""
+          },
+          {
+            "active_ingredient_or_product": "Pyraclostrobin",
+            "dose": "1g/liter",
+            "concentration": "",
+            "application_method": "",
+            "timing": "7-14 day interval",
+            "number_of_applications": "no more than two sequential application",
+            "result_reported_in_paper": ""
+          },
+          {
+            "active_ingredient_or_product": "Azoxystrobin",
+            "dose": "0.5 ml/liter",
+            "concentration": "",
+            "application_method": "can be tank mixed with protectant fungicide",
+            "timing": "",
+            "number_of_applications": "No more than two application per season",
+            "result_reported_in_paper": ""
+          },
+          {
+            "active_ingredient_or_product": "Copper hydroxide",
+            "dose": "2g/liter",
+            "concentration": "",
+            "application_method": "",
+            "timing": "7-10 day interval application",
+            "number_of_applications": "",
+            "result_reported_in_paper": ""
+          },
+          {
+            "active_ingredient_or_product": "Difenoconazole",
+            "dose": "0.5 ml/liter",
+            "concentration": "",
+            "application_method": "",
+            "timing": "",
+            "number_of_applications": "2-3 application per season",
+            "result_reported_in_paper": ""
+          }
+        ],
+        "integrated_management": []
+      },
+      "resistant_or_tolerant_varieties": [],
+      "susceptible_varieties": [],
+      "prevention": [],
+      "farmer_action_points": [],
+      "warnings_and_limitations": [],
+      "research_findings": [],
+      "source_pages": [
+        "12",
+        "13"
+      ]
+    },
+    {
+      "disease_name": "Anthracnose",
+      "alternative_names": [],
+      "disease_type": "Fungal disease",
+      "causal_agent": "Colletotrichum orbiculare",
+      "pathogen_type": "Fungus",
+      "affected_plant_parts": [
+        "Leaves",
+        "Stem",
+        "Fruit"
+      ],
+      "symptoms": {
+        "general": [
+          "Irregular lesions on leaves where the centre falls off giving a shot hole appearance",
+          "Spindle shaped light brown lesion found on stem",
+          "Sunken and round lesions start in lower surface of leaves which may be orange or salmon-coloured on watermelon fruit"
+        ],
+        "early_symptoms": [],
+        "advanced_symptoms": [],
+        "visual_field_symptoms": [
+          "Shot hole appearance on leaves",
+          "Spindle shaped light brown lesions on stem",
+          "Sunken round lesions on fruit with orange or salmon-colored spores"
+        ]
+      },
+      "identification": {
+        "field_identification": [
+          "Shot hole appearance on leaves",
+          "Spindle-shaped stem lesions",
+          "Sunken round fruit lesions with orange/salmon-colored spores"
+        ],
+        "diagnostic_methods": [],
+        "differential_diagnosis": []
+      },
+      "causes_and_risk_factors": [],
+      "favorable_conditions": {
+        "temperature": "",
+        "humidity": "",
+        "rainfall": "",
+        "soil_conditions": "",
+        "other_conditions": []
+      },
+      "disease_development_and_spread": [],
+      "epidemiology": [],
+      "severity_and_yield_loss": [],
+      "management": {
+        "cultural_management": [
+          "Rotation with other vegetables, flowers, or small fruits at least for 3 years",
+          "Observe seedlings carefully at transplanting",
+          "Maintain proper sanitation in the field"
+        ],
+        "biological_management": [],
+        "chemical_management": [
+          {
+            "active_ingredient_or_product": "Mancozeb",
+            "dose": "2g/litre",
+            "concentration": "",
+            "application_method": "Used as a protective application",
+            "timing": "5-7 days interval",
+            "number_of_applications": "",
+            "result_reported_in_paper": ""
+          },
+          {
+            "active_ingredient_or_product": "Chlorothalonil",
+            "dose": "2g/litre",
+            "concentration": "",
+            "application_method": "Can be used as a protective application",
+            "timing": "5-7 days interval",
+            "number_of_applications": "",
+            "result_reported_in_paper": ""
+          },
+          {
+            "active_ingredient_or_product": "Pyraclostrobin",
+            "dose": "1g/litre",
+            "concentration": "",
+            "application_method": "",
+            "timing": "7-14 day interval",
+            "number_of_applications": "no more than two sequential application",
+            "result_reported_in_paper": ""
+          },
+          {
+            "active_ingredient_or_product": "Azoxystrobin",
+            "dose": "0.5ml/litre",
+            "concentration": "",
+            "application_method": "can be tank mixed with protectant fungicide",
+            "timing": "",
+            "number_of_applications": "No more than two application per season",
+            "result_reported_in_paper": ""
+          },
+          {
+            "active_ingredient_or_product": "Copper hydroxide",
+            "dose": "2g/litre",
+            "concentration": "",
+            "application_method": "",
+            "timing": "7-10 day interval application",
+            "number_of_applications": "",
+            "result_reported_in_paper": ""
+          }
+        ],
+        "integrated_management": []
+      },
+      "resistant_or_tolerant_varieties": [],
+      "susceptible_varieties": [],
+      "prevention": [],
+      "farmer_action_points": [],
+      "warnings_and_limitations": [],
+      "research_findings": [],
+      "source_pages": [
+        "13",
+        "14"
+      ]
+    },
+    {
+      "disease_name": "Cercospora leaf spot",
+      "alternative_names": [],
+      "disease_type": "Fungal disease",
+      "causal_agent": "Cercospora citrullina",
+      "pathogen_type": "Fungus",
+      "affected_plant_parts": [
+        "Leaves",
+        "Stem",
+        "Petioles"
+      ],
+      "symptoms": {
+        "general": [
+          "Starts from older leaves, affects stem and petioles in favourable conditions",
+          "Circular to irregular spots having white or light brown centres and black or dark purple margins",
+          "Spots coalesce making the leaf yellow",
+          "Centres of the spot may fall off"
+        ],
+        "early_symptoms": [
+          "Symptom starts from older leaves"
+        ],
+        "advanced_symptoms": [
+          "Spots coalesce making the leaf yellow",
+          "Centres of spots fall off"
+        ],
+        "visual_field_symptoms": [
+          "Circular to irregular spots with white/light brown centers and black/dark purple margins"
+        ]
+      },
+      "identification": {
+        "field_identification": [
+          "Circular to irregular spots with white/light brown centers and dark margins on older leaves"
+        ],
+        "diagnostic_methods": [],
+        "differential_diagnosis": []
+      },
+      "causes_and_risk_factors": [],
+      "favorable_conditions": {
+        "temperature": "",
+        "humidity": "",
+        "rainfall": "",
+        "soil_conditions": "",
+        "other_conditions": [
+          "Favourable condition affects stem and petioles"
+        ]
+      },
+      "disease_development_and_spread": [],
+      "epidemiology": [],
+      "severity_and_yield_loss": [],
+      "management": {
+        "cultural_management": [
+          "Good sanitation practices such as removing and destroying diseased vines",
+          "Two to three-year crop rotation with non-cucurbitaceous plants",
+          "Avoid overhead irrigation"
+        ],
+        "biological_management": [
+          "No biological control practices have been developed for Cercospora leaf spot."
+        ],
+        "chemical_management": [
+          {
+            "active_ingredient_or_product": "Mancozeb",
+            "dose": "2g/litre",
+            "concentration": "",
+            "application_method": "Used as a protective application",
+            "timing": "5-7 days interval",
+            "number_of_applications": "",
+            "result_reported_in_paper": ""
+          },
+          {
+            "active_ingredient_or_product": "Chlorothalonil",
+            "dose": "2g/litre",
+            "concentration": "",
+            "application_method": "Can be used as a protective application",
+            "timing": "5-7 days interval",
+            "number_of_applications": "",
+            "result_reported_in_paper": ""
+          },
+          {
+            "active_ingredient_or_product": "Pyraclostrobin",
+            "dose": "1g/litre",
+            "concentration": "",
+            "application_method": "",
+            "timing": "7-14 day interval",
+            "number_of_applications": "no more than two sequential application",
+            "result_reported_in_paper": ""
+          },
+          {
+            "active_ingredient_or_product": "Azoxystrobin",
+            "dose": "0.5ml/litre",
+            "concentration": "",
+            "application_method": "can be tank mixed with protectant fungicide",
+            "timing": "",
+            "number_of_applications": "No more than two application per season",
+            "result_reported_in_paper": ""
+          },
+          {
+            "active_ingredient_or_product": "Copper hydroxide",
+            "dose": "2g/litre",
+            "concentration": "",
+            "application_method": "",
+            "timing": "7-10 day interval application",
+            "number_of_applications": "",
+            "result_reported_in_paper": ""
+          },
+          {
+            "active_ingredient_or_product": "Difenoconazole",
+            "dose": "0.5ml/litre",
+            "concentration": "",
+            "application_method": "",
+            "timing": "",
+            "number_of_applications": "2-3 application per season",
+            "result_reported_in_paper": ""
+          }
+        ],
+        "integrated_management": []
+      },
+      "resistant_or_tolerant_varieties": [],
+      "susceptible_varieties": [],
+      "prevention": [],
+      "farmer_action_points": [],
+      "warnings_and_limitations": [],
+      "research_findings": [],
+      "source_pages": [
+        "14",
+        "15"
+      ]
+    },
+    {
+      "disease_name": "Charcoal rot Vine decline and fruit rot",
+      "alternative_names": [],
+      "disease_type": "Fungal disease",
+      "causal_agent": "Macrophomina phaseolina",
+      "pathogen_type": "Fungus",
+      "affected_plant_parts": [
+        "Roots",
+        "Stems",
+        "Fruits",
+        "Foliage"
+      ],
+      "symptoms": {
+        "general": [
+          "Basal cankers observed in stem followed by girdling of the stem",
+          "Yellowing of foliage, wilting, and entire plant collapses",
+          "Initially brown lesions with amber colored droplets resembling gummy stem blight",
+          "Later lesions change to light tan color dotted with sclerotia",
+          "Large sunken areas with dark grey to black colour on fruits"
+        ],
+        "early_symptoms": [
+          "Basal cankers on stem",
+          "Brown lesions with amber colored droplets"
+        ],
+        "advanced_symptoms": [
+          "Stem girdling",
+          "Foliage yellowing and plant collapse",
+          "Light tan lesions with sclerotia and dark sunken areas on fruit"
+        ],
+        "visual_field_symptoms": [
+          "Basal cankers, stem girdling, yellowing, wilting, plant collapse",
+          "Dark sunken areas on fruits"
+        ]
+      },
+      "identification": {
+        "field_identification": [
+          "Basal stem cankers and girdling",
+          "Plant collapse with sclerotia-dotted lesions",
+          "Dark grey to black sunken areas on fruits"
+        ],
+        "diagnostic_methods": [],
+        "differential_diagnosis": []
+      },
+      "causes_and_risk_factors": [
+        "Drought stress",
+        "Soil-borne root-infecting pathogens"
+      ],
+      "favorable_conditions": {
+        "temperature": "",
+        "humidity": "",
+        "rainfall": "",
+        "soil_conditions": "",
+        "other_conditions": [
+          "Drought stress"
+        ]
+      },
+      "disease_development_and_spread": [],
+      "epidemiology": [],
+      "severity_and_yield_loss": [],
+      "management": {
+        "cultural_management": [
+          "Crop rotation with non-host crop for 2 to 3 years",
+          "Irrigate thoroughly to avoid drought stress",
+          "Destroy infected plant residue",
+          "Grafting with susceptible scion to resistant rootstock"
+        ],
+        "biological_management": [],
+        "chemical_management": [],
+        "integrated_management": []
+      },
+      "resistant_or_tolerant_varieties": [
+        "Resistant rootstock (used via grafting)"
+      ],
+      "susceptible_varieties": [
+        "Susceptible scion"
+      ],
+      "prevention": [],
+      "farmer_action_points": [],
+      "warnings_and_limitations": [
+        "No chemical control measures have been reported to be effective."
+      ],
+      "research_findings": [
+        "Grafting with susceptible scion to resistant rootstock is one of the effective methods for charcoal rot where chemical control is not useful."
+      ],
+      "source_pages": [
+        "15",
+        "16"
+      ]
+    },
+    {
+      "disease_name": "Myrothecium leaf spot and stem canker",
+      "alternative_names": [],
+      "disease_type": "Fungal disease",
+      "causal_agent": "Myrothecium roridum",
+      "pathogen_type": "Fungus",
+      "affected_plant_parts": [
+        "Leaves",
+        "Stem margins"
+      ],
+      "symptoms": {
+        "general": [
+          "Initially round or oblong, dark brown to black colour with yellow halo lesions on leaves",
+          "Necrotic tissue falls off giving a short hole type appearance",
+          "Lesions mainly start from leaf margins as fungi enter from hydathodes",
+          "Concentric ring like spots covered with sporodochia appear in older leaves"
+        ],
+        "early_symptoms": [
+          "Round or oblong dark brown to black lesions with yellow halo on leaves starting from leaf margins"
+        ],
+        "advanced_symptoms": [
+          "Necrotic tissue falling off resulting in short hole appearance",
+          "Concentric ring spots covered with sporodochia on older leaves"
+        ],
+        "visual_field_symptoms": [
+          "Dark brown to black lesions with yellow halos and shot-hole appearance on leaves"
+        ]
+      },
+      "identification": {
+        "field_identification": [
+          "Dark brown to black leaf lesions with yellow halos and shot-hole symptoms"
+        ],
+        "diagnostic_methods": [],
+        "differential_diagnosis": []
+      },
+      "causes_and_risk_factors": [
+        "Overhead irrigation"
+      ],
+      "favorable_conditions": {
+        "temperature": "",
+        "humidity": "",
+        "rainfall": "",
+        "soil_conditions": "",
+        "other_conditions": []
+      },
+      "disease_development_and_spread": [
+        "Fungi enter from hydathodes starting mainly from leaf margins"
+      ],
+      "epidemiology": [],
+      "severity_and_yield_loss": [],
+      "management": {
+        "cultural_management": [
+          "Destroy crop residues",
+          "Avoid overhead irrigation",
+          "Early morning hour irrigations are recommended",
+          "Rogue out alternate and collateral hosts",
+          "Crop rotation with non-host crop for 2 to 3 years"
+        ],
+        "biological_management": [],
+        "chemical_management": [
+          {
+            "active_ingredient_or_product": "Mancozeb",
+            "dose": "2g/litre",
+            "concentration": "",
+            "application_method": "Used as a protective application",
+            "timing": "5-7 days interval",
+            "number_of_applications": "",
+            "result_reported_in_paper": ""
+          },
+          {
+            "active_ingredient_or_product": "Chlorothalonil",
+            "dose": "2g/litre",
+            "concentration": "",
+            "application_method": "Can be used as a protective application",
+            "timing": "5-7 days interval",
+            "number_of_applications": "",
+            "result_reported_in_paper": ""
+          },
+          {
+            "active_ingredient_or_product": "Pyraclostrobin",
+            "dose": "1g/litre",
+            "concentration": "",
+            "application_method": "",
+            "timing": "7-14 day interval",
+            "number_of_applications": "no more than two sequential application",
+            "result_reported_in_paper": ""
+          },
+          {
+            "active_ingredient_or_product": "Azoxystrobin",
+            "dose": "0.5ml/litre",
+            "concentration": "",
+            "application_method": "can be tank mixed with protectant fungicide",
+            "timing": "",
+            "number_of_applications": "No more than two application per season",
+            "result_reported_in_paper": ""
+          },
+          {
+            "active_ingredient_or_product": "Copper hydroxide",
+            "dose": "2g/litre",
+            "concentration": "",
+            "application_method": "",
+            "timing": "7-10 day interval application",
+            "number_of_applications": "",
+            "result_reported_in_paper": ""
+          },
+          {
+            "active_ingredient_or_product": "Difenoconazole",
+            "dose": "0.5ml/litre",
+            "concentration": "",
+            "application_method": "",
+            "timing": "",
+            "number_of_applications": "2-3 application per season",
+            "result_reported_in_paper": ""
+          }
+        ],
+        "integrated_management": []
+      },
+      "resistant_or_tolerant_varieties": [],
+      "susceptible_varieties": [],
+      "prevention": [],
+      "farmer_action_points": [],
+      "warnings_and_limitations": [],
+      "research_findings": [],
+      "source_pages": [
+        "15",
+        "16",
+        "17"
+      ]
+    },
+    {
+      "disease_name": "Crown and foot rot",
+      "alternative_names": [],
+      "disease_type": "Fungal disease",
+      "causal_agent": "Fusarium solani",
+      "pathogen_type": "Fungus",
+      "affected_plant_parts": [
+        "Leaves",
+        "Vines",
+        "Collar region",
+        "Fruits"
+      ],
+      "symptoms": {
+        "general": [
+          "Initially leaves show wilting symptom followed by vine",
+          "Dark reddish to brown colouration with wet tissues in collar region",
+          "Collar region covered by white to pink mycelium",
+          "Fruits develop soft rot on the part in contact with the ground"
+        ],
+        "early_symptoms": [
+          "Initial wilting of leaves and vines"
+        ],
+        "advanced_symptoms": [
+          "Dark reddish to brown collar tissue with white to pink mycelium",
+          "Fruit soft rot on ground-contact areas"
+        ],
+        "visual_field_symptoms": [
+          "Wilting leaves/vines, dark reddish-brown collar region with white/pink mycelium, fruit soft rot"
+        ]
+      },
+      "identification": {
+        "field_identification": [
+          "Wilting vine, reddish-brown wet tissue at collar with white/pink fungal growth, ground fruit soft rot"
+        ],
+        "diagnostic_methods": [],
+        "differential_diagnosis": []
+      },
+      "causes_and_risk_factors": [
+        "Drip fertilization and high fertilization",
+        "Overlapping same crop in nearby fields (airborne conidia entry)"
+      ],
+      "favorable_conditions": {
+        "temperature": "",
+        "humidity": "",
+        "rainfall": "",
+        "soil_conditions": "",
+        "other_conditions": []
+      },
+      "disease_development_and_spread": [
+        "Airborne conidia entering from nearby fields with overlapping crops"
+      ],
+      "epidemiology": [],
+      "severity_and_yield_loss": [],
+      "management": {
+        "cultural_management": [
+          "Avoid drip fertilization and high fertilization",
+          "Avoid overlapping of same crop in nearby fields to prevent entry of airborne conidia"
+        ],
+        "biological_management": [
+          "Seedling root dip treatment of bio control agents like Trichoderma viridae or Trichoderma harzianum during transplanting (10g/1litre of water)"
+        ],
+        "chemical_management": [
+          {
+            "active_ingredient_or_product": "Copper oxychloride",
+            "dose": "3g/litre",
+            "concentration": "",
+            "application_method": "Used as drenching in the soil; for large scale application drenching is not feasible",
+            "timing": "",
+            "number_of_applications": "",
+            "result_reported_in_paper": ""
+          },
+          {
+            "active_ingredient_or_product": "Carbendazim",
+            "dose": "1g/litre",
+            "concentration": "",
+            "application_method": "Used as drenching in the soil; for large scale application drenching is not feasible",
+            "timing": "",
+            "number_of_applications": "",
+            "result_reported_in_paper": ""
+          }
+        ],
+        "integrated_management": []
+      },
+      "resistant_or_tolerant_varieties": [],
+      "susceptible_varieties": [],
+      "prevention": [],
+      "farmer_action_points": [],
+      "warnings_and_limitations": [
+        "For large scale application, soil drenching is not feasible."
+      ],
+      "research_findings": [],
+      "source_pages": [
+        "16",
+        "17"
+      ]
+    },
+    {
+      "disease_name": "Downy mildew",
+      "alternative_names": [],
+      "disease_type": "Fungal disease",
+      "causal_agent": "Pseudoperonospora cubensis",
+      "pathogen_type": "Fungus",
+      "affected_plant_parts": [
+        "Leaves",
+        "Leaf veins"
+      ],
+      "symptoms": {
+        "general": [
+          "Angular light green lesions restricted by leaf veins becoming chlorotic and water soaked",
+          "Leaves curl and complete death of the plant occurs in severe cases",
+          "Described as 'wildfire' as leaves appear burned",
+          "Downy, fuzzy growth from leaf veins and sporulation on underside of leaf (color depends on density and age of sporangia)"
+        ],
+        "early_symptoms": [
+          "Angular light green lesions restricted by leaf veins"
+        ],
+        "advanced_symptoms": [
+          "Chlorotic, water-soaked spots turning into burned appearance ('wildfire')",
+          "Leaf curling and plant death"
+        ],
+        "visual_field_symptoms": [
+          "Angular light green/chlorotic lesions restricted by veins, fuzzy growth on lower leaf surface, burned appearance"
+        ]
+      },
+      "identification": {
+        "field_identification": [
+          "Angular chlorotic lesions restricted by veins, downy lower leaf growth, wildfire-like burned appearance"
+        ],
+        "diagnostic_methods": [],
+        "differential_diagnosis": []
+      },
+      "causes_and_risk_factors": [
+        "Prolonged favorable environmental conditions",
+        "High inoculum levels",
+        "Leaf wetness"
+      ],
+      "favorable_conditions": {
+        "temperature": "",
+        "humidity": "High humidity environments",
+        "rainfall": "",
+        "soil_conditions": "",
+        "other_conditions": [
+          "Prolonged favorable environmental conditions",
+          "High inoculum levels"
+        ]
+      },
+      "disease_development_and_spread": [],
+      "epidemiology": [],
+      "severity_and_yield_loss": [],
+      "management": {
+        "cultural_management": [
+          "Avoid excessive overhead irrigation",
+          "Take precaution measures to reduce leaf wetness period and promote airflow",
+          "Maintain proper sanitization",
+          "Grow cucurbits in environments where humidity levels can be manipulated"
+        ],
+        "biological_management": [],
+        "chemical_management": [
+          {
+            "active_ingredient_or_product": "Mancozeb",
+            "dose": "2g/litre",
+            "concentration": "",
+            "application_method": "Used as a protective application",
+            "timing": "5-7 days interval",
+            "number_of_applications": "",
+            "result_reported_in_paper": ""
+          },
+          {
+            "active_ingredient_or_product": "Chlorothalonil",
+            "dose": "2g/litre",
+            "concentration": "",
+            "application_method": "Can be used as a protective application",
+            "timing": "5-7 days interval",
+            "number_of_applications": "",
+            "result_reported_in_paper": ""
+          },
+          {
+            "active_ingredient_or_product": "Fosetyl aluminum",
+            "dose": "3g/litre",
+            "concentration": "",
+            "application_method": "foliar application",
+            "timing": "Preventive treatment prior to disease onset",
+            "number_of_applications": "",
+            "result_reported_in_paper": ""
+          },
+          {
+            "active_ingredient_or_product": "Azoxystrobin",
+            "dose": "0.5ml/litre",
+            "concentration": "",
+            "application_method": "can be tank mixed with protectant fungicide",
+            "timing": "",
+            "number_of_applications": "No more than two application per season",
+            "result_reported_in_paper": ""
+          },
+          {
+            "active_ingredient_or_product": "Dimethomorph",
+            "dose": "1g/litre",
+            "concentration": "",
+            "application_method": "",
+            "timing": "5-10 days interval",
+            "number_of_applications": "not more than five application per season",
+            "result_reported_in_paper": ""
+          }
+        ],
+        "integrated_management": []
+      },
+      "resistant_or_tolerant_varieties": [],
+      "susceptible_varieties": [],
+      "prevention": [],
+      "farmer_action_points": [],
+      "warnings_and_limitations": [],
+      "research_findings": [],
+      "source_pages": [
+        "17",
+        "18"
+      ]
+    },
+    {
+      "disease_name": "Fusarium wilt",
+      "alternative_names": [],
+      "disease_type": "Fungal disease",
+      "causal_agent": "Fusarium oxysporum f.sp niveum",
+      "pathogen_type": "Fungus",
+      "affected_plant_parts": [
+        "Seedlings",
+        "Soil level tissues",
+        "Leaves",
+        "Vascular system"
+      ],
+      "symptoms": {
+        "general": [
+          "In young seedlings, damping off and soft rot near soil level followed by stunting",
+          "Plants show wilting and gradually die",
+          "Vascular discoloration with brown leaves is observed"
+        ],
+        "early_symptoms": [
+          "Damping off and soft rot near soil level in young seedlings",
+          "Stunting"
+        ],
+        "advanced_symptoms": [
+          "Wilting and gradual plant death",
+          "Vascular discoloration with brown leaves"
+        ],
+        "visual_field_symptoms": [
+          "Seedling damping off, soft rot at soil line, stunting, wilting, vascular discoloration with brown leaves"
+        ]
+      },
+      "identification": {
+        "field_identification": [
+          "Seedling damping off, wilting, vascular discoloration with brown leaves"
+        ],
+        "diagnostic_methods": [],
+        "differential_diagnosis": []
+      },
+      "causes_and_risk_factors": [],
+      "favorable_conditions": {
+        "temperature": "",
+        "humidity": "",
+        "rainfall": "",
+        "soil_conditions": "",
+        "other_conditions": []
+      },
+      "disease_development_and_spread": [],
+      "epidemiology": [],
+      "severity_and_yield_loss": [],
+      "management": {
+        "cultural_management": [
+          "Crop rotation with non-host crops",
+          "Disease free planting materials",
+          "Growing resistant varieties"
+        ],
+        "biological_management": [],
+        "chemical_management": [],
+        "integrated_management": []
+      },
+      "resistant_or_tolerant_varieties": [
+        "Resistant varieties"
+      ],
+      "susceptible_varieties": [],
+      "prevention": [],
+      "farmer_action_points": [],
+      "warnings_and_limitations": [
+        "No fungicides are found to be effective one."
+      ],
+      "research_findings": [
+        "Green house studies of organic fertilizers in combination with different antagonistic strains of non-pathogenic Fusarium oxysporum and other microorganisms have shown promising, but not recommended in farmers level."
+      ],
+      "source_pages": [
+        "17",
+        "18",
+        "19"
+      ]
+    },
+    {
+      "disease_name": "Pythium fruit rot (cottony leak)",
+      "alternative_names": [
+        "cottony leak"
+      ],
+      "disease_type": "Fungal disease",
+      "causal_agent": "Pythium spp.",
+      "pathogen_type": "Fungus",
+      "affected_plant_parts": [
+        "Fruits"
+      ],
+      "symptoms": {
+        "general": [
+          "Fruits in contact with soil are affected mostly",
+          "Small, water-soaked lesions coalesce forming large necrotic and soft areas",
+          "Profuse, white fungal growth resembling cotton tufts found on infected areas in high humidity conditions"
+        ],
+        "early_symptoms": [
+          "Small water-soaked lesions on fruits in contact with soil"
+        ],
+        "advanced_symptoms": [
+          "Coalescence into large necrotic and soft areas",
+          "Profuse white fungal growth like cotton tufts"
+        ],
+        "visual_field_symptoms": [
+          "Water-soaked fruit lesions in contact with soil, soft necrotic areas, white cotton-tuft fungal growth"
+        ]
+      },
+      "identification": {
+        "field_identification": [
+          "Water-soaked fruit lesions touching soil with white cottony fungal growth"
+        ],
+        "diagnostic_methods": [],
+        "differential_diagnosis": []
+      },
+      "causes_and_risk_factors": [
+        "High humidity",
+        "Fruit contact with soil"
+      ],
+      "favorable_conditions": {
+        "temperature": "",
+        "humidity": "High humidity condition",
+        "rainfall": "",
+        "soil_conditions": "",
+        "other_conditions": []
+      },
+      "disease_development_and_spread": [],
+      "epidemiology": [],
+      "severity_and_yield_loss": [],
+      "management": {
+        "cultural_management": [
+          "Proper drainage and irrigation should be done in the field",
+          "Use of plastic mulch is recommended"
+        ],
+        "biological_management": [],
+        "chemical_management": [
+          {
+            "active_ingredient_or_product": "Metalaxyl",
+            "dose": "2g/litre",
+            "concentration": "",
+            "application_method": "apply as drench immediately after transplanting",
+            "timing": "use preventatively; one application per crop cycle",
+            "number_of_applications": "one application per crop cycle",
+            "result_reported_in_paper": ""
+          },
+          {
+            "active_ingredient_or_product": "Propomocarb",
+            "dose": "1g/litre",
+            "concentration": "",
+            "application_method": "",
+            "timing": "use preventatively; after transplanting, thereafter 7-10 days interval",
+            "number_of_applications": "maximum 2 applications per crop cycle",
+            "result_reported_in_paper": ""
+          }
+        ],
+        "integrated_management": []
+      },
+      "resistant_or_tolerant_varieties": [],
+      "susceptible_varieties": [],
+      "prevention": [],
+      "farmer_action_points": [],
+      "warnings_and_limitations": [],
+      "research_findings": [],
+      "source_pages": [
+        "18"
+      ]
+    },
+    {
+      "disease_name": "Watermelon mosaic",
+      "alternative_names": [],
+      "disease_type": "Viral disease",
+      "causal_agent": "Papaya ring spot virus (WMV-1)",
+      "pathogen_type": "Virus",
+      "affected_plant_parts": [
+        "Leaves"
+      ],
+      "symptoms": {
+        "general": [
+          "Mosaic blisters with proper vein banding observed on leaves",
+          "In severe cases, leaf narrowing and leaf distortion observed"
+        ],
+        "early_symptoms": [
+          "Mosaic blisters with proper vein banding on leaves"
+        ],
+        "advanced_symptoms": [
+          "Leaf narrowing and leaf distortion in severe cases"
+        ],
+        "visual_field_symptoms": [
+          "Mosaic blisters, vein banding, leaf narrowing, and distortion"
+        ]
+      },
+      "identification": {
+        "field_identification": [
+          "Mosaic blisters with vein banding, leaf narrowing and distortion"
+        ],
+        "diagnostic_methods": [],
+        "differential_diagnosis": []
+      },
+      "causes_and_risk_factors": [
+        "Aphid transmission"
+      ],
+      "favorable_conditions": {
+        "temperature": "",
+        "humidity": "",
+        "rainfall": "",
+        "soil_conditions": "",
+        "other_conditions": []
+      },
+      "disease_development_and_spread": [
+        "Transmitted by aphids"
+      ],
+      "epidemiology": [],
+      "severity_and_yield_loss": [],
+      "management": {
+        "cultural_management": [
+          "Destruction of plant debris, infected plants, collateral and alternate hosts",
+          "Grow nursery plants in nylon nets",
+          "Use yellow sticky traps to avoid aphid population",
+          "Two rows of border cropping with Maize, Jowar, or Bajra to lessen disease spread"
+        ],
+        "biological_management": [],
+        "chemical_management": [
+          {
+            "active_ingredient_or_product": "Acephate",
+            "dose": "",
+            "concentration": "0.15%",
+            "application_method": "Spraying",
+            "timing": "prior to transplanting and at fortnightly intervals after transplanting till flowering stage",
+            "number_of_applications": "",
+            "result_reported_in_paper": "found to be effective"
+          },
+          {
+            "active_ingredient_or_product": "Monocrotophos",
+            "dose": "",
+            "concentration": "0.1%",
+            "application_method": "Spraying",
+            "timing": "prior to transplanting and at fortnightly intervals after transplanting till flowering stage",
+            "number_of_applications": "",
+            "result_reported_in_paper": "found to be effective"
+          },
+          {
+            "active_ingredient_or_product": "neem seed kernel extract",
+            "dose": "",
+            "concentration": "2%",
+            "application_method": "Spraying",
+            "timing": "in rotation with insecticides",
+            "number_of_applications": "",
+            "result_reported_in_paper": "effective"
+          }
+        ],
+        "integrated_management": []
+      },
+      "resistant_or_tolerant_varieties": [],
+      "susceptible_varieties": [],
+      "prevention": [],
+      "farmer_action_points": [],
+      "warnings_and_limitations": [],
+      "research_findings": [],
+      "source_pages": [
+        "18",
+        "19",
+        "20"
+      ]
+    }
+  ],
+  "paper_level_notes": [
+    "The paper covers IDM strategies and multiple diseases across cucumber, watermelon, sapota, and jamun. Watermelon diseases are detailed from pages 11 to 20."
+  ],
+  "_processing_metadata": {
+    "source_pdf": "Watermelon.pdf",
+    "crop_detected_from_filename": "Watermelon",
+    "model_used": "gemini-3.5-flash-lite",
+    "extracted_at": "2026-09-23 23:18:33"
+  }
+}

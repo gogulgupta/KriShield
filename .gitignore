@@ -1,0 +1,73 @@
+# ============================================================
+# Datasets (Images and Raw Training Data - Excluded from GitHub)
+# ============================================================
+Disease_Dataset/
+YOLO_Disease_Dataset/
+train/
+val/
+test/
+*.jpg
+*.jpeg
+*.png
+*.webp
+*.bmp
+*.tiff
+
+# ============================================================
+# Environment and Secrets
+# ============================================================
+.env
+.env.*
+Crop_Papers/.env
+
+# ============================================================
+# Python & Virtual Environments
+# ============================================================
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+env/
+venv/
+.venv/
+ENV/
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+
+# ============================================================
+# Training Logs & Redundant Checkpoints
+# ============================================================
+*.log
+disease_models/_auto_training_logs/
+disease_models/_auto_training_logs_20_epochs/
+disease_models/**/models/*_last*.pth
+disease_models/**/models/*_improved.pth
+training_output/models/*last*.pth
+
+# ============================================================
+# Large Raw Source PDFs (Extracted JSONs are kept in repo)
+# ============================================================
+Crop_Papers/*.pdf
+
+# ============================================================
+# OS & IDE
+# ============================================================
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+.gemini/

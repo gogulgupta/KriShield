@@ -1,0 +1,262 @@
+Cotton DISEASE MODEL REPORT
+==============================================================================
+{
+  "crop": "Cotton",
+  "model": "EfficientNetV2-S",
+  "task": "crop-specific disease classification",
+  "device": "cuda",
+  "epochs": 20,
+  "batch_size": 16,
+  "image_size": 224,
+  "learning_rate": 0.0001,
+  "pretrained": "ImageNet",
+  "backbone_frozen": true,
+  "classes": [
+    "Aphids",
+    "Army_worm",
+    "Bacterial_Blight",
+    "Curl_Virus",
+    "Fussarium_Wilt",
+    "Healthy",
+    "Powdery_Mildew",
+    "Target_spot"
+  ],
+  "class_to_idx": {
+    "Aphids": 0,
+    "Army_worm": 1,
+    "Bacterial_Blight": 2,
+    "Curl_Virus": 3,
+    "Fussarium_Wilt": 4,
+    "Healthy": 5,
+    "Powdery_Mildew": 6,
+    "Target_spot": 7
+  },
+  "train_images": 4736,
+  "val_images": 592,
+  "test_images": 592,
+  "best_epoch": 18,
+  "best_val_macro_f1": 0.9151099903377666,
+  "test_loss": 0.4473219250102301,
+  "test_accuracy": 0.9087837837837838,
+  "test_macro_f1": 0.9088340470672915,
+  "best_model": "G:\\Crop_Classifier_740\\disease_models\\Cotton\\models\\cotton_disease_model.pth",
+  "last_model": "G:\\Crop_Classifier_740\\disease_models\\Cotton\\models\\cotton_disease_last.pth",
+  "history": [
+    {
+      "epoch": 1,
+      "train_loss": 1.8043305398644627,
+      "train_accuracy": 0.48458614864864863,
+      "train_macro_f1": 0.4839410219187842,
+      "val_loss": 1.5887226865098283,
+      "val_accuracy": 0.7043918918918919,
+      "val_macro_f1": 0.6970565943481782,
+      "time_minutes": 3.8501773715019225
+    },
+    {
+      "epoch": 2,
+      "train_loss": 1.3923202140911206,
+      "train_accuracy": 0.7396537162162162,
+      "train_macro_f1": 0.7375519395543539,
+      "val_loss": 1.2692422754055745,
+      "val_accuracy": 0.8040540540540541,
+      "val_macro_f1": 0.8019613254332896,
+      "time_minutes": 3.183201523621877
+    },
+    {
+      "epoch": 3,
+      "train_loss": 1.1470206158386695,
+      "train_accuracy": 0.7749155405405406,
+      "train_macro_f1": 0.7740597421533455,
+      "val_loss": 1.0818383484273344,
+      "val_accuracy": 0.8226351351351351,
+      "val_macro_f1": 0.8197417705186035,
+      "time_minutes": 3.578008544445038
+    },
+    {
+      "epoch": 4,
+      "train_loss": 0.9795970816064525,
+      "train_accuracy": 0.8057432432432432,
+      "train_macro_f1": 0.8054223919753978,
+      "val_loss": 0.9423369394766318,
+      "val_accuracy": 0.839527027027027,
+      "val_macro_f1": 0.8382575211338932,
+      "time_minutes": 2.8348429997762046
+    },
+    {
+      "epoch": 5,
+      "train_loss": 0.8835030323951631,
+      "train_accuracy": 0.8086993243243243,
+      "train_macro_f1": 0.8085466600475687,
+      "val_loss": 0.9324170286590988,
+      "val_accuracy": 0.8192567567567568,
+      "val_macro_f1": 0.8184141210296083,
+      "time_minutes": 2.8759838859240214
+    },
+    {
+      "epoch": 6,
+      "train_loss": 0.8060903599536097,
+      "train_accuracy": 0.8101773648648649,
+      "train_macro_f1": 0.8098558265686797,
+      "val_loss": 2.1362756096027993,
+      "val_accuracy": 0.847972972972973,
+      "val_macro_f1": 0.846394141625006,
+      "time_minutes": 2.8164049983024597
+    },
+    {
+      "epoch": 7,
+      "train_loss": 0.7226083425653947,
+      "train_accuracy": 0.832981418918919,
+      "train_macro_f1": 0.8326430316937081,
+      "val_loss": 16.095668605050527,
+      "val_accuracy": 0.8513513513513513,
+      "val_macro_f1": 0.8503453800339678,
+      "time_minutes": 2.8136143883069358
+    },
+    {
+      "epoch": 8,
+      "train_loss": 0.6905852653891653,
+      "train_accuracy": 0.839527027027027,
+      "train_macro_f1": 0.8394225111843658,
+      "val_loss": 0.6667766575072263,
+      "val_accuracy": 0.8530405405405406,
+      "val_macro_f1": 0.8518182607935578,
+      "time_minutes": 2.83382826646169
+    },
+    {
+      "epoch": 9,
+      "train_loss": 0.6454974204503201,
+      "train_accuracy": 0.848606418918919,
+      "train_macro_f1": 0.8482403664299377,
+      "val_loss": 0.6197333025771219,
+      "val_accuracy": 0.8631756756756757,
+      "val_macro_f1": 0.8622938635404729,
+      "time_minutes": 2.830069530010223
+    },
+    {
+      "epoch": 10,
+      "train_loss": 0.624309409711812,
+      "train_accuracy": 0.8431165540540541,
+      "train_macro_f1": 0.8427892623156947,
+      "val_loss": 0.5994881057255977,
+      "val_accuracy": 0.8834459459459459,
+      "val_macro_f1": 0.881362601818373,
+      "time_minutes": 2.8677521626154583
+    },
+    {
+      "epoch": 11,
+      "train_loss": 0.5868238156308999,
+      "train_accuracy": 0.8507179054054054,
+      "train_macro_f1": 0.8506019818819344,
+      "val_loss": 0.5504347142335531,
+      "val_accuracy": 0.8817567567567568,
+      "val_macro_f1": 0.8816720710390062,
+      "time_minutes": 2.8616506894429525
+    },
+    {
+      "epoch": 12,
+      "train_loss": 0.5556238821229419,
+      "train_accuracy": 0.864231418918919,
+      "train_macro_f1": 0.8641091941596735,
+      "val_loss": 0.5615889305198515,
+      "val_accuracy": 0.8766891891891891,
+      "val_macro_f1": 0.8756374451001896,
+      "time_minutes": 2.8509304841359455
+    },
+    {
+      "epoch": 13,
+      "train_loss": 0.5481299812829977,
+      "train_accuracy": 0.8589527027027027,
+      "train_macro_f1": 0.8588730066039754,
+      "val_loss": 0.5323925737190891,
+      "val_accuracy": 0.8817567567567568,
+      "val_macro_f1": 0.8811599545521343,
+      "time_minutes": 2.8334766825040183
+    },
+    {
+      "epoch": 14,
+      "train_loss": 0.5181704010512378,
+      "train_accuracy": 0.8652871621621622,
+      "train_macro_f1": 0.8653349537916231,
+      "val_loss": 0.4969887318643364,
+      "val_accuracy": 0.893581081081081,
+      "val_macro_f1": 0.8932461476628493,
+      "time_minutes": 2.824402864774068
+    },
+    {
+      "epoch": 15,
+      "train_loss": 0.49097022308489763,
+      "train_accuracy": 0.8775337837837838,
+      "train_macro_f1": 0.8775531966686541,
+      "val_loss": 0.4591081150480219,
+      "val_accuracy": 0.9003378378378378,
+      "val_macro_f1": 0.8999322853341081,
+      "time_minutes": 2.8133648951848347
+    },
+    {
+      "epoch": 16,
+      "train_loss": 0.489956782073588,
+      "train_accuracy": 0.8777449324324325,
+      "train_macro_f1": 0.8775865349362146,
+      "val_loss": 0.46495014610322744,
+      "val_accuracy": 0.8969594594594594,
+      "val_macro_f1": 0.894892781844161,
+      "time_minutes": 2.7899922768274945
+    },
+    {
+      "epoch": 17,
+      "train_loss": 0.47678930312395096,
+      "train_accuracy": 0.8743665540540541,
+      "train_macro_f1": 0.8743739838690208,
+      "val_loss": 3.3937092461698763,
+      "val_accuracy": 0.8902027027027027,
+      "val_macro_f1": 0.8902086488530085,
+      "time_minutes": 2.807597490151723
+    },
+    {
+      "epoch": 18,
+      "train_loss": 0.4610572921464572,
+      "train_accuracy": 0.8802787162162162,
+      "train_macro_f1": 0.88008590586541,
+      "val_loss": 0.4337326501672332,
+      "val_accuracy": 0.9155405405405406,
+      "val_macro_f1": 0.9151099903377666,
+      "time_minutes": 2.830240031083425
+    },
+    {
+      "epoch": 19,
+      "train_loss": 0.4498448587853361,
+      "train_accuracy": 0.8764780405405406,
+      "train_macro_f1": 0.8763551857249567,
+      "val_loss": 1.8673125990741961,
+      "val_accuracy": 0.8885135135135135,
+      "val_macro_f1": 0.8886519145144143,
+      "time_minutes": 2.828623072306315
+    },
+    {
+      "epoch": 20,
+      "train_loss": 0.4483470565362557,
+      "train_accuracy": 0.8790118243243243,
+      "train_macro_f1": 0.879032607788703,
+      "val_loss": 0.41411427207089757,
+      "val_accuracy": 0.9087837837837838,
+      "val_macro_f1": 0.9075939331524084,
+      "time_minutes": 2.8225390712420144
+    }
+  ]
+}
+
+CLASSIFICATION REPORT
+                  precision    recall  f1-score   support
+
+          Aphids     0.8415    0.9324    0.8846        74
+       Army_worm     0.9028    0.8784    0.8904        74
+Bacterial_Blight     0.9306    0.9054    0.9178        74
+      Curl_Virus     0.8889    0.8649    0.8767        74
+  Fussarium_Wilt     0.9189    0.9189    0.9189        74
+         Healthy     0.9481    0.9865    0.9669        74
+  Powdery_Mildew     0.8816    0.9054    0.8933        74
+     Target_spot     0.9701    0.8784    0.9220        74
+
+        accuracy                         0.9088       592
+       macro avg     0.9103    0.9088    0.9088       592
+    weighted avg     0.9103    0.9088    0.9088       592

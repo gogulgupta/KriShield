@@ -1,0 +1,1470 @@
+{
+  "crop": "Lentil",
+  "paper_information": {
+    "title": "Diseases of Lentil",
+    "authors": [
+      "Ritesh Kumar Yadav",
+      "Laxman Aryal",
+      "Achyut Raj Adhikari",
+      "Basistha Acharya",
+      "Laxmi Prasad Joshi",
+      "Shishir Sharma"
+    ],
+    "year": "2026",
+    "journal_or_source": "Handbook of Vegetable and Herb Diseases, Handbook of Plant Disease Management, Springer Nature Switzerland AG",
+    "doi_or_identifier": "https://doi.org/10.1007/978-3-030-35512-8_21-1",
+    "abstract_summary": "This chapter discusses several economically important lentil diseases with special reference to their distribution and impact, biology and epidemiology, and integrated disease management approaches, covering fungal, bacterial, viral, and nematode diseases.",
+    "research_objective": "Provide comprehensive knowledge on lentil diseases, their geographical occurrence, disease pathology, and explore management strategies to mitigate yield and quality losses.",
+    "study_area": "Global lentil-growing regions",
+    "important_findings": [
+      "Fungal diseases like Fusarium wilt, Stemphylium blight, and Ascochyta blight are major biotic constraints causing heavy yield losses globally.",
+      "Various other fungal, bacterial, viral, and nematode diseases threaten lentil production under varying climatic conditions.",
+      "Integrated disease management utilizing cultural, biological, chemical, and genetic resistance approaches is essential for sustainable lentil production."
+    ]
+  },
+  "diseases": [
+    {
+      "disease_name": "Fusarium Wilt of Lentil",
+      "alternative_names": [
+        "Fusarium vascular wilt"
+      ],
+      "disease_type": "Fungal Disease",
+      "causal_agent": "Fusarium oxysporum f. sp. lentis Shlecht. emend. Snyder and Hansen f. sp. lentis Vasud. and Srini",
+      "pathogen_type": "Fungus",
+      "affected_plant_parts": [
+        "Roots",
+        "Stems",
+        "Xylem tissue",
+        "Leaves"
+      ],
+      "symptoms": {
+        "general": [
+          "Patches of wilted plants appear in the field at seedling and adult stages",
+          "Wilting of leaves resembling water deficiency",
+          "Stunting and shrinking of plants",
+          "Curling of leaves from lower parts moving progressively up the stem"
+        ],
+        "early_symptoms": [
+          "Pre-emergence and post-emergence damping off",
+          "Seedling blight",
+          "Sudden drooping and drying of plants resulting in seedling death"
+        ],
+        "advanced_symptoms": [
+          "Dark brown discoloration in the xylem tissue of roots and stems visible upon vertical splitting"
+        ],
+        "visual_field_symptoms": [
+          "Patches of wilted plants in the field"
+        ]
+      },
+      "identification": {
+        "field_identification": [
+          "Patches of wilted plants",
+          "Dark brown discoloration of root and stem xylem tissue when split vertically"
+        ],
+        "diagnostic_methods": [
+          "Screening tests under field trials, greenhouses, and laboratory settings"
+        ],
+        "differential_diagnosis": []
+      },
+      "causes_and_risk_factors": [
+        "Soil contamination and plant debris",
+        "Infected seeds",
+        "Warm soil temperatures and dry soil conditions",
+        "Synergistic interaction with plant-pathogenic nematodes like Ditylenchus spp., Meloidogyne spp., and Pratylenchus spp."
+      ],
+      "favorable_conditions": {
+        "temperature": "20-30 °C (optimum 22 °C)",
+        "humidity": "",
+        "rainfall": "",
+        "soil_conditions": "Dry soil conditions, sandy loam soil compared to clay soil, soil pH up to 7.5",
+        "other_conditions": []
+      },
+      "disease_development_and_spread": [
+        "Fungal spores germinate and elongate towards host roots in response to plant signals",
+        "Penetration via natural openings or wounds, invading root cortex, epidermis, and reaching xylem vessels",
+        "Vertical growth, multiplication, and colonization in xylem until plant wilting",
+        "Transmission through plant debris, soil contamination, and seeds"
+      ],
+      "epidemiology": [],
+      "severity_and_yield_loss": [
+        "May cause 5-10% yield loss, but complete crop failure can occur under favorable conditions",
+        "Yield loss ranging from 9.6% to 100% and wilt incidence ranging from 20% to 46.67%"
+      ],
+      "management": {
+        "cultural_management": [
+          "Delaying sowing",
+          "Ensuring use of clean and disease-free seeds",
+          "Planting seeds at proper depth around 10-12 cm",
+          "Intercropping or mixed cropping",
+          "Deep plowing and removal of infected crop residues",
+          "Soil solarization",
+          "Chemical amendments involving manganese and zinc",
+          "Selecting early maturing cultivars or adjusting planting time",
+          "Applying manure or compost"
+        ],
+        "biological_management": [
+          "Seed treatment with Trichoderma harzianum @ 6 g/kg seed",
+          "Use of antagonists like Pseudomonas fluorescens, Trichoderma viride, Bacillus velezensis, Streptomyces, Glomus coronatum, Gliocladium, Piriformospora indica, Sebacina vermafera, and Penicillium chrysogenum",
+          "Plant extracts of Azadirachta indica, Justicia adhatoda, Ficus religiosa, Carica papaya, Ricinus communis, Ficus benghalensis, Psidium guajava, and Tamarindus indica at concentrations above 15%"
+        ],
+        "chemical_management": [
+          {
+            "active_ingredient_or_product": "Zn and Mn salts",
+            "dose": "80 ppm",
+            "concentration": "",
+            "application_method": "foliar application / seed treatment",
+            "timing": "on pre-soaked lentil seeds",
+            "number_of_applications": "",
+            "result_reported_in_paper": "effectively manage wilt disease"
+          }
+        ],
+        "integrated_management": []
+      },
+      "resistant_or_tolerant_varieties": [
+        "ILL 5883",
+        "ILL 5588",
+        "ILL 4400",
+        "ILL 590",
+        "Idleb 2",
+        "Idleb 3",
+        "Idleb 4",
+        "Ebla 1",
+        "Talya 2'",
+        "Rachayya",
+        "Hala",
+        "Firat 87",
+        "Syran 96",
+        "Adaa",
+        "Alemaya",
+        "Assano",
+        "Alemtena",
+        "Teshale",
+        "Kimiya",
+        "IPA 98"
+      ],
+      "susceptible_varieties": [
+        "IIL-590"
+      ],
+      "prevention": [
+        "Use of clean and disease-free seeds",
+        "Crop rotation",
+        "Soil solarization"
+      ],
+      "farmer_action_points": [
+        "Select resistant varieties",
+        "Use clean seeds",
+        "Adjust sowing dates"
+      ],
+      "warnings_and_limitations": [],
+      "research_findings": [],
+      "source_pages": [
+        "4",
+        "5",
+        "6",
+        "7"
+      ]
+    },
+    {
+      "disease_name": "Gray Mold of Lentil",
+      "alternative_names": [
+        "Botrytis Stem and Pod Rot"
+      ],
+      "disease_type": "Fungal Disease",
+      "causal_agent": "Botrytis cinerea Pers. ex Fr. and Botrytis fabae Sardiña",
+      "pathogen_type": "Fungus",
+      "affected_plant_parts": [
+        "Flowers",
+        "Pods",
+        "Foliage",
+        "Stems",
+        "Seeds"
+      ],
+      "symptoms": {
+        "general": [
+          "Dark green spots on lower foliage turning into pale tan-colored spots",
+          "Infected leaves and flowers deteriorate into rotting masses",
+          "Pods become seedless or deformed with undersized seeds",
+          "Lesions on stems are light brown or blanched, covered with gray mold, and rot at the crown"
+        ],
+        "early_symptoms": [],
+        "advanced_symptoms": [
+          "Whole plant eventually becomes infected and dried out"
+        ],
+        "visual_field_symptoms": [
+          "Scattered pattern of dead plants in the field that rapidly spreads",
+          "Fuzzy spore masses and black sclerotia on infected stems"
+        ]
+      },
+      "identification": {
+        "field_identification": [
+          "Gray mold growth on stems, flowers, and pods",
+          "Scattered pattern of dead plants"
+        ],
+        "diagnostic_methods": [],
+        "differential_diagnosis": []
+      },
+      "causes_and_risk_factors": [
+        "Dense crop canopy",
+        "High humidity (>95%)",
+        "Moderate temperature (15-25 °C)",
+        "High rainfall",
+        "Wet periods exceeding 10 hours",
+        "Early sowing",
+        "Overhead irrigation or waterlogging"
+      ],
+      "favorable_conditions": {
+        "temperature": "15-25 °C",
+        "humidity": ">95%",
+        "rainfall": ">20 mm for susceptible varieties, >40 mm for moderately susceptible varieties",
+        "soil_conditions": "",
+        "other_conditions": [
+          "Wet periods exceeding 10 hours",
+          "Dense crop canopy",
+          "Overhead irrigation or waterlogging"
+        ]
+      },
+      "disease_development_and_spread": [
+        "Infection starts on flowers and pods",
+        "Conidia serve as sources of secondary infection dispersed through air",
+        "Survival through mycelium, sclerotia, and chlamydospores, as well as infected seeds"
+      ],
+      "epidemiology": [],
+      "severity_and_yield_loss": [
+        "Yield reduction from 30% to complete failure",
+        "Yield losses of more than 50% reported in Australia"
+      ],
+      "management": {
+        "cultural_management": [
+          "Crop rotation",
+          "Adjusting sowing dates",
+          "Reducing seed rate",
+          "Weed control",
+          "Optimal fertilizer use",
+          "Rotating fungicides with different modes of action",
+          "Selecting resistant cultivars",
+          "Stubble grazing or burning",
+          "Controlling volunteer plants"
+        ],
+        "biological_management": [
+          "Application of biocontrol agents such as Pseudomonas fluorescens, Pantoea agglomerans, Penicillium griseofulvum, Penicillium aurantiogriseum, Trichoderma hamatum, and Trichoderma harzianum"
+        ],
+        "chemical_management": [
+          {
+            "active_ingredient_or_product": "benomyl, carboxin, chlorothalonil, thiabendazole",
+            "dose": "",
+            "concentration": "",
+            "application_method": "seed treatment",
+            "timing": "",
+            "number_of_applications": "",
+            "result_reported_in_paper": "effective in minimizing seed-borne inoculum"
+          },
+          {
+            "active_ingredient_or_product": "boscalid",
+            "dose": "",
+            "concentration": "",
+            "application_method": "foliar spray",
+            "timing": "mid-flower in early-seeded cultivars or early flower in late-seeded cultivars",
+            "number_of_applications": "single application",
+            "result_reported_in_paper": "provided comparable efficacy to multiple applications"
+          }
+        ],
+        "integrated_management": [
+          "Combining foliar fungicides, seed treatments, resistant cultivars, physical treatments, and cultural methods"
+        ]
+      },
+      "resistant_or_tolerant_varieties": [
+        "Indianhead",
+        "Matador",
+        "Nipper",
+        "LPP 11002"
+      ],
+      "susceptible_varieties": [
+        "Northfield"
+      ],
+      "prevention": [],
+      "farmer_action_points": [
+        "Use seed treatments",
+        "Practice crop rotation",
+        "Plant resistant cultivars"
+      ],
+      "warnings_and_limitations": [
+        "Fungicide resistance development in Botrytis cinerea poses a significant threat"
+      ],
+      "research_findings": [],
+      "source_pages": [
+        "8",
+        "9",
+        "10",
+        "11"
+      ]
+    },
+    {
+      "disease_name": "Stemphylium Blight of Lentil",
+      "alternative_names": [],
+      "disease_type": "Fungal Disease",
+      "causal_agent": "Stemphylium botryosum Wallr (Teleomorph: Pleospora)",
+      "pathogen_type": "Fungus",
+      "affected_plant_parts": [
+        "Leaflets",
+        "Foliage",
+        "Stems",
+        "Pedicels",
+        "Flowers",
+        "Pods",
+        "Seeds"
+      ],
+      "symptoms": {
+        "general": [
+          "Initial symptoms appear on upper canopy",
+          "Minute gray or light brown lesions on leaflets with pinhead-like appearance",
+          "Lesions undergo irregular enlargement and rapidly spread",
+          "Infected tissue appears light cream-colored with angular pattern",
+          "Infected stems dry up, exhibiting inverted J-shaped appearance and turning ashy white"
+        ],
+        "early_symptoms": [],
+        "advanced_symptoms": [
+          "Significant defoliation leaving only terminal leaflets",
+          "Flower abortion and reduced seed germination rates"
+        ],
+        "visual_field_symptoms": [
+          "Completely blighted field appearance within 7-10 days",
+          "Field can appear as if burnt by fire"
+        ]
+      },
+      "identification": {
+        "field_identification": [
+          "Minute gray or light brown pinhead lesions on leaflets spreading rapidly",
+          "Inverted J-shaped ashy white stems"
+        ],
+        "diagnostic_methods": [],
+        "differential_diagnosis": []
+      },
+      "causes_and_risk_factors": [
+        "High temperatures",
+        "Long wet periods",
+        "Cloudy weather, foggy days"
+      ],
+      "favorable_conditions": {
+        "temperature": "average mean temperature of 18 ± 2 °C (daytime above 22 °C, night around 8 °C)",
+        "humidity": "85-90% during morning hours",
+        "rainfall": "",
+        "soil_conditions": "",
+        "other_conditions": [
+          "Cloudy and foggy days (30-50 days per year)",
+          "Leaf wetness period exceeding 8 hours"
+        ]
+      },
+      "disease_development_and_spread": [
+        "Infection occurs primarily during reproductive stages",
+        "Airborne conidia act as secondary source of inoculum",
+        "Conidia germinate within 6 hours under moisture, entering via stomata or epidermal penetration"
+      ],
+      "epidemiology": [],
+      "severity_and_yield_loss": [
+        "Yield losses of up to 62% in Bangladesh, exceeding 90% in Bihar, India",
+        "Complete crop failure under highly favorable conditions"
+      ],
+      "management": {
+        "cultural_management": [
+          "Destruction of old crop residue",
+          "Crop rotation with non-host crops",
+          "Delaying sowing or early sowing on November 1"
+        ],
+        "biological_management": [
+          "Application of botanicals derived from Acoros calamus and Zanthoxylum armatum",
+          "Use of Trichoderma viride and Trichoderma harzianum"
+        ],
+        "chemical_management": [
+          {
+            "active_ingredient_or_product": "Rovral 50 WP",
+            "dose": "0.2%",
+            "concentration": "0.2%",
+            "application_method": "foliar spray",
+            "timing": "7-day intervals",
+            "number_of_applications": "",
+            "result_reported_in_paper": "effective disease control and increased lentil yield"
+          },
+          {
+            "active_ingredient_or_product": "Secure 600 WG",
+            "dose": "0.2%",
+            "concentration": "0.2%",
+            "application_method": "foliar spray",
+            "timing": "7-day intervals",
+            "number_of_applications": "",
+            "result_reported_in_paper": "effective disease control and increased lentil yield"
+          }
+        ],
+        "integrated_management": []
+      },
+      "resistant_or_tolerant_varieties": [
+        "RL-13",
+        "RL-21",
+        "ILL6468",
+        "ILL9996",
+        "ILL6024",
+        "ILL6811",
+        "ILL7164",
+        "Arun",
+        "Maheswar Bharati",
+        "VL151",
+        "RLG195",
+        "L4769",
+        "LL1397",
+        "DL14-2",
+        "VL126",
+        "RKL 14-20",
+        "IPL334",
+        "L4710",
+        "PL210",
+        "Precoz",
+        "RL-28",
+        "ILL 10134",
+        "RL-44",
+        "FLIP 2008-7L",
+        "NR-2001-71-3",
+        "NR-2001-71-4",
+        "ILL 7657",
+        "ILL 2437",
+        "ILL 7349",
+        "RL 23",
+        "RL 25",
+        "RL 47",
+        "RL 62",
+        "ILL 10856",
+        "Barimasur 4",
+        "Barimasur 5",
+        "Barimasur 6"
+      ],
+      "susceptible_varieties": [],
+      "prevention": [],
+      "farmer_action_points": [
+        "Use resistant varieties",
+        "Apply recommended fungicides at 7-day intervals"
+      ],
+      "warnings_and_limitations": [],
+      "research_findings": [],
+      "source_pages": [
+        "12",
+        "13",
+        "14",
+        "15"
+      ]
+    },
+    {
+      "disease_name": "Ascochyta Blight",
+      "alternative_names": [],
+      "disease_type": "Fungal Disease",
+      "causal_agent": "Ascochyta lentis Bond. and Vassil, Teleomorph: Didymella lentis, syn. Ascochyta fabae f.sp. lentis Gossen, Sheard, Beauchamp & Morrall",
+      "pathogen_type": "Fungus",
+      "affected_plant_parts": [
+        "Leaves",
+        "Petioles",
+        "Stems",
+        "Pods",
+        "Seeds"
+      ],
+      "symptoms": {
+        "general": [
+          "Light gray spot-like lesions becoming tan-colored with dark brown margins",
+          "Tiny dark fruiting bodies (pycnidia) develop in lesion centers"
+        ],
+        "early_symptoms": [],
+        "advanced_symptoms": [
+          "Stem girdling causing breakage and death of plant tissue above",
+          "Wilting and browning of stem tips",
+          "Flower and pod abortion, shriveled and discolored seeds"
+        ],
+        "visual_field_symptoms": [
+          "Blighted appearance of crop"
+        ]
+      },
+      "identification": {
+        "field_identification": [
+          "Tan-colored lesions with dark brown margins and speckling pycnidia",
+          "Stem breakage from girdling lesions"
+        ],
+        "diagnostic_methods": [
+          "Molecular genetic marker technology (RAPDs, AFLPs, ISSRs, RFLPs, SSRs, SNPs)"
+        ],
+        "differential_diagnosis": []
+      },
+      "causes_and_risk_factors": [
+        "Cool, wet weather",
+        "Infected seeds and leftover plant debris"
+      ],
+      "favorable_conditions": {
+        "temperature": "10-15 °C",
+        "humidity": "",
+        "rainfall": "high levels of rainfall, wet winter conditions",
+        "soil_conditions": "",
+        "other_conditions": [
+          "Leaf wetness period of 24-48 hours"
+        ]
+      },
+      "disease_development_and_spread": [
+        "Transmission through infected seeds or leftover plant debris",
+        "Airborne spores and rain-splash dispersal up to 15 cm"
+      ],
+      "epidemiology": [],
+      "severity_and_yield_loss": [
+        "Yield losses up to 40%, potentially exceeding 70% with severe seed staining and mold"
+      ],
+      "management": {
+        "cultural_management": [
+          "Crop rotation with non-host crops",
+          "Early seeding to avoid damp weather during harvest",
+          "Using disease-free seeds"
+        ],
+        "biological_management": [
+          "Use of biocontrol agents like Trichoderma harzianum, Beauveria bassiana, Metarhizium anisopliae, Lecanicillium lecanii, and Pseudomonas fluorescens (UmComb)"
+        ],
+        "chemical_management": [
+          {
+            "active_ingredient_or_product": "thiabendazole, benomyl, carbathin, carbendazim",
+            "dose": "",
+            "concentration": "",
+            "application_method": "seed treatment",
+            "timing": "",
+            "number_of_applications": "",
+            "result_reported_in_paper": "controlling seed-borne infections"
+          },
+          {
+            "active_ingredient_or_product": "Bavistin + Thiram",
+            "dose": "2.5 g/Kg seeds",
+            "concentration": "1: 3 ratio",
+            "application_method": "seed treatment followed by foliar sprays",
+            "timing": "at the time of disease appearance",
+            "number_of_applications": "3 sprays of Bavistin (2 g/l) at 10-day intervals",
+            "result_reported_in_paper": "effectively reduced disease incidence"
+          }
+        ],
+        "integrated_management": [
+          "Pre-soaking seeds in water at 20 °C for 6 hours followed by hot water immersion (53 °C for 15 min), seed treatment with Bavistin + Thiram, and foliar sprays"
+        ]
+      },
+      "resistant_or_tolerant_varieties": [
+        "ILL5588",
+        "Indianhead",
+        "Digger"
+      ],
+      "susceptible_varieties": [],
+      "prevention": [
+        "Use disease-free seeds",
+        "Crop rotation"
+      ],
+      "farmer_action_points": [
+        "Use certified clean seeds",
+        "Practice crop rotation"
+      ],
+      "warnings_and_limitations": [
+        "Effectiveness of resistance genes from ILL5588 has been lost, and isolates capable of overcoming key resistance genes have been identified"
+      ],
+      "research_findings": [],
+      "source_pages": [
+        "15",
+        "16",
+        "17",
+        "18"
+      ]
+    },
+    {
+      "disease_name": "Sclerotium Rot",
+      "alternative_names": [
+        "Southern Blight",
+        "Collar Rot"
+      ],
+      "disease_type": "Fungal Disease",
+      "causal_agent": "Sclerotium rolfsii Sacc.",
+      "pathogen_type": "Fungus",
+      "affected_plant_parts": [
+        "Roots",
+        "Stems",
+        "Collar region",
+        "Seedlings"
+      ],
+      "symptoms": {
+        "general": [
+          "Seedlings exhibit high susceptibility and succumb rapidly",
+          "Mature plants gradually girdled by lesions leading to death",
+          "Dark-brown lesions on stem at or just beneath soil level",
+          "Lower leaves show dull or yellowish appearance followed by progressive wilting"
+        ],
+        "early_symptoms": [],
+        "advanced_symptoms": [
+          "Water-soaked lesions near collar region",
+          "Abundant white fluffy mycelium on infected tissues and soil",
+          "Round sclerotia, size of black mustard seed, turning black after maturity"
+        ],
+        "visual_field_symptoms": [
+          "Disease symptoms seen in patches, but entire field affected in severe cases",
+          "Yellowing and collapse of seedlings"
+        ]
+      },
+      "identification": {
+        "field_identification": [
+          "White fluffy mycelium and mustard-seed-like sclerotia on roots and soil",
+          "Collar rot and seedling collapse in patches"
+        ],
+        "diagnostic_methods": [],
+        "differential_diagnosis": []
+      },
+      "causes_and_risk_factors": [
+        "Soil moisture content and temperature",
+        "Seedling age"
+      ],
+      "favorable_conditions": {
+        "temperature": "25-35 °C (optimum 25 °C)",
+        "humidity": "relative humidity near saturation",
+        "rainfall": "",
+        "soil_conditions": "elevated soil moisture levels (30-40%)",
+        "other_conditions": []
+      },
+      "disease_development_and_spread": [
+        "Survival as mycelium in infected tissues and plant debris or sclerotia in soil",
+        "Sclerotial germination via hyphal or eruptive germination",
+        "Dissemination via contaminated soil and tools, infested seedlings, water, wind, and seeds"
+      ],
+      "epidemiology": [],
+      "severity_and_yield_loss": [
+        "Yield loss ranges from 1% to 60% in fields"
+      ],
+      "management": {
+        "cultural_management": [
+          "Soil solarization",
+          "Crop rotation with non-host crops",
+          "Maintaining soil pH at 6.5",
+          "Adding organic amendments (cow dung, poultry refuse, oil cakes)"
+        ],
+        "biological_management": [
+          "Seed treatment with Trichoderma harzianum and Pseudomonas fluorescens",
+          "Use of BINA-biofertilizer and BAU-biofungicide"
+        ],
+        "chemical_management": [
+          {
+            "active_ingredient_or_product": "Provax 200 (WP)",
+            "dose": "",
+            "concentration": "",
+            "application_method": "seed treatment",
+            "timing": "",
+            "number_of_applications": "",
+            "result_reported_in_paper": "reduced foot and root rot incidence and higher yields"
+          },
+          {
+            "active_ingredient_or_product": "Secure 600 WG",
+            "dose": "",
+            "concentration": "",
+            "application_method": "",
+            "timing": "",
+            "number_of_applications": "",
+            "result_reported_in_paper": ""
+          }
+        ],
+        "integrated_management": [
+          "Combining organic amendments, oil cakes, biological control agents, and fungicide drenching"
+        ]
+      },
+      "resistant_or_tolerant_varieties": [],
+      "susceptible_varieties": [],
+      "prevention": [],
+      "farmer_action_points": [
+        "Treat seeds with Trichoderma harzianum and Pseudomonas fluorescens",
+        "Practice crop rotation"
+      ],
+      "warnings_and_limitations": [],
+      "research_findings": [],
+      "source_pages": [
+        "18",
+        "19",
+        "20",
+        "21"
+      ]
+    },
+    {
+      "disease_name": "Lentil Rust",
+      "alternative_names": [],
+      "disease_type": "Fungal Disease",
+      "causal_agent": "Uromyces viciae-fabae (Pers.) J. Schröt",
+      "pathogen_type": "Fungus",
+      "affected_plant_parts": [
+        "Leaves",
+        "Leaflets",
+        "Stems",
+        "Pods",
+        "Branches",
+        "Petioles"
+      ],
+      "symptoms": {
+        "general": [
+          "Yellowish white pycnidia and aecial cups on lower surface of leaflets",
+          "Brown uredial pustules on both upper and lower surfaces of leaflets",
+          "Pustules oval to circular, up to 1 mm in diameter, coalescing",
+          "Dark brown to black elongated telia on branches and stems"
+        ],
+        "early_symptoms": [],
+        "advanced_symptoms": [
+          "Premature shedding of leaves followed by premature drying of entire plant",
+          "No seed development or only small, shriveled seeds formed"
+        ],
+        "visual_field_symptoms": [
+          "Brown to blackish patches of the disease in the field"
+        ]
+      },
+      "identification": {
+        "field_identification": [
+          "Yellowish aecial cups and brown uredial pustules on leaves",
+          "Dark brown to black telia on stems"
+        ],
+        "diagnostic_methods": [],
+        "differential_diagnosis": []
+      },
+      "causes_and_risk_factors": [
+        "Contaminated lentil seeds and infected plant debris"
+      ],
+      "favorable_conditions": {
+        "temperature": "20-22 °C (aeciospores germinate at 17-22 °C, secondary aecia/uredia at 25 °C)",
+        "humidity": "high humidity",
+        "rainfall": "",
+        "soil_conditions": "",
+        "other_conditions": [
+          "Cloudy or drizzly weather"
+        ]
+      },
+      "disease_development_and_spread": [
+        "Automacrocyclic fungus completing entire life cycle on a single host",
+        "Teliospores and telia act as primary source of infection",
+        "Aeciospores play a crucial role in pathogen spread during growing season",
+        "Urediniospores cause long-distance dispersal and epidemics"
+      ],
+      "epidemiology": [],
+      "severity_and_yield_loss": [
+        "Yield losses ranging from 60% to 69%, up to 100% in countries like Ethiopia, Morocco, Chile, Ecuador, Bangladesh, India, and Pakistan"
+      ],
+      "management": {
+        "cultural_management": [
+          "Field sanitation",
+          "Crop rotation",
+          "Seed treatment"
+        ],
+        "biological_management": [
+          "Combination of fungicides with Trichoderma harzianum and Pseudomonas fluorescence",
+          "Inoculation with Rhizobium strains (LR-35-01, LRB-1, and LRB-2)"
+        ],
+        "chemical_management": [
+          {
+            "active_ingredient_or_product": "Dicllobutrazo",
+            "dose": "",
+            "concentration": "",
+            "application_method": "seed treatment",
+            "timing": "",
+            "number_of_applications": "",
+            "result_reported_in_paper": ""
+          },
+          {
+            "active_ingredient_or_product": "mancozeb",
+            "dose": "",
+            "concentration": "",
+            "application_method": "foliar spray",
+            "timing": "",
+            "number_of_applications": "",
+            "result_reported_in_paper": ""
+          },
+          {
+            "active_ingredient_or_product": "propiconazole and tebuconazole",
+            "dose": "",
+            "concentration": "",
+            "application_method": "",
+            "timing": "",
+            "number_of_applications": "",
+            "result_reported_in_paper": "reducing rust severity and pod damage, improving yield"
+          },
+          {
+            "active_ingredient_or_product": "zinc sulfate",
+            "dose": "",
+            "concentration": "",
+            "application_method": "",
+            "timing": "",
+            "number_of_applications": "",
+            "result_reported_in_paper": "comparable efficacy to chemical fungicides in reducing rust severity"
+          }
+        ],
+        "integrated_management": []
+      },
+      "resistant_or_tolerant_varieties": [],
+      "susceptible_varieties": [],
+      "prevention": [
+        "Field sanitation",
+        "Crop rotation",
+        "Seed treatment"
+      ],
+      "farmer_action_points": [
+        "Use foliar fungicides like triazoles or mancozeb",
+        "Practice crop rotation"
+      ],
+      "warnings_and_limitations": [],
+      "research_findings": [],
+      "source_pages": [
+        "21",
+        "22",
+        "23"
+      ]
+    },
+    {
+      "disease_name": "Anthracnose Disease",
+      "alternative_names": [],
+      "disease_type": "Fungal Disease",
+      "causal_agent": "Colletotrichum lentis (Damm) (syn C. truncatum (Schwein.)) Andrus and W.D",
+      "pathogen_type": "Fungus",
+      "affected_plant_parts": [
+        "Stems",
+        "Leaves",
+        "Pods"
+      ],
+      "symptoms": {
+        "general": [
+          "Small yellow spots on leaves progressing to greenish water-soaked lesions on lower leaves",
+          "Lesions turn tan-colored with varying oval shapes and sizes",
+          "Small, sunken, golden-brown stem lesions with black margins that expand and may encircle the stem"
+        ],
+        "early_symptoms": [],
+        "advanced_symptoms": [
+          "Extensive stem girdling resulting in premature defoliation, disruption of water and nutrient uptake, wilting, and plant death",
+          "Acervuli form giving rise to abundant conidia and black microsclerotia causing marked blackening of old tissues"
+        ],
+        "visual_field_symptoms": [
+          "Large areas with brown and dying plants within the field"
+        ]
+      },
+      "identification": {
+        "field_identification": [
+          "Sunken golden-brown stem lesions with black margins",
+          "Blackened old tissues due to microsclerotia"
+        ],
+        "diagnostic_methods": [],
+        "differential_diagnosis": []
+      },
+      "causes_and_risk_factors": [
+        "Infected debris from previous seasons",
+        "Seed-borne infection"
+      ],
+      "favorable_conditions": {
+        "temperature": "16-24 °C",
+        "humidity": "",
+        "rainfall": "",
+        "soil_conditions": "",
+        "other_conditions": [
+          "18-24 hours of leaf wetness"
+        ]
+      },
+      "disease_development_and_spread": [
+        "Infection from spores present on debris or soil",
+        "Spreads upwards through rain splash",
+        "Microsclerotia act as resting stage surviving up to 5 years or more in soil"
+      ],
+      "epidemiology": [],
+      "severity_and_yield_loss": [
+        "Substantial yield losses of up to 60-70%"
+      ],
+      "management": {
+        "cultural_management": [
+          "Crop rotation and tillage to break down infected stubble and microsclerotia",
+          "3-year field break from lentils by cultivating non-host crops like cereals and oil seeds",
+          "Planting new lentil crops at considerable distance from previous fields",
+          "Eliminating volunteer lentils and wild vetch",
+          "Soaking infested seeds in hot water at 52 °C for 30 min"
+        ],
+        "biological_management": [
+          "Trichoderma harzianum and Pseudomonas fluorescens used as seed treatments"
+        ],
+        "chemical_management": [
+          {
+            "active_ingredient_or_product": "Pyraclostrobin, chlorothalonil, prothioconazole, boscalid",
+            "dose": "",
+            "concentration": "",
+            "application_method": "foliar spray",
+            "timing": "before flowering (10-12 node stage); repeat at 5-day intervals if conducive conditions persist",
+            "number_of_applications": "",
+            "result_reported_in_paper": ""
+          },
+          {
+            "active_ingredient_or_product": "Bravo 500 (50% chlorothalonil)",
+            "dose": "2.0-4.0 L/ha",
+            "concentration": "50%",
+            "application_method": "",
+            "timing": "",
+            "number_of_applications": "",
+            "result_reported_in_paper": "effective for anthracnose control"
+          }
+        ],
+        "integrated_management": []
+      },
+      "resistant_or_tolerant_varieties": [
+        "PI572330",
+        "PI572334",
+        "PI572338"
+      ],
+      "susceptible_varieties": [],
+      "prevention": [
+        "3-year crop rotation",
+        "Avoid introducing infected seeds"
+      ],
+      "farmer_action_points": [
+        "Frequent field scouting from seedling stage onwards",
+        "Apply foliar fungicides before fungus attacks stems"
+      ],
+      "warnings_and_limitations": [],
+      "research_findings": [],
+      "source_pages": [
+        "23",
+        "24",
+        "25"
+      ]
+    },
+    {
+      "disease_name": "Powdery Mildew of Lentil",
+      "alternative_names": [],
+      "disease_type": "Fungal Disease",
+      "causal_agent": "Erysiphe pisi DC., Erysiphe polygoni DC., Leveillula taurica (Lév.) Arnaud (also Erysiphe trifolii)",
+      "pathogen_type": "Fungus",
+      "affected_plant_parts": [
+        "Leaves",
+        "Stems",
+        "Pods"
+      ],
+      "symptoms": {
+        "general": [
+          "Tiny spots with fine powdery, white growth containing conidia and mycelium on upper surface of mature leaves",
+          "Extensive mycelial growth and conidial production covering leaves, stems, and pods"
+        ],
+        "early_symptoms": [],
+        "advanced_symptoms": [
+          "Leaflets dry up, curl, and are shed prematurely, leaving only terminal leaves",
+          "Infected seeds remain small and shriveled"
+        ],
+        "visual_field_symptoms": [
+          "White powdery mass of spores easily rubbed off leaf surface"
+        ]
+      },
+      "identification": {
+        "field_identification": [
+          "White powdery fungal growth on leaves, stems, and pods"
+        ],
+        "diagnostic_methods": [],
+        "differential_diagnosis": []
+      },
+      "causes_and_risk_factors": [
+        "Infected debris, leguminous weeds, or volunteer plants"
+      ],
+      "favorable_conditions": {
+        "temperature": "70-85 °F (moderate to warm temperatures)",
+        "humidity": "high humidity",
+        "rainfall": "",
+        "soil_conditions": "",
+        "other_conditions": [
+          "Overnight dew"
+        ]
+      },
+      "disease_development_and_spread": [
+        "Spread via anamorph spores",
+        "Survival on infected debris, weeds, or volunteer plants"
+      ],
+      "epidemiology": [],
+      "severity_and_yield_loss": [
+        "Significant yield loss from early infections"
+      ],
+      "management": {
+        "cultural_management": [
+          "Planting resistant varieties",
+          "Late sowing",
+          "Employing overhead irrigation to wash fungus from leaves",
+          "Adopting sustainable agronomic management practices"
+        ],
+        "biological_management": [],
+        "chemical_management": [
+          {
+            "active_ingredient_or_product": "tridemorph, aqueous sulfur, karathane (dinocap), calixin, sulfex (ferrous bisulfide)",
+            "dose": "",
+            "concentration": "",
+            "application_method": "foliar spray",
+            "timing": "10-15 day intervals",
+            "number_of_applications": "",
+            "result_reported_in_paper": "effective in controlling and reducing powdery mildew growth"
+          }
+        ],
+        "integrated_management": []
+      },
+      "resistant_or_tolerant_varieties": [],
+      "susceptible_varieties": [],
+      "prevention": [],
+      "farmer_action_points": [
+        "Plant resistant varieties",
+        "Apply sulfur or approved fungicides"
+      ],
+      "warnings_and_limitations": [
+        "Can cause uneven crop maturation and harvesting difficulties as desiccants cannot penetrate dense fungal layer"
+      ],
+      "research_findings": [],
+      "source_pages": [
+        "26",
+        "27"
+      ]
+    },
+    {
+      "disease_name": "Root Rot/Seedling Disease Complex",
+      "alternative_names": [],
+      "disease_type": "Fungal Disease",
+      "causal_agent": "Fusarium solani, Sclerotium rolfsii, Rhizoctonia solani, Rhizoctonia bataticola (Dry Root Rot), Pythium aphanidermatum, Pythium ultimum, Aphanomyces euteiches",
+      "pathogen_type": "Fungus",
+      "affected_plant_parts": [
+        "Roots",
+        "Stems",
+        "Taproots",
+        "Seedlings"
+      ],
+      "symptoms": {
+        "general": [
+          "Failure of seedlings to emerge",
+          "Light brown to red water-soaked roots and stems",
+          "Stunted plant growth",
+          "Rotting taproots with few lateral roots and absence of secondary roots"
+        ],
+        "early_symptoms": [],
+        "advanced_symptoms": [
+          "Affected plants droop, become stunted, and eventually dry up and die"
+        ],
+        "visual_field_symptoms": [
+          "Appears in localized patches linked to flooding or prolonged waterlogging"
+        ]
+      },
+      "identification": {
+        "field_identification": [
+          "Localized patches of wilted/dying seedlings",
+          "Water-soaked roots and rotting taproots in waterlogged areas"
+        ],
+        "diagnostic_methods": [],
+        "differential_diagnosis": []
+      },
+      "causes_and_risk_factors": [
+        "Flooding or prolonged waterlogging",
+        "Soil-borne pathogen persistence in soil and debris"
+      ],
+      "favorable_conditions": {
+        "temperature": "warm to hot, wet climates (Fusarium solani); warm, humid climates (S. rolfsii, Pythium); cool, wet climates (Rhizoctonia solani, Aphanomyces euteiches)",
+        "humidity": "",
+        "rainfall": "",
+        "soil_conditions": "well-drained sandy soils reduce disease incidence",
+        "other_conditions": [
+          "Waterlogging"
+        ]
+      },
+      "disease_development_and_spread": [
+        "Survival in soil, plant debris, and seeds as dormant mycelia, sclerotia, or spores",
+        "Root exudates from germinating seedlings stimulate dormant fungi"
+      ],
+      "epidemiology": [],
+      "severity_and_yield_loss": [
+        "Significant yield losses in susceptible varieties"
+      ],
+      "management": {
+        "cultural_management": [
+          "Crop rotation with non-legume crops",
+          "Planting disease-resistant cultivars",
+          "Avoiding planting in waterlogged areas",
+          "Using well-drained, sandy soils",
+          "Soil solarization"
+        ],
+        "biological_management": [
+          "Trichoderma spp."
+        ],
+        "chemical_management": [
+          {
+            "active_ingredient_or_product": "Bavistin 50 WP",
+            "dose": "",
+            "concentration": "",
+            "application_method": "seed treatment",
+            "timing": "",
+            "number_of_applications": "",
+            "result_reported_in_paper": "proven effective for seed treatment, leading to disease reduction and increased seed yield"
+          },
+          {
+            "active_ingredient_or_product": "Provax 200 (WP)",
+            "dose": "",
+            "concentration": "",
+            "application_method": "seed treatment",
+            "timing": "",
+            "number_of_applications": "",
+            "result_reported_in_paper": "effective in controlling foot and root rot incidence"
+          }
+        ],
+        "integrated_management": []
+      },
+      "resistant_or_tolerant_varieties": [],
+      "susceptible_varieties": [],
+      "prevention": [
+        "Avoid waterlogged soils",
+        "Crop rotation"
+      ],
+      "farmer_action_points": [
+        "Use treated seeds (Bavistin or Provax)",
+        "Avoid waterlogged fields"
+      ],
+      "warnings_and_limitations": [],
+      "research_findings": [],
+      "source_pages": [
+        "27",
+        "28",
+        "29"
+      ]
+    },
+    {
+      "disease_name": "Bacterial Blight/Brown Spot of Lentil",
+      "alternative_names": [],
+      "disease_type": "Bacterial Disease",
+      "causal_agent": "Pseudomonas syringae pv. syringae",
+      "pathogen_type": "Bacterium",
+      "affected_plant_parts": [
+        "Leaves",
+        "Stems",
+        "Stipules",
+        "Leaflets"
+      ],
+      "symptoms": {
+        "general": [
+          "Brown circular lesion on leaves which may become dry and torn in the middle resembling 'shot holes'"
+        ],
+        "early_symptoms": [],
+        "advanced_symptoms": [],
+        "visual_field_symptoms": [
+          "Brown, circular and translucent foliar lesions"
+        ]
+      },
+      "identification": {
+        "field_identification": [
+          "Brown circular leaf lesions with shot-hole appearance"
+        ],
+        "diagnostic_methods": [],
+        "differential_diagnosis": []
+      },
+      "causes_and_risk_factors": [
+        "Survival in seed or crop debris of host plants"
+      ],
+      "favorable_conditions": {
+        "temperature": "26-28 °C",
+        "humidity": "high humidity",
+        "rainfall": "",
+        "soil_conditions": "rising soil moisture levels",
+        "other_conditions": [
+          "Cool, overcast weather"
+        ]
+      },
+      "disease_development_and_spread": [
+        "Seed-borne or crop debris survival"
+      ],
+      "epidemiology": [],
+      "severity_and_yield_loss": [
+        "Reported as minor disease with 5% incidence in commercial fields in South Dakota"
+      ],
+      "management": {
+        "cultural_management": [
+          "Planting disease-free seeds",
+          "Maintaining farm sanitation",
+          "Avoiding susceptible cultivars",
+          "Crop rotation",
+          "Avoiding fields sensitive to frost"
+        ],
+        "biological_management": [],
+        "chemical_management": [
+          {
+            "active_ingredient_or_product": "copper-based fungicides",
+            "dose": "",
+            "concentration": "",
+            "application_method": "",
+            "timing": "",
+            "number_of_applications": "",
+            "result_reported_in_paper": ""
+          }
+        ],
+        "integrated_management": []
+      },
+      "resistant_or_tolerant_varieties": [],
+      "susceptible_varieties": [],
+      "prevention": [
+        "Plant disease-free seeds",
+        "Farm sanitation"
+      ],
+      "farmer_action_points": [
+        "Use certified disease-free seeds",
+        "Maintain sanitation"
+      ],
+      "warnings_and_limitations": [],
+      "research_findings": [],
+      "source_pages": [
+        "29",
+        "30"
+      ]
+    },
+    {
+      "disease_name": "Root-Knot Nematode",
+      "alternative_names": [],
+      "disease_type": "Nematode Disease",
+      "causal_agent": "Meloidogyne incognita, Meloidogyne javanica, Meloidogyne artiella",
+      "pathogen_type": "Nematode",
+      "affected_plant_parts": [
+        "Roots"
+      ],
+      "symptoms": {
+        "general": [
+          "Characteristic swellings known as galls on roots making roots appear knotted or distorted"
+        ],
+        "early_symptoms": [],
+        "advanced_symptoms": [
+          "Wilting, stunting, necrosis of leaf edges, and chlorosis during moisture stress"
+        ],
+        "visual_field_symptoms": [
+          "Root galls and swelling"
+        ]
+      },
+      "identification": {
+        "field_identification": [
+          "Root galls/knots distinguishable from Rhizobium nodules"
+        ],
+        "diagnostic_methods": [],
+        "differential_diagnosis": [
+          "Nematode-induced galls become part of central root tissue, whereas Rhizobium nodules attach to the side of root hairs and detach easily"
+        ]
+      },
+      "causes_and_risk_factors": [
+        "J2 stage nematodes entering growing roots"
+      ],
+      "favorable_conditions": {
+        "temperature": "warm season",
+        "humidity": "",
+        "rainfall": "",
+        "soil_conditions": "",
+        "other_conditions": []
+      },
+      "disease_development_and_spread": [
+        "J2 nematodes enter growing roots and branches, causing hyperplasia, hypertrophy, and giant cell formation"
+      ],
+      "epidemiology": [],
+      "severity_and_yield_loss": [
+        "Pulse crop yield losses estimated up to 20-35%; combination with wilt fungal disease drastically lowers production"
+      ],
+      "management": {
+        "cultural_management": [
+          "Crop rotation",
+          "Antagonistic plants",
+          "Resistant cultivars",
+          "Soil amendments (neem cake, mahua cake, groundnut cake, sunflower cake)"
+        ],
+        "biological_management": [
+          "Rhizobium sp. in conjunction with cow dung and eggshell powder"
+        ],
+        "chemical_management": [
+          {
+            "active_ingredient_or_product": "carbosulfan",
+            "dose": "",
+            "concentration": "",
+            "application_method": "",
+            "timing": "",
+            "number_of_applications": "",
+            "result_reported_in_paper": ""
+          }
+        ],
+        "integrated_management": [
+          "Combining oil cake (such as Mahua cake) with bioagents or lower dosage of nematicide"
+        ]
+      },
+      "resistant_or_tolerant_varieties": [],
+      "susceptible_varieties": [],
+      "prevention": [],
+      "farmer_action_points": [
+        "Apply organic soil amendments like neem cake or mahua cake"
+      ],
+      "warnings_and_limitations": [
+        "No cultivars of lentil resistant to root-knot nematodes are available in Europe"
+      ],
+      "research_findings": [],
+      "source_pages": [
+        "38",
+        "39"
+      ]
+    },
+    {
+      "disease_name": "Root-Lesion Nematode",
+      "alternative_names": [],
+      "disease_type": "Nematode Disease",
+      "causal_agent": "Pratylenchus lentis n. sp., Pratylenchus neglectus, Pratylenchus thornei, Pratylenchus hamatus",
+      "pathogen_type": "Nematode",
+      "affected_plant_parts": [
+        "Roots"
+      ],
+      "symptoms": {
+        "general": [
+          "Small, dark-brown to black lesions along roots",
+          "Impeded root development and nutrient uptake"
+        ],
+        "early_symptoms": [],
+        "advanced_symptoms": [
+          "Nutrient deficiency symptoms, chlorosis of leaves, and wilting during moisture stress"
+        ],
+        "visual_field_symptoms": [
+          "Dark-brown to black root lesions and reduced plant vigor"
+        ]
+      },
+      "identification": {
+        "field_identification": [
+          "Dark lesions along roots and stunted plant growth"
+        ],
+        "diagnostic_methods": [
+          "Morphological and molecular characterization"
+        ],
+        "differential_diagnosis": []
+      },
+      "causes_and_risk_factors": [
+        "Warm, sandy soils with high soil moisture"
+      ],
+      "favorable_conditions": {
+        "temperature": "25-30 °C (77-86 °F)",
+        "humidity": "",
+        "rainfall": "high-rainfall areas",
+        "soil_conditions": "warm, sandy soils with high moisture",
+        "other_conditions": []
+      },
+      "disease_development_and_spread": [
+        "Nematodes feed on root tissues causing lesions"
+      ],
+      "epidemiology": [],
+      "severity_and_yield_loss": [],
+      "management": {
+        "cultural_management": [
+          "Field sanitation",
+          "Crop rotation (using two consecutive resistant crops if levels are high)",
+          "Soil solarization during summer for 6-8 weeks",
+          "Soil amendments involving organic matter"
+        ],
+        "biological_management": [],
+        "chemical_management": [
+          {
+            "active_ingredient_or_product": "chemical nematicides",
+            "dose": "",
+            "concentration": "",
+            "application_method": "seed treatments",
+            "timing": "",
+            "number_of_applications": "",
+            "result_reported_in_paper": "decrease disease severity"
+          }
+        ],
+        "integrated_management": [
+          "Combining field sanitation, crop rotation, genetic resistance, and soil solarization"
+        ]
+      },
+      "resistant_or_tolerant_varieties": [],
+      "susceptible_varieties": [],
+      "prevention": [
+        "Soil solarization",
+        "Crop rotation"
+      ],
+      "farmer_action_points": [
+        "Practice summer soil solarization",
+        "Use crop rotation"
+      ],
+      "warnings_and_limitations": [
+        "Chemical nematicides may not be economically feasible, registered, or environmentally appropriate"
+      ],
+      "research_findings": [],
+      "source_pages": [
+        "39",
+        "40",
+        "41"
+      ]
+    },
+    {
+      "disease_name": "Stem and Bulb Nematode",
+      "alternative_names": [],
+      "disease_type": "Nematode Disease",
+      "causal_agent": "Ditylenchus dipsaci Kuhn",
+      "pathogen_type": "Nematode",
+      "affected_plant_parts": [
+        "Stems",
+        "Leaves",
+        "Internodes",
+        "Pods",
+        "Seeds"
+      ],
+      "symptoms": {
+        "general": [
+          "Stems exhibit swelling and color changes from reddish-brown to black",
+          "Leaves and internodes show signs of necrosis",
+          "Young pods turn reddish-brown; seeds become darker, smaller, and distorted"
+        ],
+        "early_symptoms": [],
+        "advanced_symptoms": [],
+        "visual_field_symptoms": [
+          "Swollen, blackened stems and necrotic leaf/internode symptoms"
+        ]
+      },
+      "identification": {
+        "field_identification": [
+          "Reddish-brown to black swollen stems and necrotic lesions"
+        ],
+        "diagnostic_methods": [],
+        "differential_diagnosis": []
+      },
+      "causes_and_risk_factors": [
+        "Temperate climate conditions, higher rainfall years"
+      ],
+      "favorable_conditions": {
+        "temperature": "temperate climates",
+        "humidity": "",
+        "rainfall": "higher rainfall years",
+        "soil_conditions": "",
+        "other_conditions": []
+      },
+      "disease_development_and_spread": [],
+      "epidemiology": [],
+      "severity_and_yield_loss": [
+        "Can potentially impact yield in years with higher rainfall"
+      ],
+      "management": {
+        "cultural_management": [
+          "Using certified nematode-free seeds and planting materials",
+          "Implementing hot water treatment",
+          "Soil solarization"
+        ],
+        "biological_management": [],
+        "chemical_management": [],
+        "integrated_management": []
+      },
+      "resistant_or_tolerant_varieties": [
+        "Two tested lentil cultivars in South Australia demonstrated resistance"
+      ],
+      "susceptible_varieties": [],
+      "prevention": [
+        "Use certified nematode-free seeds",
+        "Hot water treatment",
+        "Soil solarization"
+      ],
+      "farmer_action_points": [
+        "Use certified nematode-free seeds",
+        "Apply hot water treatment"
+      ],
+      "warnings_and_limitations": [
+        "No lentil cultivars with resistance available in Europe"
+      ],
+      "research_findings": [],
+      "source_pages": [
+        "41",
+        "42"
+      ]
+    }
+  ],
+  "paper_level_notes": [
+    "The paper covers a wide range of fungal, bacterial, viral, and nematode diseases affecting lentils globally, detailing their geographic distribution, symptoms, biology, epidemiology, and management strategies."
+  ],
+  "_processing_metadata": {
+    "source_pdf": "Masoor.pdf",
+    "crop_detected_from_filename": "Masoor",
+    "model_used": "gemini-3.5-flash-lite",
+    "extracted_at": "2026-09-23 23:46:48"
+  }
+}

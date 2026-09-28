@@ -1,0 +1,1290 @@
+{
+  "crop": "Groundnut (Arachis hypogaea)",
+  "paper_information": {
+    "title": "Diseases of Groundnut",
+    "authors": [
+      "Vinod Kumar",
+      "P. P. Thirumalaisamy"
+    ],
+    "year": "",
+    "journal_or_source": "Diseases of Field Crops",
+    "doi_or_identifier": "",
+    "abstract_summary": "This article describes in detail the major diseases of groundnut, its occurrence, distribution, losses caused by them, diagnostic symptoms, and epidemiology besides aflatoxin contamination. Various management options including host plant resistance, cultural methods, botanicals, biological control, chemical methods, and integrated disease management are reviewed.",
+    "research_objective": "To review and describe major diseases of groundnut, their symptoms, losses, epidemiology, and management practices.",
+    "study_area": "India",
+    "important_findings": [
+      "More than 55 pathogens affect groundnut.",
+      "Collar rot, stem rot, dry root rot, early and late leaf spots, rust, bud necrosis, and aflatoxin contamination are economically important problems."
+    ]
+  },
+  "diseases": [
+    {
+      "disease_name": "Collar rot",
+      "alternative_names": [
+        "seedling blight"
+      ],
+      "disease_type": "Seed and seedling disease",
+      "causal_agent": "Aspergillus niger",
+      "pathogen_type": "Fungus",
+      "affected_plant_parts": [
+        "Seeds",
+        "Hypocotyls",
+        "Collar region",
+        "Entire plant"
+      ],
+      "symptoms": {
+        "general": [
+          "Pre-emergence rotting of seeds",
+          "Rotting of hypocotyls",
+          "Post-emergence seedling blight",
+          "Rapid wilting of entire plant or branches"
+        ],
+        "early_symptoms": [],
+        "advanced_symptoms": [
+          "Collar region becomes shredded and dark brown covered by mycelial growth and spores"
+        ],
+        "visual_field_symptoms": [
+          "Patchy crop stand due to severe seedling mortality"
+        ]
+      },
+      "identification": {
+        "field_identification": [
+          "Rapid wilting of entire plant or branches",
+          "Shredded collar region covered with dark brown mycelia and spores"
+        ],
+        "diagnostic_methods": [],
+        "differential_diagnosis": []
+      },
+      "causes_and_risk_factors": [
+        "Soil-borne inoculum or inoculum on seed surface",
+        "Sandy loam and medium black soils"
+      ],
+      "favorable_conditions": {
+        "temperature": "31-35°C",
+        "humidity": "",
+        "rainfall": "",
+        "soil_conditions": "Can tolerate low soil moisture (13-16%)",
+        "other_conditions": []
+      },
+      "disease_development_and_spread": [
+        "Fungus present in soil or seed surface germinates and attacks seeds before germination."
+      ],
+      "epidemiology": [],
+      "severity_and_yield_loss": [
+        "Mortality of plants ranges from 28 to 50%",
+        "Reduces yields from 25-50%"
+      ],
+      "management": {
+        "cultural_management": [
+          "Deep ploughing and rotation with gram and wheat",
+          "Early sowing in June",
+          "Closer row spacing (30 cm)",
+          "Application of neem cake and farmyard manure"
+        ],
+        "biological_management": [
+          "Seed dressing with Trichoderma harzianum or T. viride",
+          "Soil application of Trichoderma isolates",
+          "Seed treatment with Bacillus subtilis AF1 or Pseudomonas fluorescens"
+        ],
+        "chemical_management": [
+          {
+            "active_ingredient_or_product": "Carbendazim",
+            "dose": "2 g/kg of seed",
+            "concentration": "",
+            "application_method": "Seed treatment",
+            "timing": "Before sowing",
+            "number_of_applications": "1",
+            "result_reported_in_paper": "Effective in controlling collar rot"
+          },
+          {
+            "active_ingredient_or_product": "Thiram",
+            "dose": "3 g/kg seed",
+            "concentration": "",
+            "application_method": "Seed treatment",
+            "timing": "Before sowing",
+            "number_of_applications": "1",
+            "result_reported_in_paper": "Effective in controlling seed and soil-borne diseases"
+          }
+        ],
+        "integrated_management": [
+          "Seed treatment with P. fluorescens @ 10 g/kg seed + soil application of neem cake @ 160 kg/ha before sowing",
+          "Seed treatment with T. viride @ 4 g/kg seed + soil application of neem cake"
+        ]
+      },
+      "resistant_or_tolerant_varieties": [
+        "J 11",
+        "JCG 88",
+        "OG-52-1"
+      ],
+      "susceptible_varieties": [],
+      "prevention": [
+        "Sow only sound seeds and treat with recommended fungicides or biocontrol agents"
+      ],
+      "farmer_action_points": [
+        "Treat seeds with carbendazim or thiram before sowing",
+        "Apply neem cake or farmyard manure to soil"
+      ],
+      "warnings_and_limitations": [],
+      "research_findings": [],
+      "source_pages": [
+        "4",
+        "5",
+        "15",
+        "17",
+        "18",
+        "20",
+        "23",
+        "28",
+        "29"
+      ]
+    },
+    {
+      "disease_name": "Stem rot",
+      "alternative_names": [
+        "Sclerotium wilt"
+      ],
+      "disease_type": "Soil-borne disease",
+      "causal_agent": "Sclerotium rolfsii",
+      "pathogen_type": "Fungus",
+      "affected_plant_parts": [
+        "Stem",
+        "Branches",
+        "Pegs",
+        "Pods",
+        "Leaves"
+      ],
+      "symptoms": {
+        "general": [
+          "Partial or complete wilting of stem or branches in contact with infected soil",
+          "Leaves turn brown and show wilting but remain attached to the plant",
+          "Infection of pegs, pod rot, and leaf blight"
+        ],
+        "early_symptoms": [],
+        "advanced_symptoms": [
+          "White mycelial growths with brown color sclerotia visible on infected plant parts"
+        ],
+        "visual_field_symptoms": []
+      },
+      "identification": {
+        "field_identification": [
+          "White mycelial growths with brown sclerotia on infected plant parts",
+          "Wilting of branches with dead leaves remaining attached"
+        ],
+        "diagnostic_methods": [],
+        "differential_diagnosis": []
+      },
+      "causes_and_risk_factors": [
+        "Wide host range",
+        "Colonization of living plant tissues or plant debris"
+      ],
+      "favorable_conditions": {
+        "temperature": "29 to 32°C during day and 25°C during nights",
+        "humidity": "",
+        "rainfall": "",
+        "soil_conditions": "Soil moisture to the extent of 40 to 50% of water holding capacity",
+        "other_conditions": [
+          "Wind splashed rain and sclerotia dissemination"
+        ]
+      },
+      "disease_development_and_spread": [
+        "Spreads through infected soil, wind-splashed rain, and sclerotia",
+        "Deeply buried sclerotia survive a year or less while those near soil surface remain viable for many years"
+      ],
+      "epidemiology": [],
+      "severity_and_yield_loss": [
+        "Yield losses over 25-27%",
+        "Reduction in dry weight and oil content"
+      ],
+      "management": {
+        "cultural_management": [
+          "Deep covering or burial of organic matter before planting",
+          "Crop rotation with crops like maize, sorghum, onion, garlic, and cotton",
+          "Soil amendment with mustard cake, safflower oil cake, sun hemp, wheat straw"
+        ],
+        "biological_management": [
+          "Seed dressing or soil application with Trichoderma harzianum or T. viride"
+        ],
+        "chemical_management": [
+          {
+            "active_ingredient_or_product": "Tebuconazole",
+            "dose": "",
+            "concentration": "",
+            "application_method": "",
+            "timing": "",
+            "number_of_applications": "",
+            "result_reported_in_paper": "Effective against S. rolfsii, inhibiting ergosterol biosynthesis"
+          },
+          {
+            "active_ingredient_or_product": "Cyproconazole",
+            "dose": "",
+            "concentration": "",
+            "application_method": "",
+            "timing": "",
+            "number_of_applications": "",
+            "result_reported_in_paper": "Effective against S. rolfsii, inhibiting ergosterol biosynthesis"
+          }
+        ],
+        "integrated_management": [
+          "Soil application of castor cake @ 500 kg/ha + commercial preparation of T. viride @ 62.5 kg/ha in furrow at sowing"
+        ]
+      },
+      "resistant_or_tolerant_varieties": [
+        "OG-52-1",
+        "Dh-8",
+        "ICGV 86590"
+      ],
+      "susceptible_varieties": [],
+      "prevention": [],
+      "farmer_action_points": [
+        "Practice crop rotation with cotton, maize, or sorghum",
+        "Apply organic amendments like mustard cake or castor cake"
+      ],
+      "warnings_and_limitations": [],
+      "research_findings": [],
+      "source_pages": [
+        "3",
+        "5",
+        "15",
+        "17",
+        "18",
+        "20",
+        "21",
+        "23",
+        "29"
+      ]
+    },
+    {
+      "disease_name": "Dry root rot",
+      "alternative_names": [
+        "dry wilt",
+        "charcoal rot"
+      ],
+      "disease_type": "Soil-borne disease",
+      "causal_agent": "Macrophomina phaseolina",
+      "pathogen_type": "Fungus",
+      "affected_plant_parts": [
+        "Stem",
+        "Tap root",
+        "Kernels",
+        "Shell"
+      ],
+      "symptoms": {
+        "general": [
+          "Water soaked necrotic lesion girdling stem just above ground level followed by wilting",
+          "Tap root turns black, rots, and shreds",
+          "Kernels turn black with abundant sclerotia on inner wall of shell and surface of testa"
+        ],
+        "early_symptoms": [],
+        "advanced_symptoms": [],
+        "visual_field_symptoms": [
+          "Severe seedling mortality resulting in patchy crop stand"
+        ]
+      },
+      "identification": {
+        "field_identification": [
+          "Water-soaked necrotic lesions on stem base",
+          "Blackened and shredded tap root",
+          "Black kernels with sclerotia"
+        ],
+        "diagnostic_methods": [],
+        "differential_diagnosis": []
+      },
+      "causes_and_risk_factors": [
+        "Wide host range",
+        "Facultative saprophyte and soil dweller"
+      ],
+      "favorable_conditions": {
+        "temperature": "Optimum for seedling infection is 29 to 35°C, for pod invasion is 26 to 32°C",
+        "humidity": "",
+        "rainfall": "",
+        "soil_conditions": "",
+        "other_conditions": []
+      },
+      "disease_development_and_spread": [
+        "Infected soil, plant debris, and pods serve as sources of inoculum",
+        "Sclerotia disseminated via plant debris, soil, infected pods, shell, and kernel"
+      ],
+      "epidemiology": [],
+      "severity_and_yield_loss": [
+        "Reduces yield through severe seedling mortality"
+      ],
+      "management": {
+        "cultural_management": [],
+        "biological_management": [],
+        "chemical_management": [],
+        "integrated_management": []
+      },
+      "resistant_or_tolerant_varieties": [],
+      "susceptible_varieties": [],
+      "prevention": [],
+      "farmer_action_points": [],
+      "warnings_and_limitations": [],
+      "research_findings": [],
+      "source_pages": [
+        "3",
+        "5",
+        "6"
+      ]
+    },
+    {
+      "disease_name": "Aflaroot/yellow mold",
+      "alternative_names": [],
+      "disease_type": "Seed and seedling disease",
+      "causal_agent": "Aspergillus flavus",
+      "pathogen_type": "Fungus",
+      "affected_plant_parts": [
+        "Cotyledons",
+        "Leaves",
+        "Roots",
+        "Seeds",
+        "Pods"
+      ],
+      "symptoms": {
+        "general": [
+          "Appears on cotyledons after emergence",
+          "Stunted plants with drastically reduced leaf lamina and pointed tip",
+          "Vein clearing and chlorosis of leaflets",
+          "Infected seedlings lack secondary root system (aflaroot condition)",
+          "Yellow-green Aspergillus colonies on over-mature and damaged seeds and pods"
+        ],
+        "early_symptoms": [],
+        "advanced_symptoms": [],
+        "visual_field_symptoms": [
+          "Stunted plants lacking secondary roots that do not produce flowers"
+        ]
+      },
+      "identification": {
+        "field_identification": [
+          "Stunted seedlings without secondary roots (aflaroot)",
+          "Yellow-green fungal colonies on damaged seeds and pods"
+        ],
+        "diagnostic_methods": [],
+        "differential_diagnosis": []
+      },
+      "causes_and_risk_factors": [
+        "Soil-borne inoculum",
+        "Presence of fungus in seed of rotten and healthy pods"
+      ],
+      "favorable_conditions": {
+        "temperature": "25 and 35°C",
+        "humidity": "",
+        "rainfall": "",
+        "soil_conditions": "Can tolerate low soil moisture",
+        "other_conditions": []
+      },
+      "disease_development_and_spread": [],
+      "epidemiology": [],
+      "severity_and_yield_loss": [
+        "Plants become unproductive"
+      ],
+      "management": {
+        "cultural_management": [],
+        "biological_management": [
+          "Bacterial isolates like Bacillus spp., Pseudomonas fluorescens, AF-52, and BCB-135 effective in reducing population"
+        ],
+        "chemical_management": [],
+        "integrated_management": []
+      },
+      "resistant_or_tolerant_varieties": [
+        "J 11",
+        "JCG 88",
+        "OG-52-1"
+      ],
+      "susceptible_varieties": [],
+      "prevention": [],
+      "farmer_action_points": [],
+      "warnings_and_limitations": [],
+      "research_findings": [],
+      "source_pages": [
+        "3",
+        "6",
+        "17",
+        "18"
+      ]
+    },
+    {
+      "disease_name": "Early leaf spot",
+      "alternative_names": [
+        "tikka disease"
+      ],
+      "disease_type": "Foliar fungal disease",
+      "causal_agent": "Cercospora arachidicola (Perfect stage: Mycosphaerella arachidis)",
+      "pathogen_type": "Fungus",
+      "affected_plant_parts": [
+        "Leaves",
+        "Stem",
+        "Branches"
+      ],
+      "symptoms": {
+        "general": [
+          "Minute circular to sub-circular chlorotic spots (1 to over 10 mm in diameter) on upper surface of leaf turning brown with yellow halo",
+          "Most sporulation occurs on upper surface of leaflet",
+          "Severely infected leaves drop off prematurely",
+          "Lesions may extend to stem and branches"
+        ],
+        "early_symptoms": [
+          "Minute circular to sub-circular chlorotic spots on upper surface of leaf"
+        ],
+        "advanced_symptoms": [
+          "Spots turn brown with yellow halo, premature leaf drop"
+        ],
+        "visual_field_symptoms": [
+          "Light brown to black spots on upper leaf surface, brown on lower surface"
+        ]
+      },
+      "identification": {
+        "field_identification": [
+          "Light brown to black spots on upper leaf surface with yellow halo",
+          "Brown spots on lower leaf surface"
+        ],
+        "diagnostic_methods": [],
+        "differential_diagnosis": [
+          "Differs from late leaf spot by early seasonal development, circular to irregular shape, sporulation mostly on upper leaf surface, and light brown to black upper spot color."
+        ]
+      },
+      "causes_and_risk_factors": [],
+      "favorable_conditions": {
+        "temperature": "25 and 30°C",
+        "humidity": "High RH (>80%)",
+        "rainfall": "",
+        "soil_conditions": "",
+        "other_conditions": [
+          "Prolonged leaf wetness hours"
+        ]
+      },
+      "disease_development_and_spread": [
+        "Survives through conidia on affected plant debris in soil, pod shell, or volunteer plants",
+        "Secondary infection via wind-disseminated conidia"
+      ],
+      "epidemiology": [],
+      "severity_and_yield_loss": [
+        "Yield losses range from 15 to 59%",
+        "Adversely affects fodder quality"
+      ],
+      "management": {
+        "cultural_management": [
+          "Removal of volunteer plants, removal or burial of crop debris, crop rotation, early sowing",
+          "Wider row spacing (40-45 cm)",
+          "Intercropping with pearl millet, sorghum, and pigeon pea"
+        ],
+        "biological_management": [],
+        "chemical_management": [
+          {
+            "active_ingredient_or_product": "Carbendazim",
+            "dose": "150 g in 250 L water/ha",
+            "concentration": "0.05% - 0.1%",
+            "application_method": "Foliar spray",
+            "timing": "Fortnightly intervals",
+            "number_of_applications": "4",
+            "result_reported_in_paper": "Substantially decreased leaf spots and increased yield"
+          },
+          {
+            "active_ingredient_or_product": "Mancozeb + Carbendazim",
+            "dose": "",
+            "concentration": "mancozeb 0.2% + carbendazim 0.05%",
+            "application_method": "Foliar spray",
+            "timing": "Commencing from first appearance of symptoms at 15 days interval",
+            "number_of_applications": "3",
+            "result_reported_in_paper": "Effectively managed leaf spots and rust, increased yield by 20%"
+          }
+        ],
+        "integrated_management": [
+          "Intercropping groundnut with pigeon pea and spraying twice (55 and 70 DAS) with fungicide mixture (carbendazim 0.05% + mancozeb 0.2%)"
+        ]
+      },
+      "resistant_or_tolerant_varieties": [
+        "ALR 1",
+        "ALR 2",
+        "ALR 3",
+        "Girnar 1",
+        "ICGV 86590",
+        "ICGV 87160",
+        "ICGV 86325",
+        "CSMG 84-1",
+        "OG-52-1",
+        "RSHY 1",
+        "DRG 12",
+        "DRG 17",
+        "TAG 24",
+        "BSR 1",
+        "VRI 5",
+        "CO 4"
+      ],
+      "susceptible_varieties": [],
+      "prevention": [],
+      "farmer_action_points": [
+        "Early planting in June",
+        "Use wider row spacing",
+        "Apply recommended fungicide sprays upon symptom appearance"
+      ],
+      "warnings_and_limitations": [],
+      "research_findings": [],
+      "source_pages": [
+        "3",
+        "6",
+        "7",
+        "8",
+        "15",
+        "16",
+        "17",
+        "22",
+        "23",
+        "28"
+      ]
+    },
+    {
+      "disease_name": "Late leaf spot",
+      "alternative_names": [
+        "tikka disease"
+      ],
+      "disease_type": "Foliar fungal disease",
+      "causal_agent": "Phaeoisariopsis personata (Perfect stage: Mycosphaerella berkeleyi)",
+      "pathogen_type": "Fungus",
+      "affected_plant_parts": [
+        "Leaves",
+        "Stem",
+        "Branches"
+      ],
+      "symptoms": {
+        "general": [
+          "Dark brown to black, circular to sub-circular lesions (1-6 mm diameter) on lower surface of leaves",
+          "Most sporulation occurs on lower surface",
+          "Several lesions may coalesce causing premature leaf drop",
+          "Oblong lesions occur on stem and branches"
+        ],
+        "early_symptoms": [],
+        "advanced_symptoms": [
+          "Coalescing lesions, premature defoliation"
+        ],
+        "visual_field_symptoms": [
+          "Brown to black spots on upper leaf surface, black on lower leaf surface with abundant dark sporulation"
+        ]
+      },
+      "identification": {
+        "field_identification": [
+          "Dark brown to black spots on lower leaf surface with black coloration",
+          "Oblong lesions on stems and branches"
+        ],
+        "diagnostic_methods": [],
+        "differential_diagnosis": [
+          "Differs from early leaf spot by late seasonal development, usually circular spots, primary sporulation on lower leaf surface, and dark brown to black upper spot color and black lower spot color."
+        ]
+      },
+      "causes_and_risk_factors": [],
+      "favorable_conditions": {
+        "temperature": "25 and 30°C",
+        "humidity": "High RH (>80%)",
+        "rainfall": "",
+        "soil_conditions": "",
+        "other_conditions": [
+          "Prolonged leaf wetness hours"
+        ]
+      },
+      "disease_development_and_spread": [
+        "Survives through conidia on affected plant debris in soil, groundnut shell, or volunteer plants",
+        "Long distance distribution via airborne conidia, movement of infected crop debris, or contaminated pods/seeds"
+      ],
+      "epidemiology": [],
+      "severity_and_yield_loss": [
+        "Yield losses range from 15 to 59%",
+        "Adversely affects fodder quality"
+      ],
+      "management": {
+        "cultural_management": [
+          "Deep burying of crop residues, burning crop debris, removal of volunteer plants",
+          "Early planting and wider row spacing (40-45 cm)",
+          "Intercropping with pearl millet, sorghum, and pigeon pea"
+        ],
+        "biological_management": [
+          "Foliar spray of culture filtrates of Verticillium lecanii and Penicillium islandicum",
+          "Serratia marcescens GPS-5 and Bacillus circulans GRS-242 with 1% colloidal chitin"
+        ],
+        "chemical_management": [
+          {
+            "active_ingredient_or_product": "Hexaconazole",
+            "dose": "",
+            "concentration": "",
+            "application_method": "",
+            "timing": "",
+            "number_of_applications": "",
+            "result_reported_in_paper": "Achieved best control of leaf spots and rust, highest pod and fodder yields (71% higher pod yield)"
+          },
+          {
+            "active_ingredient_or_product": "Difenoconazole",
+            "dose": "",
+            "concentration": "",
+            "application_method": "",
+            "timing": "",
+            "number_of_applications": "",
+            "result_reported_in_paper": "Achieved best control of leaf spots and rust, highest pod and fodder yields"
+          }
+        ],
+        "integrated_management": []
+      },
+      "resistant_or_tolerant_varieties": [
+        "ALR 1",
+        "ALR 2",
+        "ALR 3",
+        "Girnar 1",
+        "ICGV 86590",
+        "ICGV 87160",
+        "ICGV 86325",
+        "CSMG 84-1",
+        "OG-52-1",
+        "RSHY 1",
+        "DRG 12",
+        "DRG 17",
+        "TAG 24",
+        "BSR 1",
+        "VRI 5",
+        "CO 4"
+      ],
+      "susceptible_varieties": [],
+      "prevention": [],
+      "farmer_action_points": [
+        "Destroy crop debris by burning",
+        "Plant early in June"
+      ],
+      "warnings_and_limitations": [],
+      "research_findings": [],
+      "source_pages": [
+        "3",
+        "7",
+        "8",
+        "16",
+        "17",
+        "22",
+        "23",
+        "28"
+      ]
+    },
+    {
+      "disease_name": "Rust",
+      "alternative_names": [],
+      "disease_type": "Foliar fungal disease",
+      "causal_agent": "Puccinia arachidis",
+      "pathogen_type": "Fungus",
+      "affected_plant_parts": [
+        "Leaves",
+        "Kernels"
+      ],
+      "symptoms": {
+        "general": [
+          "Initially chlorotic spots develop on upper surface of leaf",
+          "Corresponding lower surface shows orange colored pustules (uredinia) ranging from 0.5 to 1.4 mm in diameter",
+          "Severely infected leaves turn necrotic and desiccate but remain attached to plant",
+          "Kernels formed are shriveled and small"
+        ],
+        "early_symptoms": [
+          "Chlorotic spots on upper leaf surface"
+        ],
+        "advanced_symptoms": [
+          "Orange colored pustules on lower leaf surface, necrosis and desiccation of leaves"
+        ],
+        "visual_field_symptoms": [
+          "Orange-colored pustules on the lower surface of leaves"
+        ]
+      },
+      "identification": {
+        "field_identification": [
+          "Orange-colored pustules (uredinia) on the underside of leaves"
+        ],
+        "diagnostic_methods": [],
+        "differential_diagnosis": []
+      },
+      "causes_and_risk_factors": [],
+      "favorable_conditions": {
+        "temperature": "Optimum temperature of 20°C",
+        "humidity": "High humidity",
+        "rainfall": "",
+        "soil_conditions": "",
+        "other_conditions": [
+          "Prolonged leaf wetness hours"
+        ]
+      },
+      "disease_development_and_spread": [
+        "Perpetuates through urediniospores",
+        "Survives year-round on volunteer groundnut plants",
+        "Spread facilitated by wind movement, rain splash, and insects"
+      ],
+      "epidemiology": [],
+      "severity_and_yield_loss": [
+        "Yield losses in range of 10 to 52%",
+        "Reduces seed size and oil content"
+      ],
+      "management": {
+        "cultural_management": [],
+        "biological_management": [
+          "Trichoderma harzianum on detached leaves",
+          "Fusarium chlamydosporum culture filtrates causing 20-38% reduction"
+        ],
+        "chemical_management": [
+          {
+            "active_ingredient_or_product": "Mancozeb",
+            "dose": "0.2%",
+            "concentration": "0.2%",
+            "application_method": "Foliar spray",
+            "timing": "At 15-day intervals beginning 45 days after sowing",
+            "number_of_applications": "3",
+            "result_reported_in_paper": "Effective against P. arachidis, increased yields"
+          },
+          {
+            "active_ingredient_or_product": "Tridemorph",
+            "dose": "",
+            "concentration": "0.07%",
+            "application_method": "Foliar spray",
+            "timing": "Beginning 45 days after planting and continuing at 10-day intervals",
+            "number_of_applications": "3",
+            "result_reported_in_paper": "Effective control of rust and increased pod yield"
+          }
+        ],
+        "integrated_management": []
+      },
+      "resistant_or_tolerant_varieties": [
+        "ALR 1",
+        "ALR 2",
+        "ALR 3",
+        "Girnar 1",
+        "ICGV 86590",
+        "ICGV 87160",
+        "ICGV 86325",
+        "CSMG 84-1",
+        "OG-52-1",
+        "RSHY 1",
+        "DRG 12",
+        "DRG 17",
+        "TAG 24",
+        "BSR 1",
+        "VRI 5",
+        "CO 4"
+      ],
+      "susceptible_varieties": [],
+      "prevention": [],
+      "farmer_action_points": [],
+      "warnings_and_limitations": [],
+      "research_findings": [],
+      "source_pages": [
+        "3",
+        "7",
+        "8",
+        "17",
+        "22",
+        "23"
+      ]
+    },
+    {
+      "disease_name": "Alternaria Leaf Blight",
+      "alternative_names": [],
+      "disease_type": "Foliar fungal disease",
+      "causal_agent": "Alternaria alternata (also A. tenuissima, A. arachidis, A. longipes)",
+      "pathogen_type": "Fungus",
+      "affected_plant_parts": [
+        "Leaflets",
+        "Canopy"
+      ],
+      "symptoms": {
+        "general": [
+          "Blighting of apical portions of leaflets turning light to dark brown",
+          "Blighted leaves curl inward and become brittle in later stages",
+          "Adjacent lesions coalesce giving leaf a ragged and blighted appearance",
+          "Develops more rapidly on upper portion of canopy than lower portion"
+        ],
+        "early_symptoms": [],
+        "advanced_symptoms": [
+          "Inward curling, brittleness, ragged and blighted appearance"
+        ],
+        "visual_field_symptoms": [
+          "Blighting from tip and margin of the leaf with light to dark brown discoloration"
+        ]
+      },
+      "identification": {
+        "field_identification": [
+          "Blighting of leaflet tips turning light to dark brown",
+          "Inward curling and brittle leaves"
+        ],
+        "diagnostic_methods": [],
+        "differential_diagnosis": []
+      },
+      "causes_and_risk_factors": [
+        "Self sown groundnut plants as primary inoculum",
+        "Weed hosts like water hyacinth (Eichhornia crassipes), Pistia stratiotes, sesame, sunflower"
+      ],
+      "favorable_conditions": {
+        "temperature": "Optimum range of 25-30°C (maximum conidia at 20°C)",
+        "humidity": "Relative humidity of 85% and above",
+        "rainfall": "",
+        "soil_conditions": "",
+        "other_conditions": []
+      },
+      "disease_development_and_spread": [
+        "Secondary spread through conidia from weed hosts or previous season crop residues"
+      ],
+      "epidemiology": [],
+      "severity_and_yield_loss": [
+        "Reduced pod yield up to 22%",
+        "Reduced fodder yield up to 63%"
+      ],
+      "management": {
+        "cultural_management": [],
+        "biological_management": [],
+        "chemical_management": [],
+        "integrated_management": []
+      },
+      "resistant_or_tolerant_varieties": [],
+      "susceptible_varieties": [],
+      "prevention": [],
+      "farmer_action_points": [],
+      "warnings_and_limitations": [],
+      "research_findings": [],
+      "source_pages": [
+        "4",
+        "8",
+        "9"
+      ]
+    },
+    {
+      "disease_name": "Groundnut bud necrosis",
+      "alternative_names": [
+        "Peanut bud necrosis virus",
+        "PBNV"
+      ],
+      "disease_type": "Viral disease",
+      "causal_agent": "Groundnut bud necrosis tospovirus",
+      "pathogen_type": "Virus",
+      "affected_plant_parts": [
+        "Terminal bud",
+        "Axillary shoots",
+        "Petiole",
+        "Stem",
+        "Pods",
+        "Seeds"
+      ],
+      "symptoms": {
+        "general": [
+          "Terminal bud necrosis, severe stunting, and proliferation of axillary shoots",
+          "Necrosis of bud may spread to petiole and stem, sometimes leading to death of plant",
+          "Reduced pod size in late infections",
+          "Shrivelled seeds with mottled and discoloured testa"
+        ],
+        "early_symptoms": [],
+        "advanced_symptoms": [],
+        "visual_field_symptoms": [
+          "Axillary shoot proliferation and necrosis of terminal and axillary buds"
+        ]
+      },
+      "identification": {
+        "field_identification": [
+          "Terminal bud necrosis with severe stunting and proliferation of axillary shoots"
+        ],
+        "diagnostic_methods": [],
+        "differential_diagnosis": [
+          "Distinguished from groundnut stem necrosis by chlorotic lesions on terminal leaflets and ring spots (instead of necrotic lesions and total stem necrosis), and testa is discoloured and mottled."
+        ]
+      },
+      "causes_and_risk_factors": [
+        "Wide host range including ornamentals (Zinnia, cosmos, sunflower), weeds (Ageratum conyzoides, Cassia tora, etc.), and crop plants (tomato, brinjal, green/black gram, beans, pea)"
+      ],
+      "favorable_conditions": {
+        "temperature": "30°C",
+        "humidity": "",
+        "rainfall": "",
+        "soil_conditions": "",
+        "other_conditions": [
+          "Wind speed of 10 km/h favoring thrips migration"
+        ]
+      },
+      "disease_development_and_spread": [
+        "Transmitted by vector Thrips palmi in circulative and propagative manner"
+      ],
+      "epidemiology": [],
+      "severity_and_yield_loss": [
+        "Yield losses from 30 to 90% depending on plant growth stage at infection",
+        "Incidence as high as 92% observed"
+      ],
+      "management": {
+        "cultural_management": [
+          "Increase plant density to decrease proportion of infected plants",
+          "Intercropping with pearl-millet and early sowing"
+        ],
+        "biological_management": [],
+        "chemical_management": [],
+        "integrated_management": []
+      },
+      "resistant_or_tolerant_varieties": [
+        "ICGS 11",
+        "ICGS 44",
+        "ICGS 37",
+        "Kadiri 3",
+        "ICGV 86325",
+        "K 134",
+        "DRG 12",
+        "R 8808",
+        "JCG 88",
+        "CSMG 884"
+      ],
+      "susceptible_varieties": [],
+      "prevention": [],
+      "farmer_action_points": [
+        "Increase plant density",
+        "Adopt early sowing"
+      ],
+      "warnings_and_limitations": [],
+      "research_findings": [],
+      "source_pages": [
+        "3",
+        "4",
+        "9",
+        "10",
+        "11",
+        "15",
+        "17"
+      ]
+    },
+    {
+      "disease_name": "Groundnut Stem Necrosis",
+      "alternative_names": [],
+      "disease_type": "Viral disease",
+      "causal_agent": "Tobacco streak virus (TSV)",
+      "pathogen_type": "Virus",
+      "affected_plant_parts": [
+        "Young leaflets",
+        "Stem",
+        "Pods"
+      ],
+      "symptoms": {
+        "general": [
+          "Large necrotic lesions on young leaflets which later coalesce to cover entire leaflet",
+          "Necrosis of entire stem located below necrosed leaflet leading to death of plant",
+          "Necrotic spots on pods; testa is not discoloured or mottled"
+        ],
+        "early_symptoms": [],
+        "advanced_symptoms": [],
+        "visual_field_symptoms": [
+          "Necrotic lesions on terminal leaflets and complete stem necrosis"
+        ]
+      },
+      "identification": {
+        "field_identification": [
+          "Large necrotic lesions on young leaflets coalescing to cover entire leaflet and stem necrosis"
+        ],
+        "diagnostic_methods": [
+          "Serological cross reaction with many tobacco streak virus antisera"
+        ],
+        "differential_diagnosis": []
+      },
+      "causes_and_risk_factors": [
+        "Parthenium hysterophorus weed plays major role as symptomless carrier"
+      ],
+      "favorable_conditions": {
+        "temperature": "",
+        "humidity": "",
+        "rainfall": "",
+        "soil_conditions": "",
+        "other_conditions": []
+      },
+      "disease_development_and_spread": [
+        "Pollen borne, passively transmitted by thrips vectors (Frankliniella schultzei, Scirtothrips dorsalis, Megalurothrips usitatus) carrying pollen from infected plants"
+      ],
+      "epidemiology": [],
+      "severity_and_yield_loss": [],
+      "management": {
+        "cultural_management": [],
+        "biological_management": [],
+        "chemical_management": [],
+        "integrated_management": []
+      },
+      "resistant_or_tolerant_varieties": [],
+      "susceptible_varieties": [],
+      "prevention": [],
+      "farmer_action_points": [],
+      "warnings_and_limitations": [],
+      "research_findings": [],
+      "source_pages": [
+        "10",
+        "11"
+      ]
+    },
+    {
+      "disease_name": "Peanut Mottle",
+      "alternative_names": [],
+      "disease_type": "Viral disease",
+      "causal_agent": "Peanut mottle potyvirus (PMV)",
+      "pathogen_type": "Virus",
+      "affected_plant_parts": [
+        "Leaves",
+        "Pods",
+        "Seeds"
+      ],
+      "symptoms": {
+        "general": [
+          "Newly formed leaves show mild mottling and vein clearing",
+          "Older leaves show upward curling and interveinal depression with dark green islands",
+          "Some pods smaller than normal with irregular green to brown patches and discoloured seeds"
+        ],
+        "early_symptoms": [
+          "Mild mottling and vein clearing on newly formed leaves"
+        ],
+        "advanced_symptoms": [
+          "Upward curling and interveinal depression on older leaves"
+        ],
+        "visual_field_symptoms": []
+      },
+      "identification": {
+        "field_identification": [
+          "Mild mottling on new leaves and upward leaf curling with dark green islands on older leaves"
+        ],
+        "diagnostic_methods": [],
+        "differential_diagnosis": []
+      },
+      "causes_and_risk_factors": [
+        "Survives on legume crops (groundnut, soybean) and weeds (Cassia obtusifolia, C. leptocarpa, C. occidentalis, Desmodium canum)"
+      ],
+      "favorable_conditions": {
+        "temperature": "",
+        "humidity": "",
+        "rainfall": "",
+        "soil_conditions": "",
+        "other_conditions": [
+          "Prolonged dry spells favoring aphid population build-up"
+        ]
+      },
+      "disease_development_and_spread": [
+        "Transmitted through seed (up to 8.5%) and secondarily by aphid species"
+      ],
+      "epidemiology": [],
+      "severity_and_yield_loss": [
+        "Yield loss up to 30% (or 15-45% recorded in India)"
+      ],
+      "management": {
+        "cultural_management": [
+          "Cultivation of groundnut away from soybean, cowpea, and navy beans"
+        ],
+        "biological_management": [],
+        "chemical_management": [],
+        "integrated_management": []
+      },
+      "resistant_or_tolerant_varieties": [],
+      "susceptible_varieties": [],
+      "prevention": [],
+      "farmer_action_points": [
+        "Cultivate groundnut away from host legume crops like soybean and cowpea"
+      ],
+      "warnings_and_limitations": [],
+      "research_findings": [],
+      "source_pages": [
+        "12",
+        "15"
+      ]
+    },
+    {
+      "disease_name": "Peanut Clump",
+      "alternative_names": [
+        "Indian peanut clump"
+      ],
+      "disease_type": "Viral disease",
+      "causal_agent": "Peanut clump furovirus",
+      "pathogen_type": "Virus",
+      "affected_plant_parts": [
+        "Roots",
+        "Leaves"
+      ],
+      "symptoms": {
+        "general": [
+          "Severe stunting, mosaic mottling, and peeling of root epidermis",
+          "Young leaves show mosaic mottling and chlorotic ring symptoms; older leaflets darker green with faint mottling"
+        ],
+        "early_symptoms": [
+          "Mosaic mottling and chlorotic rings on young leaves"
+        ],
+        "advanced_symptoms": [
+          "Severe stunting, peeling of root epidermis"
+        ],
+        "visual_field_symptoms": [
+          "Disease occurs in patches in the field, plants severely stunted and dark green"
+        ]
+      },
+      "identification": {
+        "field_identification": [
+          "Patchy occurrence in field, stunting, and dark green older leaflets"
+        ],
+        "diagnostic_methods": [],
+        "differential_diagnosis": []
+      },
+      "causes_and_risk_factors": [
+        "Crops grown in sandy soils"
+      ],
+      "favorable_conditions": {
+        "temperature": "",
+        "humidity": "",
+        "rainfall": "",
+        "soil_conditions": "Sandy soils",
+        "other_conditions": []
+      },
+      "disease_development_and_spread": [
+        "Transmitted through seed and soil-borne fungus Polymyxa graminis"
+      ],
+      "epidemiology": [],
+      "severity_and_yield_loss": [
+        "Yield loss up to 60% in late infected plants"
+      ],
+      "management": {
+        "cultural_management": [
+          "Groundnut crop grown during rabi escapes clump disease"
+        ],
+        "biological_management": [],
+        "chemical_management": [],
+        "integrated_management": []
+      },
+      "resistant_or_tolerant_varieties": [],
+      "susceptible_varieties": [],
+      "prevention": [],
+      "farmer_action_points": [
+        "Grow groundnut during rabi season to escape disease"
+      ],
+      "warnings_and_limitations": [],
+      "research_findings": [],
+      "source_pages": [
+        "12",
+        "15"
+      ]
+    },
+    {
+      "disease_name": "Root knot",
+      "alternative_names": [],
+      "disease_type": "Nematode disease",
+      "causal_agent": "Meloidogyne arenaria, M. hapla, M. javanica",
+      "pathogen_type": "Nematode",
+      "affected_plant_parts": [
+        "Roots",
+        "Pegs"
+      ],
+      "symptoms": {
+        "general": [
+          "Enlarged roots and pegs develop into galls of various sizes",
+          "Root development commonly reduced",
+          "Severely infected plants are stunted with chlorotic leaves"
+        ],
+        "early_symptoms": [],
+        "advanced_symptoms": [],
+        "visual_field_symptoms": [
+          "Stunted plants with chlorotic leaves and root galls"
+        ]
+      },
+      "identification": {
+        "field_identification": [
+          "Enlarged roots and pegs with galls of various sizes upon examination"
+        ],
+        "diagnostic_methods": [
+          "Examination of roots and pods"
+        ],
+        "differential_diagnosis": []
+      },
+      "causes_and_risk_factors": [],
+      "favorable_conditions": {
+        "temperature": "",
+        "humidity": "",
+        "rainfall": "",
+        "soil_conditions": "",
+        "other_conditions": []
+      },
+      "disease_development_and_spread": [],
+      "epidemiology": [],
+      "severity_and_yield_loss": [],
+      "management": {
+        "cultural_management": [
+          "Crop rotation with crops like cotton (e.g., M. arenaria)"
+        ],
+        "biological_management": [],
+        "chemical_management": [],
+        "integrated_management": []
+      },
+      "resistant_or_tolerant_varieties": [],
+      "susceptible_varieties": [],
+      "prevention": [],
+      "farmer_action_points": [],
+      "warnings_and_limitations": [],
+      "research_findings": [],
+      "source_pages": [
+        "12",
+        "13",
+        "16"
+      ]
+    },
+    {
+      "disease_name": "Kalahasti malady",
+      "alternative_names": [],
+      "disease_type": "Nematode disease",
+      "causal_agent": "Tylenchorhynchus brevilineatus",
+      "pathogen_type": "Nematode",
+      "affected_plant_parts": [
+        "Pegs",
+        "Developing pods, pod surface",
+        "Kernels"
+      ],
+      "symptoms": {
+        "general": [
+          "Small brownish yellow lesions appear on pegs and young developing pods",
+          "Peg length reduced",
+          "Entire pod surface becomes blackened in advanced stages, kernels become small"
+        ],
+        "early_symptoms": [
+          "Small brownish yellow lesions on pegs and young pods"
+        ],
+        "advanced_symptoms": [
+          "Blackened pod surface, small kernels"
+        ],
+        "visual_field_symptoms": [
+          "Infected plants appear in patches, stunted with greener than normal foliage"
+        ]
+      },
+      "identification": {
+        "field_identification": [
+          "Patchy appearance, stunted plants with greener foliage",
+          "Brownish-yellow lesions on pegs and pods, blackened pod surface"
+        ],
+        "diagnostic_methods": [],
+        "differential_diagnosis": []
+      },
+      "causes_and_risk_factors": [],
+      "favorable_conditions": {
+        "temperature": "",
+        "humidity": "",
+        "rainfall": "",
+        "soil_conditions": "",
+        "other_conditions": []
+      },
+      "disease_development_and_spread": [],
+      "epidemiology": [],
+      "severity_and_yield_loss": [],
+      "management": {
+        "cultural_management": [
+          "Poultry manure and neem cake amendments"
+        ],
+        "biological_management": [],
+        "chemical_management": [],
+        "integrated_management": []
+      },
+      "resistant_or_tolerant_varieties": [],
+      "susceptible_varieties": [],
+      "prevention": [],
+      "farmer_action_points": [
+        "Apply poultry manure or neem cake to soil"
+      ],
+      "warnings_and_limitations": [],
+      "research_findings": [],
+      "source_pages": [
+        "13",
+        "16"
+      ]
+    }
+  ],
+  "paper_level_notes": [
+    "The paper is a comprehensive review on groundnut diseases, their incidence, distribution, symptoms, epidemiology, and integrated management packages."
+  ],
+  "_processing_metadata": {
+    "source_pdf": "moongfali.pdf",
+    "crop_detected_from_filename": "Moongfali",
+    "model_used": "gemini-3.5-flash-lite",
+    "extracted_at": "2026-09-23 23:12:19"
+  }
+}

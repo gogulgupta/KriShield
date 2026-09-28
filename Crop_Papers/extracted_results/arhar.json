@@ -1,0 +1,2243 @@
+{
+  "crop": "Pigeonpea",
+  "paper_information": {
+    "title": "Handbook of Pigeonpea Diseases (Revised)",
+    "authors": [
+      "M.V. Reddy",
+      "T.N. Raju",
+      "S.B. Sharma",
+      "Y.L. Nene",
+      "D. McDonald",
+      "Suresh Pande",
+      "Mamta Sharma"
+    ],
+    "year": "2012",
+    "journal_or_source": "Information Bulletin No. 42 (Revised 2012), International Crops Research Institute for the Semi-Arid Tropics (ICRISAT)",
+    "doi_or_identifier": "ISBN 92-9066-277-8",
+    "abstract_summary": "Pigeonpea is an important grain legume in the semi-arid tropics. This bulletin provides information on causal agents, distribution, economic importance, symptoms, epidemiology, and management of major diseases of pigeonpea, supplemented with photographs, a diagnostic key, and control measures.",
+    "research_objective": "To assist in field diagnosis and management of major pigeonpea diseases through symptomatology, distribution, epidemiology, and control measures.",
+    "study_area": "Global / Semi-Arid Tropics",
+    "important_findings": [
+      "More than 60 pathogens infect pigeonpea, but only a few cause major economic losses.",
+      "Sterility mosaic and witches' broom are region-specific, while Fusarium wilt and Phytophthora blight are widespread.",
+      "Providing diagnostic keys, resistant varieties, cultural practices, and chemical treatments aids effective disease management."
+    ]
+  },
+  "diseases": [
+    {
+      "disease_name": "Collar Rot",
+      "alternative_names": [],
+      "disease_type": "Fungal disease",
+      "causal_agent": "Sclerotium rolfsii Saccardo",
+      "pathogen_type": "Fungus",
+      "affected_plant_parts": [
+        "Seedlings",
+        "Collar region",
+        "Roots"
+      ],
+      "symptoms": {
+        "general": [
+          "Seedling disease appearing within a month of sowing",
+          "Patches of dead seedlings at the primary leaf stage",
+          "Seedlings turn slightly chlorotic before dying",
+          "Rotting in the collar region covered with white mycelial growth",
+          "Seedlings uprooted easily with lower root remaining in soil"
+        ],
+        "early_symptoms": [],
+        "advanced_symptoms": [],
+        "visual_field_symptoms": [
+          "Patches of dead seedlings scattered over the field"
+        ]
+      },
+      "identification": {
+        "field_identification": [
+          "White or brown sclerotial bodies attached to the collar region or in the soil around dead seedlings",
+          "Rotting in collar region covered with white mycelial growth"
+        ],
+        "diagnostic_methods": [],
+        "differential_diagnosis": [
+          "Differentiated from seedling diseases caused by Fusarium, Rhizoctonia, or Pythium by white mycelial growth on the rotting collar region"
+        ]
+      },
+      "causes_and_risk_factors": [
+        "Undecomposed organic matter left on seedbeds",
+        "Pigeonpea following cereal crops like sorghum without clearing stubble"
+      ],
+      "favorable_conditions": {
+        "temperature": "About 30°C",
+        "humidity": "",
+        "rainfall": "",
+        "soil_conditions": "High soil moisture at sowing",
+        "other_conditions": [
+          "Early-sown (June) crops more affected than later-sown crops in India"
+        ]
+      },
+      "disease_development_and_spread": [],
+      "epidemiology": [],
+      "severity_and_yield_loss": [
+        "A minor disease that can cause severe losses when undecomposed organic matter is left on the surface of seedbeds"
+      ],
+      "management": {
+        "cultural_management": [
+          "Deep summer ploughing",
+          "Select well drained fields",
+          "Keep the fields free from un-decomposed organic matter",
+          "Sow when soil moisture is low",
+          "Select fields where cereal crops (such as sorghum) have not been grown during the previous season",
+          "Collect cereal stubble from the field and destroy it before sowing pigeonpea"
+        ],
+        "biological_management": [],
+        "chemical_management": [
+          {
+            "active_ingredient_or_product": "tolclofosmethyl (Rhizolex®), captan, orthiram",
+            "dose": "3 g kg-1 seed",
+            "concentration": "",
+            "application_method": "Seed dressing",
+            "timing": "Before sowing",
+            "number_of_applications": "1",
+            "result_reported_in_paper": ""
+          }
+        ],
+        "integrated_management": []
+      },
+      "resistant_or_tolerant_varieties": [],
+      "susceptible_varieties": [],
+      "prevention": [],
+      "farmer_action_points": [],
+      "warnings_and_limitations": [],
+      "research_findings": [],
+      "source_pages": [
+        "5",
+        "6",
+        "49",
+        "51",
+        "53"
+      ]
+    },
+    {
+      "disease_name": "Phytophthora Blight",
+      "alternative_names": [],
+      "disease_type": "Fungal disease",
+      "causal_agent": "Phytophthora drechsleri Tucker f. sp. cajani",
+      "pathogen_type": "Fungus",
+      "affected_plant_parts": [
+        "Leaves",
+        "Stems",
+        "Petioles",
+        "Branches",
+        "Foliage"
+      ],
+      "symptoms": {
+        "general": [
+          "Resembles damping off disease causing seedlings to die suddenly",
+          "Water-soaked lesions on leaves",
+          "Brown to black, slightly sunken lesions on stems and petioles",
+          "Infected leaves lose turgidity and become desiccated",
+          "Lesions girdle main stems or branches causing them to break and foliage above to dry up",
+          "Production of large galls on stems especially at edges of lesions in plants not killed",
+          "Infects foliage and stems but not the root system"
+        ],
+        "early_symptoms": [],
+        "advanced_symptoms": [],
+        "visual_field_symptoms": [
+          "Leaves large gaps in plant stands",
+          "Appears first in low-lying areas of fields where water temporarily stagnates"
+        ]
+      },
+      "identification": {
+        "field_identification": [
+          "Water-soaked leaf lesions",
+          "Brown to black slightly sunken stem/petiole lesions",
+          "Stem breakage at infection point with stem galls"
+        ],
+        "diagnostic_methods": [],
+        "differential_diagnosis": []
+      },
+      "causes_and_risk_factors": [
+        "Soilborne fungus surviving as chlamydospores, oospores, and dormant mycelium",
+        "Thick canopy of short-duration types and close spacing (30 x 10 cm)",
+        "Higher genetic susceptibility",
+        "Wild relative Cajanus scarabaeoides var. scarabaeoides is a host"
+      ],
+      "favorable_conditions": {
+        "temperature": "Around 25°C",
+        "humidity": "Warm and humid weather following infection results in rapid development",
+        "rainfall": "Cloudy weather and drizzling rain",
+        "soil_conditions": "More common on Alfisols than Vertisols; low-lying areas where water temporarily stagnates",
+        "other_conditions": [
+          "Continuous leaf wetness for eight hours required for infection"
+        ]
+      },
+      "disease_development_and_spread": [
+        "Wind and rain help disseminate zoospores and facilitate infection through plant damage"
+      ],
+      "epidemiology": [
+        "Plants gradually develop tolerance as they grow older and are not infected after 60 days of age"
+      ],
+      "severity_and_yield_loss": [
+        "A devastating disease that kills young (1-7-week-old) plants",
+        "Yield losses usually higher in short duration pigeonpea than medium- and long-duration types"
+      ],
+      "management": {
+        "cultural_management": [
+          "Early or normal sowing",
+          "Practice ridge planting methods",
+          "Summer solarization and summer ploughing should be done",
+          "Select fields with no previous record of blight",
+          "Avoid sowing pigeonpea in fields with low-lying patches that are prone to waterlogging",
+          "Prepare raised seed beds and provide good drainage",
+          "Use wide inter-row spacing"
+        ],
+        "biological_management": [],
+        "chemical_management": [
+          {
+            "active_ingredient_or_product": "Ridomil MZ®",
+            "dose": "3 g kg-1 seed",
+            "concentration": "",
+            "application_method": "Seed dressing",
+            "timing": "Before sowing",
+            "number_of_applications": "1",
+            "result_reported_in_paper": ""
+          },
+          {
+            "active_ingredient_or_product": "Ridomil MZ®",
+            "dose": "",
+            "concentration": "",
+            "application_method": "Foliar spray",
+            "timing": "Two sprays at 15-day intervals starting from 15 days after germination",
+            "number_of_applications": "2",
+            "result_reported_in_paper": ""
+          }
+        ],
+        "integrated_management": []
+      },
+      "resistant_or_tolerant_varieties": [
+        "Azad",
+        "Bandapaleru",
+        "C. sericeus",
+        "HPL 24-47",
+        "ICP 11376-5",
+        "ICP 12730",
+        "ICP 12751",
+        "ICP 12755",
+        "ICPL 20093",
+        "ICPL 20100",
+        "ICPL 20101",
+        "ICPL 20104",
+        "ICPL 20105",
+        "ICPL 20109",
+        "ICPL 20114",
+        "ICPL 20122",
+        "ICPL 20124",
+        "ICPL 20126",
+        "ICPL 20128",
+        "ICPL 20136",
+        "ICPL 93179",
+        "ICPL 99044",
+        "Hy 4",
+        "ICPL 150",
+        "ICPL 288",
+        "ICPL 304",
+        "KPBR 80-1-4",
+        "KPBR 80-2-1 (Field resistant)"
+      ],
+      "susceptible_varieties": [],
+      "prevention": [],
+      "farmer_action_points": [],
+      "warnings_and_limitations": [],
+      "research_findings": [],
+      "source_pages": [
+        "7",
+        "8",
+        "9",
+        "44",
+        "46",
+        "48",
+        "51"
+      ]
+    },
+    {
+      "disease_name": "Fusarium Wilt",
+      "alternative_names": [],
+      "disease_type": "Fungal disease",
+      "causal_agent": "Fusarium udum Butler",
+      "pathogen_type": "Fungus",
+      "affected_plant_parts": [
+        "Main stem",
+        "Branches",
+        "Xylem",
+        "Leaves",
+        "Roots"
+      ],
+      "symptoms": {
+        "general": [
+          "Patches of dead plants in the field when flowering or podding",
+          "Purple band extending upwards from the base of the main stem (more easily seen in green stems)",
+          "Partial wilting of the plant (associated with lateral root infection), distinct from total wilt (tap root infection)",
+          "Browning of stem tissue in the region of the purple band",
+          "Browning or blackening of xylem when stem/primary branches are split open",
+          "Die-back symptoms on lower branches with purple band extending from tip downwards and internal xylem blackening",
+          "Leaf symptoms before death: loss of leaf turgidity, inter-veinal clearing, chlorosis to bright yellow leaves"
+        ],
+        "early_symptoms": [
+          "Sometimes occur earlier when plants are 1-2 months old (may lack purple band but show internal browning/blackening)"
+        ],
+        "advanced_symptoms": [],
+        "visual_field_symptoms": [
+          "Patches of dead plants in the field during flowering or podding"
+        ]
+      },
+      "identification": {
+        "field_identification": [
+          "Purple band on main stem",
+          "Partial or total wilting",
+          "Browning/blackening of xylem upon splitting stems"
+        ],
+        "diagnostic_methods": [],
+        "differential_diagnosis": [
+          "Distinguished from termite damage, drought, and Phytophthora blight (which kill the whole plant) by partial wilting"
+        ]
+      },
+      "causes_and_risk_factors": [
+        "Seed and soilborne fungus surviving on infected plant debris in soil for up to 10 years",
+        "Long- and medium-duration types suffer more than short-duration types",
+        "Ratooning predisposes plants to wilt"
+      ],
+      "favorable_conditions": {
+        "temperature": "",
+        "humidity": "",
+        "rainfall": "",
+        "soil_conditions": "More severe on Vertisols than on Alfisols",
+        "other_conditions": [
+          "Early sowing, good weed management, and good crop growth encourage wilt development",
+          "Pigeonpeas intercropped with sorghum are less attacked by wilt than sole-cropped plants"
+        ]
+      },
+      "disease_development_and_spread": [],
+      "epidemiology": [],
+      "severity_and_yield_loss": [
+        "Annual losses estimated at US$71 million in India and US$5 million in eastern Africa"
+      ],
+      "management": {
+        "cultural_management": [
+          "Collect and burn plant residues after harvesting",
+          "Do summer ploughing",
+          "Select a field with no previous record of wilt for at least 3 years",
+          "Select seed from disease-free fields",
+          "Grow pigeonpea intercropped or mixed with cereal crops, eg, sorghum",
+          "Rotate pigeonpea with sorghum, tobacco, or castor every 3 years",
+          "Uproot wilted plants and use them for fuelwood",
+          "Solarize the field in summer to help reduce inoculum"
+        ],
+        "biological_management": [],
+        "chemical_management": [
+          {
+            "active_ingredient_or_product": "Carbendazim",
+            "dose": "1g L-1 water",
+            "concentration": "",
+            "application_method": "Spot drenching",
+            "timing": "",
+            "number_of_applications": "",
+            "result_reported_in_paper": ""
+          },
+          {
+            "active_ingredient_or_product": "Benlate T® (benlate 50% + thiram 50% mix)",
+            "dose": "3 g kg-1 seed",
+            "concentration": "",
+            "application_method": "Seed dressing",
+            "timing": "Before sowing",
+            "number_of_applications": "1",
+            "result_reported_in_paper": ""
+          }
+        ],
+        "integrated_management": []
+      },
+      "resistant_or_tolerant_varieties": [
+        "ICP 9145",
+        "ICEAP 00020",
+        "ICEAP 00040",
+        "ICEAP 00053",
+        "ICEAP 00540",
+        "ICEAP 00550",
+        "ICEAP 00555",
+        "ICEAP 00556",
+        "ICEAP 00557",
+        "IPA 16 F",
+        "NDA2009-1",
+        "TS 3",
+        "JKM 189",
+        "AL 1",
+        "BDN 2",
+        "Birsa Arhar 1",
+        "DL 82",
+        "H 76-11",
+        "H 76-44",
+        "H 76-51",
+        "H 76-65",
+        "ICPL 267",
+        "Mukta",
+        "Prabhat",
+        "Sharda",
+        "TT 5",
+        "TT 6"
+      ],
+      "susceptible_varieties": [],
+      "prevention": [],
+      "farmer_action_points": [],
+      "warnings_and_limitations": [],
+      "research_findings": [],
+      "source_pages": [
+        "10",
+        "11",
+        "12",
+        "44",
+        "46",
+        "51",
+        "53"
+      ]
+    },
+    {
+      "disease_name": "Dry Root Rot",
+      "alternative_names": [
+        "Macrophomina Stem Canker"
+      ],
+      "disease_type": "Fungal disease",
+      "causal_agent": "Rhizoctonia bataticola (Taub.) Butler, Macrophomina phaseolina (Tassi) Goidanich",
+      "pathogen_type": "Fungus",
+      "affected_plant_parts": [
+        "Roots",
+        "Finer roots",
+        "Stems",
+        "Branches"
+      ],
+      "symptoms": {
+        "general": [
+          "Infected plants suddenly and prematurely dry up",
+          "Rotten and shredded roots",
+          "Finer roots affected with dark, blackened streaks underneath bark with dark sclerotial bodies",
+          "Brittle roots that break when touched",
+          "Root rotting extends to base of stem under hot, humid conditions",
+          "Spindle-shaped lesions on stems and branches with light gray centers, brown margins, and scattered pycnidial bodies",
+          "Lesions coalesce causing branches or whole plants to dry up and die"
+        ],
+        "early_symptoms": [],
+        "advanced_symptoms": [],
+        "visual_field_symptoms": [
+          "Suddenly and prematurely dried up plants"
+        ]
+      },
+      "identification": {
+        "field_identification": [
+          "Rotten and shredded roots with dark sclerotial bodies",
+          "Spindle-shaped stem lesions with light gray centers"
+        ],
+        "diagnostic_methods": [],
+        "differential_diagnosis": []
+      },
+      "causes_and_risk_factors": [
+        "Serious problem in late-sown or summer crops and in perennial or ratooned pigeonpeas",
+        "Affects short-duration pigeonpeas sown in rainy season",
+        "Crops more susceptible in reproductive stage than vegetative stage"
+      ],
+      "favorable_conditions": {
+        "temperature": "30°C and above",
+        "humidity": "Hot and dry weather encourage development; hot, humid conditions extend root rotting to stem base",
+        "rainfall": "Rain after a prolonged dry spell predisposes plants to disease",
+        "soil_conditions": "More prevalent on Vertisols than on Alfisols",
+        "other_conditions": []
+      },
+      "disease_development_and_spread": [],
+      "epidemiology": [],
+      "severity_and_yield_loss": [],
+      "management": {
+        "cultural_management": [
+          "Disease incidence can be reduced if previous crop stubble is buried deep and allowed to decompose well before pigeonpea is sown",
+          "Select fields with no previous record of dry root rot",
+          "Avoid sowing late so that crop escapes drought and high temperatures at maturity"
+        ],
+        "biological_management": [],
+        "chemical_management": [],
+        "integrated_management": []
+      },
+      "resistant_or_tolerant_varieties": [
+        "ICPLs 86005",
+        "86020",
+        "87105",
+        "91028"
+      ],
+      "susceptible_varieties": [],
+      "prevention": [],
+      "farmer_action_points": [],
+      "warnings_and_limitations": [],
+      "research_findings": [],
+      "source_pages": [
+        "13",
+        "14",
+        "45",
+        "49",
+        "53"
+      ]
+    },
+    {
+      "disease_name": "Phoma Stem Canker",
+      "alternative_names": [],
+      "disease_type": "Fungal disease",
+      "causal_agent": "Phoma cajani (Rangel) Khune & Kapoor",
+      "pathogen_type": "Fungus",
+      "affected_plant_parts": [
+        "Stems"
+      ],
+      "symptoms": {
+        "general": [
+          "Normally seen at advanced stages of plant growth",
+          "Initial stem lesions with gray centers and dark brown margins containing pycnidia",
+          "Lesions coalesce and girdle the stem, developing into large swollen cankers leading to premature plant death"
+        ],
+        "early_symptoms": [
+          "Lesions on stems with gray centers and dark brown margins containing pycnidia"
+        ],
+        "advanced_symptoms": [
+          "Large swollen cankers girdling the stem leading to premature plant death"
+        ],
+        "visual_field_symptoms": [
+          "Large cankers on stem"
+        ]
+      },
+      "identification": {
+        "field_identification": [
+          "Large swollen cankers on stems with pycnidia"
+        ],
+        "diagnostic_methods": [],
+        "differential_diagnosis": []
+      },
+      "causes_and_risk_factors": [],
+      "favorable_conditions": {
+        "temperature": "",
+        "humidity": "",
+        "rainfall": "",
+        "soil_conditions": "",
+        "other_conditions": []
+      },
+      "disease_development_and_spread": [],
+      "epidemiology": [],
+      "severity_and_yield_loss": [],
+      "management": {
+        "cultural_management": [
+          "Avoid fields with previous records of the disease",
+          "Remove infected plants to reduce the build-up of inoculum in the soil"
+        ],
+        "biological_management": [],
+        "chemical_management": [],
+        "integrated_management": []
+      },
+      "resistant_or_tolerant_varieties": [
+        "AL 133",
+        "AL 136",
+        "ICPL 148",
+        "ICPL 84018"
+      ],
+      "susceptible_varieties": [],
+      "prevention": [],
+      "farmer_action_points": [],
+      "warnings_and_limitations": [],
+      "research_findings": [],
+      "source_pages": [
+        "15",
+        "45",
+        "49",
+        "53"
+      ]
+    },
+    {
+      "disease_name": "Anthracnose",
+      "alternative_names": [],
+      "disease_type": "Fungal disease",
+      "causal_agent": "Colletotrichum cajani Rangel, Colletotrichum graminicola (Ces.) Wilson",
+      "pathogen_type": "Fungus",
+      "affected_plant_parts": [
+        "Stems",
+        "Branches",
+        "Leaves",
+        "Pods"
+      ],
+      "symptoms": {
+        "general": [
+          "Minor stem disease appearing as irregular brown to grayish stem lesions containing dark scattered acervuli",
+          "Severe infection leads to drying and death of infected branches",
+          "Minute spots with dark margins and gray centers scattered with acervuli common on leaves and pods"
+        ],
+        "early_symptoms": [],
+        "advanced_symptoms": [],
+        "visual_field_symptoms": [
+          "Irregular brown to grayish stem lesions with dark acervuli"
+        ]
+      },
+      "identification": {
+        "field_identification": [
+          "Stem lesions with dark acervuli",
+          "Minute spots with dark margins and gray centers on leaves and pods"
+        ],
+        "diagnostic_methods": [],
+        "differential_diagnosis": []
+      },
+      "causes_and_risk_factors": [],
+      "favorable_conditions": {
+        "temperature": "",
+        "humidity": "",
+        "rainfall": "",
+        "soil_conditions": "",
+        "other_conditions": []
+      },
+      "disease_development_and_spread": [],
+      "epidemiology": [],
+      "severity_and_yield_loss": [],
+      "management": {
+        "cultural_management": [
+          "Avoid fields with previous blight records"
+        ],
+        "biological_management": [],
+        "chemical_management": [
+          {
+            "active_ingredient_or_product": "maneb (Indofil M 45®)",
+            "dose": "3 g L-1 water",
+            "concentration": "",
+            "application_method": "Spray",
+            "timing": "",
+            "number_of_applications": "",
+            "result_reported_in_paper": ""
+          }
+        ],
+        "integrated_management": []
+      },
+      "resistant_or_tolerant_varieties": [],
+      "susceptible_varieties": [],
+      "prevention": [],
+      "farmer_action_points": [],
+      "warnings_and_limitations": [],
+      "research_findings": [],
+      "source_pages": [
+        "16",
+        "50",
+        "52",
+        "53"
+      ]
+    },
+    {
+      "disease_name": "Waterlogging",
+      "alternative_names": [],
+      "disease_type": "Abiotic stress",
+      "causal_agent": "Waterlogging (Abiotic stress)",
+      "pathogen_type": "Abiotic",
+      "affected_plant_parts": [
+        "Roots",
+        "Collar region",
+        "Wood"
+      ],
+      "symptoms": {
+        "general": [
+          "Sudden death of plants without external stem symptoms, but easily uprooted",
+          "Waterlogged roots are rotten, foul-smelling, bark easy to peel off",
+          "Brown patches with wavy margins in collar region (seen when bark is peeled off)",
+          "Reddish brown discontinuous streaks in the wood"
+        ],
+        "early_symptoms": [],
+        "advanced_symptoms": [],
+        "visual_field_symptoms": [
+          "Dead plants in field without external stem symptoms"
+        ]
+      },
+      "identification": {
+        "field_identification": [
+          "Brown patches with wavy margins in collar region",
+          "Reddish brown discontinuous streaks in wood",
+          "Rotten, foul-smelling roots with easily peeling bark"
+        ],
+        "diagnostic_methods": [],
+        "differential_diagnosis": [
+          "Can be confused with wilt or Phytophthora blight, but distinguished by brown patches with wavy margins in collar region and reddish brown discontinuous streaks in wood",
+          "Reddish brown discontinuous streaks differ from wilt streaks (black and continuous)"
+        ]
+      },
+      "causes_and_risk_factors": [
+        "Highly susceptible to waterlogging",
+        "Adult pigeonpea plants more susceptible than seedlings",
+        "Pigeonpea suffers less damage in weedy or intercropped fields than well-weeded sole cropped fields"
+      ],
+      "favorable_conditions": {
+        "temperature": "",
+        "humidity": "",
+        "rainfall": "Most severe when a few days of rain and cloudy weather are followed by sunny days",
+        "soil_conditions": "",
+        "other_conditions": []
+      },
+      "disease_development_and_spread": [],
+      "epidemiology": [],
+      "severity_and_yield_loss": [
+        "Can result in sudden death of plants"
+      ],
+      "management": {
+        "cultural_management": [],
+        "biological_management": [],
+        "chemical_management": [],
+        "integrated_management": []
+      },
+      "resistant_or_tolerant_varieties": [],
+      "susceptible_varieties": [],
+      "prevention": [],
+      "farmer_action_points": [],
+      "warnings_and_limitations": [],
+      "research_findings": [],
+      "source_pages": [
+        "16",
+        "17",
+        "53"
+      ]
+    },
+    {
+      "disease_name": "Bacterial Leaf Spot and Stem Canker",
+      "alternative_names": [],
+      "disease_type": "Bacterial disease",
+      "causal_agent": "Xanthomonas campestris pv. cajani (Kulkarni, Patel & Abhyankar) Dye",
+      "pathogen_type": "Bacterium",
+      "affected_plant_parts": [
+        "Leaves",
+        "Lower leaves",
+        "Stems",
+        "Branches"
+      ],
+      "symptoms": {
+        "general": [
+          "Small necrotic spots surrounded by bright yellow halos on lower leaves (about 1 month old)",
+          "Rough, raised, cankerous lesions appear on the stem",
+          "Leaf spots do not usually cause defoliation",
+          "Cankers can cause stems to break, but broken part usually remains attached",
+          "Stem cankers increase in size up to 15-25 cm long",
+          "Severe infection causes affected branches to dry"
+        ],
+        "early_symptoms": [
+          "Small necrotic spots surrounded by bright yellow halos on lower leaves of ~1 month old plants"
+        ],
+        "advanced_symptoms": [
+          "Stem cankers increasing in size up to 15-25 cm long",
+          "Drying of affected branches in severe infections"
+        ],
+        "visual_field_symptoms": [
+          "Broken stems with cankerous lesions",
+          "Enlarged stem cankers"
+        ]
+      },
+      "identification": {
+        "field_identification": [
+          "Necrotic leaf spots with bright yellow halos",
+          "Raised cankerous stem lesions and broken stems"
+        ],
+        "diagnostic_methods": [],
+        "differential_diagnosis": []
+      },
+      "causes_and_risk_factors": [
+        "African germplasm more susceptible than Indian germplasm",
+        "Pigeonpea with purple stems less susceptible to stem canker than those with green stems",
+        "Leaf infection at all stages, stem infection usually in younger plants"
+      ],
+      "favorable_conditions": {
+        "temperature": "25-30°C",
+        "humidity": "Humid weather favors disease development",
+        "rainfall": "Appears in India in rainy season (July and August)",
+        "soil_conditions": "Incidence generally higher in low-lying waterlogged areas than well-drained areas",
+        "other_conditions": []
+      },
+      "disease_development_and_spread": [],
+      "epidemiology": [],
+      "severity_and_yield_loss": [],
+      "management": {
+        "cultural_management": [
+          "Select well-drained fields",
+          "Select seed from healthy crops"
+        ],
+        "biological_management": [],
+        "chemical_management": [
+          {
+            "active_ingredient_or_product": "Streptocycline® (streptomycine and tetracycline)",
+            "dose": "100 μg L-1",
+            "concentration": "",
+            "application_method": "Spray",
+            "timing": "At 10-day intervals",
+            "number_of_applications": "",
+            "result_reported_in_paper": ""
+          }
+        ],
+        "integrated_management": []
+      },
+      "resistant_or_tolerant_varieties": [
+        "ICPs 12807",
+        "12848",
+        "12849",
+        "12937",
+        "13051",
+        "13116",
+        "13148"
+      ],
+      "susceptible_varieties": [],
+      "prevention": [],
+      "farmer_action_points": [],
+      "warnings_and_limitations": [],
+      "research_findings": [],
+      "source_pages": [
+        "18",
+        "19",
+        "45",
+        "49",
+        "51"
+      ]
+    },
+    {
+      "disease_name": "Powdery Mildew",
+      "alternative_names": [],
+      "disease_type": "Fungal disease",
+      "causal_agent": "Oidiopsis taurica (Lev.) Salmon (Teleomorph: Leveillula taurica [Lev.] Arnaud)",
+      "pathogen_type": "Fungus",
+      "affected_plant_parts": [
+        "Aerial parts",
+        "Leaves",
+        "Flowers",
+        "Pods",
+        "Axillary buds"
+      ],
+      "symptoms": {
+        "general": [
+          "White powdery fungal growths on aerial parts (leaves, flowers, pods)",
+          "Stunting of young plants followed by white powdery growth before flowering stage",
+          "Initial small chlorotic spots on upper leaf surface, followed by white powdery patches on corresponding lower surfaces",
+          "Powdery growth covers entire lower leaf surface upon sporulation",
+          "Severe infections result in heavy defoliation"
+        ],
+        "early_symptoms": [
+          "Small chlorotic spots on upper surface of individual leaves"
+        ],
+        "advanced_symptoms": [
+          "White powdery patches on lower surfaces covering the entire lower leaf surface",
+          "Heavy defoliation in severe infections"
+        ],
+        "visual_field_symptoms": [
+          "Defoliation in severely affected plants"
+        ]
+      },
+      "identification": {
+        "field_identification": [
+          "White powdery fungal growth on leaves, flowers, and pods",
+          "Chlorotic spots on upper leaf surface with powdery patches underneath"
+        ],
+        "diagnostic_methods": [],
+        "differential_diagnosis": []
+      },
+      "causes_and_risk_factors": [
+        "Polycyclic disease (initial infection and secondary spread)",
+        "Infection directly proportional to conidia inoculum quantity",
+        "Indian varieties with thin, succulent leaves more susceptible than Kenyan varieties with thick leaves",
+        "Plants attacked by sterility mosaic or phyllody support abundant sporulation and act as continuous source of inoculum",
+        "Survives on perennial pigeonpeas, volunteer plants in shade, ratoon growth of stubbles, and as dormant mycelium on axillary buds",
+        "Early sowing and irrigation in India encourage establishment"
+      ],
+      "favorable_conditions": {
+        "temperature": "20 to 35°C (25°C is optimum)",
+        "humidity": "Cool, humid climate congenial for infection/colonization; warm humid climate good for sporulation/spore dispersal",
+        "rainfall": "",
+        "soil_conditions": "",
+        "other_conditions": []
+      },
+      "disease_development_and_spread": [],
+      "epidemiology": [],
+      "severity_and_yield_loss": [],
+      "management": {
+        "cultural_management": [
+          "Select fields away from perennial pigeonpeas affected with the disease that are a source of inoculum",
+          "Sow late (after July) in India, to reduce disease incidence"
+        ],
+        "biological_management": [],
+        "chemical_management": [
+          {
+            "active_ingredient_or_product": "wettable sulfur",
+            "dose": "1 g L-1",
+            "concentration": "",
+            "application_method": "Spray",
+            "timing": "",
+            "number_of_applications": "",
+            "result_reported_in_paper": ""
+          },
+          {
+            "active_ingredient_or_product": "triadimefon (Bayletan® 25% EC)",
+            "dose": "",
+            "concentration": "0.03%",
+            "application_method": "Spray",
+            "timing": "",
+            "number_of_applications": "",
+            "result_reported_in_paper": ""
+          }
+        ],
+        "integrated_management": []
+      },
+      "resistant_or_tolerant_varieties": [
+        "ICP 9150",
+        "ICP 9177"
+      ],
+      "susceptible_varieties": [],
+      "prevention": [],
+      "farmer_action_points": [],
+      "warnings_and_limitations": [],
+      "research_findings": [],
+      "source_pages": [
+        "20",
+        "21",
+        "45",
+        "48",
+        "51"
+      ]
+    },
+    {
+      "disease_name": "Cercospora Leaf Spot",
+      "alternative_names": [],
+      "disease_type": "Fungal disease",
+      "causal_agent": "Cercospora cajani Hennings (most prevalent), Cercospora indica Singh, Cercospora instabilis Rangel, Cercospora thirumalacharii Sharma & Mishra (Teleomorph: Mycovellosiella cajani [Henn.] Rangel ex Trotter)",
+      "pathogen_type": "Fungus",
+      "affected_plant_parts": [
+        "Older leaves",
+        "Leaves",
+        "Young branches"
+      ],
+      "symptoms": {
+        "general": [
+          "Small circular to irregular necrotic spots or lesions usually on older leaves",
+          "Lesions coalesce causing leaf blight and defoliation",
+          "During epidemics, lesions appear on young branches causing tips to dry and die",
+          "Indian isolates produce fluffy mycelial growth on lesions, African isolates produce concentric zonations"
+        ],
+        "early_symptoms": [
+          "Small circular to irregular necrotic spots on older leaves"
+        ],
+        "advanced_symptoms": [
+          "Lesions coalesce causing leaf blight and defoliation",
+          "Drying of branch tips during epidemics"
+        ],
+        "visual_field_symptoms": [
+          "Small necrotic spots on older leaves",
+          "Concentric zonation on leaf"
+        ]
+      },
+      "identification": {
+        "field_identification": [
+          "Small necrotic spots on older leaves",
+          "Concentric zonations (African isolates) or fluffy mycelial growth (Indian isolates)"
+        ],
+        "diagnostic_methods": [],
+        "differential_diagnosis": []
+      },
+      "causes_and_risk_factors": [
+        "More common in long-duration and perennial pigeonpeas grown in eastern Africa"
+      ],
+      "favorable_conditions": {
+        "temperature": "Cool temperatures (25°C)",
+        "humidity": "Humid weather",
+        "rainfall": "Cyclonic rains in southern and north-eastern peninsular India result in sudden outbreaks in certain years",
+        "soil_conditions": "",
+        "other_conditions": [
+          "Normally appears when plants are flowering and podding"
+        ]
+      },
+      "disease_development_and_spread": [],
+      "epidemiology": [],
+      "severity_and_yield_loss": [
+        "A problem in humid regions",
+        "Yield losses up to 85% reported from eastern Africa",
+        "Losses are severe when defoliation occurs before flowering and podding"
+      ],
+      "management": {
+        "cultural_management": [
+          "Select fields away from perennial pigeonpeas that are a source of inoculum",
+          "Select seed from healthy crops"
+        ],
+        "biological_management": [],
+        "chemical_management": [
+          {
+            "active_ingredient_or_product": "maneb (Indofil M 45®)",
+            "dose": "3 g L-1 water",
+            "concentration": "",
+            "application_method": "Spray",
+            "timing": "",
+            "number_of_applications": "",
+            "result_reported_in_paper": ""
+          }
+        ],
+        "integrated_management": []
+      },
+      "resistant_or_tolerant_varieties": [
+        "UC 796/1",
+        "UC 2113/1",
+        "UC 2515/2",
+        "UC 2568/1"
+      ],
+      "susceptible_varieties": [],
+      "prevention": [],
+      "farmer_action_points": [],
+      "warnings_and_limitations": [],
+      "research_findings": [],
+      "source_pages": [
+        "28",
+        "29",
+        "45",
+        "48",
+        "51"
+      ]
+    },
+    {
+      "disease_name": "Alternaria Blight",
+      "alternative_names": [],
+      "disease_type": "Fungal disease",
+      "causal_agent": "Alternaria sp, Alternaria tenuissima (Kunze ex Persoon) Wiltshire, Alternaria alternata (Fries) Keissler",
+      "pathogen_type": "Fungus",
+      "affected_plant_parts": [
+        "Leaves",
+        "Aerial parts",
+        "Flowers",
+        "Flower buds",
+        "Pods",
+        "Branches"
+      ],
+      "symptoms": {
+        "general": [
+          "Small, circular, necrotic spots on leaves that develop quickly forming typically concentric rings",
+          "Lesions appear on all aerial plant parts including flowers, flower buds, and pods",
+          "Blighting of leaves, severe defoliation, and drying of infected branches"
+        ],
+        "early_symptoms": [
+          "Small, circular, necrotic spots on leaves"
+        ],
+        "advanced_symptoms": [
+          "Concentric rings on spots, blighting of leaves, severe defoliation, and drying of infected branches"
+        ],
+        "visual_field_symptoms": [
+          "Necrotic spot on leaf",
+          "Drying of flowers and flower buds"
+        ]
+      },
+      "identification": {
+        "field_identification": [
+          "Circular necrotic spots with concentric rings on leaves and floral parts"
+        ],
+        "diagnostic_methods": [],
+        "differential_diagnosis": []
+      },
+      "causes_and_risk_factors": [
+        "Emerging disease under climate change scenario",
+        "Not serious in rainy-season crops sown at normal time, but causes problems in crops sown late (September) or in postrainy season on plains of north-eastern India",
+        "Seed infection only reported from Puerto Rico"
+      ],
+      "favorable_conditions": {
+        "temperature": "",
+        "humidity": "Warm, humid conditions favor fungal sporulation",
+        "rainfall": "",
+        "soil_conditions": "",
+        "other_conditions": []
+      },
+      "disease_development_and_spread": [],
+      "epidemiology": [],
+      "severity_and_yield_loss": [],
+      "management": {
+        "cultural_management": [
+          "Avoid fields close to perennial pigeonpeas",
+          "Select seed from healthy crops",
+          "Sow early"
+        ],
+        "biological_management": [],
+        "chemical_management": [
+          {
+            "active_ingredient_or_product": "maneb (Indofil M 45®)",
+            "dose": "3 g L-1 water",
+            "concentration": "",
+            "application_method": "Spray",
+            "timing": "",
+            "number_of_applications": "",
+            "result_reported_in_paper": ""
+          }
+        ],
+        "integrated_management": []
+      },
+      "resistant_or_tolerant_varieties": [
+        "DA 2",
+        "MA 128-1",
+        "MA 128-2",
+        "20-105 (West Bengal)"
+      ],
+      "susceptible_varieties": [],
+      "prevention": [],
+      "farmer_action_points": [],
+      "warnings_and_limitations": [],
+      "research_findings": [],
+      "source_pages": [
+        "30",
+        "45",
+        "48",
+        "51"
+      ]
+    },
+    {
+      "disease_name": "Phyllosticta Leaf Spot",
+      "alternative_names": [],
+      "disease_type": "Fungal disease",
+      "causal_agent": "Phyllosticta cajani Sydow",
+      "pathogen_type": "Fungus",
+      "affected_plant_parts": [
+        "Leaves"
+      ],
+      "symptoms": {
+        "general": [
+          "Round, necrotic spots up to 10 mm in diameter on leaves",
+          "Lesions have wavy dark brown margins with gray centers, containing characteristically concentric rings of pycnidial bodies",
+          "Severe infections result in desiccation and defoliation"
+        ],
+        "early_symptoms": [
+          "Round, necrotic spots up to 10 mm in diameter"
+        ],
+        "advanced_symptoms": [
+          "Concentric rings of pycnidial bodies, desiccation, and defoliation in severe infections"
+        ],
+        "visual_field_symptoms": [
+          "Necrotic leaf spots with pycnidial bodies"
+        ]
+      },
+      "identification": {
+        "field_identification": [
+          "Round necrotic leaf spots with wavy dark brown margins, gray centers, and concentric rings of pycnidia"
+        ],
+        "diagnostic_methods": [],
+        "differential_diagnosis": []
+      },
+      "causes_and_risk_factors": [],
+      "favorable_conditions": {
+        "temperature": "20 to 30°C mean temperature",
+        "humidity": "Mean humidity range of 73-80% favors severe outbreaks",
+        "rainfall": "",
+        "soil_conditions": "",
+        "other_conditions": [
+          "Problem in warm, humid climates; appears usually in July and persists throughout cropping season; serious epidemics in October in north-eastern plains of India"
+        ]
+      },
+      "disease_development_and_spread": [],
+      "epidemiology": [],
+      "severity_and_yield_loss": [],
+      "management": {
+        "cultural_management": [],
+        "biological_management": [],
+        "chemical_management": [
+          {
+            "active_ingredient_or_product": "maneb (Indofil M 45®)",
+            "dose": "3 g L-1 water",
+            "concentration": "",
+            "application_method": "Spray",
+            "timing": "",
+            "number_of_applications": "",
+            "result_reported_in_paper": ""
+          }
+        ],
+        "integrated_management": []
+      },
+      "resistant_or_tolerant_varieties": [
+        "EMC",
+        "ICPL 161",
+        "ICPL 269",
+        "ICPL 335",
+        "Pusa 33",
+        "Pusa 85"
+      ],
+      "susceptible_varieties": [],
+      "prevention": [],
+      "farmer_action_points": [],
+      "warnings_and_limitations": [],
+      "research_findings": [],
+      "source_pages": [
+        "25",
+        "45",
+        "51",
+        "52"
+      ]
+    },
+    {
+      "disease_name": "Fusarium Leaf Blight",
+      "alternative_names": [],
+      "disease_type": "Fungal disease",
+      "causal_agent": "Fusarium semitectum Berkley & Rav.",
+      "pathogen_type": "Fungus",
+      "affected_plant_parts": [
+        "Leaves"
+      ],
+      "symptoms": {
+        "general": [
+          "Problem on pigeonpea crops in north-eastern hills of India",
+          "Dark brown, circular to elliptical lesions (2-10 mm diameter) originating on leaf margins",
+          "Lesions coalesce to form dark brown patches",
+          "Infected leaves become yellow and dry prematurely",
+          "White mycelia with abundant conidia appear on blighted leaves under humid weather"
+        ],
+        "early_symptoms": [
+          "Dark brown, circular to elliptical lesions on leaf margins"
+        ],
+        "advanced_symptoms": [
+          "Coalescence into dark brown patches, premature yellowing and drying"
+        ],
+        "visual_field_symptoms": []
+      },
+      "identification": {
+        "field_identification": [
+          "Dark brown circular/elliptical lesions on leaf margins coalescing into patches"
+        ],
+        "diagnostic_methods": [],
+        "differential_diagnosis": []
+      },
+      "causes_and_risk_factors": [],
+      "favorable_conditions": {
+        "temperature": "",
+        "humidity": "Humid weather causes white mycelia and abundant conidia to appear",
+        "rainfall": "",
+        "soil_conditions": "",
+        "other_conditions": []
+      },
+      "disease_development_and_spread": [],
+      "epidemiology": [],
+      "severity_and_yield_loss": [],
+      "management": {
+        "cultural_management": [],
+        "biological_management": [],
+        "chemical_management": [
+          {
+            "active_ingredient_or_product": "Benlate-T®",
+            "dose": "3 g L-1 water",
+            "concentration": "",
+            "application_method": "Spray",
+            "timing": "",
+            "number_of_applications": "",
+            "result_reported_in_paper": ""
+          }
+        ],
+        "integrated_management": []
+      },
+      "resistant_or_tolerant_varieties": [],
+      "susceptible_varieties": [],
+      "prevention": [],
+      "farmer_action_points": [],
+      "warnings_and_limitations": [],
+      "research_findings": [],
+      "source_pages": [
+        "26",
+        "52"
+      ]
+    },
+    {
+      "disease_name": "Rust",
+      "alternative_names": [],
+      "disease_type": "Fungal disease",
+      "causal_agent": "Uredo cajani Sydow",
+      "pathogen_type": "Fungus",
+      "affected_plant_parts": [
+        "Leaves",
+        "Lower leaf surfaces"
+      ],
+      "symptoms": {
+        "general": [
+          "Dark brown raised pustules full of uredia on lower leaf surfaces",
+          "Infected leaves desiccate and drop off",
+          "Extensive defoliation when infections are severe"
+        ],
+        "early_symptoms": [],
+        "advanced_symptoms": [
+          "Desiccation and dropping of leaves, extensive defoliation"
+        ],
+        "visual_field_symptoms": [
+          "Rust pustules on the lower leaf surface"
+        ]
+      },
+      "identification": {
+        "field_identification": [
+          "Dark brown raised pustules with uredia on lower leaf surfaces"
+        ],
+        "diagnostic_methods": [],
+        "differential_diagnosis": []
+      },
+      "causes_and_risk_factors": [],
+      "favorable_conditions": {
+        "temperature": "",
+        "humidity": "",
+        "rainfall": "Light rain and cloudiness encourage spore release, dispersal, and disease development",
+        "soil_conditions": "",
+        "other_conditions": [
+          "Disease severity increases with onset of flowering",
+          "Dense planting and closed canopy provide favorable microclimate"
+        ]
+      },
+      "disease_development_and_spread": [
+        "Wind, light rain, and cloudiness encourage spore release and dispersal"
+      ],
+      "epidemiology": [],
+      "severity_and_yield_loss": [],
+      "management": {
+        "cultural_management": [
+          "Avoid sowing pigeonpea close to bean fields",
+          "Rotate crops to reduce chance of pathogen survival"
+        ],
+        "biological_management": [],
+        "chemical_management": [
+          {
+            "active_ingredient_or_product": "maneb (Indofil M 45®)",
+            "dose": "3 g L-1 water",
+            "concentration": "",
+            "application_method": "Spray",
+            "timing": "",
+            "number_of_applications": "",
+            "result_reported_in_paper": ""
+          }
+        ],
+        "integrated_management": []
+      },
+      "resistant_or_tolerant_varieties": [
+        "Blanco",
+        "Todo Tempo No. 17"
+      ],
+      "susceptible_varieties": [],
+      "prevention": [],
+      "farmer_action_points": [],
+      "warnings_and_limitations": [],
+      "research_findings": [],
+      "source_pages": [
+        "26",
+        "27",
+        "45",
+        "49",
+        "52"
+      ]
+    },
+    {
+      "disease_name": "Halo Blight",
+      "alternative_names": [],
+      "disease_type": "Bacterial disease",
+      "causal_agent": "Pseudomonas syringae pv. phaseolicola (Burkholder) Young, Dye & Wilkie (syn P. phaseolicola)",
+      "pathogen_type": "Bacterium",
+      "affected_plant_parts": [
+        "Leaves",
+        "Young leaves"
+      ],
+      "symptoms": {
+        "general": [
+          "Dark brown angular necrotic spots 1 mm in diameter surrounded by large chlorotic halos 10 mm in diameter on leaves",
+          "Spots coalesce under humid conditions giving leaves a blighted appearance",
+          "More commonly seen on soft, young leaves of older and ratooned plants"
+        ],
+        "early_symptoms": [
+          "Dark brown angular necrotic spots 1 mm in diameter with large chlorotic halos 10 mm in diameter"
+        ],
+        "advanced_symptoms": [
+          "Spots coalesce giving leaves a blighted appearance"
+        ],
+        "visual_field_symptoms": []
+      },
+      "identification": {
+        "field_identification": [
+          "Dark brown angular necrotic spots with large chlorotic halos"
+        ],
+        "diagnostic_methods": [],
+        "differential_diagnosis": []
+      },
+      "causes_and_risk_factors": [
+        "More commonly seen on soft, young leaves of older and ratooned plants"
+      ],
+      "favorable_conditions": {
+        "temperature": "",
+        "humidity": "Humid conditions cause spots to coalesce; persistent rains and cloudy weather result in severe disease development",
+        "rainfall": "Persistent rains",
+        "soil_conditions": "",
+        "other_conditions": []
+      },
+      "disease_development_and_spread": [],
+      "epidemiology": [],
+      "severity_and_yield_loss": [],
+      "management": {
+        "cultural_management": [],
+        "biological_management": [],
+        "chemical_management": [
+          {
+            "active_ingredient_or_product": "Streptocycline® (streptomycine and tetracycline)",
+            "dose": "100 μgL-1",
+            "concentration": "",
+            "application_method": "Spray",
+            "timing": "",
+            "number_of_applications": "",
+            "result_reported_in_paper": ""
+          }
+        ],
+        "integrated_management": []
+      },
+      "resistant_or_tolerant_varieties": [
+        "GW 3",
+        "ICPL 362"
+      ],
+      "susceptible_varieties": [],
+      "prevention": [],
+      "farmer_action_points": [],
+      "warnings_and_limitations": [],
+      "research_findings": [],
+      "source_pages": [
+        "28",
+        "45",
+        "52"
+      ]
+    },
+    {
+      "disease_name": "Botrytis Gray Mold",
+      "alternative_names": [],
+      "disease_type": "Fungal disease",
+      "causal_agent": "Botrytis cinerea Persoon ex Fries",
+      "pathogen_type": "Fungus",
+      "affected_plant_parts": [
+        "Growing tips",
+        "Flowers",
+        "Pods",
+        "Leaves"
+      ],
+      "symptoms": {
+        "general": [
+          "Appears when plants are flowering as dark gray fungal growths on growing tips, flowers, and pods",
+          "Infected flowers drop, reducing pod set",
+          "Shed flowers and leaves on the ground covered with sporulating mycelium"
+        ],
+        "early_symptoms": [],
+        "advanced_symptoms": [
+          "Dark gray fungal growths on growing tips, flowers, and pods, flower drop"
+        ],
+        "visual_field_symptoms": [
+          "Dark gray fungal growth on flowers and pods",
+          "Sporulating mycelium on shed flowers and leaves"
+        ]
+      },
+      "identification": {
+        "field_identification": [
+          "Dark gray fungal growth on flowers, pods, and growing tips during flowering"
+        ],
+        "diagnostic_methods": [],
+        "differential_diagnosis": []
+      },
+      "causes_and_risk_factors": [],
+      "favorable_conditions": {
+        "temperature": "",
+        "humidity": "",
+        "rainfall": "",
+        "soil_conditions": "",
+        "other_conditions": []
+      },
+      "disease_development_and_spread": [],
+      "epidemiology": [],
+      "severity_and_yield_loss": [
+        "Reduces pod set due to flower drop"
+      ],
+      "management": {
+        "cultural_management": [],
+        "biological_management": [],
+        "chemical_management": [
+          {
+            "active_ingredient_or_product": "Ronilan® or Daconil®",
+            "dose": "3 g L-1 water",
+            "concentration": "",
+            "application_method": "Spray",
+            "timing": "",
+            "number_of_applications": "",
+            "result_reported_in_paper": ""
+          }
+        ],
+        "integrated_management": []
+      },
+      "resistant_or_tolerant_varieties": [],
+      "susceptible_varieties": [],
+      "prevention": [],
+      "farmer_action_points": [],
+      "warnings_and_limitations": [],
+      "research_findings": [],
+      "source_pages": [
+        "28",
+        "29",
+        "52"
+      ]
+    },
+    {
+      "disease_name": "Marginal Leaf Burning",
+      "alternative_names": [],
+      "disease_type": "Abiotic disorder",
+      "causal_agent": "Soil salinity / Accumulation of salts in leaves (Abiotic)",
+      "pathogen_type": "Abiotic",
+      "affected_plant_parts": [
+        "Leaves",
+        "Lower leaves",
+        "Leaf laminae margins"
+      ],
+      "symptoms": {
+        "general": [
+          "Starts with marginal chlorosis and progresses to 'burning' of leaf laminae margins",
+          "Commonly observed late in the season",
+          "Starts in lower leaves and progresses upwards"
+        ],
+        "early_symptoms": [
+          "Marginal chlorosis on lower leaves"
+        ],
+        "advanced_symptoms": [
+          "Burning of leaf laminae margins progressing upwards"
+        ],
+        "visual_field_symptoms": [
+          "Margins of leaf laminae showing burnt appearance"
+        ]
+      },
+      "identification": {
+        "field_identification": [
+          "Marginal chlorosis and burning of leaf margins on lower leaves progressing upwards"
+        ],
+        "diagnostic_methods": [],
+        "differential_diagnosis": [
+          "Distinguished from fungal leaf blights by systematic nature and absence of chlorotic area between dried and healthy portions of laminae"
+        ]
+      },
+      "causes_and_risk_factors": [
+        "Could be due to soil salinity resulting in gradual accumulation of salts in leaves",
+        "Exacerbated by prolonged dry spells"
+      ],
+      "favorable_conditions": {
+        "temperature": "",
+        "humidity": "",
+        "rainfall": "",
+        "soil_conditions": "Soil salinity",
+        "other_conditions": [
+          "Prolonged dry spells"
+        ]
+      },
+      "disease_development_and_spread": [],
+      "epidemiology": [],
+      "severity_and_yield_loss": [],
+      "management": {
+        "cultural_management": [],
+        "biological_management": [],
+        "chemical_management": [],
+        "integrated_management": []
+      },
+      "resistant_or_tolerant_varieties": [],
+      "susceptible_varieties": [],
+      "prevention": [],
+      "farmer_action_points": [],
+      "warnings_and_limitations": [],
+      "research_findings": [],
+      "source_pages": [
+        "29"
+      ]
+    },
+    {
+      "disease_name": "Sterility Mosaic",
+      "alternative_names": [],
+      "disease_type": "Viral disease",
+      "causal_agent": "Pigeonpea sterility mosaic virus",
+      "pathogen_type": "Virus",
+      "affected_plant_parts": [
+        "Leaves",
+        "Branches",
+        "Flowers",
+        "Pods"
+      ],
+      "symptoms": {
+        "general": [
+          "Patches of bushy, pale green plants without flowers or pods in the field",
+          "Leaves are small and show light and dark green mosaic pattern",
+          "Initial mosaic symptoms appear as vein-clearing on young leaves",
+          "Infection at 45 days after emergence or later may show symptoms on only some parts while rest appear normal",
+          "Some varieties (e.g., ICP 2376) exhibit ring spot leaf symptoms (green islands in chlorotic areas) producing normal flowers and pods",
+          "Strains in Bihar (India) and Nepal cause severe internodal shortening, clustering of branches, and filiform leaves"
+        ],
+        "early_symptoms": [
+          "Vein-clearing on young leaves"
+        ],
+        "advanced_symptoms": [
+          "Bushy pale green plants without flowers or pods, small leaves with light/dark green mosaic pattern"
+        ],
+        "visual_field_symptoms": [
+          "Patches of bushy pale green plants in the field",
+          "Infected plants without flowers and pods",
+          "Vein clearing symptom on young leaves",
+          "Infected leaf with ring spot symptom"
+        ]
+      },
+      "identification": {
+        "field_identification": [
+          "Patches of bushy, pale green plants lacking flowers/pods",
+          "Mosaic pattern, vein-clearing, or ring spot symptoms on small leaves"
+        ],
+        "diagnostic_methods": [],
+        "differential_diagnosis": []
+      },
+      "causes_and_risk_factors": [
+        "Vector: Eriophyid mite Aceria cajani Channabasavanna",
+        "Pathogen and mite vector are specific to Cajanus cajan and wild relative C. scarabaeoides var. scarabaeoides",
+        "Perennial/volunteer pigeonpeas and ratooned growth provide reservoirs for mite and pathogen"
+      ],
+      "favorable_conditions": {
+        "temperature": "Symptoms suppressed during hot summer months, reappear with monsoon rains",
+        "humidity": "Shade and humidity encourage mite multiplication, especially in hot summer weather",
+        "rainfall": "Monsoon rains bring back symptom expression",
+        "soil_conditions": "",
+        "other_conditions": [
+          "High disease incidence when pigeonpeas are inter- or mixed cropped with sorghum or millets",
+          "Mites wind-borne up to 2 km"
+        ]
+      },
+      "disease_development_and_spread": [
+        "Transmitted by eriophyid mite Aceria cajani",
+        "Mites can be wind-borne up to 2 km from inoculum source"
+      ],
+      "epidemiology": [],
+      "severity_and_yield_loss": [
+        "A serious problem in Nepal and India, estimated to cause annual pigeonpea grain losses worth US$282 million"
+      ],
+      "management": {
+        "cultural_management": [
+          "Spacing between lines should be maintained at 30 to 40 cms",
+          "Weeds should be rouged out at their inception",
+          "Maintain timely sowing of the crop",
+          "Select a field well away from perennial or ratoon pigeonpeas",
+          "Destroy sources of sterility mosaic inoculum, i.e., perennial or ratooned pigeonpeas",
+          "Uproot infected plants at an early stage of disease development and destroy them",
+          "Rotate crops to reduce sources of inoculum and mite vectors"
+        ],
+        "biological_management": [],
+        "chemical_management": [
+          {
+            "active_ingredient_or_product": "25% Furadan 3G® or 10% aldicarb",
+            "dose": "3 g kg-1 seed",
+            "concentration": "",
+            "application_method": "Seed dressing",
+            "timing": "Before sowing",
+            "number_of_applications": "1",
+            "result_reported_in_paper": ""
+          },
+          {
+            "active_ingredient_or_product": "acaricide or insecticides like Kelthane®, Morestan®, metasystox",
+            "dose": "",
+            "concentration": "0.1%",
+            "application_method": "Spraying",
+            "timing": "Early stages of plant growth to control mite vector",
+            "number_of_applications": "",
+            "result_reported_in_paper": ""
+          }
+        ],
+        "integrated_management": []
+      },
+      "resistant_or_tolerant_varieties": [
+        "MA - 3 (Malviya Vikalp)",
+        "ICP 7035",
+        "Bahar",
+        "Bageshwari",
+        "DA 11",
+        "DA 13",
+        "ICPL 86",
+        "ICPL 146",
+        "ICPL 87051",
+        "MA 165",
+        "MA 166",
+        "PDA 2",
+        "PDA 10",
+        "Rampur Rahar"
+      ],
+      "susceptible_varieties": [],
+      "prevention": [],
+      "farmer_action_points": [],
+      "warnings_and_limitations": [],
+      "research_findings": [],
+      "source_pages": [
+        "30",
+        "31",
+        "32",
+        "33",
+        "44",
+        "46",
+        "47",
+        "51",
+        "52"
+      ]
+    },
+    {
+      "disease_name": "Yellow Mosaic",
+      "alternative_names": [],
+      "disease_type": "Viral disease",
+      "causal_agent": "Mung bean yellow mosaic virus",
+      "pathogen_type": "Virus",
+      "affected_plant_parts": [
+        "Leaves"
+      ],
+      "symptoms": {
+        "general": [
+          "Green and golden yellow mosaic mottle symptoms on leaves",
+          "Sometimes affected parts of leaves become necrotic",
+          "Diseased plants usually scattered in field, produce fewer pods than normal when infected early"
+        ],
+        "early_symptoms": [],
+        "advanced_symptoms": [],
+        "visual_field_symptoms": [
+          "Green and golden yellow mosaic mottle symptoms on leaves"
+        ]
+      },
+      "identification": {
+        "field_identification": [
+          "Green and golden yellow mosaic mottle symptoms on leaves"
+        ],
+        "diagnostic_methods": [],
+        "differential_diagnosis": []
+      },
+      "causes_and_risk_factors": [
+        "Vector: White fly Bemisia tabaci Gennadius",
+        "Off-season and isolated sowings suffer more because pigeonpea is not a preferred host of whitefly vectors (feed only when forced by absence of other host plants)"
+      ],
+      "favorable_conditions": {
+        "temperature": "",
+        "humidity": "",
+        "rainfall": "",
+        "soil_conditions": "",
+        "other_conditions": []
+      },
+      "disease_development_and_spread": [],
+      "epidemiology": [],
+      "severity_and_yield_loss": [],
+      "management": {
+        "cultural_management": [
+          "Avoid sowing late to reduce disease severity",
+          "Uproot and burn infected plants if disease appears on isolated plants in field"
+        ],
+        "biological_management": [],
+        "chemical_management": [
+          {
+            "active_ingredient_or_product": "metasystox",
+            "dose": "1 g L-1",
+            "concentration": "",
+            "application_method": "Spray insecticide",
+            "timing": "To control whitefly",
+            "number_of_applications": "",
+            "result_reported_in_paper": ""
+          }
+        ],
+        "integrated_management": []
+      },
+      "resistant_or_tolerant_varieties": [],
+      "susceptible_varieties": [],
+      "prevention": [],
+      "farmer_action_points": [],
+      "warnings_and_limitations": [],
+      "research_findings": [],
+      "source_pages": [
+        "34",
+        "49",
+        "52",
+        "55"
+      ]
+    },
+    {
+      "disease_name": "Witches' Broom",
+      "alternative_names": [],
+      "disease_type": "Phytoplasmal disease",
+      "causal_agent": "Candidatus Phytoplasma phoenicium",
+      "pathogen_type": "Phytoplasma",
+      "affected_plant_parts": [
+        "Branches",
+        "Leaves",
+        "Flowers",
+        "Pods"
+      ],
+      "symptoms": {
+        "general": [
+          "Excessive proliferation and clustering of branches with small pale green leaves giving a 'witches' broom' appearance",
+          "Plants rarely produce flowers and pods",
+          "Flowers, if produced, appear in clusters with elongated pedicels",
+          "Whole or part of plant may exhibit symptoms depending on intensity"
+        ],
+        "early_symptoms": [],
+        "advanced_symptoms": [],
+        "visual_field_symptoms": [
+          "Clustering of branches with small pale green leaves"
+        ]
+      },
+      "identification": {
+        "field_identification": [
+          "Excessive branch proliferation and clustering with small pale green leaves ('witches' broom')"
+        ],
+        "diagnostic_methods": [],
+        "differential_diagnosis": []
+      },
+      "causes_and_risk_factors": [
+        "Vector: Leaf hopper Empoasca sp"
+      ],
+      "favorable_conditions": {
+        "temperature": "",
+        "humidity": "",
+        "rainfall": "",
+        "soil_conditions": "",
+        "other_conditions": []
+      },
+      "disease_development_and_spread": [],
+      "epidemiology": [],
+      "severity_and_yield_loss": [],
+      "management": {
+        "cultural_management": [
+          "Select fields away from perennial pigeonpeas affected with witches' broom",
+          "Pull out and destroy any infected plants to minimize secondary spread of disease",
+          "Avoid ratoon cropping"
+        ],
+        "biological_management": [],
+        "chemical_management": [
+          {
+            "active_ingredient_or_product": "metasystox",
+            "dose": "",
+            "concentration": "0.1%",
+            "application_method": "Spray insecticide",
+            "timing": "To control leaf hopper",
+            "number_of_applications": "",
+            "result_reported_in_paper": ""
+          }
+        ],
+        "integrated_management": []
+      },
+      "resistant_or_tolerant_varieties": [],
+      "susceptible_varieties": [],
+      "prevention": [],
+      "farmer_action_points": [],
+      "warnings_and_limitations": [],
+      "research_findings": [],
+      "source_pages": [
+        "41",
+        "48",
+        "51",
+        "55"
+      ]
+    },
+    {
+      "disease_name": "Phyllody",
+      "alternative_names": [],
+      "disease_type": "Phytoplasmal disease",
+      "causal_agent": "Candidatus Phytoplasma species",
+      "pathogen_type": "Phytoplasma",
+      "affected_plant_parts": [
+        "Flowers"
+      ],
+      "symptoms": {
+        "general": [
+          "Recognized only at flowering",
+          "Diseased plants scattered in field, bushy with axillary proliferation of phylloid flowers",
+          "Flowers are converted into leafy structures"
+        ],
+        "early_symptoms": [],
+        "advanced_symptoms": [],
+        "visual_field_symptoms": [
+          "Floral proliferation (bushy plants with axillary proliferation of phylloid flowers)"
+        ]
+      },
+      "identification": {
+        "field_identification": [
+          "Bushy plants with flowers converted into leafy structures (phylloid flowers) at flowering"
+        ],
+        "diagnostic_methods": [],
+        "differential_diagnosis": [
+          "Differs from witches' broom because in phyllody flowers are converted into leafy structures, whereas in witches' broom there are no flowers"
+        ]
+      },
+      "causes_and_risk_factors": [
+        "Vector: Not known",
+        "Seen more frequently in off-season sowings than main-season crops, but incidence still low"
+      ],
+      "favorable_conditions": {
+        "temperature": "",
+        "humidity": "",
+        "rainfall": "",
+        "soil_conditions": "",
+        "other_conditions": []
+      },
+      "disease_development_and_spread": [],
+      "epidemiology": [],
+      "severity_and_yield_loss": [],
+      "management": {
+        "cultural_management": [
+          "Select fields away from perennial pigeonpeas and sesamum"
+        ],
+        "biological_management": [],
+        "chemical_management": [
+          {
+            "active_ingredient_or_product": "metasystox",
+            "dose": "",
+            "concentration": "",
+            "application_method": "Spray insecticide",
+            "timing": "To control vector",
+            "number_of_applications": "",
+            "result_reported_in_paper": ""
+          }
+        ],
+        "integrated_management": []
+      },
+      "resistant_or_tolerant_varieties": [
+        "BDN 5",
+        "ICPL 83057",
+        "MRG 66"
+      ],
+      "susceptible_varieties": [],
+      "prevention": [],
+      "farmer_action_points": [],
+      "warnings_and_limitations": [],
+      "research_findings": [],
+      "source_pages": [
+        "42",
+        "45",
+        "50",
+        "52",
+        "55"
+      ]
+    },
+    {
+      "disease_name": "Bracteomania",
+      "alternative_names": [],
+      "disease_type": "Genetic abnormality",
+      "causal_agent": "Genetic abnormality",
+      "pathogen_type": "Genetic",
+      "affected_plant_parts": [
+        "Stems",
+        "Twigs",
+        "Floral shoots",
+        "Axillary flower buds",
+        "Flowers"
+      ],
+      "symptoms": {
+        "general": [
+          "Affected plants are stunted with few branches",
+          "Produce solitary simple leaves with obtuse tips and long petioles attached to stems, twigs, and floral shoots",
+          "Axillary flower buds proliferate into abnormal, clustered inflorescences",
+          "Flowers are sessile, small, bunchy, and tightly packed giving inflorescences a knotted appearance",
+          "Do not produce normal pods"
+        ],
+        "early_symptoms": [],
+        "advanced_symptoms": [],
+        "visual_field_symptoms": [
+          "Floral proliferation (abnormal clustered inflorescences with knotted appearance)"
+        ]
+      },
+      "identification": {
+        "field_identification": [
+          "Stunted plants with solitary simple leaves (obtuse tips, long petioles) and clustered inflorescences with sessile, tight, bunchy flowers"
+        ],
+        "diagnostic_methods": [],
+        "differential_diagnosis": []
+      },
+      "causes_and_risk_factors": [],
+      "favorable_conditions": {
+        "temperature": "",
+        "humidity": "",
+        "rainfall": "",
+        "soil_conditions": "",
+        "other_conditions": []
+      },
+      "disease_development_and_spread": [],
+      "epidemiology": [],
+      "severity_and_yield_loss": [],
+      "management": {
+        "cultural_management": [],
+        "biological_management": [],
+        "chemical_management": [],
+        "integrated_management": []
+      },
+      "resistant_or_tolerant_varieties": [],
+      "susceptible_varieties": [],
+      "prevention": [],
+      "farmer_action_points": [],
+      "warnings_and_limitations": [],
+      "research_findings": [],
+      "source_pages": [
+        "37"
+      ]
+    },
+    {
+      "disease_name": "Root-knot",
+      "alternative_names": [],
+      "disease_type": "Nematode disease",
+      "causal_agent": "Meloidogyne incognita (Kofoid & White) Chitwood, Meloidogyne javanica (Treub) Chitwood, Meloidogyne arenaria (Neal) Chitwood, Meloidogyne acronea Coetzee",
+      "pathogen_type": "Nematode",
+      "affected_plant_parts": [
+        "Roots",
+        "Main and lateral roots",
+        "Aerial parts"
+      ],
+      "symptoms": {
+        "general": [
+          "Aerial parts show no characteristic symptoms, but reduced plant vigor, delayed flowering (in whole or patches), and leaf yellowing indicate infestation",
+          "Root galls (knots) are most characteristic symptom visible with naked eye",
+          "Examining roots for egg sacs useful when galls are very small"
+        ],
+        "early_symptoms": [],
+        "advanced_symptoms": [],
+        "visual_field_symptoms": [
+          "Infected plants show stunted growth in the field",
+          "Root galls"
+        ]
+      },
+      "identification": {
+        "field_identification": [
+          "Root galls (knots) on main and lateral roots",
+          "Stunted growth and leaf yellowing"
+        ],
+        "diagnostic_methods": [
+          "Examining roots for the presence of egg sacs when galls are very small"
+        ],
+        "differential_diagnosis": []
+      },
+      "causes_and_risk_factors": [
+        "Meloidogyne incognita and M. javanica widely distributed in tropical/subtropical climates",
+        "Wide host range in extensive soil types; crop damage reflective of sandy soils or sandy patches",
+        "Weed hosts help maintain high nematode populations",
+        "Combined infestations of M. javanica and M. incognita increase severity",
+        "Infection increases severity of Fusarium wilt infection"
+      ],
+      "favorable_conditions": {
+        "temperature": "",
+        "humidity": "",
+        "rainfall": "",
+        "soil_conditions": "Sandy soils or sandy patches within fields",
+        "other_conditions": []
+      },
+      "disease_development_and_spread": [],
+      "epidemiology": [],
+      "severity_and_yield_loss": [
+        "Yield losses of 8 to 35% reported from Caribbean, Africa, and southeast Asia"
+      ],
+      "management": {
+        "cultural_management": [
+          "Select field with no previous record of nematode infestation",
+          "Rotate pigeonpea with wheat to reduce nematode populations",
+          "Solarize soil in summer to reduce nematode populations"
+        ],
+        "biological_management": [],
+        "chemical_management": [
+          {
+            "active_ingredient_or_product": "aldicarb, carbofuran, fensulfothion, phorate",
+            "dose": "2 to 6 kg ha-1",
+            "concentration": "",
+            "application_method": "Soil application",
+            "timing": "",
+            "number_of_applications": "",
+            "result_reported_in_paper": ""
+          }
+        ],
+        "integrated_management": []
+      },
+      "resistant_or_tolerant_varieties": [
+        "ICP 11289",
+        "ICP 11299"
+      ],
+      "susceptible_varieties": [],
+      "prevention": [],
+      "farmer_action_points": [],
+      "warnings_and_limitations": [],
+      "research_findings": [],
+      "source_pages": [
+        "38",
+        "39",
+        "44",
+        "45",
+        "50",
+        "52"
+      ]
+    },
+    {
+      "disease_name": "Pearly Root",
+      "alternative_names": [],
+      "disease_type": "Nematode disease",
+      "causal_agent": "Heterodera cajani Koshy",
+      "pathogen_type": "Nematode",
+      "affected_plant_parts": [
+        "Roots"
+      ],
+      "symptoms": {
+        "general": [
+          "Poor and stunted plants evident 30-45 days after sowing",
+          "Minute, pearl-like, white females of H. cajani attached to roots visible with naked eye or hand lens (10x)",
+          "Nematode infestation can delay flowering and pod formation for more than a week"
+        ],
+        "early_symptoms": [],
+        "advanced_symptoms": [],
+        "visual_field_symptoms": [
+          "Infected plants show stunted growth in the field",
+          "Infected roots with pearl-like female nematodes"
+        ]
+      },
+      "identification": {
+        "field_identification": [
+          "Minute pearl-like white females attached to roots"
+        ],
+        "diagnostic_methods": [
+          "Observation of females through hand lens (10x)"
+        ],
+        "differential_diagnosis": []
+      },
+      "causes_and_risk_factors": [
+        "Host range largely confined to Leguminosae, with Sesamum indicum and Phyllanthus maderaspatensis as non-legume hosts",
+        "Widespread in sandy loam soils in northern India and black cotton soils in western and southern India",
+        "Lives up to 45 cm deep in soil throughout the year",
+        "Infestation enhances aggressiveness of Fusarium udum infection in wilt-susceptible pigeonpeas"
+      ],
+      "favorable_conditions": {
+        "temperature": "",
+        "humidity": "",
+        "rainfall": "",
+        "soil_conditions": "Sandy loam soils in northern India and black cotton soils in western and southern India",
+        "other_conditions": []
+      },
+      "disease_development_and_spread": [],
+      "epidemiology": [
+        "Summer fallowing reduces densities of H. cajani by 45% at 0-15 cm but does not affect densities at lower soil depths"
+      ],
+      "severity_and_yield_loss": [
+        "Yield losses as high as 30% reported",
+        "Initial population density of 3 juveniles cm-3 of soil can cause 25% reduction in plant biomass and yield"
+      ],
+      "management": {
+        "cultural_management": [
+          "Select fields with no previous record of nematode infestation",
+          "Rotate crops with sorghum, maize, or pearl millet to reduce nematode populations",
+          "Solarize soil in summer to reduce nematode populations"
+        ],
+        "biological_management": [],
+        "chemical_management": [
+          {
+            "active_ingredient_or_product": "Same as for root-knot nematode",
+            "dose": "",
+            "concentration": "",
+            "application_method": "",
+            "timing": "",
+            "number_of_applications": "",
+            "result_reported_in_paper": ""
+          }
+        ],
+        "integrated_management": []
+      },
+      "resistant_or_tolerant_varieties": [],
+      "susceptible_varieties": [],
+      "prevention": [],
+      "farmer_action_points": [],
+      "warnings_and_limitations": [],
+      "research_findings": [],
+      "source_pages": [
+        "40",
+        "41",
+        "45",
+        "50",
+        "52"
+      ]
+    },
+    {
+      "disease_name": "Dirty Root",
+      "alternative_names": [],
+      "disease_type": "Nematode disease",
+      "causal_agent": "Rotylenchulus reniformis Linford & Oliveira",
+      "pathogen_type": "Nematode",
+      "affected_plant_parts": [
+        "Roots",
+        "Aerial parts"
+      ],
+      "symptoms": {
+        "general": [
+          "Infected plants grow less vigorously than healthy ones with smaller root systems",
+          "Egg masses covered with soil found on roots upon uprooting",
+          "Roots appear dirty because soil particles adhere to mucilaginous nematode egg sacs and are not easily dislodged by shaking"
+        ],
+        "early_symptoms": [],
+        "advanced_symptoms": [],
+        "visual_field_symptoms": [
+          "Plants stunted due to dirty root disease",
+          "Infected roots with egg masses"
+        ]
+      },
+      "identification": {
+        "field_identification": [
+          "Roots appearing dirty due to soil particles adhering to mucilaginous egg masses not dislodged by shaking"
+        ],
+        "diagnostic_methods": [
+          "Dipping roots in 0.25% trypan blue and rinsing in water selectively colors nematode egg sacs blue while roots are not stained (identifies reniform nematode without microscope)"
+        ],
+        "differential_diagnosis": []
+      },
+      "causes_and_risk_factors": [
+        "Attacks many crops in 38 subtropical and tropical countries; extensive host range",
+        "Can reduce number of Rhizobium nodules produced",
+        "Wilt-susceptible genotypes die prematurely when nematode and wilt fungus are both present"
+      ],
+      "favorable_conditions": {
+        "temperature": "",
+        "humidity": "",
+        "rainfall": "",
+        "soil_conditions": "Sandy and red soils (Alfisols) in western and southern India; variable crop growth in northern India",
+        "other_conditions": [
+          "Damage thresholds range from pre-plant nematode densities of 1.0 to 4.0 cm-3 of soil"
+        ]
+      },
+      "disease_development_and_spread": [
+        "Can survive in absence of host for more than 300 days without losing infectivity"
+      ],
+      "epidemiology": [
+        "Summer fallowing reduces R. reniformis densities to 70% at 0-15 cm soil depth and 36% at 15-30 cm soil depth"
+      ],
+      "severity_and_yield_loss": [
+        "Infestation severely affects pigeonpea production in Fiji"
+      ],
+      "management": {
+        "cultural_management": [
+          "Select fields with no previous record of nematode infestation",
+          "Rotate crops with rice, maize, or groundnut to reduce nematode populations",
+          "Solarize soil in summer to reduce nematode populations"
+        ],
+        "biological_management": [],
+        "chemical_management": [
+          {
+            "active_ingredient_or_product": "Same as for root-knot nematode",
+            "dose": "",
+            "concentration": "",
+            "application_method": "",
+            "timing": "",
+            "number_of_applications": "",
+            "result_reported_in_paper": ""
+          }
+        ],
+        "integrated_management": []
+      },
+      "resistant_or_tolerant_varieties": [
+        "AGS 522",
+        "Basant",
+        "GAUT 82-75",
+        "GAUT 83-23",
+        "GAUT 84-22",
+        "ICP 12744",
+        "PDM 1"
+      ],
+      "susceptible_varieties": [],
+      "prevention": [],
+      "farmer_action_points": [],
+      "warnings_and_limitations": [],
+      "research_findings": [],
+      "source_pages": [
+        "42",
+        "43",
+        "45",
+        "50",
+        "52"
+      ]
+    }
+  ],
+  "paper_level_notes": [
+    "The document is ICRISAT Information Bulletin No. 42 (Revised 2012): Handbook of Pigeonpea Diseases.",
+    "Provides detailed diagnostic keys and multiple tables for disease resistance sources, cultural practices, and chemical control measures."
+  ],
+  "_processing_metadata": {
+    "source_pdf": "arhar.pdf",
+    "crop_detected_from_filename": "Arhar",
+    "model_used": "gemini-3.5-flash-lite",
+    "extracted_at": "2026-09-23 22:34:29"
+  }
+}

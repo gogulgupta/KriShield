@@ -1,0 +1,1185 @@
+{
+  "crop": "Wheat",
+  "paper_information": {
+    "title": "Identification guide for major diseases and insect-pests of wheat",
+    "authors": [
+      "Prem Lal Kashyap",
+      "Poonam Jasrotia",
+      "Sudheer Kumar",
+      "D.P. Singh",
+      "G.P. Singh"
+    ],
+    "year": "2018",
+    "journal_or_source": "Technical Bulletin no.18, ICAR-Indian Institute of Wheat and Barley Research, Karnal",
+    "doi_or_identifier": "",
+    "abstract_summary": "A comprehensive technical identification and management guide for major wheat diseases and insect-pests in India, covering symptoms, geographic distribution, causal organisms, and chemical/cultural control measures.",
+    "research_objective": "To provide field-level identification and management guidelines for major diseases and insect pests affecting wheat crops in India.",
+    "study_area": "India",
+    "important_findings": [
+      "Detailed identification characteristics for major rusts, smuts, bunts, and insect-pests of wheat.",
+      "Geographic zones susceptible to specific pathogens.",
+      "Recommended fungicide and insecticide treatments with specific application dosages."
+    ]
+  },
+  "diseases": [
+    {
+      "disease_name": "Stripe or Yellow Rust",
+      "alternative_names": [
+        "Yellow Rust"
+      ],
+      "disease_type": "Fungal disease",
+      "causal_agent": "Puccinia striiformis f. sp. tritici",
+      "pathogen_type": "Fungus",
+      "affected_plant_parts": [
+        "leaves",
+        "leaf sheaths",
+        "glumes",
+        "awns"
+      ],
+      "symptoms": {
+        "general": [
+          "Appears as a mass of yellow to orange urediniospores erupting from pustules arranged in long, narrow stripes on leaves, leaf sheaths, glumes and awns."
+        ],
+        "early_symptoms": [
+          "Disease starts with small patches or foci of infection."
+        ],
+        "advanced_symptoms": [
+          "Spreads rapidly under congenial weather in long narrow stripes between veins."
+        ],
+        "visual_field_symptoms": [
+          "Orange dust comes out on fingers and clothing when touching infected leaves.",
+          "Starts in small patches or foci."
+        ]
+      },
+      "identification": {
+        "field_identification": [
+          "Look for yellow to orange pustules arranged in long, narrow stripes between leaf veins.",
+          "Spores rub off as orange dust on fingers and clothing."
+        ],
+        "diagnostic_methods": [],
+        "differential_diagnosis": []
+      },
+      "causes_and_risk_factors": [
+        "High dose of Nitrogen fertilizers",
+        "Growing single susceptible variety over large areas"
+      ],
+      "favorable_conditions": {
+        "temperature": "",
+        "humidity": "",
+        "rainfall": "",
+        "soil_conditions": "",
+        "other_conditions": []
+      },
+      "disease_development_and_spread": [
+        "Spreads rapidly from initial infection foci under congenial weather."
+      ],
+      "epidemiology": [],
+      "severity_and_yield_loss": [],
+      "management": {
+        "cultural_management": [
+          "Grow recently released resistant varieties recommended for the zone.",
+          "Grow yellow rust tolerant varieties and avoid use of one particular variety over large areas.",
+          "Use balanced and recommended quantity of fertilisers and avoid high dose of Nitrogen."
+        ],
+        "biological_management": [],
+        "chemical_management": [
+          {
+            "active_ingredient_or_product": "propiconazole",
+            "dose": "0.1 %",
+            "concentration": "0.1%",
+            "application_method": "spray",
+            "timing": "Immediately on appearance of disease to avoid further spread from initial infection foci",
+            "number_of_applications": "",
+            "result_reported_in_paper": ""
+          }
+        ],
+        "integrated_management": []
+      },
+      "resistant_or_tolerant_varieties": [
+        "DBW 88",
+        "WH 1105",
+        "HD 3086",
+        "HD 2967",
+        "DBW 621-50",
+        "WH 542",
+        "PBW 550",
+        "PDW 314 (d)",
+        "WHD 943 (d)",
+        "DBW 16",
+        "DBW 90",
+        "DBW 71",
+        "PBW 590",
+        "WH 1021",
+        "HD 3059",
+        "HPW 349",
+        "HS 507",
+        "HS 365",
+        "HS 375",
+        "VL 616",
+        "VL 907",
+        "VL 829",
+        "VL 832",
+        "VL 892",
+        "HPW 155",
+        "SKW 196",
+        "WB 02",
+        "Unnat PBW 343",
+        "Unnat 343",
+        "HPWB 01",
+        "HD 2986",
+        "PBW 644",
+        "PBW 723",
+        "PBW 625",
+        "WH 1086",
+        "WH 1124",
+        "HS 542"
+      ],
+      "susceptible_varieties": [],
+      "prevention": [
+        "Keep strict watch on appearance of the disease."
+      ],
+      "farmer_action_points": [
+        "Inspect fields for small patches of yellow stripes on leaves.",
+        "Spray propiconazole @ 0.1% immediately upon detection."
+      ],
+      "warnings_and_limitations": [
+        "Most recommended varieties for NWPZ and NHZ do not carry high level of resistance, hence chemical sprays are needed."
+      ],
+      "research_findings": [],
+      "source_pages": [
+        "4",
+        "5"
+      ]
+    },
+    {
+      "disease_name": "Leaf or brown rust",
+      "alternative_names": [
+        "Leaf rust",
+        "Brown rust"
+      ],
+      "disease_type": "Fungal disease",
+      "causal_agent": "Puccinia triticina",
+      "pathogen_type": "Fungus",
+      "affected_plant_parts": [
+        "upper surface of leaves",
+        "leaf sheaths"
+      ],
+      "symptoms": {
+        "general": [
+          "Small, circular to oval pustules with orange to light brown dusty spores on upper surface of leaves and on leaf sheaths in heavy infections."
+        ],
+        "early_symptoms": [],
+        "advanced_symptoms": [],
+        "visual_field_symptoms": [
+          "Pustules mainly confined to the upper surface and irregularly distributed on leaves."
+        ]
+      },
+      "identification": {
+        "field_identification": [
+          "Small, circular to oval orange to light brown dusty pustules on upper leaf surfaces."
+        ],
+        "diagnostic_methods": [],
+        "differential_diagnosis": []
+      },
+      "causes_and_risk_factors": [
+        "High dose of nitrogen fertilizers",
+        "Planting a single variety over large areas"
+      ],
+      "favorable_conditions": {
+        "temperature": "",
+        "humidity": "",
+        "rainfall": "",
+        "soil_conditions": "",
+        "other_conditions": []
+      },
+      "disease_development_and_spread": [],
+      "epidemiology": [],
+      "severity_and_yield_loss": [],
+      "management": {
+        "cultural_management": [
+          "Grow recommended varieties for the zone.",
+          "Grow leaf rust tolerant varieties and avoid single variety over large areas.",
+          "Use balanced and recommended quantity of fertilisers and avoid high dose of nitrogen."
+        ],
+        "biological_management": [],
+        "chemical_management": [
+          {
+            "active_ingredient_or_product": "propiconazole",
+            "dose": "0.1 %",
+            "concentration": "0.1%",
+            "application_method": "spray",
+            "timing": "Immediate spraying upon appearance of disease",
+            "number_of_applications": "",
+            "result_reported_in_paper": ""
+          }
+        ],
+        "integrated_management": []
+      },
+      "resistant_or_tolerant_varieties": [
+        "HI 1544",
+        "GW 322",
+        "DL 803-3",
+        "MP 3288",
+        "HI 8498 (durum)",
+        "HD 4672 (durum)",
+        "MP 1203",
+        "HD 2864",
+        "HD 2932",
+        "Raj 4083"
+      ],
+      "susceptible_varieties": [],
+      "prevention": [
+        "Keep strict watch on appearance of the disease."
+      ],
+      "farmer_action_points": [
+        "Monitor fields and apply recommended fungicides at early disease appearance."
+      ],
+      "warnings_and_limitations": [],
+      "research_findings": [],
+      "source_pages": [
+        "6",
+        "7"
+      ]
+    },
+    {
+      "disease_name": "Stem rust or black rust",
+      "alternative_names": [
+        "Stem rust",
+        "Black rust"
+      ],
+      "disease_type": "Fungal disease",
+      "causal_agent": "Puccinia graminis f. sp. tritici",
+      "pathogen_type": "Fungus",
+      "affected_plant_parts": [
+        "stems",
+        "leaves",
+        "leaf sheaths"
+      ],
+      "symptoms": {
+        "general": [
+          "Large orange-brown pustules oval or elongated in shape on stems and sometimes both sides of leaves and leaf sheaths."
+        ],
+        "early_symptoms": [],
+        "advanced_symptoms": [
+          "Presence of silver-colored ruptured epidermis above pustules.",
+          "Rupture of pustules releases a powdery mass of brick red colored urediniospores."
+        ],
+        "visual_field_symptoms": [
+          "Oval or elongated orange-brown pustules on stems with silver ruptured epidermis."
+        ]
+      },
+      "identification": {
+        "field_identification": [
+          "Large, oval or elongated orange-brown pustules on stems with ruptured silvery epidermis releasing brick-red powdery spores."
+        ],
+        "diagnostic_methods": [],
+        "differential_diagnosis": []
+      },
+      "causes_and_risk_factors": [
+        "High dose of nitrogen",
+        "Growing single variety over large areas"
+      ],
+      "favorable_conditions": {
+        "temperature": "",
+        "humidity": "",
+        "rainfall": "",
+        "soil_conditions": "",
+        "other_conditions": []
+      },
+      "disease_development_and_spread": [],
+      "epidemiology": [],
+      "severity_and_yield_loss": [],
+      "management": {
+        "cultural_management": [
+          "Grow recommended varieties for the zone.",
+          "Grow stem rust tolerant varieties and avoid single variety over large areas.",
+          "Use balanced and recommended quantity of fertilisers and avoid high dose of nitrogen."
+        ],
+        "biological_management": [],
+        "chemical_management": [
+          {
+            "active_ingredient_or_product": "propiconazole",
+            "dose": "0.1 %",
+            "concentration": "0.1%",
+            "application_method": "spray",
+            "timing": "Immediate spraying of affected areas upon appearance",
+            "number_of_applications": "",
+            "result_reported_in_paper": ""
+          }
+        ],
+        "integrated_management": []
+      },
+      "resistant_or_tolerant_varieties": [
+        "DBW 110",
+        "HI 8627",
+        "HI 1544",
+        "GW 322",
+        "DL 803-3",
+        "MP 3288",
+        "HI 8498 (durum)",
+        "HD 4672 (durum)",
+        "MP 1203",
+        "HD 2864",
+        "HD 2932",
+        "Raj 4083",
+        "DBW 168",
+        "HI 8777",
+        "MACS 4028",
+        "MACS 6222",
+        "Raj 4037",
+        "HUW 510",
+        "HD 2189",
+        "MACS 2971 (dicoccum)",
+        "MACS 6478",
+        "NI 5439",
+        "NIAW 1415",
+        "UAS 304",
+        "UAS 446",
+        "HD 8663 (durum)",
+        "AKAW 4627",
+        "AKDW 2997-16 (d)",
+        "HD 2833",
+        "PBW 533",
+        "HW 2044",
+        "HW 1085",
+        "HW 5216",
+        "Co(W)-1"
+      ],
+      "susceptible_varieties": [],
+      "prevention": [
+        "Keep strict watch on appearance of the disease."
+      ],
+      "farmer_action_points": [
+        "Check stems for elongated pustules and apply propiconazole @ 0.1% immediately."
+      ],
+      "warnings_and_limitations": [],
+      "research_findings": [],
+      "source_pages": [
+        "8",
+        "9"
+      ]
+    },
+    {
+      "disease_name": "Karnal bunt",
+      "alternative_names": [],
+      "disease_type": "Fungal disease",
+      "causal_agent": "Tilletia indica",
+      "pathogen_type": "Fungus",
+      "affected_plant_parts": [
+        "kernels",
+        "ear head"
+      ],
+      "symptoms": {
+        "general": [
+          "Extremely difficult to diagnose in the field because few kernels in an ear head get infected.",
+          "Grains are either partially affected or in severe cases whole grain is converted into black powder of bunt spores."
+        ],
+        "early_symptoms": [],
+        "advanced_symptoms": [],
+        "visual_field_symptoms": [
+          "Normally noticed after threshing where grains show black powdery mass."
+        ]
+      },
+      "identification": {
+        "field_identification": [
+          "Difficult to identify in field; detected after threshing by partial or complete conversion of kernels into black powder."
+        ],
+        "diagnostic_methods": [],
+        "differential_diagnosis": []
+      },
+      "causes_and_risk_factors": [
+        "Frequent rains during ear head emergence."
+      ],
+      "favorable_conditions": {
+        "temperature": "",
+        "humidity": "",
+        "rainfall": "Frequent rains during ear head emergence",
+        "soil_conditions": "",
+        "other_conditions": []
+      },
+      "disease_development_and_spread": [],
+      "epidemiology": [],
+      "severity_and_yield_loss": [],
+      "management": {
+        "cultural_management": [
+          "Use certified or disease-free seed.",
+          "Follow crop rotation and avoid growing wheat for 2-3 years in highly infected fields.",
+          "Zero tillage helps in reducing Karnal bunt incidence."
+        ],
+        "biological_management": [],
+        "chemical_management": [
+          {
+            "active_ingredient_or_product": "propiconazole",
+            "dose": "0.1%",
+            "concentration": "0.1%",
+            "application_method": "spray",
+            "timing": "At the time of 50% flowering; repeat after 15 days if it rains",
+            "number_of_applications": "1 to 2",
+            "result_reported_in_paper": ""
+          }
+        ],
+        "integrated_management": []
+      },
+      "resistant_or_tolerant_varieties": [
+        "PBW 502",
+        "PDW 223",
+        "PDW 291",
+        "PDW 314 (Durum)",
+        "HPW 251",
+        "HS 490",
+        "HS 507"
+      ],
+      "susceptible_varieties": [],
+      "prevention": [
+        "Use certified or disease free seed."
+      ],
+      "farmer_action_points": [
+        "Inspect threshed grain for black powdery kernels.",
+        "Spray propiconazole @ 0.1% at 50% flowering in prone areas."
+      ],
+      "warnings_and_limitations": [],
+      "research_findings": [],
+      "source_pages": [
+        "10",
+        "11"
+      ]
+    },
+    {
+      "disease_name": "Foliar blight",
+      "alternative_names": [],
+      "disease_type": "Fungal disease",
+      "causal_agent": "Bipolaris sorokiniana",
+      "pathogen_type": "Fungus",
+      "affected_plant_parts": [
+        "leaves",
+        "spikelets",
+        "seeds"
+      ],
+      "symptoms": {
+        "general": [
+          "Small, dark brown lesions 1 to 2 mm long without chlorotic margin.",
+          "Lesions extend very quickly into oval to elongated blotches, light brown to dark brown, coalescing and causing death of the leaf."
+        ],
+        "early_symptoms": [
+          "Small, dark brown lesions 1 to 2 mm long without chlorotic margin."
+        ],
+        "advanced_symptoms": [
+          "Oval to elongated blotches that coalesce leading to leaf death.",
+          "Shrivelled grain and black point (dark staining of embryo end of seed) if spikelets are affected."
+        ],
+        "visual_field_symptoms": [
+          "Dark brown small lesions extending into larger blotches causing leaf death."
+        ]
+      },
+      "identification": {
+        "field_identification": [
+          "Look for small dark brown lesions without chlorotic margins expanding into blighted blotches on leaves."
+        ],
+        "diagnostic_methods": [],
+        "differential_diagnosis": []
+      },
+      "causes_and_risk_factors": [
+        "Humid and warmer areas"
+      ],
+      "favorable_conditions": {
+        "temperature": "Warm",
+        "humidity": "Humid",
+        "rainfall": "",
+        "soil_conditions": "",
+        "other_conditions": []
+      },
+      "disease_development_and_spread": [],
+      "epidemiology": [],
+      "severity_and_yield_loss": [],
+      "management": {
+        "cultural_management": [
+          "Cultivation of recommended resistant varieties."
+        ],
+        "biological_management": [],
+        "chemical_management": [
+          {
+            "active_ingredient_or_product": "carboxin or carboxin+thiram (1:1)",
+            "dose": "2.5 g/kg of seed",
+            "concentration": "",
+            "application_method": "seed treatment",
+            "timing": "Before sowing",
+            "number_of_applications": "1",
+            "result_reported_in_paper": ""
+          },
+          {
+            "active_ingredient_or_product": "difenoconazole 3% WS",
+            "dose": "0.2%",
+            "concentration": "0.2%",
+            "application_method": "foliar spray",
+            "timing": "At initiation of disease",
+            "number_of_applications": "",
+            "result_reported_in_paper": ""
+          },
+          {
+            "active_ingredient_or_product": "triadimefon 25% WP",
+            "dose": "0.1%",
+            "concentration": "0.1%",
+            "application_method": "foliar spray",
+            "timing": "At initiation of disease",
+            "number_of_applications": "",
+            "result_reported_in_paper": ""
+          }
+        ],
+        "integrated_management": []
+      },
+      "resistant_or_tolerant_varieties": [
+        "HD 2985",
+        "HI 1563",
+        "DBW 39",
+        "CBW 38",
+        "NW 1014",
+        "NW 2036",
+        "K 9107",
+        "HD 2733",
+        "HI 1612",
+        "VL 829",
+        "C 306",
+        "VL 4001",
+        "UP 2955",
+        "DBW 14",
+        "HD 2888",
+        "K 0307",
+        "HUW 468"
+      ],
+      "susceptible_varieties": [],
+      "prevention": [
+        "Use seed treatment with carboxin or carboxin+thiram."
+      ],
+      "farmer_action_points": [
+        "Treat seeds before planting.",
+        "Spray difenoconazole or triadimefon upon initial symptom appearance."
+      ],
+      "warnings_and_limitations": [],
+      "research_findings": [],
+      "source_pages": [
+        "12",
+        "13"
+      ]
+    },
+    {
+      "disease_name": "Powdery mildew",
+      "alternative_names": [],
+      "disease_type": "Fungal disease",
+      "causal_agent": "Blumeria graminis f. sp. tritici",
+      "pathogen_type": "Fungus",
+      "affected_plant_parts": [
+        "leaves",
+        "sheath",
+        "stem",
+        "ear head"
+      ],
+      "symptoms": {
+        "general": [
+          "Superficial greyish small patches of white cottony growth on leaves, sheath, stem, and even on ear head."
+        ],
+        "early_symptoms": [
+          "Superficial greyish small patches of white cottony growth."
+        ],
+        "advanced_symptoms": [
+          "White cottony growth covers the whole leaf and other aerial parts.",
+          "White patches turn brownish to dull tan color late in the season due to formation of cleistothecia."
+        ],
+        "visual_field_symptoms": [
+          "White cottony fungal patches on leaves and stems turning brownish later."
+        ]
+      },
+      "identification": {
+        "field_identification": [
+          "White cottony or greyish patches on leaves, sheaths, and stems."
+        ],
+        "diagnostic_methods": [],
+        "differential_diagnosis": []
+      },
+      "causes_and_risk_factors": [
+        "Excessively dense stands",
+        "Cooler areas and hilly regions"
+      ],
+      "favorable_conditions": {
+        "temperature": "Cool",
+        "humidity": "",
+        "rainfall": "",
+        "soil_conditions": "",
+        "other_conditions": []
+      },
+      "disease_development_and_spread": [],
+      "epidemiology": [],
+      "severity_and_yield_loss": [],
+      "management": {
+        "cultural_management": [
+          "Use recommended quantity of seed to avoid excessively dense stands."
+        ],
+        "biological_management": [],
+        "chemical_management": [
+          {
+            "active_ingredient_or_product": "triadimefon 25% WP",
+            "dose": "0.1%",
+            "concentration": "0.1%",
+            "application_method": "spray",
+            "timing": "At appearance of disease in disease prone areas",
+            "number_of_applications": "1",
+            "result_reported_in_paper": ""
+          }
+        ],
+        "integrated_management": []
+      },
+      "resistant_or_tolerant_varieties": [],
+      "susceptible_varieties": [],
+      "prevention": [
+        "Avoid excessively dense stands by using recommended seed rates."
+      ],
+      "farmer_action_points": [
+        "Look for white cottony patches on foliage and apply triadimefon 25% WP @ 0.1%."
+      ],
+      "warnings_and_limitations": [],
+      "research_findings": [],
+      "source_pages": [
+        "14",
+        "15"
+      ]
+    },
+    {
+      "disease_name": "Loose smut",
+      "alternative_names": [],
+      "disease_type": "Fungal disease",
+      "causal_agent": "Ustilago segetum f. sp. tritici",
+      "pathogen_type": "Fungus",
+      "affected_plant_parts": [
+        "spikelets",
+        "ears"
+      ],
+      "symptoms": {
+        "general": [
+          "Spore mass covered with a delicate silvery membrane of host origin which usually ruptures before complete emergence of ears, exposing dark olive-brown powdery mass of spores."
+        ],
+        "early_symptoms": [
+          "Smutted spike emerges from boot leaf a few days earlier than healthy plants."
+        ],
+        "advanced_symptoms": [
+          "Normal spikelets replaced entirely by dark olive-brown powdery mass of spores."
+        ],
+        "visual_field_symptoms": [
+          "Black/dark brown powdery heads emerging earlier than healthy ears."
+        ]
+      },
+      "identification": {
+        "field_identification": [
+          "Ears replaced by dark olive-brown powdery spore masses emerging earlier than healthy plants."
+        ],
+        "diagnostic_methods": [],
+        "differential_diagnosis": []
+      },
+      "causes_and_risk_factors": [
+        "Cooler wheat growing areas"
+      ],
+      "favorable_conditions": {
+        "temperature": "Cool",
+        "humidity": "",
+        "rainfall": "",
+        "soil_conditions": "",
+        "other_conditions": []
+      },
+      "disease_development_and_spread": [],
+      "epidemiology": [],
+      "severity_and_yield_loss": [],
+      "management": {
+        "cultural_management": [
+          "Use disease free seed.",
+          "Rouge out and destroy infected tillers."
+        ],
+        "biological_management": [],
+        "chemical_management": [
+          {
+            "active_ingredient_or_product": "carboxin 75 WP",
+            "dose": "2.5 g/kg seed",
+            "concentration": "",
+            "application_method": "seed treatment",
+            "timing": "Before sowing",
+            "number_of_applications": "1",
+            "result_reported_in_paper": ""
+          },
+          {
+            "active_ingredient_or_product": "carbendazim 50 WP",
+            "dose": "2.5 g/kg seed",
+            "concentration": "",
+            "application_method": "seed treatment",
+            "timing": "Before sowing",
+            "number_of_applications": "1",
+            "result_reported_in_paper": ""
+          },
+          {
+            "active_ingredient_or_product": "tebuconazole 2DS",
+            "dose": "1.25 g/kg seed",
+            "concentration": "",
+            "application_method": "seed treatment",
+            "timing": "Before sowing",
+            "number_of_applications": "1",
+            "result_reported_in_paper": ""
+          }
+        ],
+        "integrated_management": []
+      },
+      "resistant_or_tolerant_varieties": [],
+      "susceptible_varieties": [],
+      "prevention": [
+        "Use disease free seed.",
+        "Seed treatment with recommended fungicides."
+      ],
+      "farmer_action_points": [
+        "Rouge out infected tillers in the field.",
+        "Treat seeds with carboxin, carbendazim, or tebuconazole before planting."
+      ],
+      "warnings_and_limitations": [],
+      "research_findings": [],
+      "source_pages": [
+        "16",
+        "17"
+      ]
+    },
+    {
+      "disease_name": "Flag smut",
+      "alternative_names": [],
+      "disease_type": "Fungal disease",
+      "causal_agent": "Urocystis agropyri",
+      "pathogen_type": "Fungus",
+      "affected_plant_parts": [
+        "leaves",
+        "stem",
+        "inflorescence"
+      ],
+      "symptoms": {
+        "general": [
+          "Black narrow elongated blisters appear on leaves between veins; ruptured blisters expose black spore balls and split leaves into ribbons.",
+          "Black streaks on stunted stems with dwarfed internodes."
+        ],
+        "early_symptoms": [],
+        "advanced_symptoms": [
+          "Infected plants stunted and spindly with more tillers (grass-like appearance).",
+          "Inflorescence stunted, distorted, frequently sterile, bearing black streaks.",
+          "Spike development stops before head emerges from leaf whorl (no seeds produced)."
+        ],
+        "visual_field_symptoms": [
+          "Black narrow blisters on leaves splitting into ribbons, stunted plants with grass-like appearance."
+        ]
+      },
+      "identification": {
+        "field_identification": [
+          "Black narrow blisters on leaves splitting into ribbons and black streaks on stems of stunted, tillering plants."
+        ],
+        "diagnostic_methods": [],
+        "differential_diagnosis": []
+      },
+      "causes_and_risk_factors": [
+        "Sandy soils"
+      ],
+      "favorable_conditions": {
+        "temperature": "",
+        "humidity": "",
+        "rainfall": "",
+        "soil_conditions": "Sandy soils",
+        "other_conditions": []
+      },
+      "disease_development_and_spread": [],
+      "epidemiology": [],
+      "severity_and_yield_loss": [],
+      "management": {
+        "cultural_management": [
+          "Use disease free seed."
+        ],
+        "biological_management": [],
+        "chemical_management": [
+          {
+            "active_ingredient_or_product": "carboxin 75 WP",
+            "dose": "2.5 g/kg seed",
+            "concentration": "",
+            "application_method": "seed treatment",
+            "timing": "Before sowing",
+            "number_of_applications": "1",
+            "result_reported_in_paper": ""
+          },
+          {
+            "active_ingredient_or_product": "tebuconazole 2DS",
+            "dose": "1.25 g/kg",
+            "concentration": "",
+            "application_method": "seed treatment",
+            "timing": "Before sowing",
+            "number_of_applications": "1",
+            "result_reported_in_paper": ""
+          }
+        ],
+        "integrated_management": []
+      },
+      "resistant_or_tolerant_varieties": [],
+      "susceptible_varieties": [],
+      "prevention": [
+        "Use disease free seed and treat seed before planting."
+      ],
+      "farmer_action_points": [
+        "Inspect sandy soil fields for stunted plants with black leaf streaks.",
+        "Apply seed treatments using carboxin or tebuconazole."
+      ],
+      "warnings_and_limitations": [],
+      "research_findings": [],
+      "source_pages": [
+        "18",
+        "19"
+      ]
+    },
+    {
+      "disease_name": "Wheat Blast",
+      "alternative_names": [],
+      "disease_type": "Fungal disease",
+      "causal_agent": "Magnaporthe oryzae pathotype Triticum",
+      "pathogen_type": "Fungus",
+      "affected_plant_parts": [
+        "leaves",
+        "spikes",
+        "glumes",
+        "grains"
+      ],
+      "symptoms": {
+        "general": [
+          "Infects leaves, spikes, and grains."
+        ],
+        "early_symptoms": [
+          "Water soaked spots with deep green color on leaves turning into brown boat-shaped necrotic spots."
+        ],
+        "advanced_symptoms": [
+          "Glumes show elliptical lesions with reddish brown to dark grey margins and white to light brown center.",
+          "Ears rendered shrunken, shrivelled and deformed with no grain filling."
+        ],
+        "visual_field_symptoms": [
+          "Boat-shaped brown necrotic spots on leaves and bleached/deformed spikes."
+        ]
+      },
+      "identification": {
+        "field_identification": [
+          "Brown boat-shaped spots on leaves and bleached, shrunken spikes."
+        ],
+        "diagnostic_methods": [],
+        "differential_diagnosis": []
+      },
+      "causes_and_risk_factors": [
+        "Warmer and humid climate",
+        "Grassy weeds acting as secondary hosts (Eleusine indica, Leersia, Echinochloa, Brachiaria, Digitaria, Lolium, Cenchrus, Chloris)"
+      ],
+      "favorable_conditions": {
+        "temperature": "Warm",
+        "humidity": "Humid",
+        "rainfall": "",
+        "soil_conditions": "",
+        "other_conditions": []
+      },
+      "disease_development_and_spread": [
+        "Grassy weeds act as secondary hosts and spread the disease in wheat."
+      ],
+      "epidemiology": [],
+      "severity_and_yield_loss": [
+        "Heavy yield loss or total crop failure"
+      ],
+      "management": {
+        "cultural_management": [
+          "Use certified and disease free seed.",
+          "Use resistant wheat varieties.",
+          "Regularly remove and destroy weeds and grasses in and around the wheat field."
+        ],
+        "biological_management": [],
+        "chemical_management": [
+          {
+            "active_ingredient_or_product": "carboxin, carbendazim, or tebuconazole",
+            "dose": "",
+            "concentration": "",
+            "application_method": "seed treatment",
+            "timing": "Before sowing",
+            "number_of_applications": "1",
+            "result_reported_in_paper": ""
+          },
+          {
+            "active_ingredient_or_product": "trifloxystrobin 50% + tebuconazole 25% WG",
+            "dose": "120 ml / 200 litre of water/ acre",
+            "concentration": "",
+            "application_method": "spray",
+            "timing": "In case of infection",
+            "number_of_applications": "",
+            "result_reported_in_paper": ""
+          }
+        ],
+        "integrated_management": []
+      },
+      "resistant_or_tolerant_varieties": [],
+      "susceptible_varieties": [],
+      "prevention": [
+        "Monitor crop regularly.",
+        "Remove weed hosts."
+      ],
+      "farmer_action_points": [
+        "Clear grassy weeds from field borders.",
+        "Spray trifloxystrobin + tebuconazole upon infection."
+      ],
+      "warnings_and_limitations": [
+        "Till date the disease is not reported from India (noted as present in Bangladesh and South America)."
+      ],
+      "research_findings": [],
+      "source_pages": [
+        "20",
+        "21"
+      ]
+    },
+    {
+      "disease_name": "Fusarium head blight or head scab",
+      "alternative_names": [
+        "Fusarium head blight",
+        "Head scab"
+      ],
+      "disease_type": "Fungal disease",
+      "causal_agent": "Fusarium spp. mainly Fusarium graminearum",
+      "pathogen_type": "Fungus",
+      "affected_plant_parts": [
+        "glumes",
+        "rachis",
+        "floret",
+        "ear head",
+        "grain"
+      ],
+      "symptoms": {
+        "general": [
+          "Small, water soaked spots at base or middle of glumes, rachis or first floret spreading within the earhead."
+        ],
+        "early_symptoms": [
+          "Small water-soaked spots on glumes, rachis, or florets."
+        ],
+        "advanced_symptoms": [
+          "Premature whitening or bleaching of ear head.",
+          "White, pinky-salmon mass of spores on infected glumes and spikelets under warm and moist conditions.",
+          "Developing grain turns shrunken, shrivelled, rough surfaced, discoloured soft-gray, chalky white to light-brown ('tombstones')."
+        ],
+        "visual_field_symptoms": [
+          "Premature bleaching of ear heads and pinkish-salmon spore masses."
+        ]
+      },
+      "identification": {
+        "field_identification": [
+          "Bleached ear heads with possible pinkish spore masses and shrunken chalky kernels ('tombstones')."
+        ],
+        "diagnostic_methods": [],
+        "differential_diagnosis": []
+      },
+      "causes_and_risk_factors": [
+        "Humid and subhumid climate"
+      ],
+      "favorable_conditions": {
+        "temperature": "Warm",
+        "humidity": "Humid / moist",
+        "rainfall": "",
+        "soil_conditions": "",
+        "other_conditions": []
+      },
+      "disease_development_and_spread": [],
+      "epidemiology": [],
+      "severity_and_yield_loss": [],
+      "management": {
+        "cultural_management": [
+          "Use certified and disease free seed.",
+          "Use resistant wheat varieties."
+        ],
+        "biological_management": [],
+        "chemical_management": [
+          {
+            "active_ingredient_or_product": "carboxin, carbendazim, or tebuconazole",
+            "dose": "",
+            "concentration": "",
+            "application_method": "seed treatment",
+            "timing": "Before sowing",
+            "number_of_applications": "1",
+            "result_reported_in_paper": ""
+          }
+        ],
+        "integrated_management": []
+      },
+      "resistant_or_tolerant_varieties": [],
+      "susceptible_varieties": [],
+      "prevention": [
+        "Use certified and disease-free seeds and resistant varieties."
+      ],
+      "farmer_action_points": [
+        "Inspect fields for bleached heads and treat seeds before planting."
+      ],
+      "warnings_and_limitations": [],
+      "research_findings": [],
+      "source_pages": [
+        "22",
+        "23"
+      ]
+    },
+    {
+      "disease_name": "Hill Bunt or Stinking Smut or Common bunt",
+      "alternative_names": [
+        "Hill Bunt",
+        "Stinking Smut",
+        "Common bunt"
+      ],
+      "disease_type": "Fungal disease",
+      "causal_agent": "Tilletia caries and Tilletia foetida",
+      "pathogen_type": "Fungus",
+      "affected_plant_parts": [
+        "heads",
+        "grains"
+      ],
+      "symptoms": {
+        "general": [
+          "Bunted heads are slender, bluish-green and stay greener longer than healthy heads.",
+          "Bunt balls change to dull gray-brown at maturity.",
+          "Grains full of black powder giving a foul smell resembling rotten fish."
+        ],
+        "early_symptoms": [],
+        "advanced_symptoms": [
+          "Fragile covering of bunt balls ruptures at harvest, producing clouds of spores."
+        ],
+        "visual_field_symptoms": [
+          "Foul smell resembling rotten fish in the field, bluish-green slender heads."
+        ]
+      },
+      "identification": {
+        "field_identification": [
+          "Identified by a distinct foul smell of rotten fish in the field and bluish-green slender heads with gray-brown bunt balls."
+        ],
+        "diagnostic_methods": [],
+        "differential_diagnosis": []
+      },
+      "causes_and_risk_factors": [],
+      "favorable_conditions": {
+        "temperature": "",
+        "humidity": "",
+        "rainfall": "",
+        "soil_conditions": "",
+        "other_conditions": []
+      },
+      "disease_development_and_spread": [
+        "Spores released in clouds when bunt balls rupture at harvest."
+      ],
+      "epidemiology": [],
+      "severity_and_yield_loss": [],
+      "management": {
+        "cultural_management": [
+          "Use certified and disease free seed.",
+          "Sowing of disease resistant varieties."
+        ],
+        "biological_management": [],
+        "chemical_management": [
+          {
+            "active_ingredient_or_product": "carboxin or carbendazim",
+            "dose": "2.5 g/kg of seed",
+            "concentration": "",
+            "application_method": "seed treatment",
+            "timing": "Before sowing",
+            "number_of_applications": "1",
+            "result_reported_in_paper": ""
+          }
+        ],
+        "integrated_management": []
+      },
+      "resistant_or_tolerant_varieties": [],
+      "susceptible_varieties": [],
+      "prevention": [
+        "Use certified seed and seed treatments."
+      ],
+      "farmer_action_points": [
+        "Check for rotten-fish odor in fields and treat seeds with carboxin or carbendazim."
+      ],
+      "warnings_and_limitations": [],
+      "research_findings": [],
+      "source_pages": [
+        "24",
+        "25"
+      ]
+    },
+    {
+      "disease_name": "Black point or smudge",
+      "alternative_names": [
+        "Smudge"
+      ],
+      "disease_type": "Fungal disease",
+      "causal_agent": "Alternaria, Helminthosporium, Fusarium and Cladosporium",
+      "pathogen_type": "Fungus",
+      "affected_plant_parts": [
+        "kernels",
+        "germ end"
+      ],
+      "symptoms": {
+        "general": [
+          "Pericarps of maturing wheat kernels turn dark brown to black with discoloration restricted to the germ end of kernel."
+        ],
+        "early_symptoms": [],
+        "advanced_symptoms": [],
+        "visual_field_symptoms": [
+          "Dark brown to black discoloration at the germ end of harvested kernels."
+        ]
+      },
+      "identification": {
+        "field_identification": [
+          "Dark brown to black discoloration at the germ end of kernels."
+        ],
+        "diagnostic_methods": [],
+        "differential_diagnosis": []
+      },
+      "causes_and_risk_factors": [],
+      "favorable_conditions": {
+        "temperature": "",
+        "humidity": "",
+        "rainfall": "",
+        "soil_conditions": "",
+        "other_conditions": []
+      },
+      "disease_development_and_spread": [],
+      "epidemiology": [],
+      "severity_and_yield_loss": [],
+      "management": {
+        "cultural_management": [
+          "Use certified and disease free seed.",
+          "Sowing of disease resistant varieties."
+        ],
+        "biological_management": [],
+        "chemical_management": [
+          {
+            "active_ingredient_or_product": "carboxin or carbendazim",
+            "dose": "2.5 g/kg of seed",
+            "concentration": "",
+            "application_method": "seed treatment",
+            "timing": "Before sowing",
+            "number_of_applications": "1",
+            "result_reported_in_paper": ""
+          }
+        ],
+        "integrated_management": []
+      },
+      "resistant_or_tolerant_varieties": [],
+      "susceptible_varieties": [],
+      "prevention": [
+        "Use certified and disease free seed and treat seeds."
+      ],
+      "farmer_action_points": [
+        "Inspect harvested grains for black germ ends.",
+        "Treat seeds prior to planting."
+      ],
+      "warnings_and_limitations": [],
+      "research_findings": [],
+      "source_pages": [
+        "26",
+        "27"
+      ]
+    }
+  ],
+  "paper_level_notes": [
+    "The document also covers major insect-pests of wheat including Foliar Aphids, Termites, Root aphid, Pink Stem Borer, Brown wheat mite, Army worm, and Shoot fly on pages 28-41."
+  ],
+  "_processing_metadata": {
+    "source_pdf": "Wheat.pdf",
+    "crop_detected_from_filename": "Wheat",
+    "model_used": "gemini-3.5-flash-lite",
+    "extracted_at": "2026-09-23 23:20:09"
+  }
+}

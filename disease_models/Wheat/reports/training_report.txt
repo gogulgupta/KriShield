@@ -1,0 +1,253 @@
+Wheat DISEASE MODEL REPORT
+==============================================================================
+{
+  "crop": "Wheat",
+  "model": "EfficientNetV2-S",
+  "task": "crop-specific disease classification",
+  "device": "cuda",
+  "epochs": 20,
+  "batch_size": 16,
+  "image_size": 224,
+  "learning_rate": 0.0001,
+  "pretrained": "ImageNet",
+  "backbone_frozen": true,
+  "classes": [
+    "BrownRust",
+    "Healthy",
+    "Mildew",
+    "Septoria",
+    "YellowRust"
+  ],
+  "class_to_idx": {
+    "BrownRust": 0,
+    "Healthy": 1,
+    "Mildew": 2,
+    "Septoria": 3,
+    "YellowRust": 4
+  },
+  "train_images": 2960,
+  "val_images": 370,
+  "test_images": 370,
+  "best_epoch": 20,
+  "best_val_macro_f1": 0.7190555588486999,
+  "test_loss": 0.9146534507339065,
+  "test_accuracy": 0.6621621621621622,
+  "test_macro_f1": 0.6558715678358035,
+  "best_model": "G:\\Crop_Classifier_740\\disease_models\\Wheat\\models\\wheat_disease_model.pth",
+  "last_model": "G:\\Crop_Classifier_740\\disease_models\\Wheat\\models\\wheat_disease_last.pth",
+  "history": [
+    {
+      "epoch": 1,
+      "train_loss": 1.5582401391622183,
+      "train_accuracy": 0.31554054054054054,
+      "train_macro_f1": 0.3111855835697293,
+      "val_loss": 1.4855929155607481,
+      "val_accuracy": 0.43783783783783786,
+      "val_macro_f1": 0.41717965465158996,
+      "time_minutes": 4.255716001987457
+    },
+    {
+      "epoch": 2,
+      "train_loss": 1.4360923586664973,
+      "train_accuracy": 0.4800675675675676,
+      "train_macro_f1": 0.47825291030360095,
+      "val_loss": 1.3770368073437664,
+      "val_accuracy": 0.5567567567567567,
+      "val_macro_f1": 0.5364890221368077,
+      "time_minutes": 3.9802415291468303
+    },
+    {
+      "epoch": 3,
+      "train_loss": 1.3541836055549414,
+      "train_accuracy": 0.5391891891891892,
+      "train_macro_f1": 0.5350131260256143,
+      "val_loss": 1.2885288290075354,
+      "val_accuracy": 0.5648648648648649,
+      "val_macro_f1": 0.5405028754708925,
+      "time_minutes": 3.615683643023173
+    },
+    {
+      "epoch": 4,
+      "train_loss": 1.2813421101183504,
+      "train_accuracy": 0.5773648648648648,
+      "train_macro_f1": 0.5742179406720584,
+      "val_loss": 1.2225766246383254,
+      "val_accuracy": 0.6054054054054054,
+      "val_macro_f1": 0.5921066148104837,
+      "time_minutes": 3.6661811113357543
+    },
+    {
+      "epoch": 5,
+      "train_loss": 1.2275350983078415,
+      "train_accuracy": 0.5847972972972973,
+      "train_macro_f1": 0.5831746718240868,
+      "val_loss": 1.161563709619883,
+      "val_accuracy": 0.6324324324324324,
+      "val_macro_f1": 0.6228423562632363,
+      "time_minutes": 3.5920090754826863
+    },
+    {
+      "epoch": 6,
+      "train_loss": 1.1706955709972897,
+      "train_accuracy": 0.6165540540540541,
+      "train_macro_f1": 0.6148257448820826,
+      "val_loss": 1.125354123759914,
+      "val_accuracy": 0.6486486486486487,
+      "val_macro_f1": 0.6399684969833637,
+      "time_minutes": 3.6150909145673116
+    },
+    {
+      "epoch": 7,
+      "train_loss": 1.151017180971197,
+      "train_accuracy": 0.6125,
+      "train_macro_f1": 0.6100391294051513,
+      "val_loss": 1.0764346586691367,
+      "val_accuracy": 0.6459459459459459,
+      "val_macro_f1": 0.630895037317089,
+      "time_minutes": 3.614862779776255
+    },
+    {
+      "epoch": 8,
+      "train_loss": 1.1148190646558194,
+      "train_accuracy": 0.6263513513513513,
+      "train_macro_f1": 0.6251425429628148,
+      "val_loss": 1.041949302441365,
+      "val_accuracy": 0.6891891891891891,
+      "val_macro_f1": 0.6821246269400323,
+      "time_minutes": 3.584995512167613
+    },
+    {
+      "epoch": 9,
+      "train_loss": 1.0841661253490964,
+      "train_accuracy": 0.6260135135135135,
+      "train_macro_f1": 0.624633519077534,
+      "val_loss": 1.0219790626216578,
+      "val_accuracy": 0.672972972972973,
+      "val_macro_f1": 0.665468305947277,
+      "time_minutes": 3.6188756108283995
+    },
+    {
+      "epoch": 10,
+      "train_loss": 1.0582606412268973,
+      "train_accuracy": 0.6402027027027027,
+      "train_macro_f1": 0.639755752985516,
+      "val_loss": 0.9936740198650875,
+      "val_accuracy": 0.6567567567567567,
+      "val_macro_f1": 0.6467699189452797,
+      "time_minutes": 3.595663086573283
+    },
+    {
+      "epoch": 11,
+      "train_loss": 1.0458401335252299,
+      "train_accuracy": 0.6371621621621621,
+      "train_macro_f1": 0.6355462264814048,
+      "val_loss": 0.9786907930631895,
+      "val_accuracy": 0.6945945945945946,
+      "val_macro_f1": 0.6864294776340432,
+      "time_minutes": 3.6452741702397664
+    },
+    {
+      "epoch": 12,
+      "train_loss": 1.0290131784774161,
+      "train_accuracy": 0.6398648648648648,
+      "train_macro_f1": 0.6394307553505276,
+      "val_loss": 0.9572959899902344,
+      "val_accuracy": 0.6918918918918919,
+      "val_macro_f1": 0.6853915204579039,
+      "time_minutes": 3.6250818451245626
+    },
+    {
+      "epoch": 13,
+      "train_loss": 1.0015509866379402,
+      "train_accuracy": 0.6594594594594595,
+      "train_macro_f1": 0.6586265742888415,
+      "val_loss": 0.9460368813695135,
+      "val_accuracy": 0.6783783783783783,
+      "val_macro_f1": 0.6715745429756156,
+      "time_minutes": 3.613788878917694
+    },
+    {
+      "epoch": 14,
+      "train_loss": 0.9881048573030008,
+      "train_accuracy": 0.6621621621621622,
+      "train_macro_f1": 0.6610810383381798,
+      "val_loss": 0.9233826998117808,
+      "val_accuracy": 0.7135135135135136,
+      "val_macro_f1": 0.7091898009687039,
+      "time_minutes": 3.6020018657048545
+    },
+    {
+      "epoch": 15,
+      "train_loss": 0.9934376555520135,
+      "train_accuracy": 0.6476351351351352,
+      "train_macro_f1": 0.6471889213960853,
+      "val_loss": 0.9104821076264252,
+      "val_accuracy": 0.6810810810810811,
+      "val_macro_f1": 0.6726130508545901,
+      "time_minutes": 3.6086588740348815
+    },
+    {
+      "epoch": 16,
+      "train_loss": 0.969368550584123,
+      "train_accuracy": 0.6554054054054054,
+      "train_macro_f1": 0.6545337598037341,
+      "val_loss": 0.9049422521848937,
+      "val_accuracy": 0.7081081081081081,
+      "val_macro_f1": 0.7042819688202424,
+      "time_minutes": 3.5845787048339846
+    },
+    {
+      "epoch": 17,
+      "train_loss": 0.946731277092083,
+      "train_accuracy": 0.6722972972972973,
+      "train_macro_f1": 0.6713503728572027,
+      "val_loss": 0.8821852651802269,
+      "val_accuracy": 0.7,
+      "val_macro_f1": 0.6917764621694233,
+      "time_minutes": 3.643496795495351
+    },
+    {
+      "epoch": 18,
+      "train_loss": 0.9315807816144582,
+      "train_accuracy": 0.6726351351351352,
+      "train_macro_f1": 0.6711958226333788,
+      "val_loss": 0.8670916376887141,
+      "val_accuracy": 0.7,
+      "val_macro_f1": 0.6932358517652465,
+      "time_minutes": 4.6443448781967165
+    },
+    {
+      "epoch": 19,
+      "train_loss": 0.9364278532363273,
+      "train_accuracy": 0.6760135135135135,
+      "train_macro_f1": 0.675223168676166,
+      "val_loss": 0.8426627468418431,
+      "val_accuracy": 0.7216216216216216,
+      "val_macro_f1": 0.7181138967049236,
+      "time_minutes": 3.5924781719843546
+    },
+    {
+      "epoch": 20,
+      "train_loss": 0.9216894159445892,
+      "train_accuracy": 0.6777027027027027,
+      "train_macro_f1": 0.6771555930766391,
+      "val_loss": 0.86839080630122,
+      "val_accuracy": 0.7243243243243244,
+      "val_macro_f1": 0.7190555588486999,
+      "time_minutes": 3.6050745526949566
+    }
+  ]
+}
+
+CLASSIFICATION REPORT
+              precision    recall  f1-score   support
+
+   BrownRust     0.6933    0.7027    0.6980        74
+     Healthy     0.6105    0.7838    0.6864        74
+      Mildew     0.6354    0.8243    0.7176        74
+    Septoria     0.8182    0.4865    0.6102        74
+  YellowRust     0.6333    0.5135    0.5672        74
+
+    accuracy                         0.6622       370
+   macro avg     0.6782    0.6622    0.6559       370
+weighted avg     0.6782    0.6622    0.6559       370

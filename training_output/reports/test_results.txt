@@ -1,0 +1,6 @@
+FINAL TEST RESULTS
+==================================================
+Test images : 5772
+Accuracy    : 97.71%
+Macro F1    : 97.76%
+Weighted F1 : 97.72%

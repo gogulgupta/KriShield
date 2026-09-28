@@ -1,0 +1,951 @@
+{
+  "crop": "Potato",
+  "paper_information": {
+    "title": "Biology of Solanum tuberosum (POTATO)",
+    "authors": [
+      "Dr. Virupaksh U. Patil",
+      "Dr. Prashant G. Kawar",
+      "Dr. S. Sundaresha",
+      "Dr. Vinay Bhardwaj"
+    ],
+    "year": "2015",
+    "journal_or_source": "Series of Crop Specific Biology Documents, Phase II Capacity Building Project on Biosafety, Ministry of Environment, Forest and Climate Change, Government of India & Central Potato Research Institute, Shimla",
+    "doi_or_identifier": "",
+    "abstract_summary": "This document provides comprehensive baseline biological information on potato (Solanum tuberosum L.) including taxonomy, origin, distribution in India, morphology, reproductive biology, ecology, human health considerations, cultivation practices, insect pests, and major diseases to serve as a credible source of information for biosafety assessment of genetically modified plants.",
+    "research_objective": "To compile biological baseline information on potato as a reference for risk assessment of genetically modified plants.",
+    "study_area": "India",
+    "important_findings": [
+      "Potato is the third most important non-grain food crop globally.",
+      "In India, potato is grown in 1.99 million ha across 26 states, with 90% coming from the Indo-Gangetic plains.",
+      "Major constraints include late blight, bacterial wilt, and various viral and insect pests.",
+      "The potato genome sequence has been completed by the Potato Genome Sequencing Consortium."
+    ]
+  },
+  "diseases": [
+    {
+      "disease_name": "Late Blight",
+      "alternative_names": [],
+      "disease_type": "Fungal disease",
+      "causal_agent": "Phytophthora infestans",
+      "pathogen_type": "Fungus-like oomycete",
+      "affected_plant_parts": [
+        "Leaves",
+        "Tubers"
+      ],
+      "symptoms": {
+        "general": [],
+        "early_symptoms": [
+          "Water-soaked irregular pale green lesions mostly near tip and margins of leaves"
+        ],
+        "advanced_symptoms": [
+          "Rapidly grow into large brown to purplish black necrotic spots",
+          "A white mildew consisting of sporangia and spores of the pathogen can be seen on the lower surface of infected leaves around the edges of necrotic lesions"
+        ],
+        "visual_field_symptoms": []
+      },
+      "identification": {
+        "field_identification": [
+          "Water-soaked irregular pale green lesions turning into brown/purplish-black necrotic spots with white mildew on the underside"
+        ],
+        "diagnostic_methods": [],
+        "differential_diagnosis": []
+      },
+      "causes_and_risk_factors": [],
+      "favorable_conditions": {
+        "temperature": "",
+        "humidity": "",
+        "rainfall": "",
+        "soil_conditions": "",
+        "other_conditions": []
+      },
+      "disease_development_and_spread": [],
+      "epidemiology": [],
+      "severity_and_yield_loss": [],
+      "management": {
+        "cultural_management": [],
+        "biological_management": [],
+        "chemical_management": [],
+        "integrated_management": []
+      },
+      "resistant_or_tolerant_varieties": [],
+      "susceptible_varieties": [],
+      "prevention": [],
+      "farmer_action_points": [],
+      "warnings_and_limitations": [],
+      "research_findings": [
+        "Highly regulated potato late blight resistance genes R1, R2, RB, R3a, Rpi-blb2, and Rpi-vnt1.1 were present in the potato genome assembly."
+      ],
+      "source_pages": [
+        "22",
+        "30"
+      ]
+    },
+    {
+      "disease_name": "Early Blight",
+      "alternative_names": [],
+      "disease_type": "Fungal disease",
+      "causal_agent": "Alternaria solani",
+      "pathogen_type": "Fungus",
+      "affected_plant_parts": [
+        "Leaves"
+      ],
+      "symptoms": {
+        "general": [
+          "Small, round, oval or angular, dark brown to black, dry and papery necrotic spots on leaves limited by leaf veins",
+          "Concentric rings of raised and depressed tissue within the leaf spot give it a bull's eye or target board appearance",
+          "Leaf tissues around spots often become chlorotic and yellow",
+          "Leaf spots may coalesce and the field may get severely blighted"
+        ],
+        "early_symptoms": [],
+        "advanced_symptoms": [],
+        "visual_field_symptoms": []
+      },
+      "identification": {
+        "field_identification": [
+          "Concentric rings of raised and depressed tissue on leaf spots giving a bull's eye or target board appearance"
+        ],
+        "diagnostic_methods": [],
+        "differential_diagnosis": []
+      },
+      "causes_and_risk_factors": [],
+      "favorable_conditions": {
+        "temperature": "",
+        "humidity": "",
+        "rainfall": "",
+        "soil_conditions": "",
+        "other_conditions": []
+      },
+      "disease_development_and_spread": [],
+      "epidemiology": [],
+      "severity_and_yield_loss": [],
+      "management": {
+        "cultural_management": [],
+        "biological_management": [],
+        "chemical_management": [],
+        "integrated_management": []
+      },
+      "resistant_or_tolerant_varieties": [],
+      "susceptible_varieties": [],
+      "prevention": [],
+      "farmer_action_points": [],
+      "warnings_and_limitations": [],
+      "research_findings": [],
+      "source_pages": [
+        "30"
+      ]
+    },
+    {
+      "disease_name": "Black Scurf",
+      "alternative_names": [],
+      "disease_type": "Fungal disease",
+      "causal_agent": "Rhizoctonia solani",
+      "pathogen_type": "Fungus",
+      "affected_plant_parts": [
+        "Tubers",
+        "Stems"
+      ],
+      "symptoms": {
+        "general": [
+          "Black irregular lumpy encrustations of fungal sclerotia on potato tubers",
+          "Cracking, malformation, pitting, and stem end necrosis on tubers",
+          "Stem canker and formation of aerial tubers on stems in disease-affected plants"
+        ],
+        "early_symptoms": [],
+        "advanced_symptoms": [],
+        "visual_field_symptoms": []
+      },
+      "identification": {
+        "field_identification": [
+          "Black irregular lumpy encrustations on potato tubers"
+        ],
+        "diagnostic_methods": [],
+        "differential_diagnosis": []
+      },
+      "causes_and_risk_factors": [],
+      "favorable_conditions": {
+        "temperature": "",
+        "humidity": "",
+        "rainfall": "",
+        "soil_conditions": "",
+        "other_conditions": []
+      },
+      "disease_development_and_spread": [],
+      "epidemiology": [],
+      "severity_and_yield_loss": [],
+      "management": {
+        "cultural_management": [],
+        "biological_management": [],
+        "chemical_management": [],
+        "integrated_management": []
+      },
+      "resistant_or_tolerant_varieties": [],
+      "susceptible_varieties": [],
+      "prevention": [],
+      "farmer_action_points": [],
+      "warnings_and_limitations": [],
+      "research_findings": [],
+      "source_pages": [
+        "30"
+      ]
+    },
+    {
+      "disease_name": "Fusarium Dry Rot",
+      "alternative_names": [],
+      "disease_type": "Fungal disease",
+      "causal_agent": "Fusarium spp.",
+      "pathogen_type": "Fungus",
+      "affected_plant_parts": [
+        "Tubers"
+      ],
+      "symptoms": {
+        "general": [
+          "Small brown lesions on the surface of affected tubers",
+          "Lesions subsequently enlarge, appear dark, sunken, and wrinkled, producing white, pink, or blue pustules",
+          "In later stages a cavity develops in the centre of the concentric ring and whitish, pinkish or dark brown growth of fungal mycelium may become visible"
+        ],
+        "early_symptoms": [],
+        "advanced_symptoms": [],
+        "visual_field_symptoms": []
+      },
+      "identification": {
+        "field_identification": [
+          "Small brown lesions on tubers turning dark, sunken, and wrinkled with white, pink, or blue pustules"
+        ],
+        "diagnostic_methods": [],
+        "differential_diagnosis": []
+      },
+      "causes_and_risk_factors": [],
+      "favorable_conditions": {
+        "temperature": "",
+        "humidity": "",
+        "rainfall": "",
+        "soil_conditions": "",
+        "other_conditions": []
+      },
+      "disease_development_and_spread": [],
+      "epidemiology": [],
+      "severity_and_yield_loss": [],
+      "management": {
+        "cultural_management": [],
+        "biological_management": [],
+        "chemical_management": [],
+        "integrated_management": []
+      },
+      "resistant_or_tolerant_varieties": [],
+      "susceptible_varieties": [],
+      "prevention": [],
+      "farmer_action_points": [],
+      "warnings_and_limitations": [],
+      "research_findings": [],
+      "source_pages": [
+        "30",
+        "31"
+      ]
+    },
+    {
+      "disease_name": "Powdery Scab",
+      "alternative_names": [],
+      "disease_type": "Fungal disease",
+      "causal_agent": "Spongospora subterranea",
+      "pathogen_type": "Fungus",
+      "affected_plant_parts": [
+        "Tubers"
+      ],
+      "symptoms": {
+        "general": [
+          "Purplish brown sunken lesions on potato tubers which later turn to scab like lesions",
+          "Lesions are round, raised, filled with powdery mass of spores and surrounded by ruptured remains of epidermal layers"
+        ],
+        "early_symptoms": [],
+        "advanced_symptoms": [],
+        "visual_field_symptoms": []
+      },
+      "identification": {
+        "field_identification": [
+          "Round, raised scab-like lesions filled with a powdery mass of spores and surrounded by ruptured epidermis"
+        ],
+        "diagnostic_methods": [],
+        "differential_diagnosis": [
+          "Unlike common scab, lesions of powdery scab are round, raised, filled with powdery mass of spores and surrounded by ruptured remains of epidermal layers."
+        ]
+      },
+      "causes_and_risk_factors": [],
+      "favorable_conditions": {
+        "temperature": "",
+        "humidity": "",
+        "rainfall": "",
+        "soil_conditions": "",
+        "other_conditions": []
+      },
+      "disease_development_and_spread": [],
+      "epidemiology": [],
+      "severity_and_yield_loss": [],
+      "management": {
+        "cultural_management": [],
+        "biological_management": [],
+        "chemical_management": [],
+        "integrated_management": []
+      },
+      "resistant_or_tolerant_varieties": [],
+      "susceptible_varieties": [],
+      "prevention": [],
+      "farmer_action_points": [],
+      "warnings_and_limitations": [],
+      "research_findings": [],
+      "source_pages": [
+        "31"
+      ]
+    },
+    {
+      "disease_name": "Charcoal Rot",
+      "alternative_names": [],
+      "disease_type": "Fungal disease",
+      "causal_agent": "Macrophomina phaseolina",
+      "pathogen_type": "Fungus",
+      "affected_plant_parts": [
+        "Tubers"
+      ],
+      "symptoms": {
+        "general": [
+          "Symptoms on tubers develop around eyes, lenticels and stolon end where a dark light grey, soft, water-soaked lesion develops on the surface",
+          "Subsequently, lesions become filled with black mycelium and sclerotia of the pathogen",
+          "Lesions may shrink and develop symptoms similar to dry rots under low moisture conditions"
+        ],
+        "early_symptoms": [],
+        "advanced_symptoms": [],
+        "visual_field_symptoms": []
+      },
+      "identification": {
+        "field_identification": [
+          "Dark light grey, soft, water-soaked lesions around eyes, lenticels, and stolon ends filled with black mycelium and sclerotia"
+        ],
+        "diagnostic_methods": [],
+        "differential_diagnosis": []
+      },
+      "causes_and_risk_factors": [],
+      "favorable_conditions": {
+        "temperature": "",
+        "humidity": "",
+        "rainfall": "",
+        "soil_conditions": "",
+        "other_conditions": []
+      },
+      "disease_development_and_spread": [],
+      "epidemiology": [],
+      "severity_and_yield_loss": [],
+      "management": {
+        "cultural_management": [],
+        "biological_management": [],
+        "chemical_management": [],
+        "integrated_management": []
+      },
+      "resistant_or_tolerant_varieties": [],
+      "susceptible_varieties": [],
+      "prevention": [],
+      "farmer_action_points": [],
+      "warnings_and_limitations": [],
+      "research_findings": [],
+      "source_pages": [
+        "31"
+      ]
+    },
+    {
+      "disease_name": "Bacterial Wilt / Brown Rot",
+      "alternative_names": [],
+      "disease_type": "Bacterial disease",
+      "causal_agent": "Ralstonia solanacearum",
+      "pathogen_type": "Bacteria",
+      "affected_plant_parts": [
+        "Leaves",
+        "Stems",
+        "Tubers"
+      ],
+      "symptoms": {
+        "general": [
+          "Slight wilting of youngest leaves during hot sunny days followed by drooping due to loss of turgidity and total unrecoverable wilt",
+          "Cross-sections of stems show vascular discolouration",
+          "Transversely cut tubers show water-soaked brown circles in vascular tissues where dirty white sticky drops appear in 2-3 minutes",
+          "In advanced stages of wilt, bacterial mass may ooze out from eyes"
+        ],
+        "early_symptoms": [
+          "Slight wilting of youngest leaves during hot sunny days"
+        ],
+        "advanced_symptoms": [
+          "Total unrecoverable wilt, vascular discolouration, bacterial ooze from vascular rings and tuber eyes"
+        ],
+        "visual_field_symptoms": []
+      },
+      "identification": {
+        "field_identification": [
+          "Wilting of young leaves, vascular discolouration of stem, and confirming by placing stem cut sections in clear water to observe bacterial streaming"
+        ],
+        "diagnostic_methods": [
+          "Placing stem cut sections in clear water to observe bacterial streaming"
+        ],
+        "differential_diagnosis": [
+          "Bacterial wilt in field can be distinguished from fungal wilts by placing the stem cut sections in clear water to observe bacterial streaming."
+        ]
+      },
+      "causes_and_risk_factors": [],
+      "favorable_conditions": {
+        "temperature": "",
+        "humidity": "",
+        "rainfall": "",
+        "soil_conditions": "",
+        "other_conditions": []
+      },
+      "disease_development_and_spread": [],
+      "epidemiology": [],
+      "severity_and_yield_loss": [],
+      "management": {
+        "cultural_management": [],
+        "biological_management": [],
+        "chemical_management": [],
+        "integrated_management": []
+      },
+      "resistant_or_tolerant_varieties": [],
+      "susceptible_varieties": [],
+      "prevention": [],
+      "farmer_action_points": [],
+      "warnings_and_limitations": [],
+      "research_findings": [],
+      "source_pages": [
+        "31",
+        "32"
+      ]
+    },
+    {
+      "disease_name": "Common Scab",
+      "alternative_names": [],
+      "disease_type": "Bacterial disease",
+      "causal_agent": "Streptomyces spp.",
+      "pathogen_type": "Bacteria",
+      "affected_plant_parts": [
+        "Tubers"
+      ],
+      "symptoms": {
+        "general": [
+          "Small reddish or brownish spots on the surface of potato tubers during juvenile period",
+          "Lesions become corky due to elongation and division of invaded cells",
+          "Symptoms range from a few superficial or raised brown spots on the skin to dark pits extending several millimetres into the tuber resulting in reduced market value"
+        ],
+        "early_symptoms": [
+          "Small reddish or brownish spots on the surface of potato tubers during juvenile period"
+        ],
+        "advanced_symptoms": [
+          "Corky lesions ranging from superficial raised brown spots to dark pits extending several millimeters into the tuber"
+        ],
+        "visual_field_symptoms": []
+      },
+      "identification": {
+        "field_identification": [
+          "Corky lesions, raised brown spots, or deep dark pits on potato tubers"
+        ],
+        "diagnostic_methods": [],
+        "differential_diagnosis": []
+      },
+      "causes_and_risk_factors": [],
+      "favorable_conditions": {
+        "temperature": "",
+        "humidity": "",
+        "rainfall": "",
+        "soil_conditions": "",
+        "other_conditions": []
+      },
+      "disease_development_and_spread": [],
+      "epidemiology": [],
+      "severity_and_yield_loss": [],
+      "management": {
+        "cultural_management": [],
+        "biological_management": [],
+        "chemical_management": [],
+        "integrated_management": []
+      },
+      "resistant_or_tolerant_varieties": [],
+      "susceptible_varieties": [],
+      "prevention": [],
+      "farmer_action_points": [],
+      "warnings_and_limitations": [],
+      "research_findings": [],
+      "source_pages": [
+        "32"
+      ]
+    },
+    {
+      "disease_name": "Soft Rot and Black Leg",
+      "alternative_names": [],
+      "disease_type": "Bacterial disease",
+      "causal_agent": "Pectobacterium species",
+      "pathogen_type": "Bacteria",
+      "affected_plant_parts": [
+        "Tubers",
+        "Stems",
+        "Petioles",
+        "Haulms"
+      ],
+      "symptoms": {
+        "general": [
+          "Initially a small area of tuber tissue around lenticels or stolon attachment point becomes water-soaked and develops soft lesions",
+          "Under high humidity, lesions enlarge and spread; decaying tissue becomes slimy with foul smell and brown liquid ooze",
+          "Black leg symptoms in cooler regions: affected haulms become black at collar region just above ground",
+          "On stem and petioles, lesions enlarge into stripes, turn black, and cause soft rot and toppling of stem and leaves"
+        ],
+        "early_symptoms": [
+          "Small water-soaked area around lenticels or stolon attachment on tubers"
+        ],
+        "advanced_symptoms": [
+          "Slimy decay with foul smell, black collar region, toppling of stems and leaves"
+        ],
+        "visual_field_symptoms": []
+      },
+      "identification": {
+        "field_identification": [
+          "Water-soaked soft lesions on tubers with foul-smelling slime, black lesions on stems/collars"
+        ],
+        "diagnostic_methods": [],
+        "differential_diagnosis": []
+      },
+      "causes_and_risk_factors": [],
+      "favorable_conditions": {
+        "temperature": "",
+        "humidity": "High humidity",
+        "rainfall": "",
+        "soil_conditions": "",
+        "other_conditions": []
+      },
+      "disease_development_and_spread": [],
+      "epidemiology": [],
+      "severity_and_yield_loss": [],
+      "management": {
+        "cultural_management": [],
+        "biological_management": [],
+        "chemical_management": [],
+        "integrated_management": []
+      },
+      "resistant_or_tolerant_varieties": [],
+      "susceptible_varieties": [],
+      "prevention": [],
+      "farmer_action_points": [],
+      "warnings_and_limitations": [],
+      "research_findings": [],
+      "source_pages": [
+        "32"
+      ]
+    },
+    {
+      "disease_name": "Potato Virus Y (PVY)",
+      "alternative_names": [],
+      "disease_type": "Viral disease",
+      "causal_agent": "Potato virus Y (PVY)",
+      "pathogen_type": "Virus",
+      "affected_plant_parts": [
+        "Leaves",
+        "Whole plant"
+      ],
+      "symptoms": {
+        "general": [
+          "Affected plants are stunted with mild or severe mosaic and veinal necrosis",
+          "Original strain PVYO causes mosaic, necrotic spots, mild rugosity, and drying of leaves"
+        ],
+        "early_symptoms": [],
+        "advanced_symptoms": [],
+        "visual_field_symptoms": []
+      },
+      "identification": {
+        "field_identification": [
+          "Stunted plants with mosaic, veinal necrosis, and rugosity"
+        ],
+        "diagnostic_methods": [],
+        "differential_diagnosis": []
+      },
+      "causes_and_risk_factors": [],
+      "favorable_conditions": {
+        "temperature": "",
+        "humidity": "",
+        "rainfall": "",
+        "soil_conditions": "",
+        "other_conditions": []
+      },
+      "disease_development_and_spread": [
+        "Transmitted by aphids"
+      ],
+      "epidemiology": [],
+      "severity_and_yield_loss": [],
+      "management": {
+        "cultural_management": [],
+        "biological_management": [],
+        "chemical_management": [],
+        "integrated_management": []
+      },
+      "resistant_or_tolerant_varieties": [],
+      "susceptible_varieties": [],
+      "prevention": [],
+      "farmer_action_points": [],
+      "warnings_and_limitations": [],
+      "research_findings": [],
+      "source_pages": [
+        "32",
+        "33"
+      ]
+    },
+    {
+      "disease_name": "Potato Virus A (PVA)",
+      "alternative_names": [],
+      "disease_type": "Viral disease",
+      "causal_agent": "Potato virus A (PVA)",
+      "pathogen_type": "Virus",
+      "affected_plant_parts": [
+        "Leaves"
+      ],
+      "symptoms": {
+        "general": [
+          "Mild mosaic symptoms somewhat similar to PVX",
+          "Mottles appear on the veins and infected leaves look shiny",
+          "Infected plants show an open habit",
+          "Severe leaf crinkle may be produced in combination with PVX"
+        ],
+        "early_symptoms": [],
+        "advanced_symptoms": [],
+        "visual_field_symptoms": []
+      },
+      "identification": {
+        "field_identification": [
+          "Mild mosaic with mottles on veins and shiny leaves with an open plant habit"
+        ],
+        "diagnostic_methods": [],
+        "differential_diagnosis": [
+          "Unlike PVX, mottles caused by PVA appear on the veins and infected leaves look shiny."
+        ]
+      },
+      "causes_and_risk_factors": [],
+      "favorable_conditions": {
+        "temperature": "",
+        "humidity": "",
+        "rainfall": "",
+        "soil_conditions": "",
+        "other_conditions": []
+      },
+      "disease_development_and_spread": [
+        "Transmitted by aphids"
+      ],
+      "epidemiology": [],
+      "severity_and_yield_loss": [],
+      "management": {
+        "cultural_management": [],
+        "biological_management": [],
+        "chemical_management": [],
+        "integrated_management": []
+      },
+      "resistant_or_tolerant_varieties": [],
+      "susceptible_varieties": [],
+      "prevention": [],
+      "farmer_action_points": [],
+      "warnings_and_limitations": [],
+      "research_findings": [],
+      "source_pages": [
+        "33"
+      ]
+    },
+    {
+      "disease_name": "Potato Virus X (PVX)",
+      "alternative_names": [],
+      "disease_type": "Viral disease",
+      "causal_agent": "Potato virus X (PVX)",
+      "pathogen_type": "Virus",
+      "affected_plant_parts": [
+        "Leaves",
+        "Leaflets"
+      ],
+      "symptoms": {
+        "general": [
+          "Plants infected with PVX often remain symptomless",
+          "When symptoms are expressed, pattern of light and dark green on leaflets with lighter, small, irregular blotches between veins",
+          "Can interact with PVY and PVA to cause more severe symptoms such as rugose mosaic (PVX+PVY) and crinkle mosaic (PVX+PVA)"
+        ],
+        "early_symptoms": [],
+        "advanced_symptoms": [],
+        "visual_field_symptoms": []
+      },
+      "identification": {
+        "field_identification": [
+          "Often symptomless or showing light and dark green patterns with irregular blotches between veins"
+        ],
+        "diagnostic_methods": [
+          "Transmitted mechanically"
+        ],
+        "differential_diagnosis": []
+      },
+      "causes_and_risk_factors": [],
+      "favorable_conditions": {
+        "temperature": "",
+        "humidity": "",
+        "rainfall": "",
+        "soil_conditions": "",
+        "other_conditions": []
+      },
+      "disease_development_and_spread": [
+        "Transmitted mechanically"
+      ],
+      "epidemiology": [],
+      "severity_and_yield_loss": [],
+      "management": {
+        "cultural_management": [],
+        "biological_management": [],
+        "chemical_management": [],
+        "integrated_management": []
+      },
+      "resistant_or_tolerant_varieties": [],
+      "susceptible_varieties": [],
+      "prevention": [],
+      "farmer_action_points": [],
+      "warnings_and_limitations": [],
+      "research_findings": [],
+      "source_pages": [
+        "33"
+      ]
+    },
+    {
+      "disease_name": "Potato Virus M (PVM)",
+      "alternative_names": [],
+      "disease_type": "Viral disease",
+      "causal_agent": "Potato virus M (PVM)",
+      "pathogen_type": "Virus",
+      "affected_plant_parts": [
+        "Leaves",
+        "Shoots"
+      ],
+      "symptoms": {
+        "general": [
+          "Causes mottle, mosaic, crinkling, rolling (spoon-shaped leaves) of leaves and stunting of shoots"
+        ],
+        "early_symptoms": [],
+        "advanced_symptoms": [],
+        "visual_field_symptoms": []
+      },
+      "identification": {
+        "field_identification": [
+          "Leaf rolling (spoon-shaped leaves), mottle, mosaic, crinkling, and shoot stunting"
+        ],
+        "diagnostic_methods": [],
+        "differential_diagnosis": []
+      },
+      "causes_and_risk_factors": [],
+      "favorable_conditions": {
+        "temperature": "",
+        "humidity": "",
+        "rainfall": "",
+        "soil_conditions": "",
+        "other_conditions": []
+      },
+      "disease_development_and_spread": [
+        "Transmitted by aphids"
+      ],
+      "epidemiology": [],
+      "severity_and_yield_loss": [],
+      "management": {
+        "cultural_management": [],
+        "biological_management": [],
+        "chemical_management": [],
+        "integrated_management": []
+      },
+      "resistant_or_tolerant_varieties": [],
+      "susceptible_varieties": [],
+      "prevention": [],
+      "farmer_action_points": [],
+      "warnings_and_limitations": [],
+      "research_findings": [],
+      "source_pages": [
+        "33"
+      ]
+    },
+    {
+      "disease_name": "Potato Leafroll Virus (PLRV)",
+      "alternative_names": [],
+      "disease_type": "Viral disease",
+      "causal_agent": "Potato leafroll virus (PLRV)",
+      "pathogen_type": "Virus",
+      "affected_plant_parts": [
+        "Leaves",
+        "Young leaves",
+        "Older leaves"
+      ],
+      "symptoms": {
+        "general": [
+          "Primary symptoms confined to top young leaves which stand upright, roll, and turn slightly pale",
+          "Secondary symptoms (from infected seed tubers) prominent in older leaves: plants have characteristic pale, dwarfed, and upright appearance with rolling of lower leaves that turn yellow, brittle, and leathery",
+          "Reddish or purple discolouration on margins and underside of leaves in some cultivars"
+        ],
+        "early_symptoms": [
+          "Top young leaves stand upright, roll, and turn slightly pale"
+        ],
+        "advanced_symptoms": [
+          "Pale, dwarfed, upright appearance, rolling of lower leaves, yellowing, brittleness, leathery texture, marginal reddish/purple discoloration"
+        ],
+        "visual_field_symptoms": []
+      },
+      "identification": {
+        "field_identification": [
+          "Uprigth pale appearance, rolling of lower leaves turning yellow, brittle, and leathery"
+        ],
+        "diagnostic_methods": [],
+        "differential_diagnosis": []
+      },
+      "causes_and_risk_factors": [],
+      "favorable_conditions": {
+        "temperature": "",
+        "humidity": "",
+        "rainfall": "",
+        "soil_conditions": "",
+        "other_conditions": []
+      },
+      "disease_development_and_spread": [
+        "Transmitted by aphids"
+      ],
+      "epidemiology": [],
+      "severity_and_yield_loss": [],
+      "management": {
+        "cultural_management": [],
+        "biological_management": [],
+        "chemical_management": [],
+        "integrated_management": []
+      },
+      "resistant_or_tolerant_varieties": [],
+      "susceptible_varieties": [],
+      "prevention": [],
+      "farmer_action_points": [],
+      "warnings_and_limitations": [],
+      "research_findings": [],
+      "source_pages": [
+        "33",
+        "34"
+      ]
+    },
+    {
+      "disease_name": "Potato Virus S (PVS)",
+      "alternative_names": [],
+      "disease_type": "Viral disease",
+      "causal_agent": "Potato virus S (PVS)",
+      "pathogen_type": "Virus",
+      "affected_plant_parts": [
+        "Leaves",
+        "Lower leaves"
+      ],
+      "symptoms": {
+        "general": [
+          "Symptomless on majority of potato cultivars",
+          "Occasional mild leaf symptoms of rugosity, vein deepening, and bronzing",
+          "Rugosity, mosaic, stunting, bronzing, vein deepening, early drop of leaves, and fine necrotic spots on lower leaves reported occasionally in some cultivars"
+        ],
+        "early_symptoms": [],
+        "advanced_symptoms": [],
+        "visual_field_symptoms": []
+      },
+      "identification": {
+        "field_identification": [
+          "Usually symptomless or occasional mild rugosity, vein deepening, and bronzing"
+        ],
+        "diagnostic_methods": [],
+        "differential_diagnosis": []
+      },
+      "causes_and_risk_factors": [],
+      "favorable_conditions": {
+        "temperature": "",
+        "humidity": "",
+        "rainfall": "",
+        "soil_conditions": "",
+        "other_conditions": []
+      },
+      "disease_development_and_spread": [
+        "Transmitted mainly by contact and by aphids"
+      ],
+      "epidemiology": [],
+      "severity_and_yield_loss": [],
+      "management": {
+        "cultural_management": [],
+        "biological_management": [],
+        "chemical_management": [],
+        "integrated_management": []
+      },
+      "resistant_or_tolerant_varieties": [],
+      "susceptible_varieties": [],
+      "prevention": [],
+      "farmer_action_points": [],
+      "warnings_and_limitations": [],
+      "research_findings": [],
+      "source_pages": [
+        "34"
+      ]
+    },
+    {
+      "disease_name": "Potato Apical Leaf Curl Disease",
+      "alternative_names": [
+        "Apical leaf curl disease"
+      ],
+      "disease_type": "Viral disease",
+      "causal_agent": "Tomato leaf curl New Delhi virus-potato (ToLCNDV-potato)",
+      "pathogen_type": "Virus",
+      "affected_plant_parts": [
+        "Apical leaves",
+        "Whole plant",
+        "Leaves"
+      ],
+      "symptoms": {
+        "general": [
+          "Affected plants show curling / crinkling of apical leaves with a conspicuous mosaic symptom",
+          "In case of seed-borne infection, entire plant shows leaf distortion with mosaic accompanied with severe stunting",
+          "Symptoms are very severe and easily identified when virus concentration is very high"
+        ],
+        "early_symptoms": [],
+        "advanced_symptoms": [
+          "Curling/crinkling of apical leaves, mosaic, severe stunting of the plant"
+        ],
+        "visual_field_symptoms": []
+      },
+      "identification": {
+        "field_identification": [
+          "Curling and crinkling of apical leaves with mosaic and severe plant stunting"
+        ],
+        "diagnostic_methods": [],
+        "differential_diagnosis": []
+      },
+      "causes_and_risk_factors": [],
+      "favorable_conditions": {
+        "temperature": "",
+        "humidity": "",
+        "rainfall": "",
+        "soil_conditions": "",
+        "other_conditions": []
+      },
+      "disease_development_and_spread": [
+        "Transmitted by whitefly (Bemisia tabaci)"
+      ],
+      "epidemiology": [],
+      "severity_and_yield_loss": [],
+      "management": {
+        "cultural_management": [],
+        "biological_management": [],
+        "chemical_management": [],
+        "integrated_management": []
+      },
+      "resistant_or_tolerant_varieties": [],
+      "susceptible_varieties": [],
+      "prevention": [],
+      "farmer_action_points": [],
+      "warnings_and_limitations": [],
+      "research_findings": [],
+      "source_pages": [
+        "27",
+        "34"
+      ]
+    }
+  ],
+  "paper_level_notes": [
+    "The document contains detailed sections on potato botany, taxonomy, cultivation zones in India, insect pests, nematodes, fungal diseases, bacterial diseases, viral diseases, breeding objectives, and biotechnological interventions."
+  ],
+  "_processing_metadata": {
+    "source_pdf": "Patato.pdf",
+    "crop_detected_from_filename": "Patato",
+    "model_used": "gemini-3.5-flash-lite",
+    "extracted_at": "2026-09-23 23:13:23"
+  }
+}

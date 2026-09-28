@@ -1,0 +1,1731 @@
+{
+  "crop": "Soybean",
+  "paper_information": {
+    "title": "Climate Smart Technologies and Practices for Increasing the Soybean Productivity",
+    "authors": [
+      "Dr. B.U. Dupare",
+      "Dr. Savita Kolhe",
+      "Dr. N. Balasubramani"
+    ],
+    "year": "2021",
+    "journal_or_source": "ICAR-Indian Institute of Soybean Research & National Institute of Agricultural Extension Management (MANAGE)",
+    "doi_or_identifier": "ISBN: 978-81-950446-7-2",
+    "abstract_summary": "This e-book is a compilation of resource texts on climate smart technologies and practices for increasing soybean production and productivity, covering varieties, agronomic practices, nutrition, weed, pest and disease management, abiotic stress management, and mechanization.",
+    "research_objective": "To educate extension workers, students, research scholars, and academicians on climate smart technologies and practices for increasing soybean production and productivity in response to changing climate scenarios.",
+    "study_area": "India",
+    "important_findings": [
+      "Average soybean productivity in India is stagnated around 1 ton/ha compared to world average of 2.3 t/ha.",
+      "Improved technologies and practices under AICRP on Soybean can achieve productivity levels of more than 2.5 ton/ha.",
+      "Integrated crop management, balanced nutrition, use of climate-smart varieties, and proper water/tillage management can significantly mitigate climate change risks."
+    ]
+  },
+  "diseases": [
+    {
+      "disease_name": "Anthracnose or pod blight",
+      "alternative_names": [],
+      "disease_type": "Fungal Disease",
+      "causal_agent": "Colletotrichum dematium f. sp. truncatum or Colletotrichum truncatum",
+      "pathogen_type": "Fungus",
+      "affected_plant_parts": [
+        "stems",
+        "petioles",
+        "pods",
+        "seedlings",
+        "cotyledons",
+        "seeds"
+      ],
+      "symptoms": {
+        "general": [
+          "Irregular reddish to dark brown areas on infected parts",
+          "Black fungal fruiting bodies (acervuli) with setae (minute black spines)",
+          "Pods turn yellow to brown",
+          "Seeds become shriveled and mouldy"
+        ],
+        "early_symptoms": [
+          "Pre- and post-emergence damping off of seedlings",
+          "Dark brown sunken cankers on cotyledons",
+          "Symptoms evident in early reproductive stage on stems, petioles and pods"
+        ],
+        "advanced_symptoms": [
+          "Laminar veins necrosis, leaf rolling and defoliation under prolonged high humidity"
+        ],
+        "visual_field_symptoms": [
+          "Black acervuli with setae visible to unaided eye",
+          "Shriveled and mouldy seeds or absence of seed formation in pods"
+        ]
+      },
+      "identification": {
+        "field_identification": [
+          "Black fungal fruiting bodies (acervuli) with setae on infected parts",
+          "Irregular reddish to dark brown areas on stems, petioles, and pods"
+        ],
+        "diagnostic_methods": [],
+        "differential_diagnosis": []
+      },
+      "causes_and_risk_factors": [
+        "High temperature and humidity",
+        "Infected seeds and crop residues serving as primary inoculum"
+      ],
+      "favorable_conditions": {
+        "temperature": "",
+        "humidity": "High humidity",
+        "rainfall": "",
+        "soil_conditions": "",
+        "other_conditions": [
+          "High temperature"
+        ]
+      },
+      "disease_development_and_spread": [
+        "Pathogen survives in seed and crop residues",
+        "Inoculum as mycelium from seed and debris initiates infection",
+        "Conidia produced under favorable conditions initiate secondary infection"
+      ],
+      "epidemiology": [],
+      "severity_and_yield_loss": [
+        "Can cause 16-25% damage but sometimes loss in yield can be up to 100%"
+      ],
+      "management": {
+        "cultural_management": [
+          "Use of clean and healthy seeds",
+          "Burning of infected plant debris",
+          "Cultivation of resistant varieties like JS 2034, JS 206, JS 2098"
+        ],
+        "biological_management": [],
+        "chemical_management": [
+          {
+            "active_ingredient_or_product": "Carboxin 37.5% + Thiram 37.5%",
+            "dose": "3 g/kg seed",
+            "concentration": "",
+            "application_method": "Seed treatment",
+            "timing": "Before sowing",
+            "number_of_applications": "1",
+            "result_reported_in_paper": "Seed treatment"
+          },
+          {
+            "active_ingredient_or_product": "Thiophanate methyl 45% + Pyraclostrobin 5% FS",
+            "dose": "3 ml/kg seed",
+            "concentration": "",
+            "application_method": "Seed treatment",
+            "timing": "Before sowing",
+            "number_of_applications": "1",
+            "result_reported_in_paper": "Seed treatment"
+          },
+          {
+            "active_ingredient_or_product": "Thiophanate methyl",
+            "dose": "2 g/L of water",
+            "concentration": "",
+            "application_method": "Spray",
+            "timing": "At initiation of disease (veins necrosis on lower side of upper leaves)",
+            "number_of_applications": "",
+            "result_reported_in_paper": ""
+          },
+          {
+            "active_ingredient_or_product": "Tebuconazole",
+            "dose": "1.25 mL/L of water",
+            "concentration": "",
+            "application_method": "Spray",
+            "timing": "At disease initiation",
+            "number_of_applications": "",
+            "result_reported_in_paper": ""
+          },
+          {
+            "active_ingredient_or_product": "Tebuconazole + Sulphur",
+            "dose": "2 g/L of water",
+            "concentration": "",
+            "application_method": "Spray",
+            "timing": "At disease initiation",
+            "number_of_applications": "",
+            "result_reported_in_paper": ""
+          },
+          {
+            "active_ingredient_or_product": "Hexaconazole 5% EC",
+            "dose": "1.6 mL/L of water",
+            "concentration": "",
+            "application_method": "Spray",
+            "timing": "At disease initiation",
+            "number_of_applications": "",
+            "result_reported_in_paper": ""
+          },
+          {
+            "active_ingredient_or_product": "Pyraclostrobin 20% w/w WG",
+            "dose": "1 g/L of water",
+            "concentration": "",
+            "application_method": "Spray",
+            "timing": "At disease initiation",
+            "number_of_applications": "",
+            "result_reported_in_paper": ""
+          }
+        ],
+        "integrated_management": []
+      },
+      "resistant_or_tolerant_varieties": [
+        "JS 2034",
+        "JS 206",
+        "JS 2098"
+      ],
+      "susceptible_varieties": [],
+      "prevention": [
+        "Use clean and healthy seeds",
+        "Burn infected plant debris"
+      ],
+      "farmer_action_points": [
+        "Treat seeds before sowing",
+        "Spray recommended fungicides at disease initiation"
+      ],
+      "warnings_and_limitations": [],
+      "research_findings": [],
+      "source_pages": [
+        "44",
+        "45"
+      ]
+    },
+    {
+      "disease_name": "Rust",
+      "alternative_names": [],
+      "disease_type": "Fungal Disease",
+      "causal_agent": "Phakopsora pachyrhizi",
+      "pathogen_type": "Fungus",
+      "affected_plant_parts": [
+        "leaves",
+        "pods"
+      ],
+      "symptoms": {
+        "general": [
+          "Chlorotic gray brown spots appearing abundantly on lower leaf surface, increasing in size to form pustules",
+          "Leaves turn brown quickly causing early defoliation",
+          "Reduction in number of pods, seeds and seed weight",
+          "Loose brown powder owing to rupture of pustules"
+        ],
+        "early_symptoms": [
+          "Chlorotic spots after 5 days at 20C"
+        ],
+        "advanced_symptoms": [
+          "Uredinia formed by 9 to 10 days liberating urediniospores",
+          "Early defoliation and severe reduction in pod/seed count"
+        ],
+        "visual_field_symptoms": [
+          "Loose brown powder on leaves due to ruptured pustules",
+          "Early browning and defoliation of leaves"
+        ]
+      },
+      "identification": {
+        "field_identification": [
+          "Chlorotic gray brown spots on lower leaf surface forming pustules",
+          "Loose brown powder from ruptured pustules"
+        ],
+        "diagnostic_methods": [],
+        "differential_diagnosis": []
+      },
+      "causes_and_risk_factors": [
+        "Favorable temperature range of 22-27C",
+        "80-90% relative humidity and leaf wetness"
+      ],
+      "favorable_conditions": {
+        "temperature": "22-27C",
+        "humidity": "80-90%",
+        "rainfall": "",
+        "soil_conditions": "",
+        "other_conditions": [
+          "Leaf wetness"
+        ]
+      },
+      "disease_development_and_spread": [
+        "Pathogen survives in collateral hosts and crop residues remaining with seed",
+        "Urediniospores germinate in presence of free water on leaf surface",
+        "Penetrates host directly through cuticular and underlying epidermal cells"
+      ],
+      "epidemiology": [],
+      "severity_and_yield_loss": [
+        "Yield loss ranging from 40 to 80% reported from recent rust epiphytotics in India"
+      ],
+      "management": {
+        "cultural_management": [
+          "Deep ploughing during summer",
+          "No summer and rabi cultivation in rust hot spot areas",
+          "Roguing and burning of infected plants, crop and crop residues",
+          "Two to three-years crop rotation in rust hot spot areas",
+          "Leave a 1.50 m vacant strip after every 15 rows to enable field entry for spraying"
+        ],
+        "biological_management": [],
+        "chemical_management": [
+          {
+            "active_ingredient_or_product": "Hexaconazole (Contaf) / Oxycarboxin (Plantvax)",
+            "dose": "0.1%",
+            "concentration": "0.1%",
+            "application_method": "Spray",
+            "timing": "Two to three sprays",
+            "number_of_applications": "2-3",
+            "result_reported_in_paper": "Found effective"
+          }
+        ],
+        "integrated_management": []
+      },
+      "resistant_or_tolerant_varieties": [
+        "Dsb-32",
+        "DSb-21",
+        "Dsb23-2",
+        "Phule Kalyani",
+        "Ankur",
+        "PK 1024",
+        "PK 1029",
+        "JS 80-21",
+        "Indira soybean 9",
+        "MAUS 61-2"
+      ],
+      "susceptible_varieties": [],
+      "prevention": [
+        "Do not use seeds from rust infected crop for sowing",
+        "Deep summer ploughing"
+      ],
+      "farmer_action_points": [
+        "Avoid using rust-infected seeds",
+        "Apply 2-3 sprays of hexaconazole or oxycarboxin"
+      ],
+      "warnings_and_limitations": [],
+      "research_findings": [],
+      "source_pages": [
+        "45",
+        "46"
+      ]
+    },
+    {
+      "disease_name": "Rhizoctonia aerial blight",
+      "alternative_names": [],
+      "disease_type": "Fungal Disease",
+      "causal_agent": "Rhizoctonia solani",
+      "pathogen_type": "Fungus",
+      "affected_plant_parts": [
+        "roots",
+        "basal stem",
+        "leaves",
+        "petioles",
+        "pods",
+        "seeds"
+      ],
+      "symptoms": {
+        "general": [
+          "Reddish brown sunken lesions in roots and basal portion of stem just above soil line",
+          "Death of plant, killing lower tap root and secondary root system",
+          "Small or large grayish brown to reddish brown spots on lower leaves turning dark brown",
+          "Defoliation with petioles remaining attached to stems",
+          "Oval to elongated spots on stem, petiole and pods",
+          "Dark brown sclerotia on petioles and leaves",
+          "Seeds infected through pod having irregularly shaped tan, sunken lesions"
+        ],
+        "early_symptoms": [
+          "Reddish brown sunken lesions on roots and basal stem"
+        ],
+        "advanced_symptoms": [
+          "Plant death",
+          "Extensive defoliation with petioles attached"
+        ],
+        "visual_field_symptoms": [
+          "Grayish brown to reddish brown spots on lower leaves",
+          "Dark brown sclerotia on petioles and leaves"
+        ]
+      },
+      "identification": {
+        "field_identification": [
+          "Reddish brown sunken lesions on basal stem",
+          "Grayish brown to reddish brown spots on leaves turning dark brown"
+        ],
+        "diagnostic_methods": [],
+        "differential_diagnosis": []
+      },
+      "causes_and_risk_factors": [
+        "Continued wet conditions",
+        "Monoculture of soybean",
+        "Soil and seed borne pathogen with sclerotia as primary inoculum"
+      ],
+      "favorable_conditions": {
+        "temperature": "",
+        "humidity": "Wet conditions",
+        "rainfall": "",
+        "soil_conditions": "",
+        "other_conditions": [
+          "Continued wet conditions"
+        ]
+      },
+      "disease_development_and_spread": [
+        "Pathogen is soil and seed borne",
+        "Sclerotia serve as primary inoculum"
+      ],
+      "epidemiology": [],
+      "severity_and_yield_loss": [
+        "Can cause up to 35% or more loss in yield",
+        "Severity increases with monoculture"
+      ],
+      "management": {
+        "cultural_management": [
+          "Cultivation of disease resistant/tolerant varieties like PK 262, PK 416, PK 472, PK 1042, SL 295",
+          "Avoidance of excess plant population"
+        ],
+        "biological_management": [],
+        "chemical_management": [
+          {
+            "active_ingredient_or_product": "Carboxin 37.5% + Thiram 37.5%",
+            "dose": "3 g/kg seed",
+            "concentration": "",
+            "application_method": "Seed treatment",
+            "timing": "Before sowing",
+            "number_of_applications": "1",
+            "result_reported_in_paper": "Seed treatment"
+          },
+          {
+            "active_ingredient_or_product": "Thiophanate methyl 45% + Pyraclostrobin 5% FS",
+            "dose": "3 ml/kg seed",
+            "concentration": "",
+            "application_method": "Seed treatment",
+            "timing": "Before sowing",
+            "number_of_applications": "1",
+            "result_reported_in_paper": "Seed treatment"
+          },
+          {
+            "active_ingredient_or_product": "Carbendazim or thiophanate methyl",
+            "dose": "",
+            "concentration": "0.1%",
+            "application_method": "Spray",
+            "timing": "",
+            "number_of_applications": "1",
+            "result_reported_in_paper": "Found very effective"
+          }
+        ],
+        "integrated_management": []
+      },
+      "resistant_or_tolerant_varieties": [
+        "PK 262",
+        "PK 416",
+        "PK 472",
+        "PK 1042",
+        "SL 295"
+      ],
+      "susceptible_varieties": [],
+      "prevention": [
+        "Avoid excess plant population",
+        "Use disease resistant/tolerant varieties"
+      ],
+      "farmer_action_points": [
+        "Seed treatment with recommended fungicides",
+        "Spray carbendazim or thiophanate methyl (0.1%)"
+      ],
+      "warnings_and_limitations": [],
+      "research_findings": [],
+      "source_pages": [
+        "46"
+      ]
+    },
+    {
+      "disease_name": "Myrothecium leaf spot",
+      "alternative_names": [],
+      "disease_type": "Fungal Disease",
+      "causal_agent": "Myrothecium roridum",
+      "pathogen_type": "Fungus",
+      "affected_plant_parts": [
+        "leaves",
+        "seeds",
+        "crop debris"
+      ],
+      "symptoms": {
+        "general": [
+          "Small round brown spots with dark brown or purple margin on leaves",
+          "Spots surrounded by a translucent area in concentric rings",
+          "Merging of spots in later stages becoming irregular shape",
+          "White sporodochia on maturity turning to black",
+          "Necrotic centres fall imparting a 'shot hole' effect"
+        ],
+        "early_symptoms": [
+          "Small round brown spots with dark brown or purple margin"
+        ],
+        "advanced_symptoms": [
+          "Spots merge to irregular shape",
+          "Necrotic centers drop out causing 'shot hole' effect"
+        ],
+        "visual_field_symptoms": [
+          "Round brown spots with concentric rings and shot hole effect"
+        ]
+      },
+      "identification": {
+        "field_identification": [
+          "Round brown spots with dark margins and concentric rings",
+          "Shot hole effect on leaves"
+        ],
+        "diagnostic_methods": [],
+        "differential_diagnosis": []
+      },
+      "causes_and_risk_factors": [
+        "Pathogen survives in seed and crop debris"
+      ],
+      "favorable_conditions": {
+        "temperature": "",
+        "humidity": "",
+        "rainfall": "",
+        "soil_conditions": "",
+        "other_conditions": []
+      },
+      "disease_development_and_spread": [
+        "Pathogen survives in seed and crop debris"
+      ],
+      "epidemiology": [],
+      "severity_and_yield_loss": [
+        "20-40% yield losses found in certain areas"
+      ],
+      "management": {
+        "cultural_management": [
+          "Use healthy and certified seed",
+          "Cultivation of resistant/moderately resistant varieties like Bragg, JS 71-05, JS 335, MACS 13, MACS 124, MAUS 47, NRC 7, PK 564"
+        ],
+        "biological_management": [],
+        "chemical_management": [
+          {
+            "active_ingredient_or_product": "Carboxin 37.5% + Thiram 37.5%",
+            "dose": "3 g/kg seed",
+            "concentration": "",
+            "application_method": "Seed treatment",
+            "timing": "Before sowing",
+            "number_of_applications": "1",
+            "result_reported_in_paper": "Seed treatment"
+          },
+          {
+            "active_ingredient_or_product": "Thiophanate methyl 45% + Pyraclostrobin 5% FS",
+            "dose": "3 ml/kg seed",
+            "concentration": "",
+            "application_method": "Seed treatment",
+            "timing": "Before sowing",
+            "number_of_applications": "1",
+            "result_reported_in_paper": "Seed treatment"
+          },
+          {
+            "active_ingredient_or_product": "Carbendazim or thiophanate methyl",
+            "dose": "400 to 800 g/ha",
+            "concentration": "0.05% to 0.1%",
+            "application_method": "Spray",
+            "timing": "First spray at 35 DAS",
+            "number_of_applications": "1",
+            "result_reported_in_paper": "Very effective when starting at 35 DAS"
+          },
+          {
+            "active_ingredient_or_product": "Mancozeb",
+            "dose": "2 kg/ha",
+            "concentration": "0.25%",
+            "application_method": "Spray",
+            "timing": "First spray at 35 DAS",
+            "number_of_applications": "1",
+            "result_reported_in_paper": "Very effective"
+          }
+        ],
+        "integrated_management": []
+      },
+      "resistant_or_tolerant_varieties": [
+        "Bragg",
+        "JS 71-05",
+        "JS 335",
+        "MACS 13",
+        "MACS 124",
+        "MAUS 47",
+        "NRC 7",
+        "PK 564"
+      ],
+      "susceptible_varieties": [],
+      "prevention": [
+        "Use healthy and certified seed"
+      ],
+      "farmer_action_points": [
+        "Use healthy certified seeds",
+        "Apply seed treatment followed by spray at 35 DAS"
+      ],
+      "warnings_and_limitations": [],
+      "research_findings": [],
+      "source_pages": [
+        "46"
+      ]
+    },
+    {
+      "disease_name": "Alternaria leaf spot and blight",
+      "alternative_names": [],
+      "disease_type": "Fungal Disease",
+      "causal_agent": "Alternaria tenuissima and A. alternaria",
+      "pathogen_type": "Fungus",
+      "affected_plant_parts": [
+        "leaves",
+        "pods",
+        "seeds"
+      ],
+      "symptoms": {
+        "general": [
+          "Brown necrotic spots with concentric rings on leaves coalescing to form large area, spreading inwards from leaf margin",
+          "Leaves eventually dry and drop later in the season",
+          "Pod and seed infection reducing seed viability",
+          "Light to dark grey blotches on seed coat"
+        ],
+        "early_symptoms": [
+          "Brown necrotic spots with concentric rings",
+          "Initially water soaked spots on pods turning slightly sunken reddish brown"
+        ],
+        "advanced_symptoms": [
+          "Coalescing of spots into large areas",
+          "Leaves dry and drop",
+          "Seed coat blotches"
+        ],
+        "visual_field_symptoms": [
+          "Small light brown circular to angular spots becoming ashy grey with purplish to dark brown margin (in field about two months after planting)",
+          "Heavily spotted leaves falling prematurely"
+        ]
+      },
+      "identification": {
+        "field_identification": [
+          "Brown necrotic spots with concentric rings",
+          "Water-soaked spots on pods turning reddish brown"
+        ],
+        "diagnostic_methods": [],
+        "differential_diagnosis": []
+      },
+      "causes_and_risk_factors": [
+        "High temperature and humidity",
+        "Late sown crop",
+        "Pathogen survival in seed and crop residues"
+      ],
+      "favorable_conditions": {
+        "temperature": "High temperature",
+        "humidity": "High humidity",
+        "rainfall": "",
+        "soil_conditions": "",
+        "other_conditions": [
+          "Late sowing"
+        ]
+      },
+      "disease_development_and_spread": [
+        "Pathogen survives in seed and crop residues",
+        "More common in late sown crops"
+      ],
+      "epidemiology": [],
+      "severity_and_yield_loss": [
+        "Causes pod and seed decay and reduces seed viability"
+      ],
+      "management": {
+        "cultural_management": [
+          "Use clean and certified seed and resistant varieties like PK 327, MACS 124, KHSb 2, NRC 2, PK 1042, Himso 1563, JS 80-21, Pusa 37, VLS 21, MACS 58, JS 79-81",
+          "Removal and burning of crop debris"
+        ],
+        "biological_management": [],
+        "chemical_management": [
+          {
+            "active_ingredient_or_product": "Carboxin 37.5% + Thiram 37.5%",
+            "dose": "3 g/kg seed",
+            "concentration": "",
+            "application_method": "Seed treatment",
+            "timing": "Before sowing",
+            "number_of_applications": "1",
+            "result_reported_in_paper": "Seed treatment"
+          },
+          {
+            "active_ingredient_or_product": "Thiophanate methyl 45% + Pyraclostrobin 5% FS",
+            "dose": "3 ml/kg seed",
+            "concentration": "",
+            "application_method": "Seed treatment",
+            "timing": "Before sowing",
+            "number_of_applications": "1",
+            "result_reported_in_paper": "Seed treatment"
+          },
+          {
+            "active_ingredient_or_product": "Carbendazim or thiophanate methyl",
+            "dose": "400 g/ha",
+            "concentration": "0.1%",
+            "application_method": "Spray",
+            "timing": "Over infected crop",
+            "number_of_applications": "1",
+            "result_reported_in_paper": "Effective"
+          }
+        ],
+        "integrated_management": []
+      },
+      "resistant_or_tolerant_varieties": [
+        "PK 327",
+        "MACS 124",
+        "KHSb 2",
+        "NRC 2",
+        "PK 1042",
+        "Himso 1563",
+        "JS 80-21",
+        "Pusa 37",
+        "VLS 21",
+        "MACS 58",
+        "JS 79-81"
+      ],
+      "susceptible_varieties": [],
+      "prevention": [
+        "Use clean certified seed",
+        "Remove and burn crop debris"
+      ],
+      "farmer_action_points": [
+        "Timely sowing to avoid late-sown risk",
+        "Seed treatment and fungicide spray"
+      ],
+      "warnings_and_limitations": [],
+      "research_findings": [],
+      "source_pages": [
+        "47"
+      ]
+    },
+    {
+      "disease_name": "Frog eye leaf spot",
+      "alternative_names": [],
+      "disease_type": "Fungal Disease",
+      "causal_agent": "Cercospora sojina",
+      "pathogen_type": "Fungus",
+      "affected_plant_parts": [
+        "leaves",
+        "aerial plant parts",
+        "pods",
+        "seeds",
+        "cotyledons"
+      ],
+      "symptoms": {
+        "general": [
+          "Small light brown circular to angular spots on leaves and aerial parts with ashy grey central area and purplish to dark brown margin",
+          "Absence of yellowing around the spot is a distinguishing symptom",
+          "Heavily spotted leaves fall prematurely",
+          "Water soaked spots on pods turning slightly sunken reddish brown",
+          "Light to dark grey blotches on seed coat"
+        ],
+        "early_symptoms": [
+          "Small light brown circular to angular spots appearing about two months after planting",
+          "Water-soaked spots on pods"
+        ],
+        "advanced_symptoms": [
+          "Premature defoliation",
+          "Grey blotches on seeds"
+        ],
+        "visual_field_symptoms": [
+          "Circular/angular spots with ashy grey centers and dark margins without yellow halo",
+          "Premature leaf drop"
+        ]
+      },
+      "identification": {
+        "field_identification": [
+          "Spots with ashy grey centers and dark margins lacking a yellow halo",
+          "Grey blotches on seed coat"
+        ],
+        "diagnostic_methods": [],
+        "differential_diagnosis": [
+          "Absence of yellowing around the spot distinguishes it from other leaf spots"
+        ]
+      },
+      "causes_and_risk_factors": [
+        "Warm and humid conditions",
+        "Pathogen survival on seeds and infected crop residues"
+      ],
+      "favorable_conditions": {
+        "temperature": "Warm",
+        "humidity": "Humid conditions",
+        "rainfall": "",
+        "soil_conditions": "",
+        "other_conditions": [
+          "Warm and humid weather"
+        ]
+      },
+      "disease_development_and_spread": [
+        "Pathogen survives on seeds and infected crop residues",
+        "Infected crop residues produce conidia as primary inoculum",
+        "Spores produced on cotyledons of infected seedlings are source of inoculum",
+        "Infected seeds are means of distant dissemination"
+      ],
+      "epidemiology": [],
+      "severity_and_yield_loss": [
+        "Causes about 22% yield loss along with anthracnose"
+      ],
+      "management": {
+        "cultural_management": [
+          "Use clean and certified seed and resistant varieties like Bragg, Hardee, MACS 58, PK 1024, JS 79-81, JS 80-21",
+          "Removal and burning of crop debris"
+        ],
+        "biological_management": [],
+        "chemical_management": [
+          {
+            "active_ingredient_or_product": "Carboxin 37.5% + Thiram 37.5%",
+            "dose": "3 g/kg seed",
+            "concentration": "",
+            "application_method": "Seed treatment",
+            "timing": "Before sowing",
+            "number_of_applications": "1",
+            "result_reported_in_paper": "Seed treatment"
+          },
+          {
+            "active_ingredient_or_product": "Thiophanate methyl 45% + Pyraclostrobin 5% FS",
+            "dose": "3 ml/kg seed",
+            "concentration": "",
+            "application_method": "Seed treatment",
+            "timing": "Before sowing",
+            "number_of_applications": "1",
+            "result_reported_in_paper": "Seed treatment"
+          },
+          {
+            "active_ingredient_or_product": "Carbendazim or thiophanate methyl",
+            "dose": "",
+            "concentration": "0.1%",
+            "application_method": "Spray",
+            "timing": "Over infected crop",
+            "number_of_applications": "1",
+            "result_reported_in_paper": "Effective"
+          }
+        ],
+        "integrated_management": []
+      },
+      "resistant_or_tolerant_varieties": [
+        "Bragg",
+        "Hardee",
+        "MACS 58",
+        "PK 1024",
+        "JS 79-81",
+        "JS 80-21"
+      ],
+      "susceptible_varieties": [],
+      "prevention": [
+        "Use clean certified seeds",
+        "Remove and burn crop debris"
+      ],
+      "farmer_action_points": [
+        "Use certified clean seeds",
+        "Remove crop debris and apply seed/foliar treatments"
+      ],
+      "warnings_and_limitations": [],
+      "research_findings": [],
+      "source_pages": [
+        "46",
+        "47"
+      ]
+    },
+    {
+      "disease_name": "Cercospora blight or leaf spot and purple seed stain",
+      "alternative_names": [
+        "Purple seed stain"
+      ],
+      "disease_type": "Fungal Disease",
+      "causal_agent": "Cercospora kikuchii",
+      "pathogen_type": "Fungus",
+      "affected_plant_parts": [
+        "leaves",
+        "stems",
+        "petioles",
+        "pods",
+        "seeds",
+        "cotyledons"
+      ],
+      "symptoms": {
+        "general": [
+          "Light to reddish purple angular to irregular lesions on both leaf surfaces at beginning of seed set",
+          "Upper leaves sometimes have light purple appearance making them leathery and dark",
+          "Rapid chlorosis and necrosis of leaf tissues resulting in defoliation from upper young leaves",
+          "Veinal necrosis and blightening of younger upper leaves over large area",
+          "Reddish purple to reddish black slightly sunken lesions on stem, petiole and pod",
+          "Heavily infected stems have dull gray to dark brown appearance and dry up 7-10 days prematurely",
+          "Seeds develop pink to dark purple coloration",
+          "Low seed germination, shriveled and discolored cotyledons, seedling death"
+        ],
+        "early_symptoms": [
+          "Light to reddish purple angular to irregular lesions on leaves at seed set"
+        ],
+        "advanced_symptoms": [
+          "Rapid chlorosis/necrosis, veinal necrosis, upper leaf blightening",
+          "Premature stem drying",
+          "Purple stained seeds"
+        ],
+        "visual_field_symptoms": [
+          "Leathery dark upper leaves with light purple appearance",
+          "Blightening of younger upper leaves",
+          "Pink to dark purple stained seeds"
+        ]
+      },
+      "identification": {
+        "field_identification": [
+          "Purple angular lesions on leaves",
+          "Blightening of upper young leaves",
+          "Characteristic purple stain on seeds"
+        ],
+        "diagnostic_methods": [],
+        "differential_diagnosis": []
+      },
+      "causes_and_risk_factors": [
+        "High humidity especially at flowering stage on early maturing cultivars",
+        "Pathogen survival in seeds and surface crop debris"
+      ],
+      "favorable_conditions": {
+        "temperature": "",
+        "humidity": "High humidity",
+        "rainfall": "",
+        "soil_conditions": "",
+        "other_conditions": [
+          "Flowering stage in early maturing cultivars"
+        ]
+      },
+      "disease_development_and_spread": [
+        "Pathogen overwinters in diseased leaves, stems, and seeds",
+        "Infects plants at flowering stage",
+        "Secondary infection from conidia produced on infected plants",
+        "Fungus reaches seed coat from pods producing purple stain"
+      ],
+      "epidemiology": [],
+      "severity_and_yield_loss": [
+        "Causes 15-30% yield loss",
+        "Reduced seed germination and market value due to staining"
+      ],
+      "management": {
+        "cultural_management": [
+          "Use of clean & certified seeds",
+          "Cultivation of resistant varieties like JS 80-21 & Bragg"
+        ],
+        "biological_management": [],
+        "chemical_management": [
+          {
+            "active_ingredient_or_product": "Carboxin 37.5% + Thiram 37.5%",
+            "dose": "3 g/kg seed",
+            "concentration": "",
+            "application_method": "Seed treatment",
+            "timing": "Before sowing",
+            "number_of_applications": "1",
+            "result_reported_in_paper": "Seed treatment"
+          },
+          {
+            "active_ingredient_or_product": "Thiophanate methyl 45% + Pyraclostrobin 5% FS",
+            "dose": "3 ml/kg seed",
+            "concentration": "",
+            "application_method": "Seed treatment",
+            "timing": "Before sowing",
+            "number_of_applications": "1",
+            "result_reported_in_paper": "Seed treatment"
+          }
+        ],
+        "integrated_management": []
+      },
+      "resistant_or_tolerant_varieties": [
+        "JS 80-21",
+        "Bragg"
+      ],
+      "susceptible_varieties": [],
+      "prevention": [
+        "Use clean and certified seeds"
+      ],
+      "farmer_action_points": [
+        "Use certified clean seeds",
+        "Seed treatment with recommended fungicides"
+      ],
+      "warnings_and_limitations": [],
+      "research_findings": [],
+      "source_pages": [
+        "47",
+        "48"
+      ]
+    },
+    {
+      "disease_name": "Collar rot",
+      "alternative_names": [],
+      "disease_type": "Soil-borne Fungal Disease",
+      "causal_agent": "Sclerotium rolfsii",
+      "pathogen_type": "Fungus",
+      "affected_plant_parts": [
+        "collar region",
+        "stem base",
+        "roots",
+        "seedlings"
+      ],
+      "symptoms": {
+        "general": [
+          "White cottony mycelium with reddish brown to dark brown mustard size sclerotia on the surface",
+          "Attacks collar region or just below soil surface",
+          "Damping off in younger and collar rot in older plants resulting in drooping or wilting"
+        ],
+        "early_symptoms": [
+          "Damping off in younger plants",
+          "White cottony growth at stem base"
+        ],
+        "advanced_symptoms": [
+          "Wilting and drooping of plants",
+          "Development of mustard-sized brown sclerotia on surface"
+        ],
+        "visual_field_symptoms": [
+          "Cottony white mycelium and brown sclerotia at the base of the stem",
+          "Drooping and wilting of plants"
+        ]
+      },
+      "identification": {
+        "field_identification": [
+          "White cottony mycelium with mustard-sized brown sclerotia at stem base",
+          "Wilting and damping off"
+        ],
+        "diagnostic_methods": [],
+        "differential_diagnosis": []
+      },
+      "causes_and_risk_factors": [
+        "Hot and humid conditions",
+        "Soil-borne sclerotia persisting through soil, crop residue and weeds"
+      ],
+      "favorable_conditions": {
+        "temperature": "Hot",
+        "humidity": "Humid",
+        "rainfall": "",
+        "soil_conditions": "",
+        "other_conditions": [
+          "Hot and humid conditions"
+        ]
+      },
+      "disease_development_and_spread": [
+        "Sclerotia perpetuate through soil, crop residue, and weeds",
+        "Sclerotia can flow with water to other parts of the field to infect the crop"
+      ],
+      "epidemiology": [],
+      "severity_and_yield_loss": [],
+      "management": {
+        "cultural_management": [
+          "Field sanitation, rouging and burning of infected plants check spread of disease",
+          "Crop rotation with maize or sorghum",
+          "Deep summer ploughing to a depth of 15-20 cm to reduce pathogen",
+          "Use tolerant variety NRC 37"
+        ],
+        "biological_management": [
+          "Trichoderma @ 5 g/kg seed"
+        ],
+        "chemical_management": [
+          {
+            "active_ingredient_or_product": "Vitavax",
+            "dose": "3 g/kg seed",
+            "concentration": "",
+            "application_method": "Seed treatment",
+            "timing": "Before sowing",
+            "number_of_applications": "1",
+            "result_reported_in_paper": "Seed treatment"
+          }
+        ],
+        "integrated_management": []
+      },
+      "resistant_or_tolerant_varieties": [
+        "NRC 37"
+      ],
+      "susceptible_varieties": [],
+      "prevention": [
+        "Deep summer ploughing (15-20 cm)",
+        "Field sanitation and rouging"
+      ],
+      "farmer_action_points": [
+        "Treat seeds with Vitavax or Trichoderma",
+        "Perform deep summer ploughing",
+        "Uproot and bury infected plants showing cottony growth at stem base"
+      ],
+      "warnings_and_limitations": [],
+      "research_findings": [],
+      "source_pages": [
+        "58",
+        "71"
+      ]
+    },
+    {
+      "disease_name": "Charcoal rot",
+      "alternative_names": [],
+      "disease_type": "Soil and Seed-borne Fungal Disease",
+      "causal_agent": "Macrophomina phaseolina",
+      "pathogen_type": "Fungus",
+      "affected_plant_parts": [
+        "roots",
+        "lower stem",
+        "upper tap root",
+        "leaves",
+        "seedlings"
+      ],
+      "symptoms": {
+        "general": [
+          "Infects root and stem base, causing infected seedlings to become weak and die prematurely",
+          "Leaves droop down, dry, and remain attached to plants",
+          "Brown discolouration of lower stem and upper tap root with chlorotic leaves initially and silvery grey stem later",
+          "Abundant minute black sclerotia beneath outer skin with silvery grey colour"
+        ],
+        "early_symptoms": [
+          "Chlorotic leaves",
+          "Premature death of infected seedlings"
+        ],
+        "advanced_symptoms": [
+          "Silvery grey stem with abundant minute black sclerotia beneath outer skin",
+          "Leaves dry and droop while attached to plant"
+        ],
+        "visual_field_symptoms": [
+          "Silvery grey lower stems with black sclerotia under skin",
+          "Dried leaves hanging/attached to plants"
+        ]
+      },
+      "identification": {
+        "field_identification": [
+          "Silvery grey stem with minute black sclerotia beneath the outer skin",
+          "Brown discolouration of lower stem and upper tap root"
+        ],
+        "diagnostic_methods": [],
+        "differential_diagnosis": []
+      },
+      "causes_and_risk_factors": [
+        "Dry conditions, low soil moisture",
+        "Temperature ranging from 25 to 35 C"
+      ],
+      "favorable_conditions": {
+        "temperature": "25 to 35 C",
+        "humidity": "",
+        "rainfall": "Low rainfall / dry conditions",
+        "soil_conditions": "Low soil moisture",
+        "other_conditions": [
+          "Dry conditions"
+        ]
+      },
+      "disease_development_and_spread": [
+        "Soil and seed borne disease"
+      ],
+      "epidemiology": [],
+      "severity_and_yield_loss": [],
+      "management": {
+        "cultural_management": [
+          "Irrigation during low soil moisture (drought condition) especially at flowering to pod-fill stage",
+          "Crop rotation with cereals or mixed cropping",
+          "Balanced use of fertilizer and proper seed rate",
+          "Use tolerant varieties like NRC 2, NRC 37, JS 71-05, AMS 5-18, JS 20-98, MACS 13",
+          "Sowing at raised bed or broad bed with basal application of Zinc Sulphate @ 25 kg/ha along with Boron @ 0.5 kg/ha"
+        ],
+        "biological_management": [],
+        "chemical_management": [
+          {
+            "active_ingredient_or_product": "Carboxin 37.5% + Thiram 37.5%",
+            "dose": "3 g/kg seed",
+            "concentration": "",
+            "application_method": "Seed treatment",
+            "timing": "Before sowing",
+            "number_of_applications": "1",
+            "result_reported_in_paper": "Seed treatment"
+          },
+          {
+            "active_ingredient_or_product": "Thiophanate methyl 45% + Pyraclostrobin 5% FS",
+            "dose": "3 ml/kg seed",
+            "concentration": "",
+            "application_method": "Seed treatment",
+            "timing": "Before sowing",
+            "number_of_applications": "1",
+            "result_reported_in_paper": "Seed treatment"
+          }
+        ],
+        "integrated_management": []
+      },
+      "resistant_or_tolerant_varieties": [
+        "NRC 2",
+        "NRC 37",
+        "JS 71-05",
+        "AMS 5-18",
+        "JS 20-98",
+        "MACS 13"
+      ],
+      "susceptible_varieties": [],
+      "prevention": [
+        "Provide irrigation during drought / low soil moisture",
+        "Use tolerant varieties"
+      ],
+      "farmer_action_points": [
+        "Ensure irrigation during dry spells at flowering/pod-fill",
+        "Apply basal zinc sulphate and boron on raised/broad beds"
+      ],
+      "warnings_and_limitations": [],
+      "research_findings": [],
+      "source_pages": [
+        "71"
+      ]
+    },
+    {
+      "disease_name": "Bacterial pustule",
+      "alternative_names": [],
+      "disease_type": "Bacterial Disease",
+      "causal_agent": "Xanthomonas axonopodis pv. glycines",
+      "pathogen_type": "Bacterium",
+      "affected_plant_parts": [
+        "leaves",
+        "stems",
+        "petioles",
+        "pods",
+        "seeds"
+      ],
+      "symptoms": {
+        "general": [
+          "Small pale green spots with raised centres develop on either or both sides of leaf, looking like dark centre with pale green halo or ring",
+          "In severe conditions, lesions merge to form irregular mottled brown areas",
+          "Leaves become ragged when dead areas are torn away by wind",
+          "Severe infection results in defoliation",
+          "Small reddish brown slightly raised spots on pods in highly susceptible cultivars"
+        ],
+        "early_symptoms": [
+          "Small pale green spots with raised centers on leaves"
+        ],
+        "advanced_symptoms": [
+          "Lesions merge into irregular mottled brown areas",
+          "Ragged leaves and defoliation"
+        ],
+        "visual_field_symptoms": [
+          "Spots with dark centers and pale green haloes",
+          "Ragged torn leaves"
+        ]
+      },
+      "identification": {
+        "field_identification": [
+          "Pale green spots with raised centers and haloes on leaves",
+          "Ragged leaves due to wind tearing dead tissue"
+        ],
+        "diagnostic_methods": [],
+        "differential_diagnosis": []
+      },
+      "causes_and_risk_factors": [
+        "Bacterium overwinters in seeds, crop debris and wheat root rhizosphere",
+        "Spreads through water splashing or wind-blown rain",
+        "Warm weather conditions and frequent rains during cropping season"
+      ],
+      "favorable_conditions": {
+        "temperature": "Warm weather",
+        "humidity": "Frequent rains",
+        "rainfall": "Frequent rains",
+        "soil_conditions": "",
+        "other_conditions": [
+          "Warm weather and rain splash"
+        ]
+      },
+      "disease_development_and_spread": [
+        "First infection takes place at 25-30 days after planting",
+        "Enters through natural openings and wounds",
+        "Spreads via water splashing and wind-blown rain"
+      ],
+      "epidemiology": [],
+      "severity_and_yield_loss": [],
+      "management": {
+        "cultural_management": [
+          "Use resistant varieties like NRC 2, NRC 7, Ankur, Hara Soy, JS 335, PK 416, PK 472, PS 564, PK 308 and PK 327",
+          "Use disease free seeds",
+          "Follow crop rotations with cereals and maize",
+          "Use balanced dose of fertilizer specially potash 40-80 Kg/ha"
+        ],
+        "biological_management": [],
+        "chemical_management": [
+          {
+            "active_ingredient_or_product": "Vitavax",
+            "dose": "0.2%",
+            "concentration": "0.2%",
+            "application_method": "Seed treatment",
+            "timing": "Before sowing",
+            "number_of_applications": "1",
+            "result_reported_in_paper": "Seed treatment"
+          },
+          {
+            "active_ingredient_or_product": "Kasugamycin",
+            "dose": "",
+            "concentration": "0.2%",
+            "application_method": "Spray",
+            "timing": "At 15 days intervals",
+            "number_of_applications": "",
+            "result_reported_in_paper": ""
+          }
+        ],
+        "integrated_management": []
+      },
+      "resistant_or_tolerant_varieties": [
+        "NRC 2",
+        "NRC 7",
+        "Ankur",
+        "Hara Soy",
+        "JS 335",
+        "PK 416",
+        "PK 472",
+        "PS 564",
+        "PK 308",
+        "PK 327"
+      ],
+      "susceptible_varieties": [],
+      "prevention": [
+        "Use disease free and healthy seeds",
+        "Follow crop rotation with cereals and maize"
+      ],
+      "farmer_action_points": [
+        "Use resistant varieties and disease-free seeds",
+        "Apply balanced potash fertilizer and spray Kasugamycin (0.2%)"
+      ],
+      "warnings_and_limitations": [],
+      "research_findings": [],
+      "source_pages": [
+        "71",
+        "72"
+      ]
+    },
+    {
+      "disease_name": "Bacterial Blight",
+      "alternative_names": [],
+      "disease_type": "Bacterial Disease",
+      "causal_agent": "Pseudomonas syringae pv. glycinea",
+      "pathogen_type": "Bacterium",
+      "affected_plant_parts": [
+        "leaves",
+        "stem",
+        "petioles",
+        "pods",
+        "seeds"
+      ],
+      "symptoms": {
+        "general": [
+          "Blight lesions on leaves, stem, petioles and pods",
+          "Small angular translucent water soaked yellow to light brown spots on leaves",
+          "Centres dry out and turn reddish brown to black surrounded by yellowish green halo",
+          "Centres frequently fall out to form ragged leaves",
+          "Young leaves most susceptible; large black lesions on stem and petioles",
+          "Pod lesions small and water soaked turning brown to black with age",
+          "Infected seeds in storage shrivel and develop sunken or raised lesions"
+        ],
+        "early_symptoms": [
+          "Small angular translucent water-soaked yellow to light brown spots on leaves"
+        ],
+        "advanced_symptoms": [
+          "Necrotic centers fall out creating ragged leaves",
+          "Large black lesions on stems, petioles, and pods"
+        ],
+        "visual_field_symptoms": [
+          "Water-soaked angular spots on leaves turning dark with haloes",
+          "Ragged leaf appearance"
+        ]
+      },
+      "identification": {
+        "field_identification": [
+          "Angular water-soaked spots on leaves with yellowish green haloes",
+          "Ragged leaves with centers falling out"
+        ],
+        "diagnostic_methods": [],
+        "differential_diagnosis": []
+      },
+      "causes_and_risk_factors": [
+        "Pathogen overwinters in crop residue and seeds",
+        "Primary infections of cotyledons are major source of inoculum",
+        "Cool and rainy weather favors development"
+      ],
+      "favorable_conditions": {
+        "temperature": "Cool weather (temperature above 35C helps in controlling disease)",
+        "humidity": "Rainy weather",
+        "rainfall": "Rainy weather",
+        "soil_conditions": "",
+        "other_conditions": [
+          "Cool and rainy weather"
+        ]
+      },
+      "disease_development_and_spread": [
+        "Enters plant through natural openings and cuts",
+        "Multiplies in intercellular spaces of mesophyll"
+      ],
+      "epidemiology": [],
+      "severity_and_yield_loss": [],
+      "management": {
+        "cultural_management": [
+          "Use disease free and healthy seeds",
+          "Use resistant varieties like PK 472, JS 335",
+          "Follow crop rotations with non-host crop",
+          "Use balanced dose of fertilizer specially potash 40-80 Kg/ha",
+          "Avoid field operation and intercultural operation when leaves are wet"
+        ],
+        "biological_management": [],
+        "chemical_management": [
+          {
+            "active_ingredient_or_product": "Carbendazim",
+            "dose": "",
+            "concentration": "0.2%",
+            "application_method": "Seed treatment and spray",
+            "timing": "Before sowing and as spray",
+            "number_of_applications": "",
+            "result_reported_in_paper": ""
+          }
+        ],
+        "integrated_management": []
+      },
+      "resistant_or_tolerant_varieties": [
+        "PK 472",
+        "JS 335"
+      ],
+      "susceptible_varieties": [],
+      "prevention": [
+        "Use disease free and healthy seeds",
+        "Avoid working in fields when leaves are wet"
+      ],
+      "farmer_action_points": [
+        "Avoid wet-leaf field operations",
+        "Seed treatment and spraying with carbendazim (0.2%)"
+      ],
+      "warnings_and_limitations": [],
+      "research_findings": [],
+      "source_pages": [
+        "72"
+      ]
+    },
+    {
+      "disease_name": "Yellow Mosaic",
+      "alternative_names": [],
+      "disease_type": "Viral Disease",
+      "causal_agent": "Mung Bean yellow Mosaic Virus (MYMIV)",
+      "pathogen_type": "Virus",
+      "affected_plant_parts": [
+        "leaves",
+        "flowers",
+        "pods"
+      ],
+      "symptoms": {
+        "general": [
+          "Yellow spots either scattered or produced in indefinite bands along major veins",
+          "Rusty necrotic spots appear in yellow areas as leaves mature",
+          "Severe mottling and crinkling of leaves",
+          "Leaves of severely infected plants become yellow when young",
+          "Affected plants bear less flowers and pods",
+          "Infection results in decrease in oil and increase in protein content"
+        ],
+        "early_symptoms": [
+          "Yellow spots along major veins",
+          "Young leaves turning yellow"
+        ],
+        "advanced_symptoms": [
+          "Mottling, crinkling, and rusty necrosis",
+          "Reduced flower and pod bearing"
+        ],
+        "visual_field_symptoms": [
+          "Yellow bands along veins",
+          "Bright yellow young leaves visible from a distance"
+        ]
+      },
+      "identification": {
+        "field_identification": [
+          "Yellow patches or bands along leaf veins",
+          "Crinkling and yellowing of young leaves"
+        ],
+        "diagnostic_methods": [],
+        "differential_diagnosis": []
+      },
+      "causes_and_risk_factors": [
+        "Sap transmitted and spread by whitefly Bemisia tabaci",
+        "Wide host range including pulses and weeds"
+      ],
+      "favorable_conditions": {
+        "temperature": "",
+        "humidity": "",
+        "rainfall": "",
+        "soil_conditions": "",
+        "other_conditions": [
+          "Presence of whitefly vector Bemisia tabaci"
+        ]
+      },
+      "disease_development_and_spread": [
+        "Spread by whitefly vector Bemisia tabaci",
+        "Wide host range including pulses and weeds"
+      ],
+      "epidemiology": [],
+      "severity_and_yield_loss": [
+        "Decreases oil and increases protein content",
+        "Reduction in flowers and pods"
+      ],
+      "management": {
+        "cultural_management": [
+          "Cultivation of resistant varieties like JS 20-29, JS 20-69, JS 97-52, PK 416, PK 472, CO-1, MACS 450, PS 564, PS 1024, PS 1029, PS 1092, Shivalik, SL 295, Hardee, Ankur, PK327, Birsa Soybean 1, MACS 57",
+          "Use balanced dose of fertilizer",
+          "Rouging and burying of infected plants",
+          "Follow clean cultivation practices"
+        ],
+        "biological_management": [],
+        "chemical_management": [
+          {
+            "active_ingredient_or_product": "Thiamethoxam 30 FS",
+            "dose": "10 ml/Kg seed",
+            "concentration": "",
+            "application_method": "Seed treatment",
+            "timing": "Before sowing",
+            "number_of_applications": "1",
+            "result_reported_in_paper": "Seed treatment"
+          },
+          {
+            "active_ingredient_or_product": "Imidachlloprid 48 FS",
+            "dose": "1.25 ml/kg seed",
+            "concentration": "",
+            "application_method": "Seed treatment",
+            "timing": "Before sowing",
+            "number_of_applications": "1",
+            "result_reported_in_paper": "Seed treatment"
+          },
+          {
+            "active_ingredient_or_product": "Thiamethoxam 25WG",
+            "dose": "100 g/ha",
+            "concentration": "",
+            "application_method": "Spray",
+            "timing": "At 35 DAS",
+            "number_of_applications": "1",
+            "result_reported_in_paper": "Effective"
+          }
+        ],
+        "integrated_management": []
+      },
+      "resistant_or_tolerant_varieties": [
+        "JS 20-29",
+        "JS 20-69",
+        "JS 97-52",
+        "PK 416",
+        "PK 472",
+        "CO-1",
+        "MACS 450",
+        "PS 564",
+        "PS 1024",
+        "PS 1029",
+        "PS 1092",
+        "Shivalik",
+        "SL 295",
+        "Hardee",
+        "Ankur",
+        "PK327",
+        "Birsa Soybean 1",
+        "MACS 57"
+      ],
+      "susceptible_varieties": [],
+      "prevention": [
+        "Uprooted and bury infected plants (rouging)",
+        "Control whitefly vector"
+      ],
+      "farmer_action_points": [
+        "Uproost and destroy yellow mosaic infected plants immediately (visible from a distance)",
+        "Seed treatment with thiamethoxam or imidacloprid"
+      ],
+      "warnings_and_limitations": [],
+      "research_findings": [],
+      "source_pages": [
+        "57",
+        "58",
+        "72",
+        "73"
+      ]
+    },
+    {
+      "disease_name": "Soybean Mosaic",
+      "alternative_names": [],
+      "disease_type": "Viral Disease",
+      "causal_agent": "Soybean Mosaic Virus (SMV)",
+      "pathogen_type": "Virus",
+      "affected_plant_parts": [
+        "leaves",
+        "pods",
+        "seeds"
+      ],
+      "symptoms": {
+        "general": [
+          "Yellowish vein clearing symptom along small branching veins of young leaves",
+          "Typical rugosity appears on third trifoliate leaves",
+          "Necrosis, brown discolouration of leaf veins, yellowing of leaves, stunting of plant and defoliation from systemic infection",
+          "Flattened, stunted and curved pods with less pubescence"
+        ],
+        "early_symptoms": [
+          "Yellowish vein clearing on young leaves"
+        ],
+        "advanced_symptoms": [
+          "Rugosity on third trifoliate leaves",
+          "Systemic necrosis, stunting, and defoliation"
+        ],
+        "visual_field_symptoms": [
+          "Vein clearing and rugose leaves",
+          "Stunted plants with curved pods"
+        ]
+      },
+      "identification": {
+        "field_identification": [
+          "Vein clearing on young leaves",
+          "Rugosity on trifoliate leaves and stunting"
+        ],
+        "diagnostic_methods": [],
+        "differential_diagnosis": [
+          "Symptoms are less severe at 24-25 C and masked above 30 C"
+        ]
+      },
+      "causes_and_risk_factors": [
+        "Seed-borne disease (infected seeds fail to germinate or produce diseased seedlings)",
+        "Transmitted by aphid species e.g. Aphis craccivora, Aphis gossypii, Myzus persicae",
+        "May occur together with BYMV in the field"
+      ],
+      "favorable_conditions": {
+        "temperature": "Less severe at 24-25 C, masked above 30 C",
+        "humidity": "",
+        "rainfall": "",
+        "soil_conditions": "",
+        "other_conditions": [
+          "Presence of aphid vectors"
+        ]
+      },
+      "disease_development_and_spread": [
+        "Seed-borne",
+        "Spread by aphid vectors"
+      ],
+      "epidemiology": [],
+      "severity_and_yield_loss": [],
+      "management": {
+        "cultural_management": [
+          "Use resistant varieties like Hardee, Ankur, PK327, Birsa Soybean 1, MACS 57",
+          "Use balanced dose of fertilizer",
+          "Rouging and burying of infected plants",
+          "Follow clean cultivation practices"
+        ],
+        "biological_management": [],
+        "chemical_management": [
+          {
+            "active_ingredient_or_product": "Thiamethoxam 70WS",
+            "dose": "3 g/Kg",
+            "concentration": "",
+            "application_method": "Seed treatment",
+            "timing": "Before sowing",
+            "number_of_applications": "1",
+            "result_reported_in_paper": "Seed treatment"
+          },
+          {
+            "active_ingredient_or_product": "Thiamethoxam 25WG",
+            "dose": "100 g/ha",
+            "concentration": "",
+            "application_method": "Spray",
+            "timing": "At 35 DAS",
+            "number_of_applications": "1",
+            "result_reported_in_paper": "Effective"
+          },
+          {
+            "active_ingredient_or_product": "Metasystox",
+            "dose": "",
+            "concentration": "0.01%",
+            "application_method": "Spray",
+            "timing": "At 10 days intervals",
+            "number_of_applications": "",
+            "result_reported_in_paper": ""
+          }
+        ],
+        "integrated_management": []
+      },
+      "resistant_or_tolerant_varieties": [
+        "Hardee",
+        "Ankur",
+        "PK327",
+        "Birsa Soybean 1",
+        "MACS 57"
+      ],
+      "susceptible_varieties": [],
+      "prevention": [
+        "Use disease-free seeds",
+        "Rouging of infected plants"
+      ],
+      "farmer_action_points": [
+        "Seed treatment with thiamethoxam",
+        "Uproot and bury infected plants"
+      ],
+      "warnings_and_limitations": [
+        "Symptoms are masked above 30C"
+      ],
+      "research_findings": [],
+      "source_pages": [
+        "73"
+      ]
+    },
+    {
+      "disease_name": "Bud blight like Symptoms (Bud Necrosis)",
+      "alternative_names": [
+        "Bud Necrosis"
+      ],
+      "disease_type": "Viral Disease",
+      "causal_agent": "Bud Necrosis Virus (BNV)",
+      "pathogen_type": "Virus",
+      "affected_plant_parts": [
+        "terminal buds",
+        "stem",
+        "branches",
+        "petioles",
+        "pods",
+        "seeds"
+      ],
+      "symptoms": {
+        "general": [
+          "Curving of terminal buds to form a crook-like structure",
+          "Other buds become brown, necrotic, and brittle, falling off at slightest touch",
+          "Pith of stem and branches show brown discolouration",
+          "Petioles of youngest trifoliate leaves thickened, shortened and curved",
+          "Pods under developed, do not produce viable seeds, drop early",
+          "Maturity delayed; plants remain green until harvest",
+          "Stunted growth with less nodes and internodes in plants infected when less than 5 weeks old"
+        ],
+        "early_symptoms": [
+          "Curving of terminal buds into a crook-like structure"
+        ],
+        "advanced_symptoms": [
+          "Necrotic brittle buds falling off",
+          "Stem pith browning",
+          "Delayed maturity / green stems at harvest"
+        ],
+        "visual_field_symptoms": [
+          "Crook-like curved terminal buds",
+          "Stunted plants remaining green until harvest"
+        ]
+      },
+      "identification": {
+        "field_identification": [
+          "Curved terminal buds forming crook-like structure",
+          "Stunted growth and green plants at harvest maturity"
+        ],
+        "diagnostic_methods": [],
+        "differential_diagnosis": [
+          "Plants grown at temperature above 25C do not show stunting"
+        ]
+      },
+      "causes_and_risk_factors": [
+        "Seed-borne virus infecting members of families Amaranthaceae, Chenopodiaceae, Compositae, Leguminaceae, Cucurbitaceae, Malvaceae, Solanaceae, and Umbelliferae",
+        "Infects all stages but susceptibility decreases after bloom"
+      ],
+      "favorable_conditions": {
+        "temperature": "Below 25C shows stunting; above 25C plants do not show stunting",
+        "humidity": "",
+        "rainfall": "",
+        "soil_conditions": "",
+        "other_conditions": [
+          "Infection before 5 weeks of age"
+        ]
+      },
+      "disease_development_and_spread": [
+        "Seed-borne",
+        "Infects hosts across multiple botanical families"
+      ],
+      "epidemiology": [],
+      "severity_and_yield_loss": [
+        "Underdeveloped pods, unviable seeds, early pod drop"
+      ],
+      "management": {
+        "cultural_management": [
+          "Use resistant or tolerant varieties like MACS 124, NRC 37",
+          "Use balanced dose of fertilizer",
+          "Rouging and burying of infected plants",
+          "Follow clean cultivation practices",
+          "Use pre-emergence herbicide to kill or rogue out broad leaf weeds as they harbour the pathogen"
+        ],
+        "biological_management": [],
+        "chemical_management": [],
+        "integrated_management": []
+      },
+      "resistant_or_tolerant_varieties": [
+        "MACS 124",
+        "NRC 37"
+      ],
+      "susceptible_varieties": [],
+      "prevention": [
+        "Control broad leaf weed hosts using pre-emergence herbicides",
+        "Rouging of infected plants"
+      ],
+      "farmer_action_points": [
+        "Use resistant/tolerant varieties",
+        "Control broad-leaved weeds hosting the pathogen with pre-emergence herbicides"
+      ],
+      "warnings_and_limitations": [],
+      "research_findings": [],
+      "source_pages": [
+        "73",
+        "74"
+      ]
+    }
+  ],
+  "paper_level_notes": [
+    "The e-book covers comprehensive climate-smart practices, agronomy, varieties, weed management, nutrition, insect and disease management, and mechanization for soybean production in India."
+  ],
+  "_processing_metadata": {
+    "source_pdf": "Soybean.pdf",
+    "crop_detected_from_filename": "Soybean",
+    "model_used": "gemini-3.5-flash-lite",
+    "extracted_at": "2026-09-23 23:16:02"
+  }
+}

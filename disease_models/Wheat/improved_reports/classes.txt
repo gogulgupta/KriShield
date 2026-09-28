@@ -1,0 +1,5 @@
+0: BrownRust
+1: Healthy
+2: Mildew
+3: Septoria
+4: YellowRust

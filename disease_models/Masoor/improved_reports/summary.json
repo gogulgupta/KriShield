@@ -1,0 +1,8 @@
+{
+  "crop": "Masoor",
+  "test_accuracy": 0.8851351351351351,
+  "test_macro_f1": 0.8836790216660215,
+  "best_val_accuracy": 0.8783783783783784,
+  "best_epoch": 24,
+  "image_size": 300
+}

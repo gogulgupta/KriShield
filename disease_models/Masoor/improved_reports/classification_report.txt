@@ -1,0 +1,10 @@
+                  precision    recall  f1-score   support
+
+Ascochyta_blight     0.9403    0.8514    0.8936        74
+     Lentil_Rust     0.9012    0.9865    0.9419        74
+          Normal     0.8261    0.7703    0.7972        74
+  Powdery_Mildew     0.8734    0.9324    0.9020        74
+
+        accuracy                         0.8851       296
+       macro avg     0.8853    0.8851    0.8837       296
+    weighted avg     0.8853    0.8851    0.8837       296

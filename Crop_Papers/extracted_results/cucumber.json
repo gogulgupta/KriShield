@@ -1,0 +1,2319 @@
+{
+  "crop": "Cucurbitaceous Crops",
+  "paper_information": {
+    "title": "Important Diseases of Cucurbitaceous Crops and Their Management",
+    "authors": [
+      "Akhilesh Sharma",
+      "Viveka Katoch",
+      "Chanchal Rana"
+    ],
+    "year": "2016",
+    "journal_or_source": "Handbook of Cucurbits: Growth, Cultural Practices, and Physiology",
+    "doi_or_identifier": "",
+    "abstract_summary": "This chapter discusses a wide range of fungal, bacterial, and viral pathogens that affect the productivity of cucurbitaceous crops, causing heavy losses in yield and quality. It details the symptoms, disease cycles, favorable conditions, and management strategies including cultural, biological, and chemical methods for each major disease.",
+    "research_objective": "To provide a comprehensive overview of important fungal, bacterial, and viral diseases affecting cucurbitaceous crops and review their integrated management strategies.",
+    "study_area": "",
+    "important_findings": [
+      "Over 200 diseases affect cucurbits.",
+      "Pathogens can be soilborne, seedborne, wind-dispersed, or insect-transmitted.",
+      "Integrated disease management combining cultural, biological, and chemical controls is essential for sustainable production."
+    ]
+  },
+  "diseases": [
+    {
+      "disease_name": "Alternaria Leaf Spot or Alternaria Blight",
+      "alternative_names": [
+        "Target Leaf Spot",
+        "Alternaria Blight"
+      ],
+      "disease_type": "Fungal Disease",
+      "causal_agent": "Alternaria cucumerina and Alternaria alternate",
+      "pathogen_type": "Fungus",
+      "affected_plant_parts": [
+        "Leaves",
+        "Fruits",
+        "Vines"
+      ],
+      "symptoms": {
+        "general": [
+          "Small circular tan spots 1-2 mm in diameter on the upper surface of older or crown leaves surrounded by a yellow halo.",
+          "Lesions on the lower leaf surface tend to be more diffused.",
+          "Spots coalesce to form large lesions more than 10 mm in diameter showing a target-like pattern of concentric rings."
+        ],
+        "early_symptoms": [
+          "Small circular tan spots 1-2 mm in diameter on older or crown leaves."
+        ],
+        "advanced_symptoms": [
+          "Severe leaf drop due to concentric rings on lesions.",
+          "Dark sunken brown spots initiate disease on fruits, later developing dark powdery lesions.",
+          "Fruits turn brown, reduce in size, then turn black and mummified."
+        ],
+        "visual_field_symptoms": [
+          "Defoliation of vines leading to reduction in fruit yield, size, and quality.",
+          "Partial defoliation causing fruit sunscald and premature ripening."
+        ]
+      },
+      "identification": {
+        "field_identification": [
+          "Target-like pattern of rings on leaf lesions.",
+          "Dark sunken brown spots on fruits."
+        ],
+        "diagnostic_methods": [],
+        "differential_diagnosis": []
+      },
+      "causes_and_risk_factors": [
+        "Seed- and soilborne nature.",
+        "Overwinters as dormant mycelium in crop debris and weeds."
+      ],
+      "favorable_conditions": {
+        "temperature": "15°C–32°C",
+        "humidity": "High humidity",
+        "rainfall": "",
+        "soil_conditions": "",
+        "other_conditions": [
+          "Warm and dry conditions help conidia survive for several months."
+        ]
+      },
+      "disease_development_and_spread": [
+        "Conidia produced in spring act as primary inoculum, carried by wind and splashing water.",
+        "Infection to symptom appearance takes 3 to 12 days.",
+        "Young plants less than a month old and fruit-bearing plants (70-75 days old) are more prone."
+      ],
+      "epidemiology": [],
+      "severity_and_yield_loss": [
+        "Causes defoliation, reduction in fruit yield, size, and quality."
+      ],
+      "management": {
+        "cultural_management": [
+          "Follow a 3-year crop rotation with noncucurbitaceous crop.",
+          "Use disease-free seeds.",
+          "Grow resistant varieties/hybrids.",
+          "Sanitation practices such as cleaning up crop debris and destroying volunteer cucurbit plants and weeds."
+        ],
+        "biological_management": [],
+        "chemical_management": [
+          {
+            "active_ingredient_or_product": "Captan",
+            "dose": "3 g/kg of seed",
+            "concentration": "",
+            "application_method": "Seed treatment",
+            "timing": "Before sowing",
+            "number_of_applications": "",
+            "result_reported_in_paper": ""
+          },
+          {
+            "active_ingredient_or_product": "Bavistin",
+            "dose": "",
+            "concentration": "0.1%",
+            "application_method": "Spray",
+            "timing": "As soon as the disease appears",
+            "number_of_applications": "",
+            "result_reported_in_paper": ""
+          },
+          {
+            "active_ingredient_or_product": "Miltox",
+            "dose": "",
+            "concentration": "0.2%",
+            "application_method": "Spray",
+            "timing": "At 15 days interval",
+            "number_of_applications": "",
+            "result_reported_in_paper": ""
+          },
+          {
+            "active_ingredient_or_product": "Dithane M-45",
+            "dose": "",
+            "concentration": "0.2%",
+            "application_method": "Spray",
+            "timing": "At 15 days interval",
+            "number_of_applications": "",
+            "result_reported_in_paper": ""
+          }
+        ],
+        "integrated_management": []
+      },
+      "resistant_or_tolerant_varieties": [],
+      "susceptible_varieties": [],
+      "prevention": [],
+      "farmer_action_points": [],
+      "warnings_and_limitations": [],
+      "research_findings": [],
+      "source_pages": [
+        "3",
+        "4"
+      ]
+    },
+    {
+      "disease_name": "Powdery Mildew",
+      "alternative_names": [],
+      "disease_type": "Fungal Disease",
+      "causal_agent": "Sphaerotheca fuliginea and Erysiphe cichoracearum",
+      "pathogen_type": "Fungus",
+      "affected_plant_parts": [
+        "Leaves",
+        "Stems",
+        "Fruit"
+      ],
+      "symptoms": {
+        "general": [
+          "Talc-like (white fluffy) colonies or circular patches on the under surface of leaves.",
+          "Patches coalesce, become yellow and necrotic, and leaves die quickly in severe infections."
+        ],
+        "early_symptoms": [
+          "First appears on older leaves."
+        ],
+        "advanced_symptoms": [
+          "Extensive premature defoliation of older leaves.",
+          "Stunted and distorted plant parts."
+        ],
+        "visual_field_symptoms": [
+          "Powdery mass on leaves decreases photosynthetic rate, plant growth, and yields."
+        ]
+      },
+      "identification": {
+        "field_identification": [
+          "White powdery fungal growth on leaves, stems, and fruit."
+        ],
+        "diagnostic_methods": [],
+        "differential_diagnosis": []
+      },
+      "causes_and_risk_factors": [
+        "Vigorous plant growth and moderate temperature.",
+        "Densely planted fields."
+      ],
+      "favorable_conditions": {
+        "temperature": "35°C",
+        "humidity": "More than 70%",
+        "rainfall": "",
+        "soil_conditions": "",
+        "other_conditions": [
+          "Intensive dew on leaf surfaces enhances severity."
+        ]
+      },
+      "disease_development_and_spread": [
+        "Conidia produced profusely in white powdery mycelium and spread quickly through wind."
+      ],
+      "epidemiology": [],
+      "severity_and_yield_loss": [
+        "Causes yield losses of 30%–50%."
+      ],
+      "management": {
+        "cultural_management": [
+          "Monitor crops closely.",
+          "Grow resistant/tolerant varieties.",
+          "Follow field sanitation."
+        ],
+        "biological_management": [
+          "Ampelomyces quisqualis Ces. (fungal spores that parasitize and destroy powdery mildew).",
+          "Bacillus subtilis.",
+          "Sporothrix flocculosa (syn. Pseudozyma flocculosa)."
+        ],
+        "chemical_management": [
+          {
+            "active_ingredient_or_product": "Karathane",
+            "dose": "",
+            "concentration": "0.05%",
+            "application_method": "Spray",
+            "timing": "At interval of 7-10 days with early symptoms",
+            "number_of_applications": "",
+            "result_reported_in_paper": ""
+          },
+          {
+            "active_ingredient_or_product": "Hexconazole",
+            "dose": "",
+            "concentration": "0.1%",
+            "application_method": "Spray",
+            "timing": "At interval of 7-10 days with early symptoms",
+            "number_of_applications": "",
+            "result_reported_in_paper": ""
+          },
+          {
+            "active_ingredient_or_product": "Silicon",
+            "dose": "2.3 mM",
+            "concentration": "",
+            "application_method": "Nutrient solution (fertigation) or foliar spray of chlorite mica clay",
+            "timing": "",
+            "number_of_applications": "",
+            "result_reported_in_paper": "Significantly delayed and reduced disease incidence / suppression of powdery mildew"
+          }
+        ],
+        "integrated_management": []
+      },
+      "resistant_or_tolerant_varieties": [
+        "Cucumber and melon varieties with genetic resistance"
+      ],
+      "susceptible_varieties": [],
+      "prevention": [],
+      "farmer_action_points": [],
+      "warnings_and_limitations": [
+        "Powdery mildew fungi can develop resistance to specific fungicides."
+      ],
+      "research_findings": [],
+      "source_pages": [
+        "4",
+        "5"
+      ]
+    },
+    {
+      "disease_name": "Downy Mildew",
+      "alternative_names": [],
+      "disease_type": "Fungal Disease",
+      "causal_agent": "Pseudoperonospora cubensis",
+      "pathogen_type": "Fungus",
+      "affected_plant_parts": [
+        "Leaves",
+        "Foliage"
+      ],
+      "symptoms": {
+        "general": [
+          "Pale green areas on the upper surface of leaves that change to bright yellow angular or rectangular spots delimited by leaf veins.",
+          "Lesions expand, coalesce, and tissues turn necrotic and brown."
+        ],
+        "early_symptoms": [
+          "Pale green areas on upper leaf surface."
+        ],
+        "advanced_symptoms": [
+          "Shriveling and death of large areas of leaf surface giving a scorched appearance.",
+          "Lower surface shows water-soaked, slightly sunken lesions with profuse light to dark gray or purple sporulation."
+        ],
+        "visual_field_symptoms": [
+          "Field has a brown and brittle look as lesions expand."
+        ]
+      },
+      "identification": {
+        "field_identification": [
+          "Angular leaf spots delimited by veins with dark purplish gray sporulation on the underside of leaves."
+        ],
+        "diagnostic_methods": [],
+        "differential_diagnosis": [
+          "Symptoms on watermelon and cantaloupe are not as distinctive and mostly mistaken for anthracnose, target spot, Alternaria leaf spot, or gummy stem blight."
+        ]
+      },
+      "causes_and_risk_factors": [
+        "High humidity, fog, and heavy dew."
+      ],
+      "favorable_conditions": {
+        "temperature": "15°C–20°C for sporulation",
+        "humidity": "High humidity",
+        "rainfall": "Rain splashes",
+        "soil_conditions": "",
+        "other_conditions": [
+          "Cooler nights favor disease development."
+        ]
+      },
+      "disease_development_and_spread": [
+        "Overwinters on infected cucurbit plants in areas without hard frost.",
+        "Sporangia spread via wind currents or rain splashes.",
+        "Germinate and directly infect leaves within an hour."
+      ],
+      "epidemiology": [],
+      "severity_and_yield_loss": [
+        "Kills the plant quickly through rapid defoliation."
+      ],
+      "management": {
+        "cultural_management": [
+          "Grow resistant/tolerant varieties.",
+          "Monitor crops.",
+          "Trellis vining cultivars so leaves dry quickly.",
+          "Increase plant spacing or grow in greenhouses.",
+          "Early planting.",
+          "Avoid excess overhead irrigation and apply during late morning."
+        ],
+        "biological_management": [
+          "Bacillus subtilis (wettable powder formulation)"
+        ],
+        "chemical_management": [
+          {
+            "active_ingredient_or_product": "Ridomil",
+            "dose": "",
+            "concentration": "0.3%",
+            "application_method": "Spray",
+            "timing": "At 5-7 day intervals",
+            "number_of_applications": "",
+            "result_reported_in_paper": ""
+          },
+          {
+            "active_ingredient_or_product": "Blitox",
+            "dose": "",
+            "concentration": "0.2%",
+            "application_method": "Spray",
+            "timing": "At 5-7 day intervals",
+            "number_of_applications": "",
+            "result_reported_in_paper": ""
+          },
+          {
+            "active_ingredient_or_product": "Mancozeb",
+            "dose": "",
+            "concentration": "0.2%",
+            "application_method": "Spray",
+            "timing": "At 5-7 day intervals",
+            "number_of_applications": "",
+            "result_reported_in_paper": ""
+          },
+          {
+            "active_ingredient_or_product": "Dithane M-45",
+            "dose": "",
+            "concentration": "0.3%",
+            "application_method": "Spray",
+            "timing": "At 15-day interval",
+            "number_of_applications": "",
+            "result_reported_in_paper": ""
+          }
+        ],
+        "integrated_management": []
+      },
+      "resistant_or_tolerant_varieties": [
+        "Resistant varieties especially cucumber (though new races reduce resistance)"
+      ],
+      "susceptible_varieties": [],
+      "prevention": [],
+      "farmer_action_points": [],
+      "warnings_and_limitations": [
+        "No organic-approved fungicides or biofungicides prevent or control cucurbit downy mildew."
+      ],
+      "research_findings": [],
+      "source_pages": [
+        "5",
+        "6"
+      ]
+    },
+    {
+      "disease_name": "Anthracnose",
+      "alternative_names": [],
+      "disease_type": "Fungal Disease",
+      "causal_agent": "Colletotrichum orbiculare",
+      "pathogen_type": "Fungus",
+      "affected_plant_parts": [
+        "Leaves",
+        "Petioles",
+        "Fruit pedicel",
+        "Stem",
+        "Fruits"
+      ],
+      "symptoms": {
+        "general": [
+          "Water-soaked lesions on leaves turning yellowish circular spots, then brown to black.",
+          "Irregular spots on watermelon foliage turning dark brown or black; brown spots on cucumber and muskmelon.",
+          "Long dark spots develop on stems; stem lesions on muskmelon can girdle and cause wilting."
+        ],
+        "early_symptoms": [
+          "Water-soaked lesions on leaves."
+        ],
+        "advanced_symptoms": [
+          "Roughly circular, sunken, water-soaked spots with dark borders on mature fruits (6-13 mm diameter, 6 mm deep on watermelon).",
+          "Black fruiting structures (acervuli) formed within lesions.",
+          "Black stromata with gelatinous mass of salmon pink spores."
+        ],
+        "visual_field_symptoms": [
+          "Vine defoliation, fruit decline, and death of plant."
+        ]
+      },
+      "identification": {
+        "field_identification": [
+          "Cankers lined with characteristic salmon pink color on fruits and stems."
+        ],
+        "diagnostic_methods": [],
+        "differential_diagnosis": []
+      },
+      "causes_and_risk_factors": [
+        "Humid and moist weather conditions."
+      ],
+      "favorable_conditions": {
+        "temperature": "24°C optimum",
+        "humidity": "High humidity",
+        "rainfall": "",
+        "soil_conditions": "",
+        "other_conditions": [
+          "Requires water to liberate conidia from sticky covering."
+        ]
+      },
+      "disease_development_and_spread": [
+        "Overwinters on infected residue and cucurbit seeds.",
+        "Releases conidia in spring under humid conditions."
+      ],
+      "epidemiology": [],
+      "severity_and_yield_loss": [
+        "Huge losses in storage or shipment if infected fruits are packed."
+      ],
+      "management": {
+        "cultural_management": [
+          "Grow resistant/tolerant varieties.",
+          "Obtain clean seed from production areas without anthracnose problems.",
+          "Monitor crops closely.",
+          "Clean up crop debris and wild hosts.",
+          "Deep plowing immediately after final harvest.",
+          "Long crop rotation with noncucurbit crops.",
+          "Ensure proper drainage."
+        ],
+        "biological_management": [
+          "Bacillus subtilis strain QST713",
+          "Endophytic Streptomyces sp. strain MBCu-56"
+        ],
+        "chemical_management": [
+          {
+            "active_ingredient_or_product": "Thiram",
+            "dose": "3 g/kg seed",
+            "concentration": "",
+            "application_method": "Seed treatment",
+            "timing": "",
+            "number_of_applications": "",
+            "result_reported_in_paper": ""
+          },
+          {
+            "active_ingredient_or_product": "Captan",
+            "dose": "3 g/kg seed",
+            "concentration": "",
+            "application_method": "Seed treatment",
+            "timing": "",
+            "number_of_applications": "",
+            "result_reported_in_paper": ""
+          },
+          {
+            "active_ingredient_or_product": "Difolatan",
+            "dose": "",
+            "concentration": "0.2%",
+            "application_method": "Spray",
+            "timing": "",
+            "number_of_applications": "",
+            "result_reported_in_paper": ""
+          },
+          {
+            "active_ingredient_or_product": "Dithane M-45",
+            "dose": "",
+            "concentration": "0.2%",
+            "application_method": "Spray",
+            "timing": "",
+            "number_of_applications": "",
+            "result_reported_in_paper": ""
+          },
+          {
+            "active_ingredient_or_product": "Bavistin",
+            "dose": "",
+            "concentration": "0.2%",
+            "application_method": "Spray",
+            "timing": "",
+            "number_of_applications": "",
+            "result_reported_in_paper": ""
+          }
+        ],
+        "integrated_management": []
+      },
+      "resistant_or_tolerant_varieties": [
+        "Cultivars with varying levels of resistance offered by public institutes and seed companies"
+      ],
+      "susceptible_varieties": [],
+      "prevention": [],
+      "farmer_action_points": [],
+      "warnings_and_limitations": [
+        "Fungicide applications generally are not required within 2-3 weeks of final harvest."
+      ],
+      "research_findings": [],
+      "source_pages": [
+        "7",
+        "8"
+      ]
+    },
+    {
+      "disease_name": "Scab or Gummosis",
+      "alternative_names": [],
+      "disease_type": "Fungal Disease",
+      "causal_agent": "Cladosporium cucumerinum",
+      "pathogen_type": "Fungus",
+      "affected_plant_parts": [
+        "Leaves",
+        "Petioles",
+        "Stems",
+        "Fruits"
+      ],
+      "symptoms": {
+        "general": [
+          "Numerous water-soaked spots on leaves and runners turning gray to white, angular with yellow margins.",
+          "Center of leaf spots drops out giving irregular-shaped holes.",
+          "Oblong lesions on stem and petiole covered with dark-green velvety mold."
+        ],
+        "early_symptoms": [],
+        "advanced_symptoms": [
+          "Fruit spots ooze gummy substance, invaded by secondary rotting bacteria causing foul smell."
+        ],
+        "visual_field_symptoms": []
+      },
+      "identification": {
+        "field_identification": [
+          "Gummy substance oozing from fruit spots, dark-green velvety mold on stem and petiole lesions."
+        ],
+        "diagnostic_methods": [],
+        "differential_diagnosis": [
+          "Lesions on fruit are often confused with Anthracnose."
+        ]
+      },
+      "causes_and_risk_factors": [
+        "Low night temperature, fog, and low light intensity."
+      ],
+      "favorable_conditions": {
+        "temperature": "17°C–27°C",
+        "humidity": "High humidity",
+        "rainfall": "",
+        "soil_conditions": "",
+        "other_conditions": [
+          "Low night temperature, fog, and low light intensity."
+        ]
+      },
+      "disease_development_and_spread": [
+        "Overwinters on crop debris and seed.",
+        "Spores blown long distances in moist air, spread by insects, implements, and worker clothing."
+      ],
+      "epidemiology": [],
+      "severity_and_yield_loss": [],
+      "management": {
+        "cultural_management": [
+          "Grow resistant cultivars.",
+          "Harvest seed from disease-free plants.",
+          "Remove plant debris and fruits after harvest.",
+          "Crop rotation with noncucurbitaceous crops.",
+          "Avoid low-lying, shaded areas prone to heavy fogs and dews.",
+          "Avoid overhead sprinkler irrigation."
+        ],
+        "biological_management": [],
+        "chemical_management": [
+          {
+            "active_ingredient_or_product": "Thiram",
+            "dose": "3 g/kg seed",
+            "concentration": "",
+            "application_method": "Seed treatment",
+            "timing": "",
+            "number_of_applications": "",
+            "result_reported_in_paper": ""
+          },
+          {
+            "active_ingredient_or_product": "Captan",
+            "dose": "3 g/kg seed",
+            "concentration": "",
+            "application_method": "Seed treatment",
+            "timing": "",
+            "number_of_applications": "",
+            "result_reported_in_paper": ""
+          },
+          {
+            "active_ingredient_or_product": "Photodynamic dyes (bengal rose, toluidine blue, methylene blue)",
+            "dose": "",
+            "concentration": "0.5–200 μM",
+            "application_method": "Systemic application",
+            "timing": "",
+            "number_of_applications": "",
+            "result_reported_in_paper": "Significantly suppressed symptoms of the disease"
+          }
+        ],
+        "integrated_management": []
+      },
+      "resistant_or_tolerant_varieties": [],
+      "susceptible_varieties": [],
+      "prevention": [],
+      "farmer_action_points": [],
+      "warnings_and_limitations": [],
+      "research_findings": [],
+      "source_pages": [
+        "8"
+      ]
+    },
+    {
+      "disease_name": "Cercospora Leaf Spot",
+      "alternative_names": [],
+      "disease_type": "Fungal Disease",
+      "causal_agent": "Cercospora citrullina",
+      "pathogen_type": "Fungus",
+      "affected_plant_parts": [
+        "Foliage",
+        "Petioles",
+        "Stems"
+      ],
+      "symptoms": {
+        "general": [
+          "Dark spots seen first on older leaves.",
+          "Circular to irregular spots with pale or light centers and dark margins."
+        ],
+        "early_symptoms": [],
+        "advanced_symptoms": [
+          "Lesions expand, coalesce, and give a blighted appearance."
+        ],
+        "visual_field_symptoms": [
+          "Defoliation occurs in severe cases, reducing fruit size and quality."
+        ]
+      },
+      "identification": {
+        "field_identification": [
+          "Circular to irregular leaf spots with pale centers and dark margins on older leaves."
+        ],
+        "diagnostic_methods": [],
+        "differential_diagnosis": []
+      },
+      "causes_and_risk_factors": [
+        "Survives on infested crop debris and weeds between crops."
+      ],
+      "favorable_conditions": {
+        "temperature": "26°C–32°C",
+        "humidity": "High humidity",
+        "rainfall": "Splashing rain",
+        "soil_conditions": "",
+        "other_conditions": []
+      },
+      "disease_development_and_spread": [
+        "Spores spread readily by wind currents, splashing rain, and irrigation water."
+      ],
+      "epidemiology": [],
+      "severity_and_yield_loss": [
+        "Economic losses are rarely severe."
+      ],
+      "management": {
+        "cultural_management": [
+          "Crop rotation with noncucurbitaceous crops.",
+          "Avoid overhead irrigation and irrigation in the morning hours.",
+          "Sanitation by removing old diseased crop residues and cucurbitaceous weeds.",
+          "Deep plowing immediately after final harvest."
+        ],
+        "biological_management": [],
+        "chemical_management": [
+          {
+            "active_ingredient_or_product": "Dithane M-45",
+            "dose": "",
+            "concentration": "0.2%",
+            "application_method": "Spray",
+            "timing": "",
+            "number_of_applications": "",
+            "result_reported_in_paper": ""
+          }
+        ],
+        "integrated_management": []
+      },
+      "resistant_or_tolerant_varieties": [],
+      "susceptible_varieties": [],
+      "prevention": [],
+      "farmer_action_points": [],
+      "warnings_and_limitations": [],
+      "research_findings": [],
+      "source_pages": [
+        "8",
+        "9"
+      ]
+    },
+    {
+      "disease_name": "Gummy Stem Blight",
+      "alternative_names": [
+        "Leaf Blight",
+        "Black Rot"
+      ],
+      "disease_type": "Fungal Disease",
+      "causal_agent": "Didymella bryoniae",
+      "pathogen_type": "Fungus",
+      "affected_plant_parts": [
+        "Leaves",
+        "Midvein",
+        "Petioles",
+        "Stems",
+        "Vines",
+        "Crown",
+        "Fruits"
+      ],
+      "symptoms": {
+        "general": [
+          "Small, circular tan spots on leaves, sometimes with yellow halo.",
+          "Water-soaked reddish-brown spots on midveins and petioles with a ringed appearance."
+        ],
+        "early_symptoms": [
+          "Infection often begins at leaf margins."
+        ],
+        "advanced_symptoms": [
+          "Stem lesions: oblong, water-soaked brown lesions that enlarge and girdle main stem.",
+          "Stems split open, oozing characteristic red or brown gummy fluid from cankers.",
+          "Tiny black pimple-like fruiting bodies on stem or nodes.",
+          "Fruit (black rot): pale brown then bleached patches, reddish gum oozing from cracks, pycnidia, irregular water-soaked spots turning dark brown."
+        ],
+        "visual_field_symptoms": [
+          "Wilting and death of plants (crown rot)."
+        ]
+      },
+      "identification": {
+        "field_identification": [
+          "Red or brown gummy fluid oozing from stem cankers."
+        ],
+        "diagnostic_methods": [],
+        "differential_diagnosis": [
+          "May be confused with downy mildew, but leaf spots are larger."
+        ]
+      },
+      "causes_and_risk_factors": [
+        "Transmitted through seed, soil, and air."
+      ],
+      "favorable_conditions": {
+        "temperature": "20°C–24°C",
+        "humidity": "Free moisture",
+        "rainfall": "Splashing rain",
+        "soil_conditions": "",
+        "other_conditions": [
+          "Warm and humid weather."
+        ]
+      },
+      "disease_development_and_spread": [
+        "Survives on crop residue and in soil for 2 years without a host."
+      ],
+      "epidemiology": [],
+      "severity_and_yield_loss": [
+        "Fruits can rot within 2-3 days after infection."
+      ],
+      "management": {
+        "cultural_management": [
+          "Procure disease-free seeds from reliable sources.",
+          "Crop rotation with nonhost crops.",
+          "Avoid overhead irrigation.",
+          "Remove and destroy infected fruits and vines at the end of the season.",
+          "Avoid injury to fruit before or during harvest."
+        ],
+        "biological_management": [
+          "Bacillus subtilis (Serenade 10WP at 4.5 kg/ha)"
+        ],
+        "chemical_management": [
+          {
+            "active_ingredient_or_product": "Thiram",
+            "dose": "3 g/kg seed",
+            "concentration": "",
+            "application_method": "Seed treatment",
+            "timing": "",
+            "number_of_applications": "",
+            "result_reported_in_paper": ""
+          },
+          {
+            "active_ingredient_or_product": "Captan",
+            "dose": "3 g/kg seed",
+            "concentration": "",
+            "application_method": "Seed treatment",
+            "timing": "",
+            "number_of_applications": "",
+            "result_reported_in_paper": ""
+          },
+          {
+            "active_ingredient_or_product": "Bavistin",
+            "dose": "",
+            "concentration": "0.2%",
+            "application_method": "Spray",
+            "timing": "As soon as the disease is noticed",
+            "number_of_applications": "",
+            "result_reported_in_paper": ""
+          },
+          {
+            "active_ingredient_or_product": "Dithane M-45",
+            "dose": "",
+            "concentration": "0.25%",
+            "application_method": "Spray",
+            "timing": "",
+            "number_of_applications": "",
+            "result_reported_in_paper": ""
+          },
+          {
+            "active_ingredient_or_product": "Propiconazole",
+            "dose": "",
+            "concentration": "0.1%",
+            "application_method": "Spray",
+            "timing": "",
+            "number_of_applications": "",
+            "result_reported_in_paper": ""
+          },
+          {
+            "active_ingredient_or_product": "Chlorothalonil (Bravo Ultrex 82.5 WDG)",
+            "dose": "3.0 kg/ha",
+            "concentration": "",
+            "application_method": "Spray",
+            "timing": "Melcast-scheduled",
+            "number_of_applications": "",
+            "result_reported_in_paper": "Effectively managed disease and reduced fungicide use"
+          },
+          {
+            "active_ingredient_or_product": "Pyraclostrobin plus boscalid (Pristine 38 WG)",
+            "dose": "1.0 kg/ha",
+            "concentration": "",
+            "application_method": "Spray",
+            "timing": "Melcast-scheduled",
+            "number_of_applications": "",
+            "result_reported_in_paper": "Effectively managed disease and reduced fungicide use"
+          }
+        ],
+        "integrated_management": [
+          "Combined use of green manure with Melcast-scheduled fungicide application, chlorothalonil, B. subtilis, and pyraclostrobin plus boscalid."
+        ]
+      },
+      "resistant_or_tolerant_varieties": [],
+      "susceptible_varieties": [],
+      "prevention": [],
+      "farmer_action_points": [],
+      "warnings_and_limitations": [],
+      "research_findings": [],
+      "source_pages": [
+        "9"
+      ]
+    },
+    {
+      "disease_name": "Charcoal Rot",
+      "alternative_names": [],
+      "disease_type": "Fungal Disease",
+      "causal_agent": "Macrophomina phaseolina",
+      "pathogen_type": "Fungus",
+      "affected_plant_parts": [
+        "Leaves",
+        "Stems",
+        "Crown",
+        "Roots"
+      ],
+      "symptoms": {
+        "general": [
+          "Bleached appearance on infected leaves and stems near crown, turning brown to black later.",
+          "Black streaks within the pith on cutting open the collar region."
+        ],
+        "early_symptoms": [],
+        "advanced_symptoms": [
+          "Black sclerotia visible on removal of epidermis of stem."
+        ],
+        "visual_field_symptoms": [
+          "Affected plants die under hot and dry weather conditions."
+        ]
+      },
+      "identification": {
+        "field_identification": [
+          "Black sclerotia under stem epidermis and black streaks in the pith."
+        ],
+        "diagnostic_methods": [],
+        "differential_diagnosis": [
+          "Symptoms are very similar to gummy stem blight, but appear late in the season."
+        ]
+      },
+      "causes_and_risk_factors": [
+        "Hot climate."
+      ],
+      "favorable_conditions": {
+        "temperature": "At least 28°C",
+        "humidity": "",
+        "rainfall": "",
+        "soil_conditions": "Saline soils",
+        "other_conditions": [
+          "Hot and dry weather conditions."
+        ]
+      },
+      "disease_development_and_spread": [
+        "Roots become infected first, then fungus invades plant crown.",
+        "Persists in soil and crop residue as microsclerotia for 3–12 years."
+      ],
+      "epidemiology": [],
+      "severity_and_yield_loss": [],
+      "management": {
+        "cultural_management": [
+          "Grafting susceptible scions onto resistant cucurbit rootstock.",
+          "Long-term crop rotation with nonhost crops.",
+          "Destroy infected plant debris at the end of growing season.",
+          "Management of saline soils."
+        ],
+        "biological_management": [
+          "Streptomyces strain (seed treatment)",
+          "Trichoderma harzianum (Bi, T39, M), Trichoderma virens (DAR74290), Trichoderma viride (MO), and Trichodermin (B)"
+        ],
+        "chemical_management": [],
+        "integrated_management": []
+      },
+      "resistant_or_tolerant_varieties": [
+        "Resistant cucurbit rootstocks"
+      ],
+      "susceptible_varieties": [],
+      "prevention": [],
+      "farmer_action_points": [],
+      "warnings_and_limitations": [],
+      "research_findings": [],
+      "source_pages": [
+        "10"
+      ]
+    },
+    {
+      "disease_name": "Damping-Off of Seedlings and Fungal Root Rots",
+      "alternative_names": [],
+      "disease_type": "Fungal Disease",
+      "causal_agent": "Pythium spp., Rhizoctonia spp., and Fusarium spp.",
+      "pathogen_type": "Fungus",
+      "affected_plant_parts": [
+        "Seeds",
+        "Roots",
+        "Hypocotyl",
+        "Seedlings"
+      ],
+      "symptoms": {
+        "general": [
+          "Preemergence damping-off: rotting of seed inside seed coat.",
+          "Radicle and cotyledon turn brown and soft."
+        ],
+        "early_symptoms": [
+          "Initial postemergence symptoms: yellow to dark brown, water-soaked lesions on root and hypocotyl tissues."
+        ],
+        "advanced_symptoms": [
+          "Hypocotyl tissues shrivel, roots decay further, seedlings topple down or wilt and collapse.",
+          "Roots have watery gray appearance, particularly fine feeder roots."
+        ],
+        "visual_field_symptoms": []
+      },
+      "identification": {
+        "field_identification": [],
+        "diagnostic_methods": [],
+        "differential_diagnosis": []
+      },
+      "causes_and_risk_factors": [
+        "Cool temperatures, high soil moisture, and poor aeration."
+      ],
+      "favorable_conditions": {
+        "temperature": "Cool temperatures",
+        "humidity": "High soil moisture",
+        "rainfall": "",
+        "soil_conditions": "Poor aeration",
+        "other_conditions": []
+      },
+      "disease_development_and_spread": [],
+      "epidemiology": [],
+      "severity_and_yield_loss": [],
+      "management": {
+        "cultural_management": [
+          "Ensure proper drainage and avoid overwatering.",
+          "Field sanitation after final harvest.",
+          "Crop rotation with noncucurbitaceous crops."
+        ],
+        "biological_management": [
+          "Combined application of organic amendments and microbial biocontrol agents"
+        ],
+        "chemical_management": [
+          {
+            "active_ingredient_or_product": "Ceresan",
+            "dose": "3 g/kg seed",
+            "concentration": "",
+            "application_method": "Seed treatment",
+            "timing": "",
+            "number_of_applications": "",
+            "result_reported_in_paper": ""
+          },
+          {
+            "active_ingredient_or_product": "Thiram",
+            "dose": "3 g/kg seed",
+            "concentration": "",
+            "application_method": "Seed treatment",
+            "timing": "",
+            "number_of_applications": "",
+            "result_reported_in_paper": ""
+          },
+          {
+            "active_ingredient_or_product": "Phosphonate",
+            "dose": "",
+            "concentration": "",
+            "application_method": "Seed treatment",
+            "timing": "",
+            "number_of_applications": "",
+            "result_reported_in_paper": "Cost-effective way of protecting cucumber plants from Pythium damping-off"
+          },
+          {
+            "active_ingredient_or_product": "Bavistin",
+            "dose": "",
+            "concentration": "0.1%",
+            "application_method": "Soil drench",
+            "timing": "",
+            "number_of_applications": "",
+            "result_reported_in_paper": ""
+          }
+        ],
+        "integrated_management": []
+      },
+      "resistant_or_tolerant_varieties": [],
+      "susceptible_varieties": [],
+      "prevention": [],
+      "farmer_action_points": [],
+      "warnings_and_limitations": [],
+      "research_findings": [],
+      "source_pages": [
+        "10",
+        "11"
+      ]
+    },
+    {
+      "disease_name": "Fusarium Wilt",
+      "alternative_names": [],
+      "disease_type": "Fungal Disease",
+      "causal_agent": "Fusarium oxysporum f. sp. niveum, Fusarium oxysporum f. sp. melonis, Fusarium oxysporum f. sp. cucumerinum, and Fusarium solani f. sp. cucurbitae",
+      "pathogen_type": "Fungus",
+      "affected_plant_parts": [
+        "Roots",
+        "Stems",
+        "Leaves",
+        "Vines",
+        "Xylem vessels",
+        "Fruits"
+      ],
+      "symptoms": {
+        "general": [
+          "Loss of turgor pressure of vines; wilting starts on older leaves and advances to young foliage.",
+          "Temporary wilting during peak heat periods, reviving at night.",
+          "Vascular browning, gummosis, and tylosis in xylem vessels."
+        ],
+        "early_symptoms": [
+          "Hypocotyl rot or toppling down at soil line in seedlings."
+        ],
+        "advanced_symptoms": [
+          "Whole plant may wilt and die within a few days.",
+          "White-to-pink fungal growth on surface of dead tissues in wet weather."
+        ],
+        "visual_field_symptoms": [
+          "Wilt symptoms develop on one or few lateral vines initially."
+        ]
+      },
+      "identification": {
+        "field_identification": [
+          "Vascular browning and temporary wilting during peak heat periods."
+        ],
+        "diagnostic_methods": [],
+        "differential_diagnosis": []
+      },
+      "causes_and_risk_factors": [
+        "High nitrogen (ammoniacal form), less than 25% soil moisture, light, sandy, and slightly acidic soils (pH 5-5.5)."
+      ],
+      "favorable_conditions": {
+        "temperature": "20°C–30°C",
+        "humidity": "",
+        "rainfall": "",
+        "soil_conditions": "Light, sandy, and slightly acidic soils (pH 5-5.5), less than 25% soil moisture",
+        "other_conditions": [
+          "Dry weather."
+        ]
+      },
+      "disease_development_and_spread": [
+        "Fungi invade roots and progress into stems.",
+        "Survives in old infected plant debris, other host plants, seed, or soil.",
+        "Monocyclic (does not spread plant to plant during season); spread within field via infested soil, across fields via infected equipment and plants."
+      ],
+      "epidemiology": [],
+      "severity_and_yield_loss": [],
+      "management": {
+        "cultural_management": [
+          "Procure disease-free seeds and seedlings from reliable sources.",
+          "Grow resistant varieties/hybrids.",
+          "Rotate with noncucurbitaceous crops such as garlic, radish, onion, and beetroot.",
+          "Soil solarization.",
+          "Use other cucurbit species resistant to Fusarium wilt as rootstocks for grafting (e.g., Lagenaria siceraria and Cucurbita moschata × C. maxima hybrids).",
+          "Destroy plant debris and weeds after crop harvest."
+        ],
+        "biological_management": [
+          "Bacillus subtilis (strain-B006 powder)",
+          "Gliocladium spp., Trichoderma spp., and Pseudomonas spp.",
+          "Nonpathogenic strains of F. oxysporum",
+          "Cover crops such as hairy vetch"
+        ],
+        "chemical_management": [
+          {
+            "active_ingredient_or_product": "Benlate",
+            "dose": "2 g/kg seed",
+            "concentration": "",
+            "application_method": "Seed treatment",
+            "timing": "",
+            "number_of_applications": "",
+            "result_reported_in_paper": ""
+          },
+          {
+            "active_ingredient_or_product": "Bavistin",
+            "dose": "2 g/kg seed",
+            "concentration": "",
+            "application_method": "Seed treatment",
+            "timing": "",
+            "number_of_applications": "",
+            "result_reported_in_paper": ""
+          },
+          {
+            "active_ingredient_or_product": "Captan",
+            "dose": "",
+            "concentration": "0.2%–0.3%",
+            "application_method": "Soil drench",
+            "timing": "",
+            "number_of_applications": "",
+            "result_reported_in_paper": ""
+          },
+          {
+            "active_ingredient_or_product": "Bavistin",
+            "dose": "",
+            "concentration": "0.1%",
+            "application_method": "Soil drench",
+            "timing": "",
+            "number_of_applications": "",
+            "result_reported_in_paper": ""
+          }
+        ],
+        "integrated_management": [
+          "Integration of soil amendments, biocontrol agents, and resistant rootstocks."
+        ]
+      },
+      "resistant_or_tolerant_varieties": [
+        "Resistant rootstocks: Lagenaria siceraria and Cucurbita moschata × Cucurbita maxima hybrids"
+      ],
+      "susceptible_varieties": [],
+      "prevention": [],
+      "farmer_action_points": [],
+      "warnings_and_limitations": [
+        "No complete resistance to all races available in any commercial watermelon lines."
+      ],
+      "research_findings": [],
+      "source_pages": [
+        "11",
+        "12"
+      ]
+    },
+    {
+      "disease_name": "Vine Decline or Crown Blight",
+      "alternative_names": [],
+      "disease_type": "Fungal Disease",
+      "causal_agent": "Monosporascus cannonballus",
+      "pathogen_type": "Fungus",
+      "affected_plant_parts": [
+        "Foliage",
+        "Leaves",
+        "Roots",
+        "Small feeder roots"
+      ],
+      "symptoms": {
+        "general": [
+          "Stunting of young plants or severe yellowing of foliage.",
+          "Chlorosis of lower older leaves that later wilt and collapse."
+        ],
+        "early_symptoms": [],
+        "advanced_symptoms": [
+          "Roots appear as tan to red-brown lesions that expand, resulting in death of small feeder roots.",
+          "Root system may rot and plant collapse."
+        ],
+        "visual_field_symptoms": [
+          "Collapse of vine reduces fruit size, number, quality, or causes sunburn symptoms due to lack of foliage."
+        ]
+      },
+      "identification": {
+        "field_identification": [
+          "Minute black, spherical, and erumpent perithecia at perithecial openings on entire root along with brown rot lesions."
+        ],
+        "diagnostic_methods": [],
+        "differential_diagnosis": []
+      },
+      "causes_and_risk_factors": [],
+      "favorable_conditions": {
+        "temperature": "24°C–27°C optimum for ascospores (can germinate at 20°C)",
+        "humidity": "",
+        "rainfall": "",
+        "soil_conditions": "",
+        "other_conditions": []
+      },
+      "disease_development_and_spread": [
+        "Perithecia rupture and ascospores fall into soil (soilborne).",
+        "Root infection occurs about 57 days after planting in spring crop, or within 9 days in late-spring/fall crop."
+      ],
+      "epidemiology": [],
+      "severity_and_yield_loss": [],
+      "management": {
+        "cultural_management": [
+          "Preplant soil fumigation with methyl bromide, chloropicrin, 1,3-dichloropropene, or metam sodium.",
+          "Sanitize field by destroying infected roots immediately after final harvest.",
+          "Apply metam sodium in sick field immediately after harvest.",
+          "Use grafted melons on resistant squash (Cucurbita spp.) or bottle gourd (Lagenaria spp.) rootstocks.",
+          "Long crop rotation with noncucurbitaceous crops.",
+          "Avoid overirrigation and ensure proper drainage."
+        ],
+        "biological_management": [
+          "Cover crops such as canola, winter rape, and mustards"
+        ],
+        "chemical_management": [],
+        "integrated_management": []
+      },
+      "resistant_or_tolerant_varieties": [
+        "Resistant squash (Cucurbita spp.) or bottle gourd (Lagenaria spp.) rootstocks"
+      ],
+      "susceptible_varieties": [],
+      "prevention": [],
+      "farmer_action_points": [],
+      "warnings_and_limitations": [],
+      "research_findings": [],
+      "source_pages": [
+        "12",
+        "13"
+      ]
+    },
+    {
+      "disease_name": "Phytophthora Blight or Phytophthora Crown and Root Rot",
+      "alternative_names": [],
+      "disease_type": "Fungal Disease",
+      "causal_agent": "Phytophthora capsici, Phytophthora drechsleri, and Phytophthora parasitica",
+      "pathogen_type": "Fungus",
+      "affected_plant_parts": [
+        "Roots",
+        "Crown",
+        "Stems",
+        "Vines",
+        "Shoots",
+        "Leaves",
+        "Fruits"
+      ],
+      "symptoms": {
+        "general": [
+          "Pre- and postemergence damping-off, stem and vine blight, wilting of young shoots and leaves, wilting and collapse of whole foliage or fruit rot."
+        ],
+        "early_symptoms": [
+          "Early fruit symptoms: large, water-soaked or slightly sunken, circular lesions that enlarge and cover fruit with white mold."
+        ],
+        "advanced_symptoms": [
+          "Mature plants wilt suddenly; upon uprooting, tan to brown rotted root system with fine feeder roots breaking off.",
+          "Stem and leaf petiole lesions are light to dark brown, water soaked, soft, and irregular, gradually rotting and becoming papery."
+        ],
+        "visual_field_symptoms": [
+          "Total loss of the crop."
+        ]
+      },
+      "identification": {
+        "field_identification": [
+          "White mold on fruit and papery stem/petiole lesions."
+        ],
+        "diagnostic_methods": [],
+        "differential_diagnosis": []
+      },
+      "causes_and_risk_factors": [
+        "Poor drainage, heavy textured soils, low-lying damp areas."
+      ],
+      "favorable_conditions": {
+        "temperature": "24°C–33°C",
+        "humidity": "High soil moisture",
+        "rainfall": "Frequent and heavy rains",
+        "soil_conditions": "Poor drainage, high moisture",
+        "other_conditions": []
+      },
+      "disease_development_and_spread": [
+        "Initial inoculum consists of oospores surviving as dormant propagules in soil.",
+        "Zoospores infect crown and root tissues.",
+        "Sporangia in white mold dispersed by wind and rain."
+      ],
+      "epidemiology": [],
+      "severity_and_yield_loss": [
+        "May result in total loss of the crop."
+      ],
+      "management": {
+        "cultural_management": [
+          "Do not select low-lying damp area or poor draining and heavy textured soils.",
+          "Long crop rotation with nonsusceptible host crops.",
+          "Avoid overirrigation and ensure proper drainage.",
+          "Carefully discard crop debris after harvest.",
+          "Proper trellising of vines.",
+          "Raise bush type cucurbits on dome-shaped ridges or raised beds.",
+          "Do not harvest seeds from infested fruits."
+        ],
+        "biological_management": [],
+        "chemical_management": [
+          {
+            "active_ingredient_or_product": "Mefenoxam (Apron XL LS)",
+            "dose": "0.42 mL/kg seed",
+            "concentration": "",
+            "application_method": "Seed treatment",
+            "timing": "",
+            "number_of_applications": "",
+            "result_reported_in_paper": "Protect seedlings up to 5 weeks of transplanting"
+          },
+          {
+            "active_ingredient_or_product": "Metalaxyl (Allegiance FL)",
+            "dose": "0.98 mL/kg seed",
+            "concentration": "",
+            "application_method": "Seed treatment",
+            "timing": "",
+            "number_of_applications": "",
+            "result_reported_in_paper": ""
+          },
+          {
+            "active_ingredient_or_product": "Dimethomorph (Acrobat 50WP) plus copper sulfate (Cuprofix Disperss 36.9F)",
+            "dose": "448 g/ha (Acrobat) plus 2.25 kg/ha (Cuprofix)",
+            "concentration": "",
+            "application_method": "Spray",
+            "timing": "Weekly intervals",
+            "number_of_applications": "",
+            "result_reported_in_paper": "Combined application with seed treatment reduces damage"
+          }
+        ],
+        "integrated_management": []
+      },
+      "resistant_or_tolerant_varieties": [],
+      "susceptible_varieties": [],
+      "prevention": [],
+      "farmer_action_points": [],
+      "warnings_and_limitations": [],
+      "research_findings": [],
+      "source_pages": [
+        "13"
+      ]
+    },
+    {
+      "disease_name": "Angular Leaf Spot",
+      "alternative_names": [],
+      "disease_type": "Bacterial Disease",
+      "causal_agent": "Pseudomonas syringae pv. lachrymans",
+      "pathogen_type": "Bacterium",
+      "affected_plant_parts": [
+        "Leaves",
+        "Vine tips",
+        "Fruits",
+        "Seeds"
+      ],
+      "symptoms": {
+        "general": [
+          "Small, water-soaked lesions on leaves that later enlarge; angular shape as they encounter veins.",
+          "Affected tissues dry and fall, leaving torn irregular-shaped holes in leaves."
+        ],
+        "early_symptoms": [
+          "Small, water-soaked lesions on leaves."
+        ],
+        "advanced_symptoms": [
+          "Leaves turn yellow, growing tips of vines become water-soaked and yellow and growth ceases.",
+          "Fruit infection: small circular spots with yellow halo, turning dull white with dry cracks."
+        ],
+        "visual_field_symptoms": [
+          "White bacterial ooze on underside of lesions under very humid conditions, drying to thin white crust."
+        ]
+      },
+      "identification": {
+        "field_identification": [
+          "Angular leaf lesions with torn irregular holes and white bacterial crust on underside."
+        ],
+        "diagnostic_methods": [],
+        "differential_diagnosis": []
+      },
+      "causes_and_risk_factors": [
+        "Seed- and soilborne nature; survives as vegetative cells in seed, soil, plant debris, or weeds."
+      ],
+      "favorable_conditions": {
+        "temperature": "24°C–28°C",
+        "humidity": "High humidity",
+        "rainfall": "Splashing rain",
+        "soil_conditions": "",
+        "other_conditions": []
+      },
+      "disease_development_and_spread": [
+        "Disseminated by splashing rain, irrigation water, soil, insects, farm tools, and field workers.",
+        "Infection through natural openings and wounds."
+      ],
+      "epidemiology": [],
+      "severity_and_yield_loss": [
+        "Reduction in fruit number, fruit yield, and quality."
+      ],
+      "management": {
+        "cultural_management": [
+          "Use only disease-free seeds.",
+          "3-year or longer crop rotation with noncucurbitaceous crops.",
+          "Maintain field sanitation.",
+          "Do not work in crop when it is wet.",
+          "Deep plowing and soil solarization in summer months.",
+          "Avoid overhead irrigation.",
+          "Avoid injury during intercultural operations.",
+          "Manage nighttime humidity (80%–90%) with dehumidifiers under protected structures."
+        ],
+        "biological_management": [
+          "Pentaphage (lysate of virulent strain of P. syringae)",
+          "Isolate of L33 strain of Pseudomonas geniculata"
+        ],
+        "chemical_management": [
+          {
+            "active_ingredient_or_product": "Mercuric chloride solution",
+            "dose": "",
+            "concentration": "1:1000",
+            "application_method": "Seed treatment",
+            "timing": "5–10 min",
+            "number_of_applications": "",
+            "result_reported_in_paper": ""
+          },
+          {
+            "active_ingredient_or_product": "Streptocycline",
+            "dose": "400 ppm",
+            "concentration": "",
+            "application_method": "Spray",
+            "timing": "",
+            "number_of_applications": "",
+            "result_reported_in_paper": ""
+          },
+          {
+            "active_ingredient_or_product": "Copper-based bactericides",
+            "dose": "",
+            "concentration": "",
+            "application_method": "Spray",
+            "timing": "Interval of 4–7 days",
+            "number_of_applications": "",
+            "result_reported_in_paper": "Reduce severity of disease"
+          }
+        ],
+        "integrated_management": []
+      },
+      "resistant_or_tolerant_varieties": [
+        "Resistant cucumber cultivars"
+      ],
+      "susceptible_varieties": [],
+      "prevention": [],
+      "farmer_action_points": [],
+      "warnings_and_limitations": [],
+      "research_findings": [],
+      "source_pages": [
+        "14",
+        "15"
+      ]
+    },
+    {
+      "disease_name": "Bacterial Leaf Spot",
+      "alternative_names": [],
+      "disease_type": "Bacterial Disease",
+      "causal_agent": "Xanthomonas campestris pv. cucurbitae",
+      "pathogen_type": "Bacterium",
+      "affected_plant_parts": [
+        "Cotyledons",
+        "Leaves",
+        "Stems",
+        "Fruits",
+        "Seed cavity"
+      ],
+      "symptoms": {
+        "general": [
+          "Small brown spots on cotyledons.",
+          "Necrotic spots on leaves: small water-soaked or greasy patches on underside, indefinite yellow patches on upper side turning brown, round to angular with translucent centers and yellow halo."
+        ],
+        "early_symptoms": [
+          "Small brown spots on cotyledons."
+        ],
+        "advanced_symptoms": [
+          "Fruit symptoms: water-soaked, sunken, cracked areas with light-brown exudates, distinct sinking, rind cracking, viscous liquid drops of yellowish-brown color in damp weather."
+        ],
+        "visual_field_symptoms": [
+          "Rotting of flesh and contamination of seed if infection progresses into seed cavity."
+        ]
+      },
+      "identification": {
+        "field_identification": [
+          "Necrotic leaf spots with translucent centers and yellow halo where necrotic areas do not fall out."
+        ],
+        "diagnostic_methods": [],
+        "differential_diagnosis": []
+      },
+      "causes_and_risk_factors": [
+        "Warm and humid conditions."
+      ],
+      "favorable_conditions": {
+        "temperature": "25°C–30°C",
+        "humidity": "90% relative humidity",
+        "rainfall": "Precipitation / overhead irrigation",
+        "soil_conditions": "",
+        "other_conditions": []
+      },
+      "disease_development_and_spread": [
+        "Transmitted by seed, infected crop residue, rain splash, and infected tools."
+      ],
+      "epidemiology": [],
+      "severity_and_yield_loss": [
+        "Yield losses may exceed 50% under humid/moist conditions."
+      ],
+      "management": {
+        "cultural_management": [
+          "Management practices similar to angular leaf spot."
+        ],
+        "biological_management": [],
+        "chemical_management": [],
+        "integrated_management": []
+      },
+      "resistant_or_tolerant_varieties": [],
+      "susceptible_varieties": [],
+      "prevention": [],
+      "farmer_action_points": [],
+      "warnings_and_limitations": [
+        "No reports of biological control for bacterial spot of cucurbits."
+      ],
+      "research_findings": [],
+      "source_pages": [
+        "15",
+        "16"
+      ]
+    },
+    {
+      "disease_name": "Bacterial Fruit Blotch",
+      "alternative_names": [],
+      "disease_type": "Bacterial Disease",
+      "causal_agent": "Acidovorax avenae subsp. citrulli",
+      "pathogen_type": "Bacterium",
+      "affected_plant_parts": [
+        "Cotyledons",
+        "Stems",
+        "Leaves",
+        "Fruits",
+        "Seeds"
+      ],
+      "symptoms": {
+        "general": [
+          "Greasy, water-soaked lesions on undersurface of cotyledons extending along veins and stems to true leaves."
+        ],
+        "early_symptoms": [
+          "Elongated and dark to reddish-brown lesions on cotyledon veins."
+        ],
+        "advanced_symptoms": [
+          "Fruit symptoms: small, irregular, olive-colored, water-soaked spots just prior to harvest maturity, enlarging rapidly, turning reddish brown with cracks, white bacterial ooze under high humidity."
+        ],
+        "visual_field_symptoms": [
+          "Seedling collapse in damping-off fashion in severe cases."
+        ]
+      },
+      "identification": {
+        "field_identification": [
+          "Olive-colored water-soaked spots on fruits turning reddish brown with cracks and white bacterial ooze."
+        ],
+        "diagnostic_methods": [],
+        "differential_diagnosis": [
+          "Can be confused with abiotic stresses; water congestion on leaves does not persist till daytime."
+        ]
+      },
+      "causes_and_risk_factors": [
+        "Infected seeds/seedlings as primary source of inoculum."
+      ],
+      "favorable_conditions": {
+        "temperature": "Mild temperatures",
+        "humidity": "High humidity",
+        "rainfall": "Heavy rainfall and windy conditions",
+        "soil_conditions": "",
+        "other_conditions": []
+      },
+      "disease_development_and_spread": [
+        "Spreads by mechanical means, rain, or sprinklers."
+      ],
+      "epidemiology": [],
+      "severity_and_yield_loss": [],
+      "management": {
+        "cultural_management": [
+          "Procure seeds from disease-free mother fruits.",
+          "Controlled in protected structures by maintaining low temperature and low humidity.",
+          "Long crop rotations.",
+          "Avoid overhead irrigation and do not work in fields while foliage is wet.",
+          "Observe for infection regularly, destroy affected seedlings immediately, or burn crop under severe infection."
+        ],
+        "biological_management": [],
+        "chemical_management": [
+          {
+            "active_ingredient_or_product": "HCl",
+            "dose": "",
+            "concentration": "1%",
+            "application_method": "Seed treatment",
+            "timing": "15 min",
+            "number_of_applications": "",
+            "result_reported_in_paper": "Significantly reduces transmission"
+          },
+          {
+            "active_ingredient_or_product": "CaOCl2",
+            "dose": "",
+            "concentration": "1%",
+            "application_method": "Seed treatment",
+            "timing": "15 min",
+            "number_of_applications": "",
+            "result_reported_in_paper": "Significantly reduces transmission"
+          }
+        ],
+        "integrated_management": []
+      },
+      "resistant_or_tolerant_varieties": [
+        "Dark-colored watermelon fruits are least susceptible"
+      ],
+      "susceptible_varieties": [
+        "Light-green watermelon fruits are highly susceptible; striped fruits are moderately susceptible"
+      ],
+      "prevention": [],
+      "farmer_action_points": [],
+      "warnings_and_limitations": [
+        "Seed treatments including thermotherapy, NaOCl, fermentation, HCl, and peroxyacetic acid can adversely affect seed physiology."
+      ],
+      "research_findings": [],
+      "source_pages": [
+        "15",
+        "16"
+      ]
+    },
+    {
+      "disease_name": "Bacterial Rind Necrosis",
+      "alternative_names": [],
+      "disease_type": "Bacterial Disease",
+      "causal_agent": "Erwinia carnegieana",
+      "pathogen_type": "Bacterium",
+      "affected_plant_parts": [
+        "Fruits",
+        "Rind"
+      ],
+      "symptoms": {
+        "general": [
+          "External symptoms usually absent, misshapen fruits in few severely affected melons.",
+          "Brown, dry, and hard necrosis of rind rarely extending into flesh.",
+          "Corky layers appear between outer rind and edible fruit tissues in cross section."
+        ],
+        "early_symptoms": [],
+        "advanced_symptoms": [],
+        "visual_field_symptoms": [
+          "Fruits look good and marketable externally; unmarketable only when sliced."
+        ]
+      },
+      "identification": {
+        "field_identification": [
+          "Internal brown, dry, hard necrosis of the rind with corky layers visible upon slicing."
+        ],
+        "diagnostic_methods": [],
+        "differential_diagnosis": []
+      },
+      "causes_and_risk_factors": [
+        "Caused by bacteria naturally present in watermelon fruits."
+      ],
+      "favorable_conditions": {
+        "temperature": "",
+        "humidity": "",
+        "rainfall": "",
+        "soil_conditions": "",
+        "other_conditions": []
+      },
+      "disease_development_and_spread": [],
+      "epidemiology": [],
+      "severity_and_yield_loss": [],
+      "management": {
+        "cultural_management": [
+          "Avoid planting melons in fields where rind necrosis has been encountered."
+        ],
+        "biological_management": [],
+        "chemical_management": [],
+        "integrated_management": []
+      },
+      "resistant_or_tolerant_varieties": [],
+      "susceptible_varieties": [],
+      "prevention": [],
+      "farmer_action_points": [],
+      "warnings_and_limitations": [
+        "There is no chemical treatment for this disease and varietal resistance is controversial."
+      ],
+      "research_findings": [],
+      "source_pages": [
+        "16"
+      ]
+    },
+    {
+      "disease_name": "Cucumber Mosaic Virus",
+      "alternative_names": [
+        "CMV"
+      ],
+      "disease_type": "Viral Disease",
+      "causal_agent": "Cucumber mosaic virus",
+      "pathogen_type": "Virus",
+      "affected_plant_parts": [
+        "Leaves",
+        "Stem internodes",
+        "Vines",
+        "Flowers",
+        "Fruits"
+      ],
+      "symptoms": {
+        "general": [
+          "Mottled mosaic leaf pattern of alternate light-green and dark-green patches with edges curling downward on young leaves.",
+          "Yellow-colored mottling, leaf distortion, stunted plant growth due to shortening of stem internodes.",
+          "Older leaves develop chlorotic areas turning necrotic along margins."
+        ],
+        "early_symptoms": [
+          "Mottled mosaic leaf pattern on young leaves of ~6-week-old plants."
+        ],
+        "advanced_symptoms": [
+          "Stem end portion of infected fruits mottled with yellowish-green and dark-green spots, forming wartlike raised dark spots (distorted fruit).",
+          "Smooth gray-white color with irregular green areas ('white pickle') in later stages.",
+          "Bitter taste in cucumber fruits, soggy pickles; blotchy appearance in squash."
+        ],
+        "visual_field_symptoms": [
+          "Wilting of petioles leaving older vine mostly bare; slow decline of plant health."
+        ]
+      },
+      "identification": {
+        "field_identification": [
+          "Yellow-colored leaf mottling, leaf distortion, shortened internodes, and wartlike raised dark spots on fruits."
+        ],
+        "diagnostic_methods": [
+          "Enzyme-linked immunosorbent assay (ELISA)"
+        ],
+        "differential_diagnosis": []
+      },
+      "causes_and_risk_factors": [
+        "Transmitted through aphid vectors (Aphis gossypii, Myzus persicae), seeds, and weed hosts."
+      ],
+      "favorable_conditions": {
+        "temperature": "",
+        "humidity": "",
+        "rainfall": "",
+        "soil_conditions": "",
+        "other_conditions": [
+          "Overwinters in perennial weed sources attractive to aphids in spring."
+        ]
+      },
+      "disease_development_and_spread": [
+        "Transmitted by aphid vectors and mechanical sap transmission via hands/clothes of workers."
+      ],
+      "epidemiology": [],
+      "severity_and_yield_loss": [],
+      "management": {
+        "cultural_management": [
+          "Grow resistant varieties.",
+          "Use virus-indexed seeds and seedlings.",
+          "Carefully monitor and remove plants with symptoms early.",
+          "Grow taller nonsusceptible barrier crops like corn.",
+          "Remove all weeds and volunteer cucurbit crop plants.",
+          "Avoid planting cucurbits consecutively in close proximity.",
+          "Destroy plant debris promptly after harvest.",
+          "Long crop rotations with noncucurbitaceous crops.",
+          "Use superreflective plastic mulch, floating row covers, or reflective mulches.",
+          "Burn severely infected crops."
+        ],
+        "biological_management": [
+          "Parasitoids (Aphidius colemani, Aphidius matricariae, Lysiphlebus fabarum, Binodoxys angelicae)"
+        ],
+        "chemical_management": [
+          {
+            "active_ingredient_or_product": "Dimethoate",
+            "dose": "",
+            "concentration": "0.05%",
+            "application_method": "Spray",
+            "timing": "Weekly intervals",
+            "number_of_applications": "",
+            "result_reported_in_paper": ""
+          },
+          {
+            "active_ingredient_or_product": "Monocrotophos",
+            "dose": "",
+            "concentration": "0.05%",
+            "application_method": "Spray",
+            "timing": "Weekly intervals",
+            "number_of_applications": "",
+            "result_reported_in_paper": ""
+          },
+          {
+            "active_ingredient_or_product": "Confidor",
+            "dose": "",
+            "concentration": "0.03%",
+            "application_method": "Spray",
+            "timing": "Weekly intervals",
+            "number_of_applications": "",
+            "result_reported_in_paper": ""
+          },
+          {
+            "active_ingredient_or_product": "Metasystox",
+            "dose": "",
+            "concentration": "0.02%",
+            "application_method": "Spray",
+            "timing": "Weekly intervals",
+            "number_of_applications": "",
+            "result_reported_in_paper": ""
+          }
+        ],
+        "integrated_management": []
+      },
+      "resistant_or_tolerant_varieties": [
+        "Resistant cultivars"
+      ],
+      "susceptible_varieties": [],
+      "prevention": [],
+      "farmer_action_points": [],
+      "warnings_and_limitations": [
+        "Managing viruses through insecticides is not a good approach because insecticides do not act fast enough to prevent aphid spread."
+      ],
+      "research_findings": [],
+      "source_pages": [
+        "16",
+        "17",
+        "19"
+      ]
+    },
+    {
+      "disease_name": "Squash Mosaic Virus",
+      "alternative_names": [
+        "SqMV"
+      ],
+      "disease_type": "Viral Disease",
+      "causal_agent": "Squash mosaic virus",
+      "pathogen_type": "Virus",
+      "affected_plant_parts": [
+        "Seedlings",
+        "Leaves",
+        "Fruits"
+      ],
+      "symptoms": {
+        "general": [
+          "Stunting, chlorotic leaf mottling, green vein banding, and leaf distortion of infected seedlings.",
+          "Older infected plants develop distorted margins, blistering, hardening, and mild to severe dark-green mosaic pattern on leaves."
+        ],
+        "early_symptoms": [
+          "Stunting, chlorotic leaf mottling, green vein banding on seedlings."
+        ],
+        "advanced_symptoms": [
+          "Infected fruits have mottling on skin and become malformed or distorted."
+        ],
+        "visual_field_symptoms": []
+      },
+      "identification": {
+        "field_identification": [
+          "Dark-green mosaic pattern on leaves (may be confused with hormonal herbicide effect)."
+        ],
+        "diagnostic_methods": [],
+        "differential_diagnosis": [
+          "Mosaic pattern may be confused with hormonal herbicide effect."
+        ]
+      },
+      "causes_and_risk_factors": [
+        "Seedborne; spread by beetles (Acalymma and Diabrotica)."
+      ],
+      "favorable_conditions": {
+        "temperature": "",
+        "humidity": "",
+        "rainfall": "",
+        "soil_conditions": "",
+        "other_conditions": []
+      },
+      "disease_development_and_spread": [
+        "Spread by beetles injecting virus via saliva upon feeding, and through mechanical injury."
+      ],
+      "epidemiology": [],
+      "severity_and_yield_loss": [],
+      "management": {
+        "cultural_management": [
+          "Resistant varieties, virus-indexed seeds, rouging, weed removal, crop rotation, and vector control."
+        ],
+        "biological_management": [],
+        "chemical_management": [],
+        "integrated_management": []
+      },
+      "resistant_or_tolerant_varieties": [],
+      "susceptible_varieties": [],
+      "prevention": [],
+      "farmer_action_points": [],
+      "warnings_and_limitations": [
+        "Virus is carried within seed and cannot be eliminated by hot water or chemical treatment."
+      ],
+      "research_findings": [],
+      "source_pages": [
+        "17",
+        "19"
+      ]
+    },
+    {
+      "disease_name": "Zucchini Yellow Mosaic Virus",
+      "alternative_names": [
+        "ZYMV"
+      ],
+      "disease_type": "Viral Disease",
+      "causal_agent": "Zucchini yellow mosaic virus",
+      "pathogen_type": "Virus",
+      "affected_plant_parts": [
+        "Leaves",
+        "Fruits"
+      ],
+      "symptoms": {
+        "general": [
+          "Blistered, deformed leaves with severe mosaic symptoms, reduction in size, and stunted plant growth."
+        ],
+        "early_symptoms": [],
+        "advanced_symptoms": [
+          "Melon fruits: discolored with hardening of flesh, seed deformation, and external cracks.",
+          "Pumpkin and zucchini fruits: discolored and deformed due to knobbiness.",
+          "Rockmelon fruits: poor surface netting."
+        ],
+        "visual_field_symptoms": []
+      },
+      "identification": {
+        "field_identification": [
+          "Blistered, deformed leaves with severe mosaic symptoms and knobby, discolored fruits."
+        ],
+        "diagnostic_methods": [],
+        "differential_diagnosis": []
+      },
+      "causes_and_risk_factors": [
+        "Transmitted by aphid species (Myzus persicae, Aphis gossypii, cowpea aphid)."
+      ],
+      "favorable_conditions": {
+        "temperature": "",
+        "humidity": "",
+        "rainfall": "",
+        "soil_conditions": "",
+        "other_conditions": [
+          "High activity of aphids causes fast spread."
+        ]
+      },
+      "disease_development_and_spread": [],
+      "epidemiology": [],
+      "severity_and_yield_loss": [],
+      "management": {
+        "cultural_management": [
+          "Resistant varieties, virus-indexed seeds, hot air/water seed treatment (C. pepo with hot air 70°C for 2 days or hot water 50°C for 60 min), rouging, barrier crops, weed removal, crop rotation, reflective mulches, vector management."
+        ],
+        "biological_management": [],
+        "chemical_management": [],
+        "integrated_management": []
+      },
+      "resistant_or_tolerant_varieties": [],
+      "susceptible_varieties": [
+        "All cucurbitaceous crops"
+      ],
+      "prevention": [],
+      "farmer_action_points": [],
+      "warnings_and_limitations": [],
+      "research_findings": [],
+      "source_pages": [
+        "17",
+        "18",
+        "19"
+      ]
+    },
+    {
+      "disease_name": "Papaya Ring Spot Virus",
+      "alternative_names": [
+        "PRSV"
+      ],
+      "disease_type": "Viral Disease",
+      "causal_agent": "Papaya ringspot virus biotype W",
+      "pathogen_type": "Virus",
+      "affected_plant_parts": [
+        "Crown leaves",
+        "Fruits"
+      ],
+      "symptoms": {
+        "general": [
+          "Characteristic mosaic symptoms: profuse mottling, puckering, and deformation of crown leaves (lower mature leaves unaffected).",
+          "Leaf distortion and blistering."
+        ],
+        "early_symptoms": [],
+        "advanced_symptoms": [
+          "Infected zucchini and pumpkin: lumpy, distorted fruits.",
+          "Rockmelon fruits: poor-quality surface netting.",
+          "Watermelon fruits: uneven surface or typical ring spot patterns on skin."
+        ],
+        "visual_field_symptoms": []
+      },
+      "identification": {
+        "field_identification": [
+          "Mottling, puckering, and deformation of crown leaves with ring spot patterns on watermelon skin."
+        ],
+        "diagnostic_methods": [],
+        "differential_diagnosis": []
+      },
+      "causes_and_risk_factors": [
+        "Spread by aphid species including green peach and melon aphids; wild and native cucurbit species act as infection reservoirs."
+      ],
+      "favorable_conditions": {
+        "temperature": "",
+        "humidity": "",
+        "rainfall": "",
+        "soil_conditions": "",
+        "other_conditions": []
+      },
+      "disease_development_and_spread": [],
+      "epidemiology": [],
+      "severity_and_yield_loss": [],
+      "management": {
+        "cultural_management": [
+          "General virus management practices (resistant varieties, sanitation, vector control)."
+        ],
+        "biological_management": [],
+        "chemical_management": [],
+        "integrated_management": []
+      },
+      "resistant_or_tolerant_varieties": [],
+      "susceptible_varieties": [
+        "Zucchini squash most susceptible, followed by watermelon and cucumber"
+      ],
+      "prevention": [],
+      "farmer_action_points": [],
+      "warnings_and_limitations": [],
+      "research_findings": [],
+      "source_pages": [
+        "18",
+        "19"
+      ]
+    },
+    {
+      "disease_name": "Watermelon Mosaic Virus",
+      "alternative_names": [
+        "WMV"
+      ],
+      "disease_type": "Viral Disease",
+      "causal_agent": "Watermelon mosaic virus",
+      "pathogen_type": "Virus",
+      "affected_plant_parts": [
+        "Vines",
+        "Shoots",
+        "Leaves",
+        "Flowers",
+        "Fruits"
+      ],
+      "symptoms": {
+        "general": [
+          "Petunia-like appearance of diseased vines: tips of vines and proliferation of shoots around crown extend beyond general level of vines.",
+          "Shortened internodal length resulting in crowding of leaves that become rolled, blistered, and small in size with mild mosaic symptoms."
+        ],
+        "early_symptoms": [],
+        "advanced_symptoms": [
+          "Abnormal flower size, shape, and color resulting in mottled, misshapen small fruits."
+        ],
+        "visual_field_symptoms": []
+      },
+      "identification": {
+        "field_identification": [
+          "Petunia-like vine appearance with crowded, rolled, blistered small leaves."
+        ],
+        "diagnostic_methods": [],
+        "differential_diagnosis": [
+          "Produces less severe symptoms on cucurbit leaves and fruits than PRSV, ZYMV, and SqMV."
+        ]
+      },
+      "causes_and_risk_factors": [],
+      "favorable_conditions": {
+        "temperature": "",
+        "humidity": "",
+        "rainfall": "",
+        "soil_conditions": "",
+        "other_conditions": []
+      },
+      "disease_development_and_spread": [],
+      "epidemiology": [],
+      "severity_and_yield_loss": [
+        "Has little effect on fruits directly compared to leaf symptoms, though severe infections cause mottled misshapen small fruits."
+      ],
+      "management": {
+        "cultural_management": [
+          "General virus management practices."
+        ],
+        "biological_management": [],
+        "chemical_management": [],
+        "integrated_management": []
+      },
+      "resistant_or_tolerant_varieties": [],
+      "susceptible_varieties": [
+        "Cucurbita pepo, C. maxima, and C. moschata"
+      ],
+      "prevention": [],
+      "farmer_action_points": [],
+      "warnings_and_limitations": [],
+      "research_findings": [],
+      "source_pages": [
+        "18",
+        "19"
+      ]
+    },
+    {
+      "disease_name": "Tobacco Ring Spot Virus",
+      "alternative_names": [],
+      "disease_type": "Viral Disease",
+      "causal_agent": "Tobacco ringspot virus",
+      "pathogen_type": "Virus",
+      "affected_plant_parts": [
+        "Leaves"
+      ],
+      "symptoms": {
+        "general": [
+          "Newly infected leaves show a very bright mosaic with stunted plant growth."
+        ],
+        "early_symptoms": [],
+        "advanced_symptoms": [],
+        "visual_field_symptoms": []
+      },
+      "identification": {
+        "field_identification": [],
+        "diagnostic_methods": [],
+        "differential_diagnosis": []
+      },
+      "causes_and_risk_factors": [
+        "Transmitted by nematodes (Xiphinema americanum)."
+      ],
+      "favorable_conditions": {
+        "temperature": "",
+        "humidity": "",
+        "rainfall": "",
+        "soil_conditions": "",
+        "other_conditions": []
+      },
+      "disease_development_and_spread": [],
+      "epidemiology": [],
+      "severity_and_yield_loss": [],
+      "management": {
+        "cultural_management": [],
+        "biological_management": [],
+        "chemical_management": [],
+        "integrated_management": []
+      },
+      "resistant_or_tolerant_varieties": [],
+      "susceptible_varieties": [
+        "Melons and cucumbers"
+      ],
+      "prevention": [],
+      "farmer_action_points": [],
+      "warnings_and_limitations": [],
+      "research_findings": [],
+      "source_pages": [
+        "18"
+      ]
+    },
+    {
+      "disease_name": "Tomato Ring Spot Virus",
+      "alternative_names": [],
+      "disease_type": "Viral Disease",
+      "causal_agent": "Tomato ringspot virus",
+      "pathogen_type": "Virus",
+      "affected_plant_parts": [],
+      "symptoms": {
+        "general": [
+          "Most severe in squashes; can overwinter on many weed species without expressing symptoms."
+        ],
+        "early_symptoms": [],
+        "advanced_symptoms": [],
+        "visual_field_symptoms": []
+      },
+      "identification": {
+        "field_identification": [],
+        "diagnostic_methods": [],
+        "differential_diagnosis": []
+      },
+      "causes_and_risk_factors": [
+        "Transmitted by nematodes."
+      ],
+      "favorable_conditions": {
+        "temperature": "",
+        "humidity": "",
+        "rainfall": "",
+        "soil_conditions": "",
+        "other_conditions": []
+      },
+      "disease_development_and_spread": [],
+      "epidemiology": [],
+      "severity_and_yield_loss": [],
+      "management": {
+        "cultural_management": [],
+        "biological_management": [],
+        "chemical_management": [],
+        "integrated_management": []
+      },
+      "resistant_or_tolerant_varieties": [],
+      "susceptible_varieties": [
+        "Squashes"
+      ],
+      "prevention": [],
+      "farmer_action_points": [],
+      "warnings_and_limitations": [],
+      "research_findings": [],
+      "source_pages": [
+        "18"
+      ]
+    },
+    {
+      "disease_name": "Clover Yellow Vein Virus",
+      "alternative_names": [],
+      "disease_type": "Viral Disease",
+      "causal_agent": "Clover yellow vein virus",
+      "pathogen_type": "Virus",
+      "affected_plant_parts": [
+        "Foliage"
+      ],
+      "symptoms": {
+        "general": [
+          "Conspicuous symptom of yellow specking on the foliage."
+        ],
+        "early_symptoms": [],
+        "advanced_symptoms": [],
+        "visual_field_symptoms": []
+      },
+      "identification": {
+        "field_identification": [
+          "Yellow specking on summer squash foliage."
+        ],
+        "diagnostic_methods": [],
+        "differential_diagnosis": []
+      },
+      "causes_and_risk_factors": [
+        "Transmitted by aphids."
+      ],
+      "favorable_conditions": {
+        "temperature": "",
+        "humidity": "",
+        "rainfall": "",
+        "soil_conditions": "",
+        "other_conditions": []
+      },
+      "disease_development_and_spread": [],
+      "epidemiology": [],
+      "severity_and_yield_loss": [],
+      "management": {
+        "cultural_management": [],
+        "biological_management": [],
+        "chemical_management": [],
+        "integrated_management": []
+      },
+      "resistant_or_tolerant_varieties": [],
+      "susceptible_varieties": [
+        "Summer squash"
+      ],
+      "prevention": [],
+      "farmer_action_points": [],
+      "warnings_and_limitations": [],
+      "research_findings": [],
+      "source_pages": [
+        "18"
+      ]
+    },
+    {
+      "disease_name": "Aster Yellow Mycoplasma",
+      "alternative_names": [],
+      "disease_type": "Other Disease",
+      "causal_agent": "Aster yellow mycoplasma",
+      "pathogen_type": "Mycoplasma-like organism",
+      "affected_plant_parts": [
+        "Whole plant"
+      ],
+      "symptoms": {
+        "general": [
+          "Yellowing of plants with stunted growth."
+        ],
+        "early_symptoms": [],
+        "advanced_symptoms": [],
+        "visual_field_symptoms": []
+      },
+      "identification": {
+        "field_identification": [],
+        "diagnostic_methods": [],
+        "differential_diagnosis": [
+          "Usually confused as viral disease."
+        ]
+      },
+      "causes_and_risk_factors": [
+        "Transmitted by leafhoppers."
+      ],
+      "favorable_conditions": {
+        "temperature": "",
+        "humidity": "",
+        "rainfall": "",
+        "soil_conditions": "",
+        "other_conditions": []
+      },
+      "disease_development_and_spread": [],
+      "epidemiology": [],
+      "severity_and_yield_loss": [],
+      "management": {
+        "cultural_management": [],
+        "biological_management": [],
+        "chemical_management": [],
+        "integrated_management": []
+      },
+      "resistant_or_tolerant_varieties": [],
+      "susceptible_varieties": [],
+      "prevention": [],
+      "farmer_action_points": [],
+      "warnings_and_limitations": [],
+      "research_findings": [],
+      "source_pages": [
+        "18"
+      ]
+    }
+  ],
+  "paper_level_notes": [
+    "The paper outlines 15 general management strategies for cucurbits in the introduction, including daily field observation, certified seeds, resistant varieties, seed treatments, 3-year crop rotation, field sanitation, proper drainage, plant spacing, avoiding injury, careful disposal of diseased portions, clean irrigation water and tools, controlling insect vectors, avoiding spraying in daytime, avoiding repetitive use of single chemicals, and following waiting periods for pesticides.",
+    "Integrated Disease Management (IDM) is emphasized as essential to cope with resistance development from enormous chemical use."
+  ],
+  "_processing_metadata": {
+    "source_pdf": "Cucumber.pdf",
+    "crop_detected_from_filename": "Cucumber",
+    "model_used": "gemini-3.5-flash-lite",
+    "extracted_at": "2026-09-23 22:47:01"
+  }
+}

@@ -1,0 +1,36 @@
+==========================================================================================
+15-CROP DISEASE MODEL ACCURACY REPORT
+==========================================================================================
+
+Training: 20 epochs
+Models: 15 crop-specific disease models
+
+No.  Crop           Test Accuracy     Macro-F1       Test Loss      Best Epoch  
+------------------------------------------------------------------------------------------
+1    Arhar          82.77%            82.71%         0.5101         17          
+2    Bajra          97.30%            97.30%         0.1843         20          
+3    Cotton         90.88%            90.88%         0.4473         18          
+4    Cucumber       96.40%            96.39%         0.2424         15          
+5    Fodder         82.43%            82.39%         0.5577         18          
+6    Maize          84.46%            83.97%         0.4594         19          
+7    Masoor         70.95%            70.93%         0.8759         17          
+8    Matar          90.41%            90.17%         0.3688         19          
+9    Moongfali      75.41%            75.18%         0.7225         20          
+10   Potato         95.95%            95.93%         0.2465         18          
+11   Rice           92.91%            92.78%         0.3241         18          
+12   Soybean        98.78%            98.78%         0.1092         17          
+13   Urad           94.32%            94.32%         0.3170         17          
+14   Watermelon     98.31%            98.30%         0.1031         20          
+15   Wheat          66.22%            65.59%         0.9147         20          
+------------------------------------------------------------------------------------------
+
+Models with metrics found: 15/15
+Average Test Accuracy: 87.83%
+Average Test Macro-F1: 87.71%
+
+Sources checked:
+  G:\Crop_Classifier_740\disease_models\<Crop>\reports\training_report.txt
+  G:\Crop_Classifier_740\disease_models\_auto_training_logs_20_epochs\<Crop>_20epochs.log
+
+N/A = metric not found in the available report/log.
+==========================================================================================

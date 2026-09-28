@@ -1,0 +1,206 @@
+{
+  "crop": "Fodder",
+  "paper_information": {
+    "title": "Major Diseases of Forage & Fodder Crops and their Ecofriendly Management",
+    "authors": [
+      "Bijender Kumar",
+      "K.P. Singh"
+    ],
+    "year": "2011",
+    "journal_or_source": "Eco-friendly Innovative Approaches in Plant Disease Management / Daya Publishing House, Delhi",
+    "doi_or_identifier": "",
+    "abstract_summary": "This chapter focuses on the major diseases affecting forage and fodder crops in India, including sorghum, pearl millet, maize, oats, berseem, lucerne, guar, and cowpea, alongside their ecofriendly management practices.",
+    "research_objective": "To focus on the disease problems of fodder crops along with their management.",
+    "study_area": "India",
+    "important_findings": [
+      "Diseases can cause significant losses in fodder crops, such as up to 72 percent in Lucerne, 74 percent in cowpea, 50 percent in sorghum, 30 percent in bajra, 75 percent in clusterbean, and 55 percent in oats.",
+      "Various fungal, bacterial, and viral pathogens affect fodder crops and require cultural, biological, and chemical management strategies."
+    ]
+  },
+  "diseases": [
+    {
+      "disease_name": "Grain Smut of Sorghum",
+      "alternative_names": [
+        "covered smut",
+        "kernel smut",
+        "short smut"
+      ],
+      "disease_type": "Smut",
+      "causal_agent": "Sphacelotheca sorghi",
+      "pathogen_type": "Fungus",
+      "affected_plant_parts": [
+        "grains",
+        "stamens"
+      ],
+      "symptoms": {
+        "general": [
+          "Affected grains convert into smut sori.",
+          "Sori are oval or cylindrical, dirty grey sacs, sometimes conical at the tip, measuring 4-12 mm in length."
+        ],
+        "early_symptoms": [],
+        "advanced_symptoms": [
+          "Sacs rupture easily, and the interior is completely filled with spore powder."
+        ],
+        "visual_field_symptoms": [
+          "Symptoms become visible only at the time of grain formation stage."
+        ]
+      },
+      "identification": {
+        "field_identification": [
+          "Grains converted into dirty grey oval or cylindrical sacs filled with spore powder surrounded by unaltered glumes at the base."
+        ],
+        "diagnostic_methods": [],
+        "differential_diagnosis": []
+      },
+      "causes_and_risk_factors": [
+        "Externally seed-borne pathogen."
+      ],
+      "favorable_conditions": {
+        "temperature": "",
+        "humidity": "",
+        "rainfall": "",
+        "soil_conditions": "",
+        "other_conditions": []
+      },
+      "disease_development_and_spread": [],
+      "epidemiology": [],
+      "severity_and_yield_loss": [
+        "In certain areas, it is reported to cause up to 25 per cent of grain yield loss."
+      ],
+      "management": {
+        "cultural_management": [],
+        "biological_management": [],
+        "chemical_management": [
+          {
+            "active_ingredient_or_product": "formalin",
+            "dose": "",
+            "concentration": "0.5 per cent",
+            "application_method": "Immersion of seeds for 2 hours and dried quickly",
+            "timing": "",
+            "number_of_applications": "",
+            "result_reported_in_paper": "Successfully controls the disease"
+          },
+          {
+            "active_ingredient_or_product": "copper sulphate",
+            "dose": "",
+            "concentration": "0.5 - 3 per cent",
+            "application_method": "seed treatment for 10 - 15 minutes, then dried",
+            "timing": "",
+            "number_of_applications": "",
+            "result_reported_in_paper": "Very effective recommendation"
+          },
+          {
+            "active_ingredient_or_product": "carboxin (Vitavax), Bavistin",
+            "dose": "",
+            "concentration": "",
+            "application_method": "systemic fungicide seed treatment",
+            "timing": "",
+            "number_of_applications": "",
+            "result_reported_in_paper": "Reported to control grain smut disease successfully"
+          }
+        ],
+        "integrated_management": []
+      },
+      "resistant_or_tolerant_varieties": [],
+      "susceptible_varieties": [],
+      "prevention": [],
+      "farmer_action_points": [
+        "Treat seeds with formalin or copper sulphate before sowing."
+      ],
+      "warnings_and_limitations": [],
+      "research_findings": [],
+      "source_pages": [
+        "2"
+      ]
+    },
+    {
+      "disease_name": "Loose Smut of Sorghum",
+      "alternative_names": [],
+      "disease_type": "Smut",
+      "causal_agent": "Sphacelotheca cruenta",
+      "pathogen_type": "Fungus",
+      "affected_plant_parts": [
+        "grains",
+        "plant growth",
+        "spikelets",
+        "floral bracts",
+        "ovary",
+        "ears"
+      ],
+      "symptoms": {
+        "general": [
+          "Affected plants remain stunted, produce thinner stalks, more tillers, and earlier flowering than healthy plants.",
+          "Spikelets of the ear are affected, malformed, and hypertrophied."
+        ],
+        "early_symptoms": [],
+        "advanced_symptoms": [
+          "Sori range from 3-18 mm in length and 2-4 mm in thickness.",
+          "Affected ear appears like a leafy or leathery structure.",
+          "Covering membrane of the sori ruptures early releasing powdery mass of dark colored spores."
+        ],
+        "visual_field_symptoms": []
+      },
+      "identification": {
+        "field_identification": [
+          "Stunted plants with thinner stalks, more tillers, and leafy or leathery malformed ears releasing dark spore masses."
+        ],
+        "diagnostic_methods": [],
+        "differential_diagnosis": []
+      },
+      "causes_and_risk_factors": [
+        "Soil survival of spores is possible."
+      ],
+      "favorable_conditions": {
+        "temperature": "",
+        "humidity": "",
+        "rainfall": "",
+        "soil_conditions": "",
+        "other_conditions": []
+      },
+      "disease_development_and_spread": [],
+      "epidemiology": [],
+      "severity_and_yield_loss": [
+        "Grains as well as fodder yield may be reduced."
+      ],
+      "management": {
+        "cultural_management": [
+          "Crop rotation",
+          "Field sanitation"
+        ],
+        "biological_management": [],
+        "chemical_management": [
+          {
+            "active_ingredient_or_product": "formalin, Sulphur, copper sulphate, carboxin, Bavistin",
+            "dose": "",
+            "concentration": "",
+            "application_method": "Seed treatment",
+            "timing": "",
+            "number_of_applications": "",
+            "result_reported_in_paper": "Effective in controlling loose smut"
+          }
+        ],
+        "integrated_management": []
+      },
+      "resistant_or_tolerant_varieties": [],
+      "susceptible_varieties": [],
+      "prevention": [],
+      "farmer_action_points": [
+        "Apply seed treatments and practice crop rotation where soil survival is possible."
+      ],
+      "warnings_and_limitations": [],
+      "research_findings": [],
+      "source_pages": [
+        "2"
+      ]
+    }
+  ],
+  "paper_level_notes": [
+    "The paper covers comprehensive disease management details for Sorghum, Pearl Millet (Bajra), Maize, Oats, Berseem, Lucerne, Guar (Clusterbean), and Cowpea."
+  ],
+  "_processing_metadata": {
+    "source_pdf": "Fodder.pdf",
+    "crop_detected_from_filename": "Fodder",
+    "model_used": "gemini-3.5-flash-lite",
+    "extracted_at": "2026-09-23 22:48:06"
+  }
+}

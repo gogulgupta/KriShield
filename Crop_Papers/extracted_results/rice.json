@@ -1,0 +1,713 @@
+{
+  "crop": "Rice",
+  "paper_information": {
+    "title": "Identification and Management of Nutrient Disorders and Diseases in Rice: A Visual Diagnostic Tool",
+    "authors": [
+      "AK Nayak",
+      "Mohammad Shahid",
+      "R Raja",
+      "B Lal",
+      "Priyanka Gautam",
+      "P Bhattacharyya",
+      "Anjani Kumar",
+      "R Tripathi",
+      "Sangita Mohanty",
+      "BB Panda",
+      "SD Mohapatra",
+      "KM Das",
+      "AK Shukla"
+    ],
+    "year": "2013",
+    "journal_or_source": "Central Rice Research Institute, Indian Council of Agricultural Research, Cuttack 753006, Odisha, India",
+    "doi_or_identifier": "",
+    "abstract_summary": "This visual diagnostic tool and management guide is designed to help researchers, extension workers, students, and farmers identify, understand, and manage nutrient deficiencies, toxicities, and major diseases in rice crops.",
+    "research_objective": "To provide a visual diagnostic tool and management guide for identifying and managing nutrient deficiencies, toxicities, and major diseases in rice.",
+    "study_area": "India",
+    "important_findings": [
+      "Visual symptoms are often the only immediate diagnostic means available to farmers in the field.",
+      "Nutrient stress predisposes plants to various pathogenic diseases.",
+      "Proper nutrition enhances chemical, biological, and genetic control of plant pathogens."
+    ]
+  },
+  "diseases": [
+    {
+      "disease_name": "Bacterial leaf blight",
+      "alternative_names": [
+        "BLB"
+      ],
+      "disease_type": "Bacterial disease",
+      "causal_agent": "Xanthomonas oryzae pv. oryzae",
+      "pathogen_type": "Bacterium",
+      "affected_plant_parts": [
+        "leaves",
+        "grains"
+      ],
+      "symptoms": {
+        "general": [
+          "Water soaked lesions move from tip to downwards on the edges of leaves",
+          "Gradually, symptoms turn into yellow and straw coloured stripes with wavy margins",
+          "In Kresek (wilt) phase, leaves roll completely, droop and plants die completely"
+        ],
+        "early_symptoms": [
+          "Symptoms start appearing from the tip and progress downwards in the form of inverted 'V' shape"
+        ],
+        "advanced_symptoms": [
+          "Affected grains have discoloured spots surrounded by water soaked areas"
+        ],
+        "visual_field_symptoms": [
+          "BLB infected rice field shows yellow and straw coloured stripes on the sides of the leaves starting from tip"
+        ]
+      },
+      "identification": {
+        "field_identification": [
+          "Inverted V shape symptom on leaves",
+          "Ooze test: a yellowish, opaque, turbid drop of bacterial ooze comes out from cut edge of infected leaf when immersed in water"
+        ],
+        "diagnostic_methods": [
+          "Ooze test in water"
+        ],
+        "differential_diagnosis": [
+          "Late season potassium deficiency resembles BLB, but BLB yields bacterial ooze in water test"
+        ]
+      },
+      "causes_and_risk_factors": [
+        "Excess N application"
+      ],
+      "favorable_conditions": {
+        "temperature": "",
+        "humidity": "",
+        "rainfall": "",
+        "soil_conditions": "",
+        "other_conditions": []
+      },
+      "disease_development_and_spread": [],
+      "epidemiology": [],
+      "severity_and_yield_loss": [],
+      "management": {
+        "cultural_management": [
+          "Balanced fertilizer application with split application of N",
+          "Potash application",
+          "Alternate drying and flooding in the field help in reducing infection"
+        ],
+        "biological_management": [
+          "Spray fresh cow dung extracts (1 kg cow dung in 5 liter water)"
+        ],
+        "chemical_management": [
+          {
+            "active_ingredient_or_product": "streptocycline + captan",
+            "dose": "0.15 g streptocycline + 2 g captan",
+            "concentration": "",
+            "application_method": "seed soaking in 2 liters of water",
+            "timing": "8-10 hours",
+            "number_of_applications": "1",
+            "result_reported_in_paper": ""
+          },
+          {
+            "active_ingredient_or_product": "plantomycin or streptocycline",
+            "dose": "0.1% plantomycin or 0.01% streptocycline",
+            "concentration": "0.1% / 0.01%",
+            "application_method": "seedling root dipping",
+            "timing": "30 minutes",
+            "number_of_applications": "1",
+            "result_reported_in_paper": ""
+          },
+          {
+            "active_ingredient_or_product": "plantomycin or streptocycline + copper oxy chloride",
+            "dose": "plantomycin @ 1 g L-1 of water or (streptocycline (0.15g) + copper oxy chloride (1 g) per liter of water)",
+            "concentration": "",
+            "application_method": "spray",
+            "timing": "need based",
+            "number_of_applications": "",
+            "result_reported_in_paper": ""
+          }
+        ],
+        "integrated_management": []
+      },
+      "resistant_or_tolerant_varieties": [
+        "IR 64",
+        "Ajaya",
+        "Naveen",
+        "Lalat",
+        "Gayatri",
+        "Varsadhan",
+        "Sarjoo 52",
+        "Saket"
+      ],
+      "susceptible_varieties": [],
+      "prevention": [
+        "Treat seed by soaking in water containing streptocycline and captan",
+        "Hot water seed treatment at 53 deg C for 30 min after 12 hrs soak"
+      ],
+      "farmer_action_points": [
+        "Perform ooze test by cutting leaf and immersing in water"
+      ],
+      "warnings_and_limitations": [],
+      "research_findings": [],
+      "source_pages": [
+        "42",
+        "43",
+        "50"
+      ]
+    },
+    {
+      "disease_name": "Brown spot",
+      "alternative_names": [],
+      "disease_type": "Fungal disease",
+      "causal_agent": "Cochliobolus miyabeanus (Helminthosporium spp. / Ophiobolus miyabeanus)",
+      "pathogen_type": "Fungus",
+      "affected_plant_parts": [
+        "leaves",
+        "glumes",
+        "seedlings",
+        "sheaths",
+        "stems",
+        "grains",
+        "roots"
+      ],
+      "symptoms": {
+        "general": [
+          "Spots appear in the leaves and glumes, seedlings, sheaths, stems and grains",
+          "Infected seedlings have small, circular or oval, brown lesions",
+          "Fully developed lesion on older leaves is oval, brown with gray or whitish center with reddish brown margin",
+          "Black or dark lesions with a velvety aspect develop on glumes",
+          "Black discoloration or brown lesions appear on grains",
+          "Black discoloration of roots"
+        ],
+        "early_symptoms": [],
+        "advanced_symptoms": [
+          "Under severe infection, lesions may coalesce, killing large areas of affected leaves",
+          "Seedlings become stunted or die under severe infestation"
+        ],
+        "visual_field_symptoms": [
+          "Severely infected plant showing oval, brown spot with gray/whitish center with reddish brown margin"
+        ]
+      },
+      "identification": {
+        "field_identification": [
+          "Small, circular, dark brown lesions on leaves"
+        ],
+        "diagnostic_methods": [],
+        "differential_diagnosis": [
+          "Potassium deficient plants show brown spots in older leaves, but spots are dusky without any distinct margin"
+        ]
+      },
+      "causes_and_risk_factors": [],
+      "favorable_conditions": {
+        "temperature": "",
+        "humidity": "",
+        "rainfall": "",
+        "soil_conditions": "Soil deficit in Mn",
+        "other_conditions": []
+      },
+      "disease_development_and_spread": [],
+      "epidemiology": [],
+      "severity_and_yield_loss": [],
+      "management": {
+        "cultural_management": [
+          "Use healthy seeds from disease free crops",
+          "Adopt deep summer ploughing",
+          "Apply balanced NPK with zinc and manganese",
+          "Apply additional K (20% extra) at appearance of disease"
+        ],
+        "biological_management": [],
+        "chemical_management": [
+          {
+            "active_ingredient_or_product": "captan or thiram",
+            "dose": "3 g kg-1 seed",
+            "concentration": "",
+            "application_method": "seed treatment",
+            "timing": "pre-sowing",
+            "number_of_applications": "1",
+            "result_reported_in_paper": ""
+          },
+          {
+            "active_ingredient_or_product": "propiconazole or mancozeb or ziram or carbendazim",
+            "dose": "propiconazole @ 1 mL L-1 or 0.4% mancozeb or 0.25% ziram or 0.2% carbendazim",
+            "concentration": "",
+            "application_method": "spray",
+            "timing": "upon appearance",
+            "number_of_applications": "",
+            "result_reported_in_paper": ""
+          }
+        ],
+        "integrated_management": []
+      },
+      "resistant_or_tolerant_varieties": [
+        "Naveen",
+        "Komal-9",
+        "Savitri",
+        "Parijat Shrabani"
+      ],
+      "susceptible_varieties": [],
+      "prevention": [
+        "Use healthy seeds",
+        "Treat seeds with captan or thiram"
+      ],
+      "farmer_action_points": [],
+      "warnings_and_limitations": [],
+      "research_findings": [],
+      "source_pages": [
+        "44",
+        "45",
+        "52",
+        "53"
+      ]
+    },
+    {
+      "disease_name": "Blast",
+      "alternative_names": [
+        "Leaf blast",
+        "Collar blast",
+        "Node blast",
+        "Neck blast"
+      ],
+      "disease_type": "Fungal disease",
+      "causal_agent": "Pyricularia grisea",
+      "pathogen_type": "Fungus",
+      "affected_plant_parts": [
+        "leaves",
+        "collar region",
+        "stems",
+        "nodes",
+        "panicles",
+        "grains"
+      ],
+      "symptoms": {
+        "general": [
+          "Disease occurs at all crop stages (nursery, tillering, flowering)",
+          "Elliptical or spindle shaped lesions with brown border and grayish/ashy center on leaves",
+          "Collar region marked by rusty brown appearance at junction of leaf blade and leaf sheath",
+          "Stems turn dark brown to blackish color at node (Node blast)",
+          "Black necrotic lesions around the base of panicles resulting in breakdown of panicles and formation of chaffy grains (Neck blast)"
+        ],
+        "early_symptoms": [],
+        "advanced_symptoms": [
+          "Under favorable conditions, lesions enlarge and coalesce and entire leaf withers",
+          "Entire leaf blade dries up in collar blast",
+          "Stem becomes weak and breaks easily in node blast"
+        ],
+        "visual_field_symptoms": [
+          "Spindle shaped lesions on leaves with brown border and grayish centre"
+        ]
+      },
+      "identification": {
+        "field_identification": [
+          "Spindle-shaped leaf lesions with gray centers",
+          "Node blackening and breakage",
+          "Neck blast panicle breakage"
+        ],
+        "diagnostic_methods": [],
+        "differential_diagnosis": []
+      },
+      "causes_and_risk_factors": [
+        "Soils rich in N / fields applied with excess N"
+      ],
+      "favorable_conditions": {
+        "temperature": "",
+        "humidity": "",
+        "rainfall": "",
+        "soil_conditions": "",
+        "other_conditions": []
+      },
+      "disease_development_and_spread": [],
+      "epidemiology": [],
+      "severity_and_yield_loss": [],
+      "management": {
+        "cultural_management": [
+          "Use healthy seeds collected from disease free crops",
+          "Apply balanced dose of nitrogenous fertilizer in 3-4 splits (80 kg N ha-1)",
+          "Weed out alternate hosts (Cynodron sp. and Paspalum sp.)",
+          "Maintain standing water in the field"
+        ],
+        "biological_management": [
+          "Bael leaf extract (25 g fresh leaves L-1 water)",
+          "Tulsi leaf extract (25 g fresh young leaves L-1 water)",
+          "Neem leaf extract (200 g fresh leaves L-1 water)"
+        ],
+        "chemical_management": [
+          {
+            "active_ingredient_or_product": "carbendazim 50WP",
+            "dose": "2 g L-1 water",
+            "concentration": "50WP",
+            "application_method": "spray",
+            "timing": "need based",
+            "number_of_applications": "",
+            "result_reported_in_paper": ""
+          },
+          {
+            "active_ingredient_or_product": "tricyclazole 75WP",
+            "dose": "0.6g L-1 water",
+            "concentration": "75WP",
+            "application_method": "spray",
+            "timing": "need based",
+            "number_of_applications": "",
+            "result_reported_in_paper": ""
+          }
+        ],
+        "integrated_management": []
+      },
+      "resistant_or_tolerant_varieties": [
+        "Heera",
+        "Vandana",
+        "Kalinga III",
+        "Annada",
+        "IR 64",
+        "Gayatri"
+      ],
+      "susceptible_varieties": [],
+      "prevention": [
+        "Use healthy seeds",
+        "Weed out alternate hosts"
+      ],
+      "farmer_action_points": [],
+      "warnings_and_limitations": [],
+      "research_findings": [],
+      "source_pages": [
+        "46",
+        "47",
+        "54",
+        "55"
+      ]
+    },
+    {
+      "disease_name": "Bacterial leaf streak",
+      "alternative_names": [
+        "BLS"
+      ],
+      "disease_type": "Bacterial disease",
+      "causal_agent": "Xanthomonas oryzae",
+      "pathogen_type": "Bacterium",
+      "affected_plant_parts": [
+        "leaves"
+      ],
+      "symptoms": {
+        "general": [
+          "Small, dark-green and water-soaked streaks between veins from tillering to booting stage",
+          "Streaks enlarge to become yellowish gray and translucent then turn light brown or yellowish brown",
+          "Large areas of leaf may become dry due to numerous streaks"
+        ],
+        "early_symptoms": [
+          "Small dark-green water-soaked streaks between veins"
+        ],
+        "advanced_symptoms": [],
+        "visual_field_symptoms": [
+          "Patch of yellowish gray interveinal streaks on early infected leaf"
+        ]
+      },
+      "identification": {
+        "field_identification": [
+          "Interveinal streaks turning yellowish gray",
+          "Bacterial exudates from infected cut leaves when placed in water"
+        ],
+        "diagnostic_methods": [
+          "Ooze test in water"
+        ],
+        "differential_diagnosis": [
+          "Potassium deficiency starts from leaf tip and margin and progresses toward midrib, whereas BLS is interveinal streaks",
+          "At later stage indistinguishable from BLB, but BLB has inverted V shape appearance"
+        ]
+      },
+      "causes_and_risk_factors": [],
+      "favorable_conditions": {
+        "temperature": "",
+        "humidity": "",
+        "rainfall": "",
+        "soil_conditions": "",
+        "other_conditions": []
+      },
+      "disease_development_and_spread": [],
+      "epidemiology": [],
+      "severity_and_yield_loss": [],
+      "management": {
+        "cultural_management": [
+          "Apply balanced dose of NPK",
+          "Additional potash application in the field helps in reducing infection",
+          "Avoid field to field irrigation",
+          "Avoid clipping of seedlings at transplanting"
+        ],
+        "biological_management": [
+          "Spray fresh cow dung extract (1 kg cow dung in 5 liters water) thrice at eight days interval"
+        ],
+        "chemical_management": [
+          {
+            "active_ingredient_or_product": "streptocycline + captan",
+            "dose": "0.15 g streptocycline + 2 g captan",
+            "concentration": "",
+            "application_method": "seed soaking in 2 liters of water",
+            "timing": "8-10 hours",
+            "number_of_applications": "1",
+            "result_reported_in_paper": ""
+          },
+          {
+            "active_ingredient_or_product": "plantomycin or streptocycline",
+            "dose": "0.1% plantomycin or 0.01% streptocycline",
+            "concentration": "0.1% / 0.01%",
+            "application_method": "root dipping of seedlings",
+            "timing": "30 minutes",
+            "number_of_applications": "1",
+            "result_reported_in_paper": ""
+          },
+          {
+            "active_ingredient_or_product": "plantomycin + copperoxychloride",
+            "dose": "1 g plantomycin + 1 g copperoxychloride L-1",
+            "concentration": "",
+            "application_method": "spray",
+            "timing": "upon onset of symptoms, twice at 8 days interval",
+            "number_of_applications": "2",
+            "result_reported_in_paper": ""
+          }
+        ],
+        "integrated_management": []
+      },
+      "resistant_or_tolerant_varieties": [
+        "Gayatri",
+        "Durga",
+        "Varshadhan",
+        "Rambha",
+        "Kanchan"
+      ],
+      "susceptible_varieties": [],
+      "prevention": [
+        "Hot water treatment of seeds for 12 hours at 53 deg C for 30 minutes"
+      ],
+      "farmer_action_points": [],
+      "warnings_and_limitations": [],
+      "research_findings": [],
+      "source_pages": [
+        "48",
+        "49",
+        "56",
+        "57"
+      ]
+    },
+    {
+      "disease_name": "Sheath blight",
+      "alternative_names": [],
+      "disease_type": "Fungal disease",
+      "causal_agent": "Rhizoctonia solani",
+      "pathogen_type": "Fungus",
+      "affected_plant_parts": [
+        "sheaths",
+        "leaves",
+        "panicles",
+        "grains"
+      ],
+      "symptoms": {
+        "general": [
+          "Appears in later growth stages in late tillering or early internode elongation stage",
+          "Initial symptoms on sheaths of lower leaves or just below leaf collar near water line as small, ellipsoidal or ovoid, greenish-gray and water-soaked lesions",
+          "Later lesions occur with grayish white center and light brown to dark brown margin",
+          "White sclerotia of mustard seed size found on infected sheaths"
+        ],
+        "early_symptoms": [
+          "Small, ellipsoidal or ovoid, greenish-gray and water-soaked lesions on lower leaf sheaths"
+        ],
+        "advanced_symptoms": [
+          "Lesions dry and become grayish-white to tan with brownish borders and may coalesce forming bigger lesions, causing death of whole leaf",
+          "Severely infected plants produce poorly filled or empty grains, especially on lower portion of panicles"
+        ],
+        "visual_field_symptoms": [
+          "Rice plant showing sheath blight lesions on leaf sheath",
+          "Rice plant showing sheath blight lesions with brownish border and grayish white centre"
+        ]
+      },
+      "identification": {
+        "field_identification": [
+          "Ellipsoidal lesions on sheaths with grayish-white centers and dark brown margins",
+          "Presence of mustard-seed-sized white sclerotia"
+        ],
+        "diagnostic_methods": [],
+        "differential_diagnosis": []
+      },
+      "causes_and_risk_factors": [],
+      "favorable_conditions": {
+        "temperature": "",
+        "humidity": "",
+        "rainfall": "",
+        "soil_conditions": "",
+        "other_conditions": [
+          "early heading and grain filling stages favor rapid development"
+        ]
+      },
+      "disease_development_and_spread": [],
+      "epidemiology": [],
+      "severity_and_yield_loss": [],
+      "management": {
+        "cultural_management": [
+          "Adopt deep summer ploughing so sclerotia in soil are exposed to hot sunlight",
+          "Incorporate green manure (Sesbania sp.) in sheath blight endemic areas",
+          "Do not transplant more than 3 seedlings hill-1",
+          "Maintain field sanitation by removing weeds"
+        ],
+        "biological_management": [],
+        "chemical_management": [
+          {
+            "active_ingredient_or_product": "validamycin 3L",
+            "dose": "2 mL L-1 water",
+            "concentration": "3L",
+            "application_method": "spray",
+            "timing": "need based",
+            "number_of_applications": "",
+            "result_reported_in_paper": ""
+          },
+          {
+            "active_ingredient_or_product": "hexaconazole 5 EC",
+            "dose": "2 mL L-1 water",
+            "concentration": "5 EC",
+            "application_method": "spray",
+            "timing": "need based",
+            "number_of_applications": "",
+            "result_reported_in_paper": ""
+          },
+          {
+            "active_ingredient_or_product": "thifluzamide 24SC",
+            "dose": "1 mL L-1 water",
+            "concentration": "24SC",
+            "application_method": "spray",
+            "timing": "need based",
+            "number_of_applications": "",
+            "result_reported_in_paper": ""
+          },
+          {
+            "active_ingredient_or_product": "carbendazim 50 WP",
+            "dose": "2.5 g L-1 water",
+            "concentration": "50 WP",
+            "application_method": "spray",
+            "timing": "need based",
+            "number_of_applications": "",
+            "result_reported_in_paper": ""
+          }
+        ],
+        "integrated_management": []
+      },
+      "resistant_or_tolerant_varieties": [
+        "Ajaya",
+        "IR 36",
+        "Ratna",
+        "CR 1014",
+        "Nalini"
+      ],
+      "susceptible_varieties": [],
+      "prevention": [
+        "Deep summer ploughing",
+        "Field sanitation"
+      ],
+      "farmer_action_points": [],
+      "warnings_and_limitations": [],
+      "research_findings": [],
+      "source_pages": [
+        "50",
+        "58",
+        "59"
+      ]
+    },
+    {
+      "disease_name": "Rice Tungro",
+      "alternative_names": [
+        "Tungro virus disease"
+      ],
+      "disease_type": "Viral disease",
+      "causal_agent": "Tungro virus",
+      "pathogen_type": "Virus",
+      "affected_plant_parts": [
+        "leaves",
+        "tillers",
+        "panicles",
+        "roots"
+      ],
+      "symptoms": {
+        "general": [
+          "Freshly emerged leaves exhibit interveinal chlorosis",
+          "Leaves gradually turn pale yellow and later reddish orange in color",
+          "Plants get stunted and numbers of tillers are reduced",
+          "Impaired root growth"
+        ],
+        "early_symptoms": [
+          "Freshly emerged leaves exhibit interveinal chlorosis"
+        ],
+        "advanced_symptoms": [
+          "At maturity stage, panicles do not exert completely"
+        ],
+        "visual_field_symptoms": [
+          "Infected rice plant with reddish orange leaves",
+          "Stunted plants with pale yellow leaves in an infected field"
+        ]
+      },
+      "identification": {
+        "field_identification": [
+          "Occurs as patches within a field, affecting single hills rather than the whole field",
+          "Orange-yellow discoloration of leaves and stunting"
+        ],
+        "diagnostic_methods": [],
+        "differential_diagnosis": [
+          "Symptoms of K deficiency are similar to tungro virus disease, but K deficiency affects the whole field uniformly whereas tungro occurs as patches affecting single hills"
+        ]
+      },
+      "causes_and_risk_factors": [],
+      "favorable_conditions": {
+        "temperature": "",
+        "humidity": "",
+        "rainfall": "",
+        "soil_conditions": "",
+        "other_conditions": []
+      },
+      "disease_development_and_spread": [],
+      "epidemiology": [],
+      "severity_and_yield_loss": [],
+      "management": {
+        "cultural_management": [
+          "Avoid late planting (beyond 2nd week of August) in Eastern Indian states",
+          "Clean out weeds like C. rotundus, H. compressa, Hydrolia Zeylanica and Phyllanthus niruri from surrounding of rice fields"
+        ],
+        "biological_management": [],
+        "chemical_management": [
+          {
+            "active_ingredient_or_product": "cartap hydrochloride 4G or carbofuran",
+            "dose": "25 kg ha-1",
+            "concentration": "4G",
+            "application_method": "soil application",
+            "timing": "need based application",
+            "number_of_applications": "",
+            "result_reported_in_paper": ""
+          },
+          {
+            "active_ingredient_or_product": "imidacloprid 200SL",
+            "dose": "0.5 mL L-1 of water",
+            "concentration": "200SL",
+            "application_method": "spray",
+            "timing": "need based spray",
+            "number_of_applications": "",
+            "result_reported_in_paper": ""
+          }
+        ],
+        "integrated_management": []
+      },
+      "resistant_or_tolerant_varieties": [
+        "Ratna",
+        "Naveen",
+        "Lunishree"
+      ],
+      "susceptible_varieties": [],
+      "prevention": [
+        "Avoid late planting beyond 2nd week of August in Eastern Indian states",
+        "Weed management in surroundings"
+      ],
+      "farmer_action_points": [],
+      "warnings_and_limitations": [],
+      "research_findings": [],
+      "source_pages": [
+        "52",
+        "60"
+      ]
+    }
+  ],
+  "paper_level_notes": [
+    "The publication is a visual diagnostic tool and management guide for nutrient disorders and major diseases in rice published by the Central Rice Research Institute (ICAR), Cuttack, India in 2013."
+  ],
+  "_processing_metadata": {
+    "source_pdf": "rice.pdf",
+    "crop_detected_from_filename": "Rice",
+    "model_used": "gemini-3.5-flash-lite",
+    "extracted_at": "2026-09-23 23:14:22"
+  }
+}

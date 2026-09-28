@@ -1,0 +1,2553 @@
+{
+  "crop": "Cotton",
+  "paper_information": {
+    "title": "Diseases and Disorders of Cotton: A Field Guide for symptom-based identification and management",
+    "authors": [
+      "S.K. Sain",
+      "D. Monga",
+      "M. Sabesh",
+      "Y.G. Prasad",
+      "A. H. Prakash",
+      "R. K. Singh"
+    ],
+    "year": "2023",
+    "journal_or_source": "ICAR-AICRP on Cotton, ICAR-CICR Regional Station, Coimbatore",
+    "doi_or_identifier": "978-93-5813-167-3",
+    "abstract_summary": "A comprehensive field guide for symptom-based identification and management of various cotton diseases, disorders, and nutritional deficiencies in India, detailing causal agents, symptoms, epidemiology, and integrated disease management practices.",
+    "research_objective": "To help agricultural scientists, extension personnel, students, and cotton farmers identify common diseases, disorders, and biosecurity threats of cotton in India and provide location-specific management practices.",
+    "study_area": "India",
+    "important_findings": [
+      "Shift in disease prevalence over the last two decades due to climate change and adoption of Bt-cotton hybrids.",
+      "Emergence and increasing threats of target leaf spots, TSV, boll rots, bacterial leaf blight, alternaria leaf spot, and grey mildew.",
+      "Comprehensive detailing of symptom progression, disease development, and economic losses for major cotton diseases."
+    ]
+  },
+  "diseases": [
+    {
+      "disease_name": "Cotton Leaf Curl Virus Disease",
+      "alternative_names": [
+        "CLCuD"
+      ],
+      "disease_type": "Viral Disease",
+      "causal_agent": "Cotton-infecting begomoviruses (family Geminiviridae) with alpha and beta satellites",
+      "pathogen_type": "Virus",
+      "affected_plant_parts": [
+        "Leaves",
+        "Branches",
+        "Bracts",
+        "Squares"
+      ],
+      "symptoms": {
+        "general": [
+          "Thickening and darkening of veins seen against sunlight (SVT type)",
+          "Upward or downward curling of leaves",
+          "Secondary leaf-like structures originating from nectaries (enations)",
+          "Stunted growth and dwarf appearance with reduced internodal length"
+        ],
+        "early_symptoms": [
+          "Small and large vein thickening and darkening on the underside of new leaves"
+        ],
+        "advanced_symptoms": [
+          "Severe leaf curling, enations on leaves and bracts, extreme stunting"
+        ],
+        "visual_field_symptoms": [
+          "Stunted plants showing bushy and dwarf appearance with curled leaves on top of the plant and branches"
+        ]
+      },
+      "identification": {
+        "field_identification": [
+          "Observe new leaves on top of plant for vein thickening and upward/downward curling"
+        ],
+        "diagnostic_methods": [
+          "Laboratory diagnosis and vector association"
+        ],
+        "differential_diagnosis": []
+      },
+      "causes_and_risk_factors": [
+        "Spread by whitefly (Bemisia tabaci)",
+        "Presence of weed, ornamental, and vegetable alternate hosts (~26 genera)"
+      ],
+      "favorable_conditions": {
+        "temperature": "",
+        "humidity": "",
+        "rainfall": "",
+        "soil_conditions": "",
+        "other_conditions": [
+          "Presence of vector Bemisia tabaci and alternate hosts"
+        ]
+      },
+      "disease_development_and_spread": [
+        "Spread by whitefly Bemisia tabaci vector; symptoms can appear at seedling stage (~30 DAS) onwards"
+      ],
+      "epidemiology": [
+        "PDI increases slowly during June and reaches up to 80% during August and September in the north zone."
+      ],
+      "severity_and_yield_loss": [
+        "Average yield loss corresponding to disease rating scales 1 to 6 recorded to be 15, 28, 38.6, 49.1, 59.1, and 72.1% in Bt cotton hybrids."
+      ],
+      "management": {
+        "cultural_management": [
+          "Weed sanitation",
+          "Cultivation of Desi cotton/sorghum/pearl millet/maize as border rows",
+          "Optimal use of nitrogenous fertilizers",
+          "Avoid growing whitefly and CLCuD host crops near cotton"
+        ],
+        "biological_management": [],
+        "chemical_management": [
+          {
+            "active_ingredient_or_product": "Salicylic acid",
+            "dose": "200 ppm",
+            "concentration": "",
+            "application_method": "Foliar spray",
+            "timing": "At fortnightly interval starting from 30 days after sowing (3-5 sprays)",
+            "number_of_applications": "3-5",
+            "result_reported_in_paper": ""
+          },
+          {
+            "active_ingredient_or_product": "Butter milk / Cow urine + Calcium nitrate + mustard oil",
+            "dose": "5% / cow urine + Calcium nitrate (6.6%+0.5%) or mustard oil (3.0%)",
+            "concentration": "",
+            "application_method": "Foliar spray",
+            "timing": "Fortnightly starting from 30 DAS",
+            "number_of_applications": "3-5",
+            "result_reported_in_paper": ""
+          },
+          {
+            "active_ingredient_or_product": "Nimbecidine 300ppm + washing powder",
+            "dose": "1L/acre + 0.1% washing powder",
+            "concentration": "",
+            "application_method": "Foliar spray",
+            "timing": "Early and mid-season",
+            "number_of_applications": "1-2",
+            "result_reported_in_paper": ""
+          }
+        ],
+        "integrated_management": [
+          "Grow recommended Bt hybrids/varieties resistant/tolerant to CLCuD",
+          "Vector management using appropriate insecticides for adults and nymphs"
+        ]
+      },
+      "resistant_or_tolerant_varieties": [
+        "Recommended Bt hybrids/varieties resistant/tolerant to CLCuD"
+      ],
+      "susceptible_varieties": [],
+      "prevention": [
+        "Destroy volunteer/ratoon/infected cotton plants and weed hosts"
+      ],
+      "farmer_action_points": [
+        "Monitor whitefly populations and remove alternate hosts"
+      ],
+      "warnings_and_limitations": [],
+      "research_findings": [
+        "Incidence is increasing in Bt and non-Bt hybrids in the north zone."
+      ],
+      "source_pages": [
+        "12",
+        "13",
+        "20",
+        "21",
+        "22",
+        "30",
+        "110",
+        "118"
+      ]
+    },
+    {
+      "disease_name": "Tobacco Streak Virus",
+      "alternative_names": [
+        "TSV"
+      ],
+      "disease_type": "Viral Disease",
+      "causal_agent": "Tobacco streak virus (genus Ilarvirus, family Bromoviridae)",
+      "pathogen_type": "Virus",
+      "affected_plant_parts": [
+        "Newer leaves",
+        "Tips of plant/branches",
+        "Petioles",
+        "Stem",
+        "Flowers",
+        "Young bolls"
+      ],
+      "symptoms": {
+        "general": [
+          "Chlorosis of young leaves at tip, discoloration, bronzing, necrosis",
+          "Veinal chlorosis, curling of leaves, necrotic streaks on petioles, stem, and flowers",
+          "Dwarfing or stunting of plants, square drying and dropping"
+        ],
+        "early_symptoms": [
+          "Acute or necrotic stage: local lesions appear as rings, solid necrotic spots, or diamond-shaped patterns"
+        ],
+        "advanced_symptoms": [
+          "Chronic stage: leaves thicker than normal with smoother texture, tubular corolla splits with separated bracts"
+        ],
+        "visual_field_symptoms": [
+          "Necrotic symptoms starting from top to bottom, square drying on plants"
+        ]
+      },
+      "identification": {
+        "field_identification": [
+          "Observe newer leaves and tips for chlorosis, necrosis, and square drying"
+        ],
+        "diagnostic_methods": [],
+        "differential_diagnosis": [
+          "Resembles physiological or nutritional disorders and herbicide phytotoxicity"
+        ]
+      },
+      "causes_and_risk_factors": [
+        "Transmitted through pollen assisted by thrips (Thripidae)",
+        "Abundance of infected pollen of parthenium, thrips population and movement"
+      ],
+      "favorable_conditions": {
+        "temperature": "Above 30°C causes severe symptoms like large necrotic arcs, broken rings, lines, and dots",
+        "humidity": "",
+        "rainfall": "",
+        "soil_conditions": "",
+        "other_conditions": [
+          "Presence of parthenium weed hosts and thrips vectors"
+        ]
+      },
+      "disease_development_and_spread": [
+        "Transmitted via thrips-assisted pollen transfer; asymptomatic infection in weed hosts like parthenium"
+      ],
+      "epidemiology": [],
+      "severity_and_yield_loss": [
+        "Infection at early or mid-growth stage results in severe reduction in yield and premature plant death. 12.6 to 38.8% occurrence in Tamil Nadu (2010)."
+      ],
+      "management": {
+        "cultural_management": [],
+        "biological_management": [],
+        "chemical_management": [
+          {
+            "active_ingredient_or_product": "Spinetoram 11.7 SC",
+            "dose": "170 ml/acre",
+            "concentration": "",
+            "application_method": "Foliar spray",
+            "timing": "Early and mid-season",
+            "number_of_applications": "",
+            "result_reported_in_paper": ""
+          },
+          {
+            "active_ingredient_or_product": "Profenophos 50EC",
+            "dose": "500 ml/acre",
+            "concentration": "",
+            "application_method": "Foliar spray",
+            "timing": "Early and mid-season",
+            "number_of_applications": "",
+            "result_reported_in_paper": ""
+          },
+          {
+            "active_ingredient_or_product": "Diafenthiuron 50WP",
+            "dose": "200 g/acre",
+            "concentration": "",
+            "application_method": "Foliar spray",
+            "timing": "Early and mid-season",
+            "number_of_applications": "",
+            "result_reported_in_paper": ""
+          }
+        ],
+        "integrated_management": []
+      },
+      "resistant_or_tolerant_varieties": [],
+      "susceptible_varieties": [],
+      "prevention": [],
+      "farmer_action_points": [
+        "Manage thrips and remove parthenium weeds"
+      ],
+      "warnings_and_limitations": [],
+      "research_findings": [
+        "Emerging disease in Andhra Pradesh, Tamil Nadu, and Maharashtra."
+      ],
+      "source_pages": [
+        "23",
+        "24",
+        "28",
+        "31",
+        "36",
+        "121",
+        "124"
+      ]
+    },
+    {
+      "disease_name": "Cotton Blue Disease",
+      "alternative_names": [
+        "Cotton Leaf Roll Dwarf Virus",
+        "CLRDV"
+      ],
+      "disease_type": "Viral Disease",
+      "causal_agent": "Cotton Leaf Roll Dwarf Virus (genus Polerovirus, family Luteoviridae)",
+      "pathogen_type": "Virus",
+      "affected_plant_parts": [
+        "Newer leaves",
+        "Tips of plant/branches",
+        "Flowers",
+        "Bolls"
+      ],
+      "symptoms": {
+        "general": [
+          "Stunting, leaf rolling, intense green foliage, vein yellowing, brittleness of leaves",
+          "Reduced flower and boll size, sometimes resulting in plant sterility"
+        ],
+        "early_symptoms": [],
+        "advanced_symptoms": [],
+        "visual_field_symptoms": [
+          "Stunted plants with intense green, rolled leaves starting from top to bottom"
+        ]
+      },
+      "identification": {
+        "field_identification": [
+          "Check for intense green foliage, leaf rolling, and stunting on newer leaves"
+        ],
+        "diagnostic_methods": [],
+        "differential_diagnosis": []
+      },
+      "causes_and_risk_factors": [
+        "Transmitted by aphid (Aphis gossypii) in a circulative-persistent manner"
+      ],
+      "favorable_conditions": {
+        "temperature": "",
+        "humidity": "",
+        "rainfall": "",
+        "soil_conditions": "",
+        "other_conditions": [
+          "Presence of aphid vectors"
+        ]
+      },
+      "disease_development_and_spread": [
+        "Spread by Aphis gossypii"
+      ],
+      "epidemiology": [],
+      "severity_and_yield_loss": [
+        "Yield losses of up to 80% from susceptible cultivars reported in South America."
+      ],
+      "management": {
+        "cultural_management": [],
+        "biological_management": [],
+        "chemical_management": [],
+        "integrated_management": []
+      },
+      "resistant_or_tolerant_varieties": [],
+      "susceptible_varieties": [],
+      "prevention": [
+        "Constant vigilance on occurrence"
+      ],
+      "farmer_action_points": [
+        "Monitor and control aphid populations"
+      ],
+      "warnings_and_limitations": [
+        "Biosecurity threat"
+      ],
+      "research_findings": [
+        "Only one report from Maharashtra in India (2011)."
+      ],
+      "source_pages": [
+        "29",
+        "30",
+        "31",
+        "37",
+        "38",
+        "39"
+      ]
+    },
+    {
+      "disease_name": "Cotton Leaf Crumple Virus",
+      "alternative_names": [
+        "CLCrV",
+        "Cotton Leaf Crumple Virus Disease"
+      ],
+      "disease_type": "Viral Disease",
+      "causal_agent": "Cotton Leaf Crumple Virus (bipartite DNA begomovirus)",
+      "pathogen_type": "Virus",
+      "affected_plant_parts": [
+        "Newer leaves",
+        "Middle age leaves"
+      ],
+      "symptoms": {
+        "general": [
+          "Leaf crumpling, downward curling",
+          "Interveinal hypertrophy, foliar mosaic, puckering",
+          "Shortening of internodes, stunting"
+        ],
+        "early_symptoms": [],
+        "advanced_symptoms": [],
+        "visual_field_symptoms": [
+          "Stunted plants with crumpled, puckered, and downward-curled leaves"
+        ]
+      },
+      "identification": {
+        "field_identification": [
+          "Observe leaves for crumpling, puckering, and downward curling without vein thickening"
+        ],
+        "diagnostic_methods": [],
+        "differential_diagnosis": [
+          "Similar to CLCuD except for small vein darkening and vein thickening"
+        ]
+      },
+      "causes_and_risk_factors": [
+        "Transmitted by whitefly Bemisia tabaci",
+        "Ratooning (pruning and allowing cotton to regrow)"
+      ],
+      "favorable_conditions": {
+        "temperature": "",
+        "humidity": "",
+        "rainfall": "",
+        "soil_conditions": "",
+        "other_conditions": [
+          "Whitefly vector presence"
+        ]
+      },
+      "disease_development_and_spread": [
+        "Transmitted by whitefly"
+      ],
+      "epidemiology": [],
+      "severity_and_yield_loss": [
+        "Severe outbreaks may be exacerbated by ratooning."
+      ],
+      "management": {
+        "cultural_management": [
+          "Avoid ratooning"
+        ],
+        "biological_management": [],
+        "chemical_management": [],
+        "integrated_management": []
+      },
+      "resistant_or_tolerant_varieties": [],
+      "susceptible_varieties": [],
+      "prevention": [
+        "Constant vigilance"
+      ],
+      "farmer_action_points": [
+        "Control whitefly, avoid ratooning"
+      ],
+      "warnings_and_limitations": [
+        "Biosecurity threat"
+      ],
+      "research_findings": [
+        "Occurs in southwestern USA and Mexico; one early report in Maharashtra, India without further confirmation."
+      ],
+      "source_pages": [
+        "32",
+        "33",
+        "34",
+        "40",
+        "41",
+        "42"
+      ]
+    },
+    {
+      "disease_name": "Cotton Virescence",
+      "alternative_names": [
+        "Cotton Virescence - Phytoplasma"
+      ],
+      "disease_type": "Phytoplasma Disease",
+      "causal_agent": "Cotton virescence-associated phytoplasmas ('Candidatus Phytoplasma asteris', group 16SrI)",
+      "pathogen_type": "Phytoplasma",
+      "affected_plant_parts": [
+        "Top of plant",
+        "Branches",
+        "Newer leaves",
+        "Flower bracts/squares",
+        "Inflorescence",
+        "Roots"
+      ],
+      "symptoms": {
+        "general": [
+          "Cessation of internode elongation, reduction in leaf size, stunting",
+          "Conversion of entire inflorescence into phyllody or malformation",
+          "Twisted, rolled leaves with abnormal color, closely arranged on top of stem",
+          "Witches' broom symptoms, hairy roots"
+        ],
+        "early_symptoms": [],
+        "advanced_symptoms": [
+          "Dwarfing, resetting, or elongation with early senescence"
+        ],
+        "visual_field_symptoms": [
+          "Plants showing yellowing, reddening, stunting, and floral malformation"
+        ]
+      },
+      "identification": {
+        "field_identification": [
+          "Look for floral malformation into leaves, little leaf symptoms, and witches' broom"
+        ],
+        "diagnostic_methods": [
+          "Sequence comparisons"
+        ],
+        "differential_diagnosis": []
+      },
+      "causes_and_risk_factors": [
+        "Transmitted by brown leafhopper/jassids Orosius cellulosus",
+        "Presence of Sida spp. and Mitracarpus scaber reservoirs"
+      ],
+      "favorable_conditions": {
+        "temperature": "",
+        "humidity": "",
+        "rainfall": "",
+        "soil_conditions": "",
+        "other_conditions": [
+          "Presence of leafhopper vectors and Sida weed reservoirs"
+        ]
+      },
+      "disease_development_and_spread": [
+        "Transmitted by leafhopper vectors"
+      ],
+      "epidemiology": [
+        "In Mali, up to 50% of plants infected in some fields."
+      ],
+      "severity_and_yield_loss": [],
+      "management": {
+        "cultural_management": [
+          "Remove Sida weed reservoirs"
+        ],
+        "biological_management": [],
+        "chemical_management": [],
+        "integrated_management": []
+      },
+      "resistant_or_tolerant_varieties": [],
+      "susceptible_varieties": [],
+      "prevention": [
+        "Strict quarantine vigilance"
+      ],
+      "farmer_action_points": [
+        "Monitor host plants and insect vectors"
+      ],
+      "warnings_and_limitations": [
+        "Strict quarantine importance"
+      ],
+      "research_findings": [
+        "Recorded in Western Africa; little leaf symptoms observed in New Delhi (2010) with homology to 16SrI group."
+      ],
+      "source_pages": [
+        "35",
+        "36",
+        "37",
+        "43",
+        "44",
+        "45"
+      ]
+    },
+    {
+      "disease_name": "Root Rot",
+      "alternative_names": [
+        "Charcoal rot",
+        "Collar rot"
+      ],
+      "disease_type": "Soil Borne Disease",
+      "causal_agent": "Rhizoctonia bataticola = Macrophomina phaseolina, Rhizoctonia solani, Sclerotium delphinii, Sclerotium rolfsii",
+      "pathogen_type": "Fungus",
+      "affected_plant_parts": [
+        "Lower stem",
+        "Roots",
+        "Crown region"
+      ],
+      "symptoms": {
+        "general": [
+          "Wilting of plant foliage from top to bottom",
+          "Leaves remain attached to branches/stem",
+          "Dry or wet dark rot of lower stem followed by shredding of bark",
+          "Discolored stele and pith, black dot-like sclerotia beneath bark"
+        ],
+        "early_symptoms": [
+          "Yellow patch on lower stem which later turns black, drying of seedlings"
+        ],
+        "advanced_symptoms": [
+          "Dissolution of stem and root tissues, minute sclerotia"
+        ],
+        "visual_field_symptoms": [
+          "Plants wilting in circular patches in the field that expand year after year"
+        ]
+      },
+      "identification": {
+        "field_identification": [
+          "Check for circular patches of wilted plants, bark shredding at base, and easy pulling from ground"
+        ],
+        "diagnostic_methods": [],
+        "differential_diagnosis": []
+      },
+      "causes_and_risk_factors": [
+        "Soil-borne fungi surviving in soil and crop debris"
+      ],
+      "favorable_conditions": {
+        "temperature": "",
+        "humidity": "",
+        "rainfall": "",
+        "soil_conditions": "Prevalent in sandy soils, alluvial soils, and heavy clays (black cotton soils)",
+        "other_conditions": []
+      },
+      "disease_development_and_spread": [
+        "Occurs in circular patches; M. phaseolina at seedling stage (60 DAS) or after wood formation; R. solani at 30 DAS and severe at 90-120 DAS"
+      ],
+      "epidemiology": [],
+      "severity_and_yield_loss": [
+        "Serious in northern India, affects both G. hirsutum and G. arboreum, being more serious in desi cotton."
+      ],
+      "management": {
+        "cultural_management": [
+          "Crop rotation",
+          "Deep ploughing",
+          "Incorporation of crop residue",
+          "Green manuring",
+          "Well-decomposed FYM/compost"
+        ],
+        "biological_management": [
+          "Seed treatment with Trichoderma harzianum @ 4 g/kg or T. viride @ 4 g/kg or Pseudomonas fluorescens @ 10 g/kg",
+          "Soil application of Trichoderma spp. and/or P. fluorescens @ 2.5 kg/ha in 250 kg vermicompost/FYM"
+        ],
+        "chemical_management": [
+          {
+            "active_ingredient_or_product": "Carboxin 75%WP",
+            "dose": "2.5 g/kg seed",
+            "concentration": "",
+            "application_method": "Seed treatment",
+            "timing": "Before sowing",
+            "number_of_applications": "",
+            "result_reported_in_paper": ""
+          },
+          {
+            "active_ingredient_or_product": "Thiram 75%WP",
+            "dose": "2.5-3 g/kg seed",
+            "concentration": "",
+            "application_method": "Seed treatment",
+            "timing": "Before sowing",
+            "number_of_applications": "",
+            "result_reported_in_paper": ""
+          },
+          {
+            "active_ingredient_or_product": "Carbendazim",
+            "dose": "2.0 g/L of water",
+            "concentration": "",
+            "application_method": "Spot application / drenching",
+            "timing": "In affected patches",
+            "number_of_applications": "",
+            "result_reported_in_paper": ""
+          }
+        ],
+        "integrated_management": [
+          "Seed treatment combined with soil application of bioagents and spot drenching of Carbendazim"
+        ]
+      },
+      "resistant_or_tolerant_varieties": [],
+      "susceptible_varieties": [],
+      "prevention": [
+        "Seed treatment before sowing",
+        "Avoid planting seeds from infested regions"
+      ],
+      "farmer_action_points": [
+        "Spot-treat affected patches with Carbendazim or bioagents"
+      ],
+      "warnings_and_limitations": [],
+      "research_findings": [],
+      "source_pages": [
+        "38",
+        "39",
+        "40",
+        "41",
+        "46",
+        "47",
+        "48",
+        "49",
+        "109",
+        "111",
+        "115"
+      ]
+    },
+    {
+      "disease_name": "Fusarium Wilt",
+      "alternative_names": [],
+      "disease_type": "Soil Borne Disease",
+      "causal_agent": "Fusarium oxysporum f. sp. vasinfectum (Atk.)",
+      "pathogen_type": "Fungus",
+      "affected_plant_parts": [
+        "Roots",
+        "Vascular system",
+        "Xylem vessels",
+        "Leaves",
+        "Cotyledons"
+      ],
+      "symptoms": {
+        "general": [
+          "Wilting of plant foliage from top to bottom",
+          "Darkening of veins on cotyledons, peripheral chlorosis and necrosis",
+          "Yellowing at margin of lower leaves, chlorosis in patches between main veins"
+        ],
+        "early_symptoms": [
+          "Darkening of veins on cotyledons at seedling stage"
+        ],
+        "advanced_symptoms": [
+          "Shedding of all leaves before stem dries out"
+        ],
+        "visual_field_symptoms": [
+          "Wilting and drying of plants in patches in the field"
+        ]
+      },
+      "identification": {
+        "field_identification": [
+          "Check for wilting in patches and make a cross-section of stem near root zone to observe xylem color change"
+        ],
+        "diagnostic_methods": [
+          "Stem cross-section for vascular discoloration"
+        ],
+        "differential_diagnosis": []
+      },
+      "causes_and_risk_factors": [
+        "Seed and soil-borne fungal pathogen surviving on seed and crop residues via chlamydospores"
+      ],
+      "favorable_conditions": {
+        "temperature": "",
+        "humidity": "",
+        "rainfall": "",
+        "soil_conditions": "",
+        "other_conditions": [
+          "High inoculum density, susceptible host"
+        ]
+      },
+      "disease_development_and_spread": [
+        "Appears generally between 30 to 120 DAS; colonizes roots and grows systemically into vascular tissues"
+      ],
+      "epidemiology": [],
+      "severity_and_yield_loss": [
+        "Loss may vary from field to field and variety to variety from 5 to 40%."
+      ],
+      "management": {
+        "cultural_management": [
+          "Crop rotation"
+        ],
+        "biological_management": [],
+        "chemical_management": [],
+        "integrated_management": [
+          "Grow resistant diploid varieties (upland cotton/Bt hybrids are immune to Indian race 4 of this pathogen)"
+        ]
+      },
+      "resistant_or_tolerant_varieties": [
+        "Upland cotton / Bt hybrids are immune to the Indian race of the pathogen"
+      ],
+      "susceptible_varieties": [
+        "Diploid cotton (Gossypium arboreum, G. herbaceum)"
+      ],
+      "prevention": [
+        "Use disease-free seeds"
+      ],
+      "farmer_action_points": [
+        "Grow resistant upland Bt hybrids where diploid wilt is a problem"
+      ],
+      "warnings_and_limitations": [
+        "Occurs only in diploid cotton in India"
+      ],
+      "research_findings": [
+        "Fusarium wilt has become less important as upland cotton is grown in >90% area and is immune to the Indian race."
+      ],
+      "source_pages": [
+        "2",
+        "42",
+        "43",
+        "44",
+        "50",
+        "51",
+        "52"
+      ]
+    },
+    {
+      "disease_name": "Verticillium Wilt",
+      "alternative_names": [],
+      "disease_type": "Soil Borne Disease",
+      "causal_agent": "Verticillium dahliae Kleb.",
+      "pathogen_type": "Fungus",
+      "affected_plant_parts": [
+        "Roots",
+        "Stems",
+        "Leaves",
+        "Xylem",
+        "Phloem",
+        "Cortex tissues"
+      ],
+      "symptoms": {
+        "general": [
+          "Drooping branches and leaves",
+          "Interveinal chlorosis followed by yellowing, leaf scorching",
+          "Drying of leaf margins and areas between veins (\"Tiger stripe symptoms\")",
+          "Defoliation, plant death, flecked brown or pink discoloration of vascular tissues"
+        ],
+        "early_symptoms": [],
+        "advanced_symptoms": [
+          "Death of entire plant, smaller bolls, pinkish discoloration in stem and wood"
+        ],
+        "visual_field_symptoms": [
+          "Wilted plants showing tiger stripe leaf symptoms and vascular discoloration"
+        ]
+      },
+      "identification": {
+        "field_identification": [
+          "Check for tiger stripe leaf symptoms and cut stem cross/diagonally at base to observe brown/pink vascular discoloration"
+        ],
+        "diagnostic_methods": [
+          "Cutting stem at base to check vascular discoloration"
+        ],
+        "differential_diagnosis": [
+          "Can be easily mistaken for Fusarium wilt"
+        ]
+      },
+      "causes_and_risk_factors": [
+        "Soil-borne pathogen infecting through roots",
+        "Extended wet or overcast weather, waterlogging, late-maturing crops, cooler weather"
+      ],
+      "favorable_conditions": {
+        "temperature": "Cooler weather",
+        "humidity": "Extended wet weather",
+        "rainfall": "Waterlogging",
+        "soil_conditions": "",
+        "other_conditions": [
+          "Late-maturing crops"
+        ]
+      },
+      "disease_development_and_spread": [
+        "Infects plants at seedling stage and grows continuously with plant; first symptoms appear 90-100 DAS at squaring/boll formation"
+      ],
+      "epidemiology": [],
+      "severity_and_yield_loss": [
+        "Plants may remain barren during severe weather conditions."
+      ],
+      "management": {
+        "cultural_management": [
+          "Balanced Nitrogen application",
+          "Correcting micronutrient deficiencies"
+        ],
+        "biological_management": [
+          "Seed treatment with T. viride @ 10g/kg or P. fluorescens @ 10g/kg",
+          "Soil application of T. viride or P. fluorescens @ 1 kg/acre with 100 kg FYM or vermicompost"
+        ],
+        "chemical_management": [
+          {
+            "active_ingredient_or_product": "Carbendazim",
+            "dose": "2 g/kg seed (ST) or 1 g/L (soil drenching)",
+            "concentration": "",
+            "application_method": "Seed treatment and soil drenching at base of infected plants",
+            "timing": "Pre-sowing and upon infection",
+            "number_of_applications": "",
+            "result_reported_in_paper": ""
+          },
+          {
+            "active_ingredient_or_product": "Copper oxychloride",
+            "dose": "3 g/L",
+            "concentration": "",
+            "application_method": "Soil drenching at base of infected plants",
+            "timing": "Upon infection",
+            "number_of_applications": "",
+            "result_reported_in_paper": ""
+          }
+        ],
+        "integrated_management": [
+          "Seed treatment, soil application of bioagents, balanced nutrition, and soil drenching"
+        ]
+      },
+      "resistant_or_tolerant_varieties": [],
+      "susceptible_varieties": [
+        "G. hirsutum, G. barbadense, G. herbaceum, G. arboreum"
+      ],
+      "prevention": [],
+      "farmer_action_points": [
+        "Avoid waterlogging and late irrigation that exposes crop to cooler weather"
+      ],
+      "warnings_and_limitations": [
+        "Restricted mainly to south zone in India"
+      ],
+      "research_findings": [],
+      "source_pages": [
+        "2",
+        "45",
+        "46",
+        "47",
+        "53",
+        "54",
+        "55",
+        "123",
+        "124"
+      ]
+    },
+    {
+      "disease_name": "Texas Wilt",
+      "alternative_names": [
+        "Fusarium Wilt Race 4",
+        "FOV4"
+      ],
+      "disease_type": "Soil Borne Disease",
+      "causal_agent": "Fusarium oxysporum f. sp. vasinfectum race-4 (FOV4)",
+      "pathogen_type": "Fungus",
+      "affected_plant_parts": [
+        "Seedlings",
+        "Cotyledons",
+        "Leaves",
+        "Stems",
+        "Roots"
+      ],
+      "symptoms": {
+        "general": [
+          "Seedling damping-off, leaf wilt, chlorosis, vascular discoloration",
+          "Black streaking at the center of root limited to roots at initial flowering stage",
+          "Root decay, wilting, and death"
+        ],
+        "early_symptoms": [
+          "Earliest wilting symptoms on seedlings in cotyledons"
+        ],
+        "advanced_symptoms": [
+          "Severe plant stunting (>80%), seedling death, bare spots in field"
+        ],
+        "visual_field_symptoms": [
+          "Random bare spots in fields where seedlings are killed, increasing in size over years"
+        ]
+      },
+      "identification": {
+        "field_identification": [
+          "Look for random bare spots in fields, seedling damping-off, and black streaking in root center"
+        ],
+        "diagnostic_methods": [
+          "Quarantine evaluation of imported seed and soil material"
+        ],
+        "differential_diagnosis": [
+          "Resembles disease caused by other fungal pathogens like FOV and Rhizoctonia solani"
+        ]
+      },
+      "causes_and_risk_factors": [
+        "Soil-borne and seed-borne fungus",
+        "Movement of infested seeds or soil due to tillage or furrow irrigation, farm implements"
+      ],
+      "favorable_conditions": {
+        "temperature": "",
+        "humidity": "",
+        "rainfall": "",
+        "soil_conditions": "",
+        "other_conditions": []
+      },
+      "disease_development_and_spread": [
+        "Fungus produces spores persisting in soil and crop residue; spread by water, implements, and contaminated acid-delinted seeds"
+      ],
+      "epidemiology": [],
+      "severity_and_yield_loss": [
+        "Ability to kill seedlings and cause severe stunting greater than 80%."
+      ],
+      "management": {
+        "cultural_management": [],
+        "biological_management": [],
+        "chemical_management": [],
+        "integrated_management": []
+      },
+      "resistant_or_tolerant_varieties": [],
+      "susceptible_varieties": [
+        "G. hirsutum, G. barbadense (Pima cotton)"
+      ],
+      "prevention": [
+        "Strict quarantine vigilance",
+        "Do not save and replant seed from infested fields",
+        "Clean farm equipment with pressure washer and detergent"
+      ],
+      "farmer_action_points": [
+        "Keep constant watch on movement of cotton seeds and material"
+      ],
+      "warnings_and_limitations": [
+        "Biosecurity threat; extremely virulent and causes severe early-season damage in absence of nematodes"
+      ],
+      "research_findings": [
+        "Race 4 detected in USA (California, Texas, New Mexico, Kansas); first described in India in 1960 on G. arboreum."
+      ],
+      "source_pages": [
+        "48",
+        "49",
+        "50",
+        "56",
+        "57",
+        "58"
+      ]
+    },
+    {
+      "disease_name": "Bacterial Leaf Blight",
+      "alternative_names": [
+        "Angular Leaf Spot",
+        "Black Arm"
+      ],
+      "disease_type": "Bacterial Disease",
+      "causal_agent": "Xanthomonas citri pv. malvacearum (Smith) Vauterin et al. (Xcm)",
+      "pathogen_type": "Bacterium",
+      "affected_plant_parts": [
+        "Cotyledons",
+        "Leaves",
+        "Flower bracts",
+        "Bolls",
+        "Branches",
+        "Stems",
+        "Hypocotyl"
+      ],
+      "symptoms": {
+        "general": [
+          "Water-soaked, angular leaf spots restricted by veins",
+          "Dark brown necrotic spots, 'shot-hole' appearance when necrotic tissue falls away",
+          "Vein blight (main veins as black streaks)",
+          "Black arm (elongated grayish-to-black lesions on stem)",
+          "Boll rot phase (small round water-soaked spots turning sunken and brown)"
+        ],
+        "early_symptoms": [
+          "Tiny round to elongate lesions on cotyledons, deep green and water-soaked spots"
+        ],
+        "advanced_symptoms": [
+          "Defoliation, stem cankers girdling and killing seedlings, extensive boll rotting"
+        ],
+        "visual_field_symptoms": [
+          "Angular dark brown spots on leaves, black streaks on veins, and black lesions on stems and bolls"
+        ]
+      },
+      "identification": {
+        "field_identification": [
+          "Observe underside of leaves for water-soaking around angular dark brown lesions"
+        ],
+        "diagnostic_methods": [],
+        "differential_diagnosis": []
+      },
+      "causes_and_risk_factors": [
+        "Seed and plant debrisborne bacterium; favored by wet weather"
+      ],
+      "favorable_conditions": {
+        "temperature": "",
+        "humidity": "High humidity",
+        "rainfall": "Rain showers",
+        "soil_conditions": "",
+        "other_conditions": []
+      },
+      "disease_development_and_spread": [
+        "Occurs from seedling to boll development stages (45 to 105 DAS); four phases: seedling phase, angular leaf spot, vein blight, black arm, and boll rot"
+      ],
+      "epidemiology": [],
+      "severity_and_yield_loss": [
+        "Yield loss up to 20%; potential yield loss estimated to be 22% with max disease index of 28.8% at Dharwad, Guntur, Surat, and Akola."
+      ],
+      "management": {
+        "cultural_management": [],
+        "biological_management": [
+          "Seed treatment with Pseudomonas fluorescens @ 10g/kg or Trichoderma"
+        ],
+        "chemical_management": [
+          {
+            "active_ingredient_or_product": "Copper oxychloride",
+            "dose": "250 g/acre or 3 g/L",
+            "concentration": "0.2% - 0.3%",
+            "application_method": "Foliar spray",
+            "timing": "Seedling to boll development stages",
+            "number_of_applications": "3-4 times at fortnightly intervals starting 50 DAS",
+            "result_reported_in_paper": ""
+          }
+        ],
+        "integrated_management": [
+          "Seed treatment with fungicides/bioagents and foliar sprays of copper oxychloride"
+        ]
+      },
+      "resistant_or_tolerant_varieties": [],
+      "susceptible_varieties": [
+        "Bt hybrids have manifested more susceptibility to bacterial blight compared to non-Bt counterparts"
+      ],
+      "prevention": [],
+      "farmer_action_points": [
+        "Apply copper oxychloride sprays upon initial appearance of water-soaked spots"
+      ],
+      "warnings_and_limitations": [
+        "Resurgence observed in central and south India in Bt hybrids"
+      ],
+      "research_findings": [
+        "Race-18 reported as most virulent."
+      ],
+      "source_pages": [
+        "2",
+        "10",
+        "12",
+        "51",
+        "52",
+        "53",
+        "54",
+        "55",
+        "56",
+        "57",
+        "59",
+        "60",
+        "61",
+        "62",
+        "63",
+        "64",
+        "65",
+        "111",
+        "112",
+        "113",
+        "114",
+        "115",
+        "116"
+      ]
+    },
+    {
+      "disease_name": "Bronze Wilt",
+      "alternative_names": [
+        "Copper top",
+        "Red wilt",
+        "Sudden wilt",
+        "Phloem wilt"
+      ],
+      "disease_type": "Bacterial / Physiological Disorder Complex",
+      "causal_agent": "Exact cause uncertain; unique strain of Agrobacterium tumefaciens reported in Texas on taproot brown scars",
+      "pathogen_type": "Bacteria / Abiotic Complex",
+      "affected_plant_parts": [
+        "Leaves",
+        "Flower bracts",
+        "Bolls",
+        "Branches",
+        "Stems",
+        "Taproots"
+      ],
+      "symptoms": {
+        "general": [
+          "Bronze or red discoloration and wilting of leaves (\"bronzing\")",
+          "Rapid wilting, collapse of youngest leaves in terminal, increase in leaf temperature",
+          "Reddening of stem and fruit shed"
+        ],
+        "early_symptoms": [
+          "Mild bronze leaf tint, lower leaf angle (wilting), higher leaf temperature in upper canopy"
+        ],
+        "advanced_symptoms": [
+          "Necrosis of stem tissue or whole plants, fruit shed, plant death"
+        ],
+        "visual_field_symptoms": [
+          "Sporadic occurrence of plants across field showing copper top / bronze red discoloration and wilting"
+        ]
+      },
+      "identification": {
+        "field_identification": [
+          "Check for sporadic bronze/red discoloration, rapid wilting, and brown scars on taproots"
+        ],
+        "diagnostic_methods": [],
+        "differential_diagnosis": [
+          "Resembles Fusarium and Verticillium wilts, Macrophomina root rots, nematode damage, nutrient deficiencies, and drought"
+        ]
+      },
+      "causes_and_risk_factors": [
+        "Daytime temperatures above 32°C for 2-3 weeks",
+        "High light intensity, high nitrogen fertilizer rates, phosphorus/sulfur/potassium deficiencies, high soil pH (>7), drought followed by rain/irrigation"
+      ],
+      "favorable_conditions": {
+        "temperature": "Above 32°C for 2 to 3 weeks",
+        "humidity": "",
+        "rainfall": "Drought followed by rain or irrigation",
+        "soil_conditions": "High soil pH (above 7), nutrient deficiencies (P, S, K)",
+        "other_conditions": [
+          "High light intensity",
+          "High rates of nitrogen fertilizer"
+        ]
+      },
+      "disease_development_and_spread": [
+        "Occurs especially during boll development stage, often appearing first at row ends or field margins"
+      ],
+      "epidemiology": [],
+      "severity_and_yield_loss": [
+        "Devastating losses occurred in 1998 in USA (e.g., Georgia losses valued at nearly $25 million)."
+      ],
+      "management": {
+        "cultural_management": [],
+        "biological_management": [],
+        "chemical_management": [],
+        "integrated_management": []
+      },
+      "resistant_or_tolerant_varieties": [],
+      "susceptible_varieties": [
+        "Short-season varieties of Upland and Pima cotton"
+      ],
+      "prevention": [],
+      "farmer_action_points": [
+        "Manage irrigation and nitrogen fertilization to avoid stress conditions"
+      ],
+      "warnings_and_limitations": [
+        "Biosecurity threat; mysterious disease with uncertain exact cause"
+      ],
+      "research_findings": [
+        "Reported in Midsouth and Southeast USA during hot summers of 1995, 1996, and 1998."
+      ],
+      "source_pages": [
+        "58",
+        "59",
+        "60",
+        "66",
+        "67",
+        "68"
+      ]
+    },
+    {
+      "disease_name": "Alternaria Leaf Spot or Blight",
+      "alternative_names": [
+        "Alternaria blight"
+      ],
+      "disease_type": "Fungal Foliar Disease",
+      "causal_agent": "Alternaria spp. including Alternaria macrospora Zimm., Alternaria alternata (Fr.) Keissler",
+      "pathogen_type": "Fungus",
+      "affected_plant_parts": [
+        "Cotyledons",
+        "Leaves",
+        "Petiole",
+        "Stem",
+        "Bolls"
+      ],
+      "symptoms": {
+        "general": [
+          "Small dull and dark brown, circular or irregularly shaped spots with concentric rings",
+          "Spots with purple margins on senescing leaves",
+          "Lesions becoming gray and dry with 'shot-holed' appearance",
+          "Coalescing spots forming large burnt/blighted patches leading to defoliation"
+        ],
+        "early_symptoms": [
+          "Spots on cotyledons causing them to shed"
+        ],
+        "advanced_symptoms": [
+          "Severe defoliation, burnt/blighted leaves"
+        ],
+        "visual_field_symptoms": [
+          "Dark brown spots with concentric rings starting from lower to upper leaves across canopy, associated with reddening and yellowing"
+        ]
+      },
+      "identification": {
+        "field_identification": [
+          "Check for dark brown to black spots with concentric rings from lower to upper leaves, wider than target leaf spots"
+        ],
+        "diagnostic_methods": [],
+        "differential_diagnosis": [
+          "Similar to Stemphylium leaf spot and Target leaf spot"
+        ]
+      },
+      "causes_and_risk_factors": [
+        "Insufficient potassium availability either due to inadequate fertilization or drought",
+        "Late-season cotton development"
+      ],
+      "favorable_conditions": {
+        "temperature": "",
+        "humidity": "",
+        "rainfall": "",
+        "soil_conditions": "Insufficient potassium availability",
+        "other_conditions": [
+          "Drought periods"
+        ]
+      },
+      "disease_development_and_spread": [
+        "Appears at boll formation stages; natural infection of seeds or seed inoculation results in cotyledon infection"
+      ],
+      "epidemiology": [
+        "Erratic in occurrence, causing severe defoliation in some years."
+      ],
+      "severity_and_yield_loss": [
+        "Potential yield loss estimated to be 26.6% with maximum disease index 31.6% at Rahuri, Guntur, and Dharwad (Monga et al. 2013)."
+      ],
+      "management": {
+        "cultural_management": [
+          "Ensure adequate potassium fertilization"
+        ],
+        "biological_management": [],
+        "chemical_management": [
+          {
+            "active_ingredient_or_product": "Kresoxim-methyl 44.3% SC",
+            "dose": "1 ml/L",
+            "concentration": "",
+            "application_method": "Foliar spray",
+            "timing": "Late season / boll development",
+            "number_of_applications": "",
+            "result_reported_in_paper": ""
+          },
+          {
+            "active_ingredient_or_product": "Azoxystrobin 18.2% + Difenoconazole 11.4% SC",
+            "dose": "1 ml/L",
+            "concentration": "",
+            "application_method": "Foliar spray",
+            "timing": "Late season / boll development",
+            "number_of_applications": "",
+            "result_reported_in_paper": ""
+          },
+          {
+            "active_ingredient_or_product": "Propiconazole",
+            "dose": "1 ml/L",
+            "concentration": "",
+            "application_method": "Foliar spray",
+            "timing": "Late season / boll development",
+            "number_of_applications": "",
+            "result_reported_in_paper": ""
+          },
+          {
+            "active_ingredient_or_product": "Pyraclostrobin 20% SC",
+            "dose": "1 ml/L",
+            "concentration": "",
+            "application_method": "Foliar spray",
+            "timing": "Late season / boll development",
+            "number_of_applications": "",
+            "result_reported_in_paper": ""
+          },
+          {
+            "active_ingredient_or_product": "Fluxapyroxad 167 g/L + Pyraclostrobin 333 g/L SC",
+            "dose": "0.6 g/L",
+            "concentration": "",
+            "application_method": "Foliar spray",
+            "timing": "Late season / boll development",
+            "number_of_applications": "",
+            "result_reported_in_paper": ""
+          },
+          {
+            "active_ingredient_or_product": "Propineb 70% WP",
+            "dose": "2.5-3 g/L",
+            "concentration": "",
+            "application_method": "Foliar spray",
+            "timing": "Late season / boll development",
+            "number_of_applications": "",
+            "result_reported_in_paper": ""
+          }
+        ],
+        "integrated_management": [
+          "Balanced fertilization (potassium) combined with timely fungicide sprays"
+        ]
+      },
+      "resistant_or_tolerant_varieties": [],
+      "susceptible_varieties": [
+        "G. hirsutum, G. barbadense, interspecific hybrids, Bt hybrids"
+      ],
+      "prevention": [],
+      "farmer_action_points": [
+        "Monitor potassium levels and apply recommended fungicides during boll development"
+      ],
+      "warnings_and_limitations": [
+        "Bt hybrids have manifested more susceptibility to Alternaria leaf spots"
+      ],
+      "research_findings": [
+        "Showing increasing trend in South and Central India."
+      ],
+      "source_pages": [
+        "2",
+        "10",
+        "12",
+        "61",
+        "62",
+        "63",
+        "69",
+        "70",
+        "71",
+        "72",
+        "73",
+        "111",
+        "113",
+        "114",
+        "116"
+      ]
+    },
+    {
+      "disease_name": "Cercospora Leaf Spot or Blight",
+      "alternative_names": [],
+      "disease_type": "Fungal Foliar Disease",
+      "causal_agent": "Cercospora gossypina Cke. (perfect state: Mycosphaerella gossypina (Cke.) Atk.)",
+      "pathogen_type": "Fungus",
+      "affected_plant_parts": [
+        "Cotyledons",
+        "Leaves",
+        "Petiole",
+        "Stem",
+        "Bolls"
+      ],
+      "symptoms": {
+        "general": [
+          "Reddish spots on cotyledons and early crop stages",
+          "Lesions enlarging with white to light brown center and distinct dark brown/blackish rim",
+          "Concentric zones with red color at margins, enlarging up to 10 mm",
+          "Grey center that cracks and drops down giving target board appearance in advanced stage"
+        ],
+        "early_symptoms": [
+          "Reddish spots on cotyledons and early leaves"
+        ],
+        "advanced_symptoms": [
+          "Withering of large leaf patches, ragged margins, pale withered leaves dropping"
+        ],
+        "visual_field_symptoms": [
+          "Concentric spots with grey cracking centers and dark margins on older leaves"
+        ]
+      },
+      "identification": {
+        "field_identification": [
+          "Check for circular spots with grey cracking centers and dark margins; microscopic examination of whip-like septate spores needed for exact diagnosis"
+        ],
+        "diagnostic_methods": [
+          "Viewing long, thin whip-like, septate spores"
+        ],
+        "differential_diagnosis": [
+          "Difficult to differentiate from Alternaria, Corynespora, and Myrothecium leaf spots in the field"
+        ]
+      },
+      "causes_and_risk_factors": [
+        "Favorable weather under wet soil conditions when plants are unthrifty"
+      ],
+      "favorable_conditions": {
+        "temperature": "",
+        "humidity": "Favorable weather",
+        "rainfall": "",
+        "soil_conditions": "Wet soil conditions",
+        "other_conditions": [
+          "Unthrifty plant growth"
+        ]
+      },
+      "disease_development_and_spread": [
+        "Usually affects older leaves, spreading over whole plant in favorable wet weather"
+      ],
+      "epidemiology": [],
+      "severity_and_yield_loss": [
+        "Considered a minor disease and not considered to be a cause of yield loss."
+      ],
+      "management": {
+        "cultural_management": [],
+        "biological_management": [],
+        "chemical_management": [],
+        "integrated_management": []
+      },
+      "resistant_or_tolerant_varieties": [],
+      "susceptible_varieties": [],
+      "prevention": [],
+      "farmer_action_points": [],
+      "warnings_and_limitations": [],
+      "research_findings": [
+        "Occurs only sporadically in India and is not a serious hazard."
+      ],
+      "source_pages": [
+        "2",
+        "12",
+        "66",
+        "67",
+        "68",
+        "69",
+        "74",
+        "75",
+        "76",
+        "77"
+      ]
+    },
+    {
+      "disease_name": "Target Leaf Spot",
+      "alternative_names": [
+        "Corynespora leaf spot",
+        "Leaf fall",
+        "Target spot",
+        "CoLS",
+        "ToLS"
+      ],
+      "disease_type": "Fungal Foliar Disease",
+      "causal_agent": "Corynespora cassiicola (Berk. & Curt.) Wei.",
+      "pathogen_type": "Fungus",
+      "affected_plant_parts": [
+        "Leaves",
+        "Bracts",
+        "Branches",
+        "Stems",
+        "Squares"
+      ],
+      "symptoms": {
+        "general": [
+          "Small brown to brick-red circular to irregular spots leading to large spots (~1 inch / 2 cm)",
+          "Series of concentric rings with necrotic tissue and depression at center (\"target spot\" symptoms)",
+          "Dark red spots 2 mm to 10 mm in size, primarily in lower canopy"
+        ],
+        "early_symptoms": [
+          "Small brown to brick-red circular spots appearing as early as 60-70 DAS"
+        ],
+        "advanced_symptoms": [
+          "Coalescing lesions, severe necrosis, premature senescence and dropping of leaves (premature defoliation)"
+        ],
+        "visual_field_symptoms": [
+          "Interior canopy defoliation starting from bottom and progressing upwards, with target-pattern spots on leaves and bracts"
+        ]
+      },
+      "identification": {
+        "field_identification": [
+          "Check for interior canopy leaf spots with concentric rings and depression, not bordered by dark band, starting at bottom"
+        ],
+        "diagnostic_methods": [],
+        "differential_diagnosis": [
+          "Differentiated from Stemphylium/Alternaria by location in canopy and absence of dark border band"
+        ]
+      },
+      "causes_and_risk_factors": [
+        "Frequent showers/irrigation, dense crop canopy creating microclimate, high humidity"
+      ],
+      "favorable_conditions": {
+        "temperature": "Hot and humid climate",
+        "humidity": "High humidity",
+        "rainfall": "Frequent showers/irrigation",
+        "soil_conditions": "",
+        "other_conditions": [
+          "Dense crop canopy creating microclimate"
+        ]
+      },
+      "disease_development_and_spread": [
+        "Spores spread through wind and rain splash; soil and partially seed-borne, overwintering in plant debris"
+      ],
+      "epidemiology": [],
+      "severity_and_yield_loss": [
+        "Yield losses 5-40% when disease occurs early in season (at bloom) causing 10-50% defoliation."
+      ],
+      "management": {
+        "cultural_management": [],
+        "biological_management": [],
+        "chemical_management": [],
+        "integrated_management": []
+      },
+      "resistant_or_tolerant_varieties": [],
+      "susceptible_varieties": [
+        "Various cotton cultivars and Bt hybrids depending on susceptibility"
+      ],
+      "prevention": [],
+      "farmer_action_points": [
+        "Monitor lower canopy during humid weather for early target spot lesions"
+      ],
+      "warnings_and_limitations": [
+        "Emerging disease with increasing trend in central and southern zones"
+      ],
+      "research_findings": [
+        "Reported across multiple regions in India (North Maharashtra, Nagpur, Guntur)."
+      ],
+      "source_pages": [
+        "2",
+        "10",
+        "12",
+        "70",
+        "71",
+        "72",
+        "73",
+        "78",
+        "79",
+        "80",
+        "81",
+        "82"
+      ]
+    },
+    {
+      "disease_name": "Myrothecium Leaf Spot",
+      "alternative_names": [],
+      "disease_type": "Fungal Foliar Disease",
+      "causal_agent": "Myrothecium roridum Tode",
+      "pathogen_type": "Fungus",
+      "affected_plant_parts": [
+        "Leaves",
+        "Stems",
+        "Branches",
+        "Bolls",
+        "Lint"
+      ],
+      "symptoms": {
+        "general": [
+          "Light brown to light ash color small circular to oval spots (2-10 mm) with dark brown/violet to reddish-brown margin",
+          "Conspicuous rings of pinhead size black sporodochia in concentric rings on spots (upper and lower leaf surface)",
+          "Shot-hole appearance where center drops out, heavy defoliation"
+        ],
+        "early_symptoms": [
+          "Small circular to oval light brown spots with dark margins"
+        ],
+        "advanced_symptoms": [
+          "Coalescing spots forming large patches, leaf shedding, boll lesions damaging lint making it brittle and discolored (strained yellow/light brown)"
+        ],
+        "visual_field_symptoms": [
+          "Spots with concentric black fungal fruiting bodies (sporodochia) on leaves and bolls"
+        ]
+      },
+      "identification": {
+        "field_identification": [
+          "Check for light ash spots with dark margins and concentric rings of black sporodochia"
+        ],
+        "diagnostic_methods": [],
+        "differential_diagnosis": []
+      },
+      "causes_and_risk_factors": [
+        "Seed-borne pathogen; favored by prolonged rainfall and humidity"
+      ],
+      "favorable_conditions": {
+        "temperature": "",
+        "humidity": "High humidity",
+        "rainfall": "Seasons of prolonged rainfall",
+        "soil_conditions": "",
+        "other_conditions": []
+      },
+      "disease_development_and_spread": [
+        "Seed-borne; occurs all over India, severe in wet conditions"
+      ],
+      "epidemiology": [],
+      "severity_and_yield_loss": [
+        "Potential yield loss estimated to be 29.2% with maximum disease index 22.5% at Khandwa (Monga et al. 2013); losses estimated at 15% with 37% disease intensity."
+      ],
+      "management": {
+        "cultural_management": [],
+        "biological_management": [],
+        "chemical_management": [],
+        "integrated_management": []
+      },
+      "resistant_or_tolerant_varieties": [],
+      "susceptible_varieties": [
+        "G. hirsutum and G. barbadense are more severely attacked than other species"
+      ],
+      "prevention": [
+        "Use clean, uninfected seeds"
+      ],
+      "farmer_action_points": [
+        "Inspect seeds and plants during prolonged wet periods"
+      ],
+      "warnings_and_limitations": [
+        "Prevalent and severe in Madhya Pradesh (Khandwa)"
+      ],
+      "research_findings": [],
+      "source_pages": [
+        "2",
+        "10",
+        "12",
+        "75",
+        "76",
+        "77",
+        "83",
+        "84",
+        "85",
+        "86"
+      ]
+    },
+    {
+      "disease_name": "Colletotrichum Leaf Spot or Anthracnose",
+      "alternative_names": [
+        "Anthracnose of cotton"
+      ],
+      "disease_type": "Fungal Foliar / Seedling Disease",
+      "causal_agent": "Colletotrichum gossypii Southw. (perfect stage: Glomerella gossypii), Colletotrichum capsici (Syd.) Butl. & Bisby",
+      "pathogen_type": "Fungus",
+      "affected_plant_parts": [
+        "Cotyledons",
+        "Seedlings",
+        "True leaves",
+        "Stem",
+        "Bolls",
+        "Lint"
+      ],
+      "symptoms": {
+        "general": [
+          "Reddish brown or dark brown lesions just below ground level on seedlings",
+          "Small circular sunken reddish to brown spots on leaf margins or near tips (5-10 mm)",
+          "Stem canker spots (small reddish/brown with depression in center turning black)",
+          "Reddish-brown to purplish-brown spots on bolls with depressed center, turning black with reddish margin"
+        ],
+        "early_symptoms": [
+          "Spots on cotyledons with irregular necrotic margins; lesions on hypocotyl causing seedling collapse"
+        ],
+        "advanced_symptoms": [
+          "Defoliation, salmon-pink conidial masses on spots in moist weather, internal boll lint discoloration (compact, discolored pinkish-brown)"
+        ],
+        "visual_field_symptoms": [
+          "Sunken reddish-brown leaf spots, stem cankers, and bolls with pink spore masses"
+        ]
+      },
+      "identification": {
+        "field_identification": [
+          "Check for sunken reddish-brown leaf spots near margins, stem cankers, and salmon-pink spore masses on bolls"
+        ],
+        "diagnostic_methods": [],
+        "differential_diagnosis": []
+      },
+      "causes_and_risk_factors": [
+        "Seed infestation; favored by humid microclimate and irrigation"
+      ],
+      "favorable_conditions": {
+        "temperature": "",
+        "humidity": "Humid microclimate, moist conditions",
+        "rainfall": "",
+        "soil_conditions": "",
+        "other_conditions": [
+          "Irrigated conditions"
+        ]
+      },
+      "disease_development_and_spread": [
+        "Affects plant from 20 DAS to boll maturation; seed-borne origin"
+      ],
+      "epidemiology": [],
+      "severity_and_yield_loss": [
+        "Losses have decreased to negligible proportions; occasionally noticed in southern and central parts of India."
+      ],
+      "management": {
+        "cultural_management": [],
+        "biological_management": [],
+        "chemical_management": [],
+        "integrated_management": []
+      },
+      "resistant_or_tolerant_varieties": [],
+      "susceptible_varieties": [],
+      "prevention": [
+        "Use pathogen-free treated seeds"
+      ],
+      "farmer_action_points": [
+        "Examine seedlings and bolls for sunken spots and pink spore masses"
+      ],
+      "warnings_and_limitations": [],
+      "research_findings": [],
+      "source_pages": [
+        "12",
+        "79",
+        "80",
+        "87",
+        "88",
+        "89"
+      ]
+    },
+    {
+      "disease_name": "Helminthosporium Leaf Spot",
+      "alternative_names": [],
+      "disease_type": "Fungal Foliar Disease",
+      "causal_agent": "Helminthosporium gossypii Tucker",
+      "pathogen_type": "Fungus",
+      "affected_plant_parts": [
+        "Lower leaves",
+        "Bracts"
+      ],
+      "symptoms": {
+        "general": [
+          "Numerous circular light brown spots on lower leaves (0.5-2.5 mm)",
+          "Spots turning ashy in center with dark purple ring around them",
+          "Tissue in center drops down leaving holes ('shot-holes')"
+        ],
+        "early_symptoms": [
+          "Circular light brown spots on lower leaves"
+        ],
+        "advanced_symptoms": [
+          "Early defoliation when disease is severe"
+        ],
+        "visual_field_symptoms": [
+          "Small spots with ashy centers and purple rings on lower leaves, causing drop-out holes"
+        ]
+      },
+      "identification": {
+        "field_identification": [
+          "Check lower leaves for small circular light brown spots with purple rings and ashy centers"
+        ],
+        "diagnostic_methods": [],
+        "differential_diagnosis": []
+      },
+      "causes_and_risk_factors": [
+        "Pathogen overwinters on diseased plant debris, particularly dead leaves during off-season"
+      ],
+      "favorable_conditions": {
+        "temperature": "",
+        "humidity": "",
+        "rainfall": "",
+        "soil_conditions": "",
+        "other_conditions": []
+      },
+      "disease_development_and_spread": [
+        "Occurs sporadically on lower leaves"
+      ],
+      "epidemiology": [],
+      "severity_and_yield_loss": [
+        "Does not cause any noticeable loss in yield and is considered a minor disease."
+      ],
+      "management": {
+        "cultural_management": [
+          "Remove or destroy crop debris and dead leaves"
+        ],
+        "biological_management": [],
+        "chemical_management": [],
+        "integrated_management": []
+      },
+      "resistant_or_tolerant_varieties": [],
+      "susceptible_varieties": [
+        "All four cultivated species of Gossypium including tree cotton"
+      ],
+      "prevention": [
+        "Field sanitation"
+      ],
+      "farmer_action_points": [
+        "Clear off-season crop debris"
+      ],
+      "warnings_and_limitations": [],
+      "research_findings": [
+        "Observed in cotton-growing areas in India, especially Dharwad region of Karnataka."
+      ],
+      "source_pages": [
+        "2",
+        "12",
+        "82",
+        "90",
+        "91"
+      ]
+    },
+    {
+      "disease_name": "Ascochyta Blight",
+      "alternative_names": [
+        "Wet weather blight",
+        "Wet weather Canker",
+        "Ashen spot"
+      ],
+      "disease_type": "Fungal Foliar / Seedling Disease",
+      "causal_agent": "Ascochyta gossypii Woron. (perfect stage: Phoma exigua)",
+      "pathogen_type": "Fungus",
+      "affected_plant_parts": [
+        "Cotyledons",
+        "Leaves",
+        "Stems",
+        "Bolls"
+      ],
+      "symptoms": {
+        "general": [
+          "White to light brown circular lesions approaching 2 mm (<0.1 in) enlarging into irregular necrotic spots",
+          "Narrow dark border on necrotic margins with target-like appearance",
+          "Elongated canker spots with reddish-purple to black or ash gray on stem",
+          "Rough circular lesions on bolls following boll rotting"
+        ],
+        "early_symptoms": [
+          "Lesions on cotyledons and leaves in 3-8 week old plants (seedling disease)"
+        ],
+        "advanced_symptoms": [
+          "Death of vital parts from stem cankers, partial defoliation"
+        ],
+        "visual_field_symptoms": [
+          "Light brown circular spots with dark borders, black fruiting structures, and stem cankers during continuous rainy periods"
+        ]
+      },
+      "identification": {
+        "field_identification": [
+          "Check for light brown circular spots with dark borders, shot holes, and small black fruiting structures on older lesions"
+        ],
+        "diagnostic_methods": [],
+        "differential_diagnosis": [
+          "Can easily be confused with other fungal leaf blights at early stage"
+        ]
+      },
+      "causes_and_risk_factors": [
+        "Continuous rainy periods; wide host range serving as collateral host"
+      ],
+      "favorable_conditions": {
+        "temperature": "",
+        "humidity": "High humidity",
+        "rainfall": "Continuous rainy period, prolonged rains",
+        "soil_conditions": "",
+        "other_conditions": []
+      },
+      "disease_development_and_spread": [
+        "Appears at seedling to vegetative stages (20-60 DAS); starts on lower leaves and progresses upwards"
+      ],
+      "epidemiology": [],
+      "severity_and_yield_loss": [
+        "Yield loss is rarely reported; prolonged rains may hinder plant stand."
+      ],
+      "management": {
+        "cultural_management": [],
+        "biological_management": [],
+        "chemical_management": [],
+        "integrated_management": []
+      },
+      "resistant_or_tolerant_varieties": [],
+      "susceptible_varieties": [
+        "G. arboreum, G. hirsutum"
+      ],
+      "prevention": [],
+      "farmer_action_points": [
+        "Monitor crop during continuous rainy periods in Maharashtra, Gujarat, Tamil Nadu, and Karnataka"
+      ],
+      "warnings_and_limitations": [],
+      "research_findings": [],
+      "source_pages": [
+        "84",
+        "85",
+        "86",
+        "92",
+        "93",
+        "94"
+      ]
+    },
+    {
+      "disease_name": "Ramularia Grey Mildew",
+      "alternative_names": [
+        "Areolate mildew",
+        "False mildew",
+        "White mildew",
+        "Dahiya"
+      ],
+      "disease_type": "Fungal Foliar Disease",
+      "causal_agent": "Ramularia areola Atk.",
+      "pathogen_type": "Fungus",
+      "affected_plant_parts": [
+        "Leaves",
+        "Bracts",
+        "Cotyledons"
+      ],
+      "symptoms": {
+        "general": [
+          "Irregular, angular, pale translucent spots (1-10 mm, usually 3-4 mm) restricted by major leaf veinlets ('areolae')",
+          "Frosty or mildew growth consisting of conidiophores on undersurface and subsequently upper surface",
+          "Yellowish-brown leaves as infection progresses, necrotic lesions resembling bacterial blight"
+        ],
+        "early_symptoms": [
+          "Angular pale translucent spots restricted by veinlets on lower to middle canopy leaves"
+        ],
+        "advanced_symptoms": [
+          "Premature defoliation in severe cases"
+        ],
+        "visual_field_symptoms": [
+          "Angular spots with white powdery/frosty fungal growth on underside of lower to middle leaves at maturity"
+        ]
+      },
+      "identification": {
+        "field_identification": [
+          "Check for angular spots restricted by veins with white powdery growth on leaf underside (no other common cotton disease has white powdery growth on leaf underside)"
+        ],
+        "diagnostic_methods": [],
+        "differential_diagnosis": [
+          "Can easily be confused with bacterial leaf blight at an early stage"
+        ]
+      },
+      "causes_and_risk_factors": [
+        "Survives on infected dead leaves, perennial cotton, volunteer plants, and overlapping crops"
+      ],
+      "favorable_conditions": {
+        "temperature": "",
+        "humidity": "Moist situations",
+        "rainfall": "",
+        "soil_conditions": "Low-lying moist situations",
+        "other_conditions": []
+      },
+      "disease_development_and_spread": [
+        "Appears at vegetative to boll formation stages (60-120 DAS), starting from lower to middle canopy when plants reach maturity"
+      ],
+      "epidemiology": [],
+      "severity_and_yield_loss": [
+        "Potential yield loss estimated to be 25.6-46.6% at Dharwad, Guntur, and Nanded (Monga et al. 2013)."
+      ],
+      "management": {
+        "cultural_management": [],
+        "biological_management": [],
+        "chemical_management": [
+          {
+            "active_ingredient_or_product": "Propineb 70% WP",
+            "dose": "2.5 g/L",
+            "concentration": "",
+            "application_method": "Foliar spray",
+            "timing": "Mid to late season",
+            "number_of_applications": "3-4 times at 10-15 day intervals",
+            "result_reported_in_paper": ""
+          },
+          {
+            "active_ingredient_or_product": "Azoxystrobin 18.2% + Difenoconazole 11.4% SC",
+            "dose": "1 ml/L",
+            "concentration": "",
+            "application_method": "Foliar spray",
+            "timing": "Mid to late season",
+            "number_of_applications": "3-4 times at 10-15 day intervals",
+            "result_reported_in_paper": ""
+          },
+          {
+            "active_ingredient_or_product": "Sulphur",
+            "dose": "3 g/L",
+            "concentration": "",
+            "application_method": "Foliar spray",
+            "timing": "Late season",
+            "number_of_applications": "",
+            "result_reported_in_paper": ""
+          },
+          {
+            "active_ingredient_or_product": "Carbendazim",
+            "dose": "1 g/L",
+            "concentration": "0.1%",
+            "application_method": "Foliar spray",
+            "timing": "Late season",
+            "number_of_applications": "",
+            "result_reported_in_paper": ""
+          }
+        ],
+        "integrated_management": [
+          "Foliar sprays of recommended fungicides"
+        ]
+      },
+      "resistant_or_tolerant_varieties": [],
+      "susceptible_varieties": [
+        "Majority of released Bt hybrids fall in moderately susceptible to highly susceptible category; G. arboreum, G. herbaceum, G. hirsutum"
+      ],
+      "prevention": [
+        "Sanitation of infected dead leaves and volunteer plants"
+      ],
+      "farmer_action_points": [
+        "Inspect lower leaves for angular spots with white powdery growth and apply fungicides"
+      ],
+      "warnings_and_limitations": [
+        "Assumed to be serious in central and southern zones"
+      ],
+      "research_findings": [
+        "Showed increased incidence from 2008 to 2011 with PDI from 11.5 to 32.2%."
+      ],
+      "source_pages": [
+        "2",
+        "10",
+        "12",
+        "87",
+        "88",
+        "89",
+        "95",
+        "96",
+        "97",
+        "113",
+        "114",
+        "116"
+      ]
+    },
+    {
+      "disease_name": "Phakospora Leaf Rust",
+      "alternative_names": [
+        "Cotton leaf rust"
+      ],
+      "disease_type": "Fungal Foliar Disease",
+      "causal_agent": "Phakospora gossypii (Arth.) Hirat. F.",
+      "pathogen_type": "Fungus",
+      "affected_plant_parts": [
+        "Leaves",
+        "Pedicels",
+        "Branches"
+      ],
+      "symptoms": {
+        "general": [
+          "Rusty light to brown spots on older leaves leading to premature defoliation",
+          "Uredial sori as small (1-3 mm) pinkish-brown spots coalescing into larger patches",
+          "Yellowish-brown uredia on both leaf surfaces (primary deeply immersed on upper surface, secondary shallowly seated on lower surface)",
+          "Oval to circular uredia on pedicels and branches"
+        ],
+        "early_symptoms": [
+          "Rusty light to brown spots on older leaves during dry season"
+        ],
+        "advanced_symptoms": [
+          "Heavy defoliation, decrease in photosynthetic area"
+        ],
+        "visual_field_symptoms": [
+          "Rusty spots with yellowish-brown uredia on older leaves during dry season (December-March)"
+        ]
+      },
+      "identification": {
+        "field_identification": [
+          "Check older leaves for rusty light-brown spots and yellowish-brown uredia on both leaf surfaces in dry season"
+        ],
+        "diagnostic_methods": [],
+        "differential_diagnosis": []
+      },
+      "causes_and_risk_factors": [
+        "Favored by cooler temperatures; appears late in season after onset of senescence or in dry season (December-March)"
+      ],
+      "favorable_conditions": {
+        "temperature": "Cooler temperatures",
+        "humidity": "",
+        "rainfall": "",
+        "soil_conditions": "",
+        "other_conditions": [
+          "Dry season (December-March)"
+        ]
+      },
+      "disease_development_and_spread": [
+        "Appears at flowering to boll formation stages (120-180 DAS); only uredial stage occurs in India"
+      ],
+      "epidemiology": [],
+      "severity_and_yield_loss": [
+        "Potential yield loss estimated to be 21.7% with max disease index of 32.8% at Dharwad; avoidable loss estimated to be 21.7% in Bunny Bt and 34.05% in RCH 2 BG II."
+      ],
+      "management": {
+        "cultural_management": [],
+        "biological_management": [],
+        "chemical_management": [
+          {
+            "active_ingredient_or_product": "Sulphur",
+            "dose": "3 g/L",
+            "concentration": "",
+            "application_method": "Foliar spray",
+            "timing": "Starting from 75 days after sowing",
+            "number_of_applications": "3-4 times at fortnightly intervals",
+            "result_reported_in_paper": ""
+          },
+          {
+            "active_ingredient_or_product": "Propiconazole",
+            "dose": "1 ml/L",
+            "concentration": "",
+            "application_method": "Foliar spray",
+            "timing": "Starting from 75 days after sowing",
+            "number_of_applications": "3-4 times at fortnightly intervals",
+            "result_reported_in_paper": ""
+          }
+        ],
+        "integrated_management": [
+          "Foliar sprays of Sulphur or Propiconazole"
+        ]
+      },
+      "resistant_or_tolerant_varieties": [],
+      "susceptible_varieties": [
+        "Bunny Bt, RCH 2 BG II"
+      ],
+      "prevention": [],
+      "farmer_action_points": [
+        "Monitor late-sown and prolonged irrigated crops during winter months for rust pustules"
+      ],
+      "warnings_and_limitations": [
+        "Important problem in southern zone, causing significant yield losses when appearing early"
+      ],
+      "research_findings": [
+        "Severe incidence noted from 2009 to 2012 in northern Karnataka."
+      ],
+      "source_pages": [
+        "2",
+        "10",
+        "12",
+        "90",
+        "91",
+        "92",
+        "98",
+        "99",
+        "100",
+        "101",
+        "102",
+        "117"
+      ]
+    },
+    {
+      "disease_name": "External Boll Rot",
+      "alternative_names": [],
+      "disease_type": "Boll Rot Complex",
+      "causal_agent": "Colletotrichum gossypii var. cephalosporioides, C. gossypii, Fusarium sp., Ramularia areola, Lasiodiplodia theobromae, Myrothecium roridum, Alternaria macrospora, Phoma exigua, Phomopsis spp., Phytophthora spp., Rhizoctonia spp., C. cassiicola, Rhizopus spp., Aspergillus spp., Mucor sp., Cercospora sp., Diplodia sp., Curvularia sp., Cladosporium sp., Helminthosporium sp., Xanthomonas citri pv. malvacearum, etc.",
+      "pathogen_type": "Fungus / Bacterium",
+      "affected_plant_parts": [
+        "Bolls",
+        "Pericarp",
+        "Seeds",
+        "Lint"
+      ],
+      "symptoms": {
+        "general": [
+          "Small brown and/or black colored dots on bolls enlarging to cover entire bolls",
+          "Growth of fungi and mycelia on infected bolls",
+          "Rotting of pericarp, seeds, and lint; premature opening of bolls or bolls never bursting and falling off prematurely"
+        ],
+        "early_symptoms": [
+          "Small brown or black colored dots on bolls during boll maturity and bursting stages"
+        ],
+        "advanced_symptoms": [
+          "Complete boll rotting, fiber quality affected, premature defoliation of bolls"
+        ],
+        "visual_field_symptoms": [
+          "Bolls covered with fungal mycelia and dark spots, rotting prematurely"
+        ]
+      },
+      "identification": {
+        "field_identification": [
+          "Check for discolored bolls with fungal growth, spots, and rotting during boll maturity stages"
+        ],
+        "diagnostic_methods": [],
+        "differential_diagnosis": []
+      },
+      "causes_and_risk_factors": [
+        "Continuous cloudy weather, rain showers, warm weather, high relative humidity, insect-pest damage"
+      ],
+      "favorable_conditions": {
+        "temperature": "Warm weather",
+        "humidity": "High relative humidity",
+        "rainfall": "Rain showers, continuous cloudy weather",
+        "soil_conditions": "",
+        "other_conditions": [
+          "Insect-pest infestation",
+          "Monocropping"
+        ]
+      },
+      "disease_development_and_spread": [
+        "Occurs during boll maturity and bursting stages (120-180 DAS); involves ~170 organisms in boll rot complex"
+      ],
+      "epidemiology": [],
+      "severity_and_yield_loss": [
+        "Productivity losses up to 20-30%."
+      ],
+      "management": {
+        "cultural_management": [
+          "Avoid water stagnation"
+        ],
+        "biological_management": [],
+        "chemical_management": [
+          {
+            "active_ingredient_or_product": "Copper oxychloride 50% WP",
+            "dose": "2.5 g/L of water",
+            "concentration": "",
+            "application_method": "Foliar spray",
+            "timing": "Boll formation / maturity stage",
+            "number_of_applications": "",
+            "result_reported_in_paper": ""
+          },
+          {
+            "active_ingredient_or_product": "Copper sulphate 47.15% + Mancozeb 30% WDG",
+            "dose": "5 g/L of water",
+            "concentration": "",
+            "application_method": "Foliar spray",
+            "timing": "Boll formation / maturity stage",
+            "number_of_applications": "",
+            "result_reported_in_paper": ""
+          }
+        ],
+        "integrated_management": [
+          "Foliar sprays of copper-based fungicides"
+        ]
+      },
+      "resistant_or_tolerant_varieties": [],
+      "susceptible_varieties": [],
+      "prevention": [],
+      "farmer_action_points": [
+        "Monitor bolls during humid and rainy weather for rotting spots"
+      ],
+      "warnings_and_limitations": [
+        "Part of complex boll rot problem impacting lint production and quality"
+      ],
+      "research_findings": [],
+      "source_pages": [
+        "2",
+        "4",
+        "12",
+        "95",
+        "96",
+        "97",
+        "103",
+        "104",
+        "105",
+        "111",
+        "113",
+        "114",
+        "116"
+      ]
+    },
+    {
+      "disease_name": "Internal Boll Rot",
+      "alternative_names": [
+        "Hard lock"
+      ],
+      "disease_type": "Boll Rot Complex",
+      "causal_agent": "Pantoea agglomerans, P. ananatis, P. dispersa, P. anthophila, Erwinia uredovora, E. aroideae, Xanthomonas citri pv. malvacearum, Nigrospora oryzae, Colletotrichum gossypii, etc.",
+      "pathogen_type": "Bacterium / Fungus",
+      "affected_plant_parts": [
+        "Bolls",
+        "Ovary",
+        "Immature seeds",
+        "Fibers",
+        "Lint",
+        "Locules"
+      ],
+      "symptoms": {
+        "general": [
+          "Early disease diagnosis complicated as outer surface of boll seems healthy",
+          "Immature diseased locule attributed to 'hard lock' having rotted seeds with brown dense lint",
+          "Partially opened bolls that drop or do not open properly",
+          "Immature seeds, fibers, and lint appearing discolored (light yellow, pink-red to brown) with slimy presence, swollen and rotted seeds"
+        ],
+        "early_symptoms": [
+          "Minute black spots as indicators of piercing-sucking insect feeding signs on carpel layer"
+        ],
+        "advanced_symptoms": [
+          "Severe necrosis and rot of flowering buds, young bolls, and seeds within older bolls, headlocks formed"
+        ],
+        "visual_field_symptoms": [
+          "Bolls appearing healthy outside but upon cross-sectioning show discolored rotted locules, slime, and hard lock"
+        ]
+      },
+      "identification": {
+        "field_identification": [
+          "Cross-section or open bolls to inspect locules and seeds for internal rotting, sliminess, and discolored lint without external symptoms"
+        ],
+        "diagnostic_methods": [
+          "Cross-sectioning bolls"
+        ],
+        "differential_diagnosis": []
+      },
+      "causes_and_risk_factors": [
+        "Invasion of developing ovary via wounds associated with insect feeding (stink bugs, hoppers, bugs) and drizzling rains during first 3 weeks of boll development"
+      ],
+      "favorable_conditions": {
+        "temperature": "",
+        "humidity": "High relative humidity",
+        "rainfall": "Continuous rain showers, drizzling rains",
+        "soil_conditions": "",
+        "other_conditions": [
+          "Cloudy weather",
+          "Piercing-sucking bug/insect infestation during bud and boll development",
+          "Early crop sowing"
+        ]
+      },
+      "disease_development_and_spread": [
+        "Invades via insect-feeding wounds in first 3 weeks of boll development; opportunistic bacteria (Enterobacteriaceae) and endophytic fungi"
+      ],
+      "epidemiology": [],
+      "severity_and_yield_loss": [
+        "Causes 10-15% yield loss in USA and 20% in China; overall boll rot causes 20-30% loss."
+      ],
+      "management": {
+        "cultural_management": [
+          "Control piercing-sucking insect vectors"
+        ],
+        "biological_management": [],
+        "chemical_management": [],
+        "integrated_management": [
+          "Monitor insect populations during bud and boll development"
+        ]
+      },
+      "resistant_or_tolerant_varieties": [],
+      "susceptible_varieties": [],
+      "prevention": [
+        "Control sucking pests during the first 3 weeks of boll development"
+      ],
+      "farmer_action_points": [
+        "Cut open green bolls to check for internal slimy rot and hard locks"
+      ],
+      "warnings_and_limitations": [
+        "Emerging disease in central and south cotton-growing zones; difficult to diagnose without opening bolls"
+      ],
+      "research_findings": [
+        "Erwinia aroideae and Pantoea ananatis associated with cotton boll rot."
+      ],
+      "source_pages": [
+        "4",
+        "12",
+        "98",
+        "99",
+        "100",
+        "101",
+        "106",
+        "107",
+        "108",
+        "109"
+      ]
+    },
+    {
+      "disease_name": "Parawilt or Sudden Wilt Complex",
+      "alternative_names": [
+        "Sudden wilt",
+        "Parawilt"
+      ],
+      "disease_type": "Physiological Disorder",
+      "causal_agent": "Abiotic environmental factors (waterlogging, soil saturation, high temperature, bright sunshine, poor root growth)",
+      "pathogen_type": "Physiological Disorder",
+      "affected_plant_parts": [
+        "Roots",
+        "Stem",
+        "Leaves",
+        "Canopy",
+        "Bolls"
+      ],
+      "symptoms": {
+        "general": [
+          "Plant starts wilting from top once water stagnation takes place in root zone",
+          "Within a few days all leaves drop off while bolls remain attached",
+          "Bolls may forcefully open just prior to harvest but will not ripen fully (poor quantity and unmarketable quality)",
+          "Spreads like wildfire covering whole field within a few hours"
+        ],
+        "early_symptoms": [
+          "Leaves start wilting from top to bottom within a few hours"
+        ],
+        "advanced_symptoms": [
+          "Leaf drop, unripened open bolls"
+        ],
+        "visual_field_symptoms": [
+          "Large-scale rapid wilting of canopy with leaves dropping off and bolls remaining attached, roots and stem appearing healthy inside"
+        ]
+      },
+      "identification": {
+        "field_identification": [
+          "Check root and stem by cross-opening (appearing healthy without fungal growth) combined with rapid top-down wilting after waterlogging/rain"
+        ],
+        "diagnostic_methods": [
+          "Cross-opening roots and stem to check for absence of fungi"
+        ],
+        "differential_diagnosis": []
+      },
+      "causes_and_risk_factors": [
+        "Soil saturation / water logging",
+        "Rapid growth rate at grand growth stage (high transpiration and photosynthesis)",
+        "Bright sunshine and hot air temperature (high O2 requirement in roots with limited O2 in waterlogged soil)",
+        "Clayey soils, soil hard pan/compactness, low organic carbon, early irrigation, heavy boll load"
+      ],
+      "favorable_conditions": {
+        "temperature": "High air temperature, bright sunshine",
+        "humidity": "",
+        "rainfall": "Sudden rain followed by water stagnation, heavy irrigation",
+        "soil_conditions": "Clayey soils, poorly drained sandy soils, soil hard pan/compactness, low organic carbon",
+        "other_conditions": [
+          "Rapid plant growth stage",
+          "Heavy boll load"
+        ]
+      },
+      "disease_development_and_spread": [
+        "Occurs from flowering onwards; lack of oxygen leads to death of roots and root hairs, breaking soil-plant-atmosphere continuum"
+      ],
+      "epidemiology": [],
+      "severity_and_yield_loss": [
+        "Causes havoc and large-scale wilting in Bt fields across Central, South, and North zones, prominent in early maturing high-yielding Bt hybrids."
+      ],
+      "management": {
+        "cultural_management": [
+          "Avoid water stagnation and drought stress",
+          "Improve drainage in clayey soils"
+        ],
+        "biological_management": [],
+        "chemical_management": [
+          {
+            "active_ingredient_or_product": "Cobalt chloride",
+            "dose": "10 ppm",
+            "concentration": "",
+            "application_method": "Foliar spray",
+            "timing": "Immediately after appearance of wilting symptoms",
+            "number_of_applications": "",
+            "result_reported_in_paper": ""
+          },
+          {
+            "active_ingredient_or_product": "Sodium benzoate",
+            "dose": "50 ppm",
+            "concentration": "",
+            "application_method": "Foliar spray",
+            "timing": "Immediately after appearance of wilting symptoms",
+            "number_of_applications": "",
+            "result_reported_in_paper": ""
+          },
+          {
+            "active_ingredient_or_product": "Copper oxychloride + Urea",
+            "dose": "25g + 200g Urea / 10 L",
+            "concentration": "",
+            "application_method": "Soil drenching",
+            "timing": "Immediately after appearance of wilting symptoms on affected plants",
+            "number_of_applications": "",
+            "result_reported_in_paper": ""
+          }
+        ],
+        "integrated_management": [
+          "Avoid water stagnation, foliar spray of Cobalt chloride or sodium benzoate, and drenching of copper oxychloride + urea"
+        ]
+      },
+      "resistant_or_tolerant_varieties": [],
+      "susceptible_varieties": [
+        "Early maturing and high-yielding Bt hybrids"
+      ],
+      "prevention": [
+        "Ensure proper field drainage to prevent waterlogging"
+      ],
+      "farmer_action_points": [
+        "Act within 24-48 hours of wilting symptom onset with recommended sprays and drenching"
+      ],
+      "warnings_and_limitations": [
+        "Can destroy whole field within a few hours"
+      ],
+      "research_findings": [],
+      "source_pages": [
+        "4",
+        "102",
+        "103",
+        "104",
+        "105",
+        "111",
+        "112",
+        "113"
+      ]
+    },
+    {
+      "disease_name": "Red Leaf or Leaf Reddening Complex",
+      "alternative_names": [
+        "Lal patti",
+        "Bronze wilt",
+        "Copper top",
+        "Sudden wilt",
+        "Phloem wilt",
+        "Red leaf",
+        "Red wilt",
+        "Anthocyanosis"
+      ],
+      "disease_type": "Physiological Disorder",
+      "causal_agent": "Abiotic stresses (nitrogen deficiency, water stagnation, high soil moisture, magnesium deficiency, cloudy weather, low night temperature, drought followed by rain/irrigation)",
+      "pathogen_type": "Physiological Disorder",
+      "affected_plant_parts": [
+        "Fully expanded leaves",
+        "Leaf margins",
+        "Stem",
+        "Bolls"
+      ],
+      "symptoms": {
+        "general": [
+          "Initial symptoms appear on fully expanded leaves where area between veins in upper part becomes raised",
+          "Leaf margin becomes yellow and turns into red pigmentation covering whole leaf",
+          "Reddening progresses to other leaves and stem",
+          "Shedding of leaf and bolls due to poor plant growth"
+        ],
+        "early_symptoms": [
+          "Raised area between veins on fully expanded leaves, margin yellowing"
+        ],
+        "advanced_symptoms": [
+          "Whole leaf red pigmentation, leaf and boll shedding"
+        ],
+        "visual_field_symptoms": [
+          "Plants with red pigmented leaves during boll development and maturity stages"
+        ]
+      },
+      "identification": {
+        "field_identification": [
+          "Observe above-ground plant parts for leaf margin yellowing turning into red pigmentation during boll development"
+        ],
+        "diagnostic_methods": [],
+        "differential_diagnosis": []
+      },
+      "causes_and_risk_factors": [
+        "Nitrogen deficiency, water stagnation, high soil moisture, magnesium deficiency, cloudy weather, low night temperature",
+        "Drought followed by rain/irrigation, high wind velocity, high solar radiation, soil with poor capacity to supply nitrogen and phosphorus"
+      ],
+      "favorable_conditions": {
+        "temperature": "Low night temperature, high solar radiation",
+        "humidity": "Cloudy weather",
+        "rainfall": "Water stagnation, high soil moisture, drought followed by rain/irrigation",
+        "soil_conditions": "Soil with poor capacity to supply nitrogen and phosphorus",
+        "other_conditions": [
+          "High wind velocity",
+          "Nitrogen and magnesium deficiency"
+        ]
+      },
+      "disease_development_and_spread": [
+        "Appears during boll development and becomes severe at boll maturity"
+      ],
+      "epidemiology": [],
+      "severity_and_yield_loss": [
+        "Emerged as a serious problem in various cotton-growing regions of Indian subcontinents."
+      ],
+      "management": {
+        "cultural_management": [
+          "Correct nitrogen and magnesium deficiencies",
+          "Manage soil moisture and avoid water stagnation"
+        ],
+        "biological_management": [],
+        "chemical_management": [
+          {
+            "active_ingredient_or_product": "Magnesium sulphate (MgSO4) + Urea + Zinc Sulphate + Boron",
+            "dose": "1% MgSO4, 2% Urea, 0.5% Zinc Sulphate, 0.2% Boron",
+            "concentration": "",
+            "application_method": "Foliar spray",
+            "timing": "90 days old crop, twice at 15 day intervals, followed by 2% DAP",
+            "number_of_applications": "2 foliar sprays + DAP spray",
+            "result_reported_in_paper": ""
+          }
+        ],
+        "integrated_management": [
+          "Foliar nutrition sprays of MgSO4, urea, zinc sulfate, boron, and DAP"
+        ]
+      },
+      "resistant_or_tolerant_varieties": [],
+      "susceptible_varieties": [],
+      "prevention": [],
+      "farmer_action_points": [
+        "Apply recommended nutrient foliar sprays at 90 days crop stage"
+      ],
+      "warnings_and_limitations": [],
+      "research_findings": [],
+      "source_pages": [
+        "4",
+        "106",
+        "107",
+        "111",
+        "112",
+        "114",
+        "115",
+        "117"
+      ]
+    }
+  ],
+  "paper_level_notes": [
+    "The book covers 22 diseases, 2 disorders, and 13 nutritional deficiencies of cotton in India.",
+    "Provides detailed ICAR-AICRP integrated disease management (IDM) packages for North, Central, and South zones."
+  ],
+  "_processing_metadata": {
+    "source_pdf": "cotton.pdf",
+    "crop_detected_from_filename": "Cotton",
+    "model_used": "gemini-3.5-flash-lite",
+    "extracted_at": "2026-09-23 22:42:38"
+  }
+}

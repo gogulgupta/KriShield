@@ -1,0 +1,704 @@
+{
+  "crop": "Urad",
+  "paper_information": {
+    "title": "Major Diseases of Green Gram, Black Gram and Their Integrated Management Strategies",
+    "authors": [
+      "Sunil Kumar Sunani",
+      "Asish Kumar Rout",
+      "Rishikesh Kumar",
+      "Devendra Kumar Choudhary"
+    ],
+    "year": "2024",
+    "journal_or_source": "SATSA Mukhapatra - Annual Technical Issue 28 : 2024",
+    "doi_or_identifier": "ISSN 0971-975X",
+    "abstract_summary": "This chapter summarizes an exploration of major diseases affecting green gram and black gram, detailing their causal agents, symptomatology, epidemiology, and integrated disease management (IDM) strategies.",
+    "research_objective": "To serve as a concise guide for stakeholders offering insights into effective disease control measures, fostering sustainable practices, and enhancing the productivity of green gram and black gram.",
+    "study_area": "India",
+    "important_findings": [
+      "Yellow mosaic disease is caused by four begomoviruses and vectored by Bemisia tabaci, causing yield losses from 10 to 100%.",
+      "Cercospora leaf spot causes yield losses of 50-70% and is favored by high temperatures and high relative humidity.",
+      "Powdery mildew causes yield losses of 9-50%.",
+      "Anthracnose causes yield losses ranging between 24% and 67%.",
+      "Urdbean leaf crinkle virus (ULCV) can cause up to 100% yield loss."
+    ]
+  },
+  "diseases": [
+    {
+      "disease_name": "Yellow Mosaic Disease",
+      "alternative_names": [
+        "YMD"
+      ],
+      "disease_type": "Viral disease",
+      "causal_agent": "Mungbean yellow mosaic India virus (MYMIV), mungbean yellow mosaic virus (MYMV), horsegram yellow mosaic virus (HgYMV), and dolichos yellow mosaic virus (DoYMV)",
+      "pathogen_type": "Virus",
+      "affected_plant_parts": [
+        "Leaves",
+        "Pods",
+        "Seeds"
+      ],
+      "symptoms": {
+        "general": [
+          "Small yellow spots or patches on the green lamina of young leaves that develop into golden yellow mosaic or bright yellow mosaic symptoms.",
+          "Complete yellowing of the leaves as infection progresses.",
+          "Significantly delays plant maturity, decreases flower production, and hampers pod formation.",
+          "Severely affected plants produce undersized and immature seeds."
+        ],
+        "early_symptoms": [
+          "Small yellow spots or patches on the green lamina of young leaves."
+        ],
+        "advanced_symptoms": [
+          "Complete yellowing of leaves, necrotic centre within yellow spots in some varieties, small and distorted pods, and plant death before seed set in severe cases."
+        ],
+        "visual_field_symptoms": [
+          "Golden yellow mosaic or bright yellow mosaic patterns on leaves."
+        ]
+      },
+      "identification": {
+        "field_identification": [
+          "Observation of small yellow spots/patches on young leaves developing into bright yellow mosaic symptoms."
+        ],
+        "diagnostic_methods": [],
+        "differential_diagnosis": []
+      },
+      "causes_and_risk_factors": [
+        "Presence of viruliferous whiteflies (Bemisia tabaci)",
+        "Weed hosts acting as reservoirs such as Croton sparsiflorus, Acalypha indica, Eclipta alba"
+      ],
+      "favorable_conditions": {
+        "temperature": "31 to 35°C",
+        "humidity": "around 70%",
+        "rainfall": "",
+        "soil_conditions": "",
+        "other_conditions": [
+          "Monsoon period",
+          "Summer crops are mostly susceptible"
+        ]
+      },
+      "disease_development_and_spread": [
+        "Transmitted by whitefly (Bemisia tabaci) and through grafting; not transmitted through seed, soil, or sap."
+      ],
+      "epidemiology": [
+        "The epidemic is increasing every year in all urdbean and mungbean cultivating areas because of its vector whitefly."
+      ],
+      "severity_and_yield_loss": [
+        "Average yield loss varies from 10 to 100%, depending on the stage of infection and genotype."
+      ],
+      "management": {
+        "cultural_management": [
+          "Crop rotation with non-host plants and maintaining field hygiene by removing infected plant debris.",
+          "Adjusting sowing dates and plant population.",
+          "Intercropping with sorghum or maize.",
+          "Rogueing infected plants up to 45 days."
+        ],
+        "biological_management": [],
+        "chemical_management": [
+          {
+            "active_ingredient_or_product": "Thiamethoxam or Dimethoate or Imidacloprid",
+            "dose": "",
+            "concentration": "",
+            "application_method": "Seed treatment",
+            "timing": "",
+            "number_of_applications": "",
+            "result_reported_in_paper": "Helps reduce primary infection."
+          },
+          {
+            "active_ingredient_or_product": "Neem formulation",
+            "dose": "",
+            "concentration": "3 ml/lit",
+            "application_method": "Foliar spray",
+            "timing": "30 days after sowing",
+            "number_of_applications": "",
+            "result_reported_in_paper": "Manages the disease."
+          }
+        ],
+        "integrated_management": [
+          "Resistant varieties",
+          "Vector control using insecticidal sprays, reflective mulches, and yellow sticky traps @ 12 traps per hectare",
+          "Crop rotation and sanitation",
+          "Seed treatment",
+          "Sowing manipulation and plant density",
+          "Rogueing",
+          "Foliar sprays"
+        ]
+      },
+      "resistant_or_tolerant_varieties": [
+        "IPU 02-43",
+        "IPU 94-1 (Uttara)",
+        "IPU 10-26",
+        "IPU 11-02",
+        "VBN 7",
+        "VBN 4",
+        "VBN 6"
+      ],
+      "susceptible_varieties": [],
+      "prevention": [
+        "Use of disease-free seeds and resistant varieties"
+      ],
+      "farmer_action_points": [
+        "Install Yellow Sticky Traps @ 12 traps per hectare.",
+        "Remove infected plants up to 45 days after sowing."
+      ],
+      "warnings_and_limitations": [],
+      "research_findings": [],
+      "source_pages": [
+        "2",
+        "3",
+        "4"
+      ]
+    },
+    {
+      "disease_name": "Cercospora Leaf Spot",
+      "alternative_names": [
+        "CLS"
+      ],
+      "disease_type": "Fungal disease",
+      "causal_agent": "Cercospora cruenta and Cercospora canescens Ell. & Martin",
+      "pathogen_type": "Fungus",
+      "affected_plant_parts": [
+        "Leaves",
+        "Branches",
+        "Petioles",
+        "Pods"
+      ],
+      "symptoms": {
+        "general": [
+          "Numerous small leaf spots with grey centres and reddish-brown margins on leaves, branches, petioles, and pods.",
+          "Spots grow larger and lead to defoliation under favorable conditions."
+        ],
+        "early_symptoms": [
+          "Water-soaked spots on lower leaves."
+        ],
+        "advanced_symptoms": [
+          "Complete darkening and death of the entire pod, shrivelled and dark seeds within infected pods."
+        ],
+        "visual_field_symptoms": [
+          "Leaf spots with grey centres and reddish-brown margins."
+        ]
+      },
+      "identification": {
+        "field_identification": [
+          "Water-soaked spots turning into small leaf spots with grey centres and reddish-brown margins."
+        ],
+        "diagnostic_methods": [],
+        "differential_diagnosis": []
+      },
+      "causes_and_risk_factors": [
+        "Rainy season conditions"
+      ],
+      "favorable_conditions": {
+        "temperature": "25 to 30°C",
+        "humidity": "90–100%",
+        "rainfall": "Rainy season",
+        "soil_conditions": "",
+        "other_conditions": [
+          "High relative humidity"
+        ]
+      },
+      "disease_development_and_spread": [
+        "Spreads by wind and rain splashing spores from cotyledons or infected debris to other plant parts."
+      ],
+      "epidemiology": [],
+      "severity_and_yield_loss": [
+        "Yield losses vary from 50–70%."
+      ],
+      "management": {
+        "cultural_management": [
+          "Crop rotation with non-host crops",
+          "Intercropping with tall-growing cereals and millets and mulching",
+          "Removal and destruction of infected plant debris",
+          "Ensure adequate spacing between plants"
+        ],
+        "biological_management": [
+          "Exploring biocontrol agents such as microbial antagonists or beneficial fungi."
+        ],
+        "chemical_management": [
+          {
+            "active_ingredient_or_product": "Captan or thiram",
+            "dose": "2.5 g/kg of seed",
+            "concentration": "",
+            "application_method": "Seed treatment",
+            "timing": "",
+            "number_of_applications": "",
+            "result_reported_in_paper": "Effective in reducing primary source."
+          },
+          {
+            "active_ingredient_or_product": "Difenconazole",
+            "dose": "",
+            "concentration": "0.0125%",
+            "application_method": "Foliar spray",
+            "timing": "",
+            "number_of_applications": "Two foliar sprays",
+            "result_reported_in_paper": "Effective in minimizing CLS incidence and severity."
+          },
+          {
+            "active_ingredient_or_product": "Carbendazim + Mancozeb",
+            "dose": "",
+            "concentration": "63%-75WP @ 0.02%",
+            "application_method": "Foliar spray",
+            "timing": "",
+            "number_of_applications": "Two foliar sprays",
+            "result_reported_in_paper": "Effective in minimizing CLS incidence and severity."
+          },
+          {
+            "active_ingredient_or_product": "Hexaconazole + Captan",
+            "dose": "",
+            "concentration": "5% + 70% – 75 WP @ 0.05%",
+            "application_method": "Foliar spray",
+            "timing": "",
+            "number_of_applications": "Two foliar sprays",
+            "result_reported_in_paper": "Effective in minimizing CLS incidence and severity."
+          },
+          {
+            "active_ingredient_or_product": "Radomil Gold",
+            "dose": "",
+            "concentration": "0.1%",
+            "application_method": "Foliar spray",
+            "timing": "",
+            "number_of_applications": "Two foliar sprays",
+            "result_reported_in_paper": "Effective in minimizing CLS incidence and severity."
+          },
+          {
+            "active_ingredient_or_product": "Propiconazole",
+            "dose": "",
+            "concentration": "0.1%",
+            "application_method": "Foliar spray",
+            "timing": "",
+            "number_of_applications": "Two foliar sprays",
+            "result_reported_in_paper": "Effective in minimizing CLS incidence and severity."
+          },
+          {
+            "active_ingredient_or_product": "Mancozeb 45 WP",
+            "dose": "2.0 g/l",
+            "concentration": "",
+            "application_method": "Spray",
+            "timing": "On appearance of disease symptoms, next spray 10 to 15 days later if required",
+            "number_of_applications": "1-2",
+            "result_reported_in_paper": "Effective in disease management."
+          },
+          {
+            "active_ingredient_or_product": "Carbendazim 50 WP",
+            "dose": "1.0 g/l",
+            "concentration": "",
+            "application_method": "Spray",
+            "timing": "On appearance of disease symptoms, next spray 10 to 15 days later if required",
+            "number_of_applications": "1-2",
+            "result_reported_in_paper": "Effective in disease management."
+          },
+          {
+            "active_ingredient_or_product": "Copper oxychloride",
+            "dose": "3 to 4 g / liter of water",
+            "concentration": "",
+            "application_method": "Spray",
+            "timing": "",
+            "number_of_applications": "",
+            "result_reported_in_paper": "Found effective in disease management."
+          }
+        ],
+        "integrated_management": [
+          "Crop rotation, agronomic practices, sanitation, proper plant spacing, fungicide applications, and host plant resistance."
+        ]
+      },
+      "resistant_or_tolerant_varieties": [
+        "IPU 11-02",
+        "IPU 10-26"
+      ],
+      "susceptible_varieties": [],
+      "prevention": [
+        "Seed treatment with captan or thiram"
+      ],
+      "farmer_action_points": [
+        "Remove and destroy infected plant debris.",
+        "Ensure adequate spacing between plants."
+      ],
+      "warnings_and_limitations": [
+        "Rotating different classes of fungicides is essential to prevent resistance development."
+      ],
+      "research_findings": [],
+      "source_pages": [
+        "4",
+        "6",
+        "7",
+        "8"
+      ]
+    },
+    {
+      "disease_name": "Powdery Mildew",
+      "alternative_names": [],
+      "disease_type": "Fungal disease",
+      "causal_agent": "Erysiphae polygoni",
+      "pathogen_type": "Fungus",
+      "affected_plant_parts": [
+        "Leaves",
+        "Above-ground plant parts"
+      ],
+      "symptoms": {
+        "general": [
+          "White powdery patches appear on leaves and other green areas, later becoming dull in colour and covering lower leaf surfaces.",
+          "Whitish powdery growth containing conidia and mycelium turning dirty white.",
+          "Heavily infected plant parts become distorted and shrivelled, leading to yellowing of foliage and premature defoliation."
+        ],
+        "early_symptoms": [
+          "White powdery patches appear on leaves and other green areas."
+        ],
+        "advanced_symptoms": [
+          "Complete coverage of leaf surfaces by whitish powdery growth, distorted and shrivelled parts, premature defoliation, and forced premature maturity."
+        ],
+        "visual_field_symptoms": [
+          "White to dirty white powdery patches on leaves and stems."
+        ]
+      },
+      "identification": {
+        "field_identification": [
+          "Presence of white powdery patches on leaves and green parts."
+        ],
+        "diagnostic_methods": [],
+        "differential_diagnosis": []
+      },
+      "causes_and_risk_factors": [
+        "Older plants are more susceptible than young plants."
+      ],
+      "favorable_conditions": {
+        "temperature": "22 to 26°C",
+        "humidity": "80–85%",
+        "rainfall": "",
+        "soil_conditions": "",
+        "other_conditions": [
+          "Dry weather"
+        ]
+      },
+      "disease_development_and_spread": [
+        "Survives as cleistothecia in infected plant debris or as oidial form on alternative hosts like Lathyrus sativa, Vicia faba, Vigna ungulate. Spread by air-borne conidia and rain splash."
+      ],
+      "epidemiology": [],
+      "severity_and_yield_loss": [
+        "Yield loss varies from 9% to 50% in farmers' fields."
+      ],
+      "management": {
+        "cultural_management": [
+          "Crop rotation",
+          "Timely planting",
+          "Weed management",
+          "Improving air circulation and reducing plant crowding"
+        ],
+        "biological_management": [
+          "Employing biological control agents such as beneficial fungi or bacteria."
+        ],
+        "chemical_management": [
+          {
+            "active_ingredient_or_product": "Carbendazim + Mancozeb",
+            "dose": "",
+            "concentration": "12% + 63% – 75WP @ 0.2%",
+            "application_method": "Foliar spray",
+            "timing": "On the onset of the disease and repeated 15 days later",
+            "number_of_applications": "2",
+            "result_reported_in_paper": "Effective in controlling the disease under field conditions."
+          },
+          {
+            "active_ingredient_or_product": "Neem oil or NSKE",
+            "dose": "",
+            "concentration": "Neem oil 3% or NSKE 5%",
+            "application_method": "Spray",
+            "timing": "Twice at 10 days interval from initial disease appearance",
+            "number_of_applications": "2",
+            "result_reported_in_paper": "Effective in controlling the disease."
+          },
+          {
+            "active_ingredient_or_product": "Wettable sulphur",
+            "dose": "1500 g/ha",
+            "concentration": "",
+            "application_method": "Spray",
+            "timing": "At initiation of the disease and 10 days later",
+            "number_of_applications": "2",
+            "result_reported_in_paper": ""
+          },
+          {
+            "active_ingredient_or_product": "Propiconazole",
+            "dose": "500 ml/ha",
+            "concentration": "",
+            "application_method": "Spray",
+            "timing": "At initiation of the disease and 10 days later",
+            "number_of_applications": "2",
+            "result_reported_in_paper": ""
+          },
+          {
+            "active_ingredient_or_product": "Carbendazim",
+            "dose": "500 g/ha",
+            "concentration": "",
+            "application_method": "Spray",
+            "timing": "At initiation of the disease and 10 days later",
+            "number_of_applications": "2",
+            "result_reported_in_paper": ""
+          },
+          {
+            "active_ingredient_or_product": "Karathane",
+            "dose": "",
+            "concentration": "",
+            "application_method": "Spray",
+            "timing": "At initiation of the disease and 10 days later",
+            "number_of_applications": "2",
+            "result_reported_in_paper": ""
+          }
+        ],
+        "integrated_management": [
+          "Cultivation of resistant varieties, strategic fungicide application, botanical sprays, biological control, sanitation, and monitoring."
+        ]
+      },
+      "resistant_or_tolerant_varieties": [
+        "TARM-1",
+        "TARM-2",
+        "TARM-18",
+        "COG-4",
+        "Pusa-105",
+        "Kamdev",
+        "ML-131",
+        "ML-1299",
+        "LGG-460"
+      ],
+      "susceptible_varieties": [],
+      "prevention": [
+        "Timely planting and weed management"
+      ],
+      "farmer_action_points": [
+        "Regular scouting and monitoring for early detection."
+      ],
+      "warnings_and_limitations": [
+        "Fungicide use should be strategic to prevent resistance development."
+      ],
+      "research_findings": [],
+      "source_pages": [
+        "9",
+        "10",
+        "11"
+      ]
+    },
+    {
+      "disease_name": "Anthracnose",
+      "alternative_names": [],
+      "disease_type": "Fungal disease",
+      "causal_agent": "Colletotrichum truncatum (Schw.) Andrus and Moore (also C. lindemuthianum, C. dematium, and C. graminicola)",
+      "pathogen_type": "Fungus",
+      "affected_plant_parts": [
+        "Leaves",
+        "Pods",
+        "Above-ground plant parts",
+        "Seeds"
+      ],
+      "symptoms": {
+        "general": [
+          "Circular, black, sunken spots with dark centres and bright red-orange margins on leaves and pods.",
+          "Withering of affected plant parts in severe infestations.",
+          "Seedling blight if infection occurs just after emergence."
+        ],
+        "early_symptoms": [
+          "Circular, black, sunken spots on leaves and pods."
+        ],
+        "advanced_symptoms": [
+          "Withering of plant parts and seedling blight."
+        ],
+        "visual_field_symptoms": [
+          "Sunken black spots with red-orange margins on leaves and pods."
+        ]
+      },
+      "identification": {
+        "field_identification": [
+          "Circular, black, sunken spots with dark centres and bright red-orange margins."
+        ],
+        "diagnostic_methods": [],
+        "differential_diagnosis": []
+      },
+      "causes_and_risk_factors": [
+        "Early sowing during June is more susceptible compared to late sowing."
+      ],
+      "favorable_conditions": {
+        "temperature": "26–29°C",
+        "humidity": "91–100%",
+        "rainfall": "Low rainfall",
+        "soil_conditions": "",
+        "other_conditions": [
+          "Negative correlation with min/max temperatures, positive correlation with rainfall and RH"
+        ]
+      },
+      "disease_development_and_spread": [
+        "Seed-borne primary infection. Secondary spread via air-borne conidia disseminated by spattering rains and wind currents."
+      ],
+      "epidemiology": [],
+      "severity_and_yield_loss": [
+        "Yield loss varies from 24% and 67%."
+      ],
+      "management": {
+        "cultural_management": [
+          "Remove crop debris from the field after harvesting."
+        ],
+        "biological_management": [],
+        "chemical_management": [
+          {
+            "active_ingredient_or_product": "Carbendazim or Thiram + Carbendazim",
+            "dose": "2 g/kg of seed",
+            "concentration": "",
+            "application_method": "Seed treatment",
+            "timing": "",
+            "number_of_applications": "",
+            "result_reported_in_paper": ""
+          },
+          {
+            "active_ingredient_or_product": "Carbendazim",
+            "dose": "0.5 g/liter",
+            "concentration": "",
+            "application_method": "Foliar spray",
+            "timing": "Onset of symptoms and repeated 15 days later",
+            "number_of_applications": "2",
+            "result_reported_in_paper": "Reduction of disease incidence."
+          },
+          {
+            "active_ingredient_or_product": "Mancozeb",
+            "dose": "2 g/lit",
+            "concentration": "",
+            "application_method": "Foliar spray",
+            "timing": "Onset of symptoms and repeated 15 days later",
+            "number_of_applications": "2",
+            "result_reported_in_paper": "Reduction of disease incidence."
+          }
+        ],
+        "integrated_management": [
+          "Debris removal, hot water seed treatment, resistant varieties, fungicide seed treatment, and foliar sprays."
+        ]
+      },
+      "resistant_or_tolerant_varieties": [
+        "IPM 512-1 (Soorya)",
+        "IPU 11-02",
+        "IPU 10-26"
+      ],
+      "susceptible_varieties": [],
+      "prevention": [
+        "Hot water seed treatment at 58°C for 15 minutes."
+      ],
+      "farmer_action_points": [
+        "Remove crop debris after harvesting."
+      ],
+      "warnings_and_limitations": [],
+      "research_findings": [],
+      "source_pages": [
+        "11",
+        "12"
+      ]
+    },
+    {
+      "disease_name": "Urdbean Leaf Crinkle Disease",
+      "alternative_names": [
+        "ULCD"
+      ],
+      "disease_type": "Viral disease",
+      "causal_agent": "Urdbean leaf crinkle virus (ULCV)",
+      "pathogen_type": "Virus",
+      "affected_plant_parts": [
+        "Leaves",
+        "Inflorescences",
+        "Flowers",
+        "Pods"
+      ],
+      "symptoms": {
+        "general": [
+          "Abnormal enlargement of leaves, curling, crinkling, or rugosity.",
+          "Initial symptoms appear on the third trifoliate as light green colour with slight expansion of leaflets and raised inter-venal areas.",
+          "Subsequent leaves display malformations, increased size, and crinkled lamina surface up to 1.5 times healthy leaves.",
+          "Shortened internodes resulting in clumping of apical growth and bushy inflorescences.",
+          "Delayed flowering, malformed small flower buds that fail to open, reduced pollen fertility and pod setting."
+        ],
+        "early_symptoms": [
+          "Initial noticeable symptom appears in the third trifoliate, exhibiting a light green colour with slight expansion of leaflets and raised inter-venal areas."
+        ],
+        "advanced_symptoms": [
+          "Leaf malformations, crinkled lamina, shortened internodes, bushy inflorescences, and reduced pod setting."
+        ],
+        "visual_field_symptoms": [
+          "Crinkled, enlarged leaves with curled margins and clumped apical growth."
+        ]
+      },
+      "identification": {
+        "field_identification": [
+          "Leaf crinkling, rugosity, and enlargement starting from the third trifoliate."
+        ],
+        "diagnostic_methods": [],
+        "differential_diagnosis": []
+      },
+      "causes_and_risk_factors": [
+        "Presence of weed hosts like Aristolochia bracteata and Digera arvensis",
+        "Continuous cropping of other legume crops like cowpea, pigeon pea, taparybean"
+      ],
+      "favorable_conditions": {
+        "temperature": "minimum 25°C ± 2°C and maximum 35°C ± 2°C",
+        "humidity": "morning and evening RH >70% and >50%",
+        "rainfall": "",
+        "soil_conditions": "",
+        "other_conditions": [
+          "Kharif season crops are highly susceptible"
+        ]
+      },
+      "disease_development_and_spread": [
+        "Spread via grafting, insect vectors, sap, and seeds (up to 15% in mungbean). Vectors include aphids (Aphis gossypii, A. craccivora), whiteflies (Bemisia tabaci), and beetles (Henosepilachna dodecastigma)."
+      ],
+      "epidemiology": [],
+      "severity_and_yield_loss": [
+        "Up to 100% yield losses depending upon variety and season; complete seed production failure in early-infected plants."
+      ],
+      "management": {
+        "cultural_management": [
+          "Use of disease-free seeds",
+          "Removing all collateral weed hosts from the field and rouging out infected plants",
+          "Cultivating resistant urdbean varieties"
+        ],
+        "biological_management": [],
+        "chemical_management": [
+          {
+            "active_ingredient_or_product": "Thiomethaxam",
+            "dose": "",
+            "concentration": "0.02%",
+            "application_method": "Foliar spray",
+            "timing": "15 days after sowing",
+            "number_of_applications": "1",
+            "result_reported_in_paper": "Can reduce whitefly populations and the incidence of leaf crinkle."
+          },
+          {
+            "active_ingredient_or_product": "NSKE",
+            "dose": "",
+            "concentration": "2%",
+            "application_method": "Spray",
+            "timing": "",
+            "number_of_applications": "",
+            "result_reported_in_paper": "Reported to reduce the severity of ULCV infection."
+          }
+        ],
+        "integrated_management": [
+          "Use of disease-free seeds, weed removal and rogueing, hot water treatment, resistant varieties, foliar sprays of insecticides/botanicals, and nutrient application (nitrogen, potash, phosphorus, boron, zinc, and NAA)."
+        ]
+      },
+      "resistant_or_tolerant_varieties": [],
+      "susceptible_varieties": [],
+      "prevention": [
+        "Use of disease-free seeds",
+        "Hot water seed treatment at 52°C for 20–30 minutes"
+      ],
+      "farmer_action_points": [
+        "Remove collateral weed hosts and rogue out infected plants."
+      ],
+      "warnings_and_limitations": [],
+      "research_findings": [
+        "Application of nitrogen, potash, phosphorus, boron, zinc, and naphthalene acetic acid (NAA) showed effectiveness in reducing ULCV infection."
+      ],
+      "source_pages": [
+        "12",
+        "13",
+        "14"
+      ]
+    }
+  ],
+  "paper_level_notes": [
+    "The paper reviews major diseases affecting green gram and black gram in India, providing comprehensive details on causal agents, symptoms, disease cycles, and integrated management strategies."
+  ],
+  "_processing_metadata": {
+    "source_pdf": "urad.pdf",
+    "crop_detected_from_filename": "Urad",
+    "model_used": "gemini-3.5-flash-lite",
+    "extracted_at": "2026-09-23 23:17:11"
+  }
+}
